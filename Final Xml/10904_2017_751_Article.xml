@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T04:04+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Zn 3 (BTC) 2 as a metal-organic framework and effective catalyst for the regioselective ß-azidoalcohols and ß-thiocyanohydrins of epoxides in water</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Sami</forename>
+                                <surname>Sajjadifar</surname>
+                            </persName>
+                            <contact>
+                                <email>sami.sajjadifar@gmail.com</email>
+                                <phone>+98 841 2228316</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Payame Noor University</orgName>
+                                <address>
+                                    <postBox>PO BOX 19395-4697</postBox>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zeinab</forename>
+                                <surname>Arzehgar</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Payame Noor University</orgName>
+                                <address>
+                                    <postBox>PO BOX 19395-4697</postBox>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Samira</forename>
+                                <surname>Khoshpoori</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Payame Noor University</orgName>
+                                <address>
+                                    <postBox>PO BOX 19395-4697</postBox>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Zn 3 (BTC) 2 as a metal-organic framework and effective catalyst for the regioselective ß-azidoalcohols and ß-thiocyanohydrins of epoxides in water</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Zn 3 (BTC) 2</term>
+                    <term>ring opening</term>
+                    <term>sodium azide</term>
+                    <term>thiocyanate</term>
+                    <term>metal-organic framework Introduction:</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In this research, Zn 3 (BTC) 2 as a novel, metal-organic framework, biodegradable, and reusable heterogeneous nanoporous catalyst according to the aims of green chemistry was synthesized and characterized by scaning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX), X-ray diffraction (XRD), and FT-IR analysis. Then, Zn 3 (BTC) 2 as a novel and full-fledged catalyst was used for the synthesis of ß-azido alcohols and ß-thiocyanohydrins from the regioselective conversation of some epoxides by sodium azide (NaN 3) and thiocyanate (SCN) anion in aqueous. The some advantages of this method are as follows: work-up procedure, excellent regioselectivity, an environmentally benign, mild reaction conditions, and recyclability of the catalyst without loosing its activity.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

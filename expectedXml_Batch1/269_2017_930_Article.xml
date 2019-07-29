@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T05:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Single crystal growth, characterization and high-pressure Raman</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Wen</forename>
+                                <surname>Liang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zeming</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuan</forename>
+                                <surname>Yin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rui</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lin</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yu</forename>
+                                <surname>He</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Center for High Pressure Science and Technology Advanced Research</orgName>
+                                <address>
+                                    <postCode>201203</postCode>
+									<settlement>Shanghai</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Haini</forename>
+                                <surname>Dong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Center for High Pressure Science and Technology Advanced Research</orgName>
+                                <address>
+                                    <postCode>201203</postCode>
+									<settlement>Shanghai</settlement>							
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lidong</forename>
+                                <surname>Dai</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Heping</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <contact>
+                                <email>liheping@vip.gyig.ac.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of High temperature and High pressure Study of the Earth&apos;s Interior</orgName>
+								<orgName type="department" key="dep2">Institute of Geochemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+                                    <postCode>550081</postCode>
+                                    <settlement>Guiyang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Single crystal growth, characterization and high-pressure Raman</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 2 spectroscopy of impurity-free magnesite (MgCO 3 ) 3 8 11</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>12 The understanding of the physical and chemical properties of magnesite (MgCO 3) 13 under deep mantle conditions is highly important to capture the essence of deep-14 carbon storage in Earth&apos;s interior. To develop standard rating scales, the impurity-free 15 magnesite single crystal, paying particular attention to the case of avoiding 16 adverse impacts of Ca 2+ , Fe 2+ , and Mn 2+ impurities in natural magnesite, is 17 undoubtedly necessary for all research of magnesite, including crystalline structural 18 phase transitions, anisotropic elasticity and conductivity, and equation of state (EoS). 19 Thus, a high-quality single crystal of impurity-free magnesite was grown successfully 20 for the first time using the self-flux method under high pressure-temperature 21 conditions. The size of the magnesite single crystal, observed in a plane polarized</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

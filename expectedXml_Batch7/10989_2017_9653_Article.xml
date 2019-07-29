@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T10:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Creating a soluble binder to endothelin-1 based on the natural ligand binding domains of the endothelin-1 (G-protein–coupled) receptor</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Arjun</forename>
+                                <surname>Jain</surname>
+                                <prefix>Dr</prefix>
+                            </persName>
+                            <contact>
+                                <email>jain_arjun@yahoo.com</email>
+                                <phone>+44 01223660488</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Accelerate Cambridge</orgName>
+                                <orgName type="department" key="dep2">Judge Business School</orgName>
+                                <orgName type="institution">University of Cambridge</orgName>
+                                <address>
+                                    <settlement>Cambridge</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Physiology, Development and Neuroscience</orgName>
+                                <orgName type="institution">University of Cambridge</orgName>
+                                <address>
+                                    <settlement>Cambridge</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vidhi</forename>
+                                <surname>Mehrotra</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Accelerate Cambridge</orgName>
+                                <orgName type="department" key="dep2">Judge Business School</orgName>
+                                <orgName type="institution">University of Cambridge</orgName>
+                                <address>
+                                    <settlement>Cambridge</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hannah</forename>
+                                <surname>Yong</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Physiology, Development and Neuroscience</orgName>
+                                <orgName type="institution">University of Cambridge</orgName>
+                                <address>
+                                    <settlement>Cambridge</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kirti</forename>
+                                <surname>Hiremath</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of Delhi</orgName>
+                                <address>
+                                    <settlement>Delhi</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ashok</forename>
+                                <surname>Jain</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Accelerate Cambridge</orgName>
+                                <orgName type="department" key="dep2">Judge Business School</orgName>
+                                <orgName type="institution">University of Cambridge</orgName>
+                                <address>
+                                    <settlement>Cambridge</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Martin</forename>
+                                <surname>Johnson</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Physiology, Development and Neuroscience</orgName>
+                                <orgName type="institution">University of Cambridge</orgName>
+                                <address>
+                                    <settlement>Cambridge</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ira</forename>
+                                <surname>Jha</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Indian Institute of Management</orgName>
+                                <address>
+                                    <settlement>Ahmedabad</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Creating a soluble binder to endothelin-1 based on the natural ligand binding domains of the endothelin-1 (G-protein–coupled) receptor</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Correspondence: Running title: Creating a soluble form of the ET-1 receptor</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Since its discovery in 1989, there has been extensive research on endothelin (ET)-1 physiology, as well as pathology. Accordingly, there is considerable research on the discovery of therapeutics based around ET-1, amongst which current treatment options include endothelin receptor antagonists. These target the ET-1 receptors, which are G-protein–coupled receptors (GPCRs). We have effectively developed a soluble form of a GPCR that binds to ligands, by constructing a fusion polypeptide of different endothelin receptor ligand binding domains. Phage experiments identified strong binders to ET-1. We then constructed Fc-fusions of the top binders and further binding assays revealed a K D of 21.2 nM for the Fc-ETtr1 construct and K D of 77.3 nM for the Fc-ETtr2 construct. These constructs are soluble and have the ability to bind and potentially sequester elevated ET-1 levels that are prevalent in different diseases. These results provide a novel approach to targeting GPCR–binding ligands, and thereby to contribute to a very important class of therapeutics. Key points Creation of a soluble form of a GPCR (Endothelin A receptor) that possesses ligand binding ability. Creation of an Fc construct, which is a strong, soluble binder to endothelin-1. Potential therapeutic use for various diseases associated with increased endothelin-1 levels. Abbreviations ECL extracellular loop ET-1 endothelin-1 ETA endothelin A ETB endothelin B ETtr endothelin-1 traps FFP Fc-fusion protein GPCR G-protein-coupled receptor HA epitope human influenza hemagglutinin epitope LBD ligand binding domain PBST phosphate buffered saline tween</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

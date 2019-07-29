@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:18+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Parametric optimisation of Solution Combustion Synthesis catalysts and their application for the aqueous hydrogenation of maleic acid</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">O.</forename>
+                                <surname>Thoda</surname>
+                            </persName>
+                            <contact>
+                                <email>o.thoda@inn.demokritos.gr</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Nanoscience and Nanotechnology</orgName>
+                                <orgName type="institution">NCSR &quot; Demokritos &quot;</orgName>
+                                <address>
+                                    <settlement>Agia Paraskevi Attikis</settlement>
+                                    <postCode>15310</postCode>
+                                    <country key="GR">Greece</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Engineering, Environment and Computing</orgName>
+                                <orgName type="institution">Coventry University</orgName>
+                                <address>
+                                    <addrLine>Priory Street</addrLine>
+                                    <postCode>CV1 5FB</postCode>
+                                    <settlement>Coventry</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <surname>Xanthopoulou</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Nanoscience and Nanotechnology</orgName>
+                                <orgName type="institution">NCSR &quot; Demokritos &quot;</orgName>
+                                <address>
+                                    <settlement>Agia Paraskevi Attikis</settlement>
+                                    <postCode>15310</postCode>
+                                    <country key="GR">Greece</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <surname>Vekinis</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Nanoscience and Nanotechnology</orgName>
+                                <orgName type="institution">NCSR &quot; Demokritos &quot;</orgName>
+                                <address>
+                                    <settlement>Agia Paraskevi Attikis</settlement>
+                                    <postCode>15310</postCode>
+                                    <country key="GR">Greece</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A.</forename>
+                                <surname>Chroneos</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Engineering, Environment and Computing</orgName>
+                                <orgName type="institution">Coventry University</orgName>
+                                <address>
+                                    <addrLine>Priory Street</addrLine>
+                                    <postCode>CV1 5FB</postCode>
+                                    <settlement>Coventry</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Parametric optimisation of Solution Combustion Synthesis catalysts and their application for the aqueous hydrogenation of maleic acid</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>heterogeneous catalysis</term>
+                    <term>adsorption</term>
+                    <term>BET</term>
+                    <term>EDX</term>
+                    <term>electron microscopy</term>
+                    <term>XRD</term>
+                    <term>nanostructure</term>
+                    <term>hydrogenation</term>
+                    <term>Solution Combustion Synthesis</term>
+                    <term>nickel catalysts</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Ni-based nano-catalysts were synthesized by Solution Combustion Synthesis. Nickel aluminate spinels and Ni-Al alloys yielded during combustion, although it is difficult to be produced at low temperatures. A multistage mechanism of the Ni-NiAl catalysts formation was identified which indicates that SCS is general and can be utilized for the preparation of many different types of metal-alloys nanostructures.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

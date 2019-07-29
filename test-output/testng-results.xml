@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Going to launch Chrome driver!]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="258305" started-at="2019-07-29T06:27:22Z" finished-at="2019-07-29T06:31:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="258305" started-at="2019-07-29T06:27:22Z" finished-at="2019-07-29T06:31:40Z">
+      <class name="ACDCWebPortal.processManuscriptUsingWebortal">
+        <test-method status="PASS" signature="testConfigReader()[pri:0, instance:ACDCWebPortal.processManuscriptUsingWebortal@598067a5]" name="testConfigReader" is-config="true" duration-ms="122" started-at="2019-07-29T08:27:22Z" finished-at="2019-07-29T08:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConfigReader -->
+        <test-method status="PASS" signature="createWebDriver(java.lang.String)[pri:0, instance:ACDCWebPortal.processManuscriptUsingWebortal@598067a5]" name="createWebDriver" is-config="true" duration-ms="4354" started-at="2019-07-29T08:27:22Z" finished-at="2019-07-29T08:27:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Going to launch Chrome driver!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createWebDriver -->
+        <test-method status="PASS" signature="preSuite()[pri:0, instance:ACDCWebPortal.processManuscriptUsingWebortal@598067a5]" name="preSuite" is-config="true" duration-ms="2854" started-at="2019-07-29T08:27:26Z" finished-at="2019-07-29T08:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSuite -->
+        <test-method status="PASS" signature="processManuscriptFile()[pri:0, instance:ACDCWebPortal.processManuscriptUsingWebortal@598067a5]" name="processManuscriptFile" duration-ms="250212" started-at="2019-07-29T08:27:29Z" finished-at="2019-07-29T08:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- processManuscriptFile -->
+        <test-method status="PASS" signature="destroy()[pri:0, instance:ACDCWebPortal.processManuscriptUsingWebortal@598067a5]" name="destroy" is-config="true" duration-ms="857" started-at="2019-07-29T08:31:39Z" finished-at="2019-07-29T08:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- ACDCWebPortal.processManuscriptUsingWebortal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

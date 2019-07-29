@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Dynamic mechanical thermal analysis (DMTA) of aqueous phenol formaldehyde (PF) resin modified by nano copper oxide (CuO)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wei</forename>
+                                <surname>Gao</surname>
+                            </persName>
+                            <contact>
+                                <email>weigaoe@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Forest Resources Conservation and Utilization in the Southwest Mountains of China</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education)</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Yunnan key laboratory of wood adhesives and glue products</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Congnan</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Forest Resources Conservation and Utilization in the Southwest Mountains of China</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education)</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Yunnan key laboratory of wood adhesives and glue products</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Material Science and Engineering</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tengfei</forename>
+                                <surname>Yi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Forest Resources Conservation and Utilization in the Southwest Mountains of China</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education)</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Yunnan key laboratory of wood adhesives and glue products</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Material Science and Engineering</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sisi</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Forest Resources Conservation and Utilization in the Southwest Mountains of China</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education)</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Yunnan key laboratory of wood adhesives and glue products</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Material Science and Engineering</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Guanben</forename>
+                                <surname>Du</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Forest Resources Conservation and Utilization in the Southwest Mountains of China</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education)</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Yunnan key laboratory of wood adhesives and glue products</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Material Science and Engineering</orgName>
+                                <orgName type="institution">Southwest Forestry University</orgName>
+                                <address>
+                                    <postCode>650224</postCode>
+                                    <settlement>Kunming</settlement>
+                                    <region>Yunnan Province</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Dynamic mechanical thermal analysis (DMTA) of aqueous phenol formaldehyde (PF) resin modified by nano copper oxide (CuO)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>＊ Correspondence to:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>To improve the bio-resistance of engineered wood composites products via gluing process, aqueous phenol formaldehyde (PF) resin was modified using nano CuO containing alkane surfactant and polyvinyl alcohol (PVA) 17-99. The modified PF system was analyzed by dynamic mechanical thermal analysis (DMTA), and the mechanical properties of the bonded plywood panels including tensile strength, modulus of rupture (MOR), modulus of elasticity (MOE) and shear strength under five test conditions were also evaluated. The results indicated that the addition of nano CuO incorporating PVA 17-99 separated the gel point and vitrification point in the curve of tan δ, which is related to the delaying of moisture loss in modified PF resin during the curing process. The modification showed adverse effect on tensile strength but only a minimal influence on MOR and MOE. Additionally, PVA 17-99 reduced the water resistance of cured PF resins. However, with the test conditions of dipping in 100℃ water for 6 hours, then drying for 20 hours at 63℃ in air, followed by dipping in 100℃ water for 4 hours, PVA consolidated the re-curing effect on the PF resin and compensated the strength loss from hydrolysis. Thus, the modified PF system not only guaranteed bio-resistance of glued wood composites via CuO, but also has the potential for developing self-curing wood composites being applied as structural construction materials. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

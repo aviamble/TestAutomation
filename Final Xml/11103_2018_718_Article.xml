@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T10:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">TaEDS1 Genes Positively Regulate Resistance to Powdery Mildew in Wheat</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Guiping</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                        <contact>
+                            <email>624332649@qq.com</email>
+                        </contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Plant Cell and Chromosome Engineering</orgName>
+                                <orgName type="department" key="dep2">Institute of Genetics and Developmental Biology</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100101</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Life Science</orgName>
+                                <orgName type="institution">Tangshan Normal University</orgName>
+                                <address>
+                                    <postCode>063000</postCode>
+                                    <settlement>Tangshan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bo</forename>
+                                <surname>Wei</surname>
+                            </persName>
+                            <contact>
+                                <email>weibo_009@genetics.ac.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Plant Cell and Chromosome Engineering</orgName>
+                                <orgName type="department" key="dep2">Institute of Genetics and Developmental Biology</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100101</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Guoliang</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <contact>
+                                <email>guolianglili@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Plant Cell and Chromosome Engineering</orgName>
+                                <orgName type="department" key="dep2">Institute of Genetics and Developmental Biology</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100101</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Genetics and Physiology</orgName>
+                                <orgName type="institution">Hebei Academy of Agriculture and Forestry Sciences</orgName>
+                                <address>
+                                    <postCode>050051</postCode>
+                                    <settlement>Shijiazhuang</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Caiyan</forename>
+                                <surname>Gong</surname>
+                            </persName>
+                        <miscellaneous>                            
+                            <email>grassor@126.com</email>
+                        </miscellaneous>							
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Plant Cell and Chromosome Engineering</orgName>
+                                <orgName type="department" key="dep2">Institute of Genetics and Developmental Biology</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100101</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Renchun</forename>
+                                <surname>Fan</surname>
+                            </persName>
+                            <contact>
+                                <email>rcfan@genetics.ac.cn</email>
+								<phone>086 10 64806593</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Plant Cell and Chromosome Engineering</orgName>
+                                <orgName type="department" key="dep2">Institute of Genetics and Developmental Biology</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100101</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Xiangqi</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <contact>
+                                <email>xqzhang@genetics.ac.cn</email>
+								<phone>086 10 64806592</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Plant Cell and Chromosome Engineering</orgName>
+                                <orgName type="department" key="dep2">Institute of Genetics and Developmental Biology</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100101</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">X.</forename>
+                                <surname>Zhang</surname>
+                            </persName>						
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">R.</forename>
+                                <surname>Fan</surname>
+                            </persName>						
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <surname>Chen</surname>
+                            </persName>						
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">B.</forename>
+                                <surname>Wei</surname>
+                            </persName>						
+                        </author>			
+                        <author>
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <surname>Li</surname>
+                            </persName>						
+                        </author>			
+                        <author>
+                            <persName>
+                                <forename type="first">C.</forename>
+                                <surname>Gong</surname>
+                            </persName>						
+                        </author>									
+                        <title level="a" type="main">TaEDS1 Genes Positively Regulate Resistance to Powdery Mildew in Wheat</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>086 10 64806592 086 10 64806593</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

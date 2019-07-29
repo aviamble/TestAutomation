@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Attachment ability of the southern green stink bug, Nezara viridula (L.), on plant surfaces</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Dagmar</forename>
+                                <surname>Voigt</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>dagmar.voigt@tu-dresden.de</email>
+                                <phone>+49 351 463 35834</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute for Botany</orgName>
+                                <orgName type="institution">Technische Universität Dresden</orgName>
+                                <address>
+                                    <postCode>D-01062</postCode>
+                                    <settlement>Dresden</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff3">
+                                <orgName type="department">Institute for Botany</orgName>
+                                <orgName type="institution">Technische Universität Dresden</orgName>
+                                <address>
+                                    <postCode>D-01062</postCode>
+                                    <settlement>Dresden</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pablo</forename>
+                                <forename type="middle">Perez</forename>
+                                <surname>Goodwyn</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Laboratory of Insect Ecology, Graduate School of Agriculture</orgName>
+                                <orgName type="institution">Kyoto University</orgName>
+                                <address>
+                                    <postCode>606-8502</postCode>
+                                    <settlement>Kyoto</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kenji</forename>
+                                <surname>Fujisaki</surname>
+                            </persName>
+                            <contact>
+                                <email>kefujisaki@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Laboratory of Insect Ecology, Graduate School of Agriculture</orgName>
+                                <orgName type="institution">Kyoto University</orgName>
+                                <address>
+                                    <postCode>606-8502</postCode>
+                                    <settlement>Kyoto</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                      
+                        <title level="a" type="main">Attachment ability of the southern green stink bug, Nezara viridula (L.), on plant surfaces</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>†) deceased Correspondence:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>attachment</term>
+                    <term>epicuticular wax crystals</term>
+                    <term>insect-plant interaction</term>
+                    <term>plant surface</term>
+                    <term>traction Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Traction forces of male and female southern green stink bugs Nezara viridula (L.) were measured on adaxial leaves of green beans (Phaseolus vulgaris L. cv. &apos;Nagauzura&apos;), peas (Pisum sativum L. cv. &apos;Hakuryu&apos;), rice (Oryza sativa L. cv. &apos;Mac hin sung&apos;), and soybean (Glycine max [L.] Merr. cv. &apos;Enrei&apos;), as well as on glass as a control surface. Bugs attached well on three-dimensionally structured surfaces covered with anti-adhesive epicuticular wax crystals. Strongest pulls were generated on adaxial green bean leaves, corresponding to safety factors (traction force/body weight) of 11.1 and 11.6 in males and females, respectively. These values were slightly lower on soybean (males: 7.4, females: 8.0) and rice leaves (males: 8.9, females: 10.6). Trichomes and papillae are assumed to promote pentatomid bug&apos;s attachment. On tabular, wax-covered pea leaves, safety factors decreased significantly to 1.7 and 1.6, in males and females, respectively. Differently, on non-structured glass, safety factors resembled those on rice and soybean leaves (males: 9.6, females: 8.0). No statistical differences in traction force and safety factor between sexes were detected on any substrate. Surface wettability did not significantly affect the results. Both robust claws and tough adhesive pads enable the N. viridula bugs to grasp and adhere to a wide range of various plant substrates, including such ones covered with anti-adhesive wax crystals. However, tabular, pruinose pea leaves were detected to prevent the foothold of the southern green stink bugs, although pea is known as one of their common host plants.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

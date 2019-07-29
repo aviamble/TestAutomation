@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T08:39+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Phase Transformation and Morphology Evolution Characteristics of Hydrothermally Prepared Boehmite Particles</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Chunxi</forename>
+                                <surname>Hai</surname>
+                            </persName>
+                            <contact>
+                                <email>haicx@isl.ac.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Comprehensive and Highly Efficient Utilization of Salt Lake Resources</orgName>
+                                <orgName type="department" key="dep2">Qinghai Institute of Salt Lakes</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>18
+                                        <superscript>th</superscript>Xinning Road
+                                    </addrLine>
+                                    <postCode>810008</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Key Laboratory of Salt Lake Resources Chemistry of Qinghai Province</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lijuan</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                               <orgName type="department" key="dep1">Key Laboratory of Comprehensive and Highly Efficient Utilization of Salt Lake Resources</orgName>
+                                <orgName type="department" key="dep2">Qinghai Institute of Salt Lakes</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>18
+                                        <superscript>th</superscript>Xinning Road
+                                    </addrLine>
+                                    <postCode>810008</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Key Laboratory of Salt Lake Resources Chemistry of Qinghai Province</orgName>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yuan</forename>
+                                <surname>Zhou</surname>
+                            </persName>
+                            <contact>
+                                <email>zhouy@isl.ac.cn</email>
+                                <phone>+86-971-630-1695</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                               <orgName type="department" key="dep1">Key Laboratory of Comprehensive and Highly Efficient Utilization of Salt Lake Resources</orgName>
+                                <orgName type="department" key="dep2">Qinghai Institute of Salt Lakes</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>18
+                                        <superscript>th</superscript>Xinning Road
+                                    </addrLine>
+                                    <postCode>810008</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Key Laboratory of Salt Lake Resources Chemistry of Qinghai Province</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiufeng</forename>
+                                <surname>Ren</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Comprehensive and Highly Efficient Utilization of Salt Lake Resources</orgName>
+                                <orgName type="department" key="dep2">Qinghai Institute of Salt Lakes</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>18
+                                        <superscript>th</superscript>Xinning Road
+                                    </addrLine>
+                                    <postCode>810008</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Key Laboratory of Salt Lake Resources Chemistry of Qinghai Province</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jianghua</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Shengnuo Optoelectronic Technology (QH) Co. Ltd</orgName>
+                                <address>
+                                    <postCode>810000</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jinbo</forename>
+                                <surname>Zeng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Comprehensive and Highly Efficient Utilization of Salt Lake Resources</orgName>
+                                <orgName type="department" key="dep2">Qinghai Institute of Salt Lakes</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>18
+                                        <superscript>th</superscript>Xinning Road
+                                    </addrLine>
+                                    <postCode>810008</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Key Laboratory of Salt Lake Resources Chemistry of Qinghai Province</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hongbo</forename>
+                                <surname>Ren</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Shengnuo Optoelectronic Technology (QH) Co. Ltd</orgName>
+                                <address>
+                                    <postCode>810000</postCode>
+                                    <settlement>Xining</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Phase Transformation and Morphology Evolution Characteristics of Hydrothermally Prepared Boehmite Particles</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding Authors Corresponding Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Hydrothermal treating</term>
+                    <term>Boehmite</term>
+                    <term>Gibbsite</term>
+                    <term>Surface defects</term>
+                    <term>Phase transformation</term>
+                    <term>Optical properties</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Under hydrothermal condition, benefiting from dehydration and in situ nucleation processes, well-crystallized 3-dimensional (3D) boehmite nanoparticles with an average diameter of around 400 nm was directly converted from gibbsite phase in aluminum oxyhydroxide powder without adding any kinds of other assistants. Through investigation the influences of different factors, it is concluded that, hydrothermal treating temperature, time and initial slurry pH play an important role in obtaining well-crystallized boehmite particles. Besides XRD and FE-SEM, TG/DTA, FT-IR and Raman spectra were also employed to follow and confirm the formation of boehmite, which is useful for optimizing the synthesis condition. Moreover, after the hydrothermal treatment under the optimum condition, because as-prepared 3D boehmite nanoparticles have abundant surface oxygen anionic vacancies (F and F +-centers), thus endowing it optical band gap around 5.41 eV. This technique is significant and useful for developing a new opportunity for large scale production of well-crystallized boehmite powder with high purity from aluminum oxyhydroxide powder.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

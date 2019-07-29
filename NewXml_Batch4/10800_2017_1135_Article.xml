@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Solution-combustion synthesized Al-Mo co-substituted cathode Li[Li 0.2 Ni 0.13 Co 0.13 Mn 0.54 ]O 2 for improving electrochemical performance of lithium ion batteries</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Milad</forename>
+                                <surname>Ghorbanzadeh</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Battery and Sensor Group</orgName>
+                                <orgName key="dep2" type="department">Materials and Energy Research Center</orgName>
+                                <address>
+                                    <settlement>Karaj</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">E.</forename>
+                                <surname>Allahyari</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Materials Science and Engineering Department</orgName>
+                                <orgName type="institution">Iran University of Science and Engineering</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">R.</forename>
+                                <surname>Riahifar</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Battery and Sensor Group</orgName>
+                                <orgName key="dep2" type="department">Materials and Energy Research Center</orgName>
+                                <address>
+                                    <settlement>Karaj</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <forename type="middle">M.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Hadavi</surname>
+                            </persName>
+                            <contact>
+                                <email>reza_rfr@yahoo.com</email>
+                                <phone>Tel: +989123838403</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Materials Engineering</orgName>
+                                <orgName type="institution">University of Tarbiat Modares</orgName>
+                                <address>
+                                    <postCode>3177983634</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Solution-combustion synthesized Al-Mo co-substituted cathode Li[Li 0.2 Ni 0.13 Co 0.13 Mn 0.54 ]O 2 for improving electrochemical performance of lithium ion batteries</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Li[Li 02 Ni013 Co 013 Mn 054 ]O 2</term>
+                    <term>Mo-Al co-substitution</term>
+                    <term>Structural stability</term>
+                    <term>Discharge capacity 1-Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Li[Li 0.2 Ni 0.13-x+y/3 Co 0.13-x+y/3 Mn 0.54-x+y/3 ]Al x Mo y O 2 was synthesized via conventional solution combustion synthesis method. Microstructural characterizations were done by X-ray diffraction (XRD) analysis and scanning electron microscopy (SEM) whereas electrochemical performance was evaluated by electrochemical tests. The electrochemical results indicated that Mo-Al doping has significant effect on capacity and cycling performance. The sample doped with Al (x=0.015) and Mo (y=0.015) exhibited higher cycling stability and higher capacity in comparison with those of non-substituted material. The initial discharge capacity for Mo-Al co-doped electrode was 265.5 mA h g-1 at 25 mA g-1 , and capacity retention after 50 cycles was 98.2%. Whilst, the initial discharge capacity for bare electrode was 239.1 mA h g-1 at 25 mA g-1 , and capacity retention after 50 cycles was 93%. Electrochemical impedance spectroscopy (EIS) and cyclic voltammetry (CV) revealed that by addition of Mo-Al, electrochemical performance of the Li[Li 0.2 Ni 0.13 Co 0.13 Mn 0.54 ]O 2 is improved. In order to achieve a sustainable transportation system as well as to satisfy the ever-increasing demand for clean and secure energy, it is essential to reduce the consumption of fossil fuels through development of more efficient batteries for storing electrical energy [1]. Among various Li-ion batteries, Li-rich Mn-based layered cathode materials have received great attention because of their higher capacity, reduced toxicity and lower cost [2]. However, irreversible capacity at the first cycle is a major drawback, which limits their applications. This is believed to be related to the extraction of lithium in the form of Li 2 O when the battery is charged beyond 4.5 V, which is known as "delithiation". The initial delithiation process might result in an irreversible elimination of oxygen vacancies from the lattice, leading to reduction of number of insertion–extraction sites of lithium ions in discharge process [3]. It has also shown that the Li-rich Mn-based layered materials have poor cycling capability due to the formation of solid–electrolyte (SEI) layer [4]. In addition, the performance of Li-rich Mn-based layered materials has been limited because of their poor rate capability resulted from the low electronic conductivity [5,6]. Thus, in recent years many efforts have been conducted to overcome these problems and improve the electrochemical performance of Li-rich Mn-based layered cathode materials including element doping [7-13], using composite materials [14], surface coating [15-18] and novel synthesis methods [19-21]. In a previous study on ion doping, Huang et al. [22] reported that doping appropriate amounts of Mg in Li, leads to an enhancement in discharge capacity and higher rate capability. Furthermore, doping cathode materials with Zr was also reported in the literature [23,24]. Song et al. [25] observed that substitution of Ru in Li in local structure improves the diffusion of lithium ions in the crystal structure due to enhancing inter slab spacing in LiNi 1/3 Co 1/3 Mn 1/3 O 2. It was reported by Zhang et al. [26] that appropriate amounts of Ti in Li might improve the electrochemical performance of cathode material. Du et al. [27] suggested that a suitable amount of Mo-doping increases the first discharge capacity and the cycle performance through increasing the inter slab spacing. Wang et al. [28] compared the initial discharge capacity and cycle performance of Mo-doped and non-doped samples at room temperature and observed a significant improvement as a result of doping with Mo. Doron et al. [29] reported that by doping with Al, the capacity reversibility is improved and electronic conductivity is increased. In this work, Mo and Al were used as substitution elements and their effect on morphology,</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

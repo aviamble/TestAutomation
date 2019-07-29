@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.sntps.acdc.post.ApacheMultipartTest">
+      	<methods>
+            <include name="packageServiceRequest"></include>
+        </methods>
+            </class>
+       <class name="com.sntps.acdc.post.CTTest">
+      	<methods>
+            <include name="contentStructuringRequest"></include>
+        </methods>
+            </class>
+      <class name="com.sntps.acdc.post.VASTest">
+      	 <methods>
+            <include name="vasRequest"></include>
+         </methods>
+            </class>
+        <class name="com.sntps.acdc.post.XMLTest">
+          <methods>
+            <include name="xmlTransformationRequest"></include>
+          </methods>
+            </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T09:14+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Running head: ATTITUDE TOWARD OWN AGING Attitude Toward Own Aging: Age Invariance and Construct Validity Across Middle-aged, Young-Old, and Old-Old Adults</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Seojung</forename>
+                                <surname>Jung</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>jungs@oldwestbury.edu</email>
+                                <phone>516-876-3439</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">SUNY College at Old Westbury</orgName>
+                                <address>
+                                    <postBox>P.O. Box 210</postBox>
+                                    <postCode>11568</postCode>
+                                    <settlement>Old Westbury</settlement>
+                                    <region>NY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Karen</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Siedlecki</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>klsiedlecki@fordham.edu</email>
+                                <phone>212-636-7891</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">Fordham University</orgName>
+                                <address>
+                                    <addrLine>113 West 60th Street</addrLine>
+                                    <postCode>10023</postCode>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Running head: ATTITUDE TOWARD OWN AGING Attitude Toward Own Aging: Age Invariance and Construct Validity Across Middle-aged, Young-Old, and Old-Old Adults</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Author contact information: (Corresponding Author)</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The Attitude Toward Own Aging (ATOA) scale assesses an individual&apos;s evaluation of their own aging, and has been widely used in the field of subjective aging literature. The present study examined whether the ATOA scale measures the same construct across middle-aged (40-60), young-old (61-74), and old-old adults (ages 75 or older) and also evaluated the construct validity</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

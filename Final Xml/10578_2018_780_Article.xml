@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:23+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Homelessness, Mental Health and Suicidality among LGBTQ Youth accessing Crisis Services Running head: Homelessness and suicidality among LGBTQ youth accessing crisis services</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Harmony</forename>
+                                <surname>Rhoades</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>hrhoades@usc.edu</email>
+                                <phone>213-821-3645</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">USC Suzanne Dworak-Peck School of Social Work</orgName>
+                                <orgName type="institution">University of Southern California</orgName>
+                                <address>
+                                    <addrLine>669 W. 34<superscript>th</superscript>Street, MRF Bldg</addrLine>
+                                    <postCode>90089-0411</postCode>
+                                    <settlement>Los Angeles</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Joshua</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Rusow</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">USC Suzanne Dworak-Peck School of Social Work</orgName>
+                                <orgName type="institution">University of Southern California</orgName>
+                                <address>
+                                    <addrLine>669 W. 34<superscript>th</superscript>Street, MRF Bldg</addrLine>
+                                    <postCode>90089-0411</postCode>
+                                    <settlement>Los Angeles</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <surname>Bond</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Private Practice</orgName>
+                                <address>
+                                    <postCode>90210</postCode>
+                                    <settlement>Beverly Hills</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Amy</forename>
+                                <surname>Lanteigne</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">The Trevor Project</orgName>
+                                <address>
+                                    <addrLine>8704 Santa Monica Blvd</addrLine>
+                                    <postCode>90069</postCode>
+                                    <settlement>West Hollywood</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anthony</forename>
+                                <surname>Fulginiti</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Graduate School of Social Work</orgName>
+                                <orgName type="institution">University of Denver</orgName>
+                                <address>
+                                    <addrLine>2148 S. High St</addrLine>
+                                    <postCode>80208</postCode>
+                                    <settlement>Denver</settlement>
+                                    <region>CO</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jeremy</forename>
+                                <forename type="middle">T.</forename>
+                                <surname>Goldbach</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">USC Suzanne Dworak-Peck School of Social Work</orgName>
+                                <orgName type="institution">University of Southern California</orgName>
+                                <address>
+                                    <addrLine>669 W. 34<superscript>th</superscript>Street, MRF Bldg</addrLine>
+                                    <postCode>90089-0411</postCode>
+                                    <settlement>Los Angeles</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                <orgName type="department">USC Suzanne Dworak-Peck School of Social Work</orgName>							
+                                <orgName type="institution">University of Southern California</orgName>
+                                <address>
+                                    <addrLine>1149 S. Hill St., Suite 360</addrLine>
+                                    <postCode>90015</postCode>
+									<settlement>Los Angeles</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Homelessness, Mental Health and Suicidality among LGBTQ Youth accessing Crisis Services Running head: Homelessness and suicidality among LGBTQ youth accessing crisis services</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>LGBTQ youth</term>
+                    <term>homelessness</term>
+                    <term>suicidality</term>
+                    <term>mental health</term>
+                    <term>crisis services</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Acknowledgements: This study was sponsored by The Trevor Project. Abstract LGBTQ youth experience increased risks of homelessness, mental health disorder symptoms, and suicidality. Utilizing data from LGBTQ youth contacting a suicide crisis services organization, this study examined: (a) rates of homelessness among crisis services users, (b) the relationship between disclosure of LGBTQ identity to parents and parental rejection and homelessness, and (c) the relationship between homelessness and mental health disorder outcomes and suicidality. A nationwide sample of LGBTQ youth was recruited for a confidential online survey from an LGBTQ-focused crisis services hotline. Overall, nearly one third of youth contacting the crisis services hotline had experienced lifetime homelessness, and those who had disclosed their LGBTQ identity to parents or experienced parental rejection because of LGBTQ status experienced higher rates of homelessness. Youth with homelessness experiences reported more symptoms of several mental health disorders and higher rates of suicidality. Suggestions for service providers are discussed.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Growth strain in straight and inclined Populus×euramericana cv,&apos;74/76&apos; trees, and its relationship with selected wood properties</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jingying</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Forest Products</orgName>
+                                <orgName type="department" key="dep2">College of Forestry and Landscape Architecture</orgName>
+                                <orgName type="institution">Anhui Agricultural University</orgName>
+                                <address>
+                                    <postCode>230036</postCode>
+                                    <settlement>Hefei</settlement>
+                                    <region>Anhui Province</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Tianxiang Environment Engineering Co. Ltd</orgName>
+                                <address>
+                                    <postCode>230051</postCode>
+                                    <settlement>Hefei</settlement>
+                                    <region>Anhui Province</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Shengquan</forename>
+                                <surname>Liu</surname>
+                            </persName>
+							<contact>
+                                <email>Liusq@ahau.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Forest Products</orgName>
+                                <orgName type="department" key="dep2">College of Forestry and Landscape Architecture</orgName>
+                                <orgName type="institution">Anhui Agricultural University</orgName>
+                                <address>
+                                    <postCode>230036</postCode>
+                                    <settlement>Hefei</settlement>
+                                    <region>Anhui Province</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Liang</forename>
+                                <surname>Zhou</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Forest Products</orgName>
+                                <orgName type="department" key="dep2">College of Forestry and Landscape Architecture</orgName>
+                                <orgName type="institution">Anhui Agricultural University</orgName>
+                                <address>
+                                    <postCode>230036</postCode>
+                                    <settlement>Hefei</settlement>
+                                    <region>Anhui Province</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ya-Mei</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Forest Products</orgName>
+                                <orgName type="department" key="dep2">College of Forestry and Landscape Architecture</orgName>
+                                <orgName type="institution">Anhui Agricultural University</orgName>
+                                <address>
+                                    <postCode>230036</postCode>
+                                    <settlement>Hefei</settlement>
+                                    <region>Anhui Province</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Growth strain in straight and inclined Populus×euramericana cv,&apos;74/76&apos; trees, and its relationship with selected wood properties</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 *Corresponding author,</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>: Growth stress is important to achieve upright growth and avoid exterior influence on living trees. However, many problems are also triggered by the release of growth stress during wood processing, such as end split of log, distortion of board and inaccurate sawing. In order to evaluate the possibility of these problems to occur in poplar clone 107, a new breeding poplar clone in China, surface longitudinal growth strain (abbr. SLGS) and internal longitudinal growth strain (abbr. ILGS) both of straight and inclined trees were measured for depicting distributing patterns of growth strain both in peripheral and radial directions. Besides that, according to one-way ANOVA analysis, individual tree and peripheral position have a significant effect on SLGS in inclined trees, whereas such effect is insignificant in straight trees. Fiber morphology and shrinkage of wood sample beneath the SLGS testing positions were determined to illustrate the relationships between these properties with SLGS. The results suggested that growth stress is a poor indicator of fiber morphology and wood shrinkage properties for straight trees but a good one for inclined trees. Both the positive SLGS and ILGS are unexpectedly found at the opposite wood side of inclined trees. It is speculated that when the reorientation of inclined trees is insufficiently supported by exerting tensile stress at tension wood side, compressive stress will be formed at the opposite wood side as a complement.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

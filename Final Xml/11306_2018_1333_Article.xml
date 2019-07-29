@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T09:03+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Strategies to assess and optimize stability of endogenous amines during cerebrospinal fluid sampling</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Marek</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Noga</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Analytical Biosciences</orgName>
+                                <orgName type="institution">Leiden Academic Centre for Drug Research</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ronald</forename>
+                                <surname>Zielman</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Neurology</orgName>
+                                <orgName type="institution">Leiden University Medical Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Robin</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Dongen</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Neurology</orgName>
+                                <orgName type="institution">Leiden University Medical Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sabine</forename>
+                                <surname>Bos</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Analytical Biosciences</orgName>
+                                <orgName type="institution">Leiden Academic Centre for Drug Research</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Amy</forename>
+                                <surname>Harms</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Analytical Biosciences</orgName>
+                                <orgName type="institution">Leiden Academic Centre for Drug Research</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gisela</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Terwindt</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Neurology</orgName>
+                                <orgName type="institution">Leiden University Medical Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Arn</forename>
+                                <forename type="middle">M.</forename>
+                                <forename type="middle">J.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Maagdenberg</surname>
+                                <particle>van den</particle>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Neurology</orgName>
+                                <orgName type="institution">Leiden University Medical Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Human Genetics</orgName>
+                                <orgName type="institution">Leiden University Medical Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Thomas</forename>
+                                <surname>Hankemeier</surname>
+                            </persName>
+                            <contact>
+                                <email>hankemeier@lacdr.leidenuniv.nl</email>
+                                <phone>+31 71 5274226</phone>
+                            </contact>
+                           <affiliation key="aff1">
+                                <orgName type="department">Division of Analytical Biosciences</orgName>
+                                <orgName type="institution">Leiden Academic Centre for Drug Research</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff4">
+							    <orgName type="department" key="dept1">Division of Analytical Biosciences</orgName>
+                                <orgName type="department" key="dept2">Leiden Academic Centre for Drug Research</orgName>
+                                <orgName type="institution">Leiden University</orgName>
+                                <address>
+                                    <addrLine>Einsteinweg 55</addrLine>
+                                    <postCode>2333 CC</postCode>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michel</forename>
+                                <forename type="middle">D.</forename>
+                                <surname>Ferrari</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Neurology</orgName>
+                                <orgName type="institution">Leiden University Medical Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Strategies to assess and optimize stability of endogenous amines during cerebrospinal fluid sampling</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>‡ These authors contributed equally to the manuscript Journal: Metabolomics Type of article: Original Research Article Words Limit Abstract 234 250 Paper (incl. headings) 3805 4000 (minimum 2500) References 36 not listed Figures/ Tables 4 6 (excl. suppl) Supplementary information Supplementary methods, Figure S1, Table S1 and Table S2 Address for correspondence Thomas Hankemeier. Division of Analytical Biosciences, Author contributions MN and TH designed the experiments, RZ collected the samples, SB and MN conducted the pre-analytical experiments and performed the measurements, MN and AH supervised the measurements, MN, RZ and RvD analyzed the data, GT, AvdM and TH supervised the project, all authors contributed to the paper. Funding This work was funded by the Netherlands Organization for Scientific Research (NWO) [VIDI 91711319, GT] and the European Community (EC) [FP7-EUROHEADPAIN -no. 602633 to AvdM &amp; MF]; the funding agencies had no role in the design or conduct of the study. Compliance with ethical standards Conflict of interest declare that they have no conflict of interest.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Acknowledgments We greatly acknowledge D.M.E. de Groot, V. Koç for their assistance with sample collection and processing.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

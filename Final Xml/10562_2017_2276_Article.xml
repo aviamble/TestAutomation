@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Selective catalytic reduction of NO x over Au/Al 2 O 3 : influence of the gold loading on the promoting effect of H 2 in H 2 -assisted C 3 H 6 -SCR of NO x</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Tesnim</forename>
+                                <surname>Chaieb</surname>
+                            </persName>
+						<affiliation key="aff1">
+                                <orgName type="institution" key="instit1">Sorbonne Universités</orgName>
+                                <orgName type="institution" key="instit2">UPMC Univ Paris 06, UMR CNRS 7197</orgName>
+								<orgName type="institution" key="instit2">Laboratoire de Réactivité de Surface</orgName>
+                                <address>
+                                    <addrLine>4 Place Jussieu, Case 178</addrLine>
+                                    <postCode>F-75252</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Cyril</forename>
+                                <surname>Thomas</surname>
+                            </persName>
+						<affiliation key="aff1">
+                                <orgName type="institution" key="instit1">Sorbonne Universités</orgName>
+                                <orgName type="institution" key="instit2">UPMC Univ Paris 06, UMR CNRS 7197</orgName>
+								<orgName type="institution" key="instit2">Laboratoire de Réactivité de Surface</orgName>
+                                <address>
+                                    <addrLine>4 Place Jussieu, Case 178</addrLine>
+                                    <postCode>F-75252</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sandra</forename>
+                                <surname>Casale</surname>
+                            </persName>
+						<affiliation key="aff1">
+                                <orgName type="institution" key="instit1">Sorbonne Universités</orgName>
+                                <orgName type="institution" key="instit2">UPMC Univ Paris 06, UMR CNRS 7197</orgName>
+								<orgName type="institution" key="instit2">Laboratoire de Réactivité de Surface</orgName>
+                                <address>
+                                    <addrLine>4 Place Jussieu, Case 178</addrLine>
+                                    <postCode>F-75252</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Catherine</forename>
+                                <surname>Louis</surname>
+                            </persName>
+						<affiliation key="aff1">
+                                <orgName type="institution" key="instit1">Sorbonne Universités</orgName>
+                                <orgName type="institution" key="instit2">UPMC Univ Paris 06, UMR CNRS 7197</orgName>
+								<orgName type="institution" key="instit2">Laboratoire de Réactivité de Surface</orgName>
+                                <address>
+                                    <addrLine>4 Place Jussieu, Case 178</addrLine>
+                                    <postCode>F-75252</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Laurent</forename>
+                                <surname>Delannoy</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>laurent.delannoy@upmc.fr</email>
+                                <phone>+ 33 1 44 27 60 01</phone>
+                            </contact>
+                       
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">Sorbonne Universités</orgName>
+                                <orgName type="institution" key="instit2">UPMC Univ Paris 06, UMR CNRS 7197</orgName>
+								<orgName type="institution" key="instit2">Laboratoire de Réactivité de Surface</orgName>
+                                <address>
+                                    <addrLine>4 Place Jussieu, Case 178</addrLine>
+                                    <postCode>F-75252</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">Sorbonne Universités</orgName>
+                                <orgName type="institution" key="instit2">UPMC Univ Paris 06, UMR CNRS 7197</orgName>
+								<orgName type="institution" key="instit2">Laboratoire de Réactivité de Surface</orgName>
+                                <address>
+                                    <addrLine>4 Place Jussieu, Tour 43-33, 3 ème étage, Case 178</addrLine>
+                                    <postCode>F-75252</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Selective catalytic reduction of NO x over Au/Al 2 O 3 : influence of the gold loading on the promoting effect of H 2 in H 2 -assisted C 3 H 6 -SCR of NO x</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Running title: Influence of the Au loading on Al 2 O 3 on H 2 -C 3 H 6 -SCR * To whom correspondence should be addressed:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>This article reports on the promotional effect of adding H 2 to the reaction feed for the selective catalytic reduction of NO x with propene (H 2-C 3 H 6-SCR) over Au/Al 2 O 3 catalysts. For this purpose, the influence of the Au loading in H 2-C 3 H 6-SCR was investigated. The H 2 promoting effect in C 3 H 6-SCR, well-established for Ag/Al 2 O 3 , was also demonstrated for Au/Al 2 O 3. Although less pronounced than for Ag-based systems, the H 2 effect allowed for a substantial increase in NO x conversion at temperatures higher than 250 °C on Au/Al 2 O 3 samples. The highest NO x to N 2 conversion in H 2-C 3 H 6-SCR was obtained for lowly-loaded gold samples (~ 1 wt% Au) with the smallest gold particle sizes. An increase in H 2 concentration in the reaction feed also led to an increase in NO x conversion. The experiments performed in the present study as a function of the reaction temperature underlined the fact that concomitant activation of H 2 and C 3 H 6 is critical to achieve a high H 2 promoting effect in H 2-C 3 H 6-SCR. Whereas this requirement is fulfilled for Ag/Al 2 O 3 , a temperature gap between the oxidation profiles of H 2 and C 3 H 6 remains for Au/Al 2 O 3 due to the early oxidation of H 2 on gold nanoparticles, which therefore limits the NO x conversion at low temperature. Graphical Abstract Keywords Selective Catalytic Reduction ? NO x-TPD ? gold catalysts ? H 2 effect 1 Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

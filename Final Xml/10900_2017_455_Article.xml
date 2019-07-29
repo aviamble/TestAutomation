@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T11:03+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title: Differences by Sexual Orientation in Perceptions of Neighborhood Cohesion: Implications for Health</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Carrie</forename>
+                                <surname>Henning-Smith</surname>
+                                <authordegree>PhD, MPH, MSW</authordegree>
+                            </persName>
+							<contact>
+								<phone>612-626-4512</phone>
+								<email>henn0329@umn.edu</email>
+							</contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Health Policy and Management</orgName>
+                                <orgName type="institution">University of Minnesota School of Public Health</orgName>
+                                <address>
+                                    <addrLine>2221 University Ave., SE Suite 350</addrLine>
+                                    <postCode>55414</postCode>
+                                    <settlement>Minneapolis</settlement>
+                                    <region>MN</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gilbert</forename>
+                                <surname>Gonzales</surname>
+                                <authordegree>PhD, MHA</authordegree>
+                            </persName>
+                            <contact>
+                                <email>gilbert.gonzales@vanderbilt.edu</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Health Policy</orgName>
+                                <orgName type="institution">Vanderbilt University School of Medicine</orgName>
+                                <address>
+                                    <addrLine>2525 West End Ave.</addrLine>
+                                    <postCode>37203</postCode>
+									<settlement>Nashville</settlement>
+                                    <region>TN</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Title: Differences by Sexual Orientation in Perceptions of Neighborhood Cohesion: Implications for Health</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>RUNNING HEAD: Neighborhood cohesion by sexual orientation 1 Title Page (Corresponding author) Running Head: Neighborhood cohesion by sexual orientation Funding Sources, Disclosures, and Acknowledgements The authors have no funding or conflicts of interest to disclose.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

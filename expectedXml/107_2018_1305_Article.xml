@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Bondline shear strength and wood failure of European and tropical hardwood glulams</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Simon</forename>
+                                <surname>Aicher</surname>
+                            </persName>
+                            <contact>
+                                <email>simon.aicher@mpa.uni-stuttgart.de</email>
+                            </contact>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department" key="dep1">Departement of Timber Constructions</orgName>
+                                <orgName type="department" key="dep2">Material Testing Institute</orgName>
+                                <orgName type="institution">University of Stuttgart</orgName>
+                                <address>
+                                    <addrLine>Pfaffenwaldring 4b</addrLine>
+                                    <postCode>70569</postCode>
+                                    <settlement>Stuttgart</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zakiah</forename>
+                                <surname>Ahmad</surname>
+                            </persName>
+                            <affiliation key="aff2" role="corresp" sequence="2">
+                                <orgName type="department">Institute of Infrastructure Engineering and Sustainable Management</orgName>
+                                <orgName type="institution">Universiti Teknologi MARA</orgName>
+                                <address>
+                                    <postCode>40450</postCode>
+                                    <settlement>Shah Alam</settlement>
+                                    <region>Selangor</region>
+                                    <country key="MY">Malaysia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maren</forename>
+                                <surname>Hirsch</surname>
+                            </persName>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department" key="dep1">Departement of Timber Constructions</orgName>
+                                <orgName type="department" key="dep2">Material Testing Institute</orgName>
+                                <orgName type="institution">University of Stuttgart</orgName>
+                                <address>
+                                    <addrLine>Pfaffenwaldring 4b</addrLine>
+                                    <postCode>70569</postCode>
+                                    <settlement>Stuttgart</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Bondline shear strength and wood failure of European and tropical hardwood glulams</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The study reports on block shear investigations with bondlines of face-glued laminations and matched solid wood specimens from hardwood glulam (GLT) beams produced industrially from eight technically and stand volume-wise important species. The European hardwoods comprised oak, beech, sweet chestnut and ash and the tropical species were teak, keruing, melangangai and light red meranti. The adhesives were phenol-resorcinol and melamine-urea. When combining all species in one sample, a rather strong linear relationship of bond and wood shear strength was observed. The ratio of bond vs. wood shear strength was for all species on the mean value level = 0.9, and likewise (with one exception) for the respective strengths&apos; 5 %-quantiles. Consistent with literature, the test results showed no significant correlations between bond shear strength and density, wood shear strength and wood failure percentage of individual species, respectively. The investigations render the methodological basics of some international standards on bond quality verification as being inappropriate. New, empirically validated hardwood GLT bond requirements are proposed for discussion and implementation at the CEN and ISO levels. The strength ratio specifications reflect respective ANSI provisions, yet the reference quantity wood shear strength is now determined in an unbiased manner from matched GLT specimens. The wood failure verification proposal is based on the 10 %-quantile and mean level for initial type testing and factory production control. The requirements further account for the pronounced difference observed in scatter of wood failure between European and tropical species. 1 Introduction For any glued composite material, strength and integrity between the laminations or plies constitute the basic prerequisite of the compound effect of the assembly. In the case of one or more weak bonds or even delaminations, the load capacity of the compound drops to a fraction of the intact cross-section. Some locally weak bondlines may be tolerable for spacious plate-type products, for example cross laminated timber (CLT), yet in the case of beam type construction elements such as glued laminated timber (GLT) the highest degree of bond performance is required throughout to ensure the short-and long-term safety and serviceability level. From the very beginning of the use of glued wooden structural products for aircrafts and buildings, the test methods and requirements on bond performance were one of the major tasks in the development of the glued products (Truax 1930, Egner et al. 1963). The eminent importance of adequate bond strength verification is emphasized by the fact that deficiently manufactured and further long-term degraded bondlines have led in the past to many GLT damages and even to catastrophic failures, such as the collapse of the glued wooden roof of a large ice-rink in Bad Reichenhall, Germany, in 2012. Block shear tests represent, next to delamination testing which is of even higher importance, one of almost exclusively used test and assessment methods for both bondline strength and integrity of GLT and glued solid timber (GST) worldwide. The present European (EU) standard on GLT and GST considers solely softwoods, whereas the US and Japanese GLT standards allow the use of hardwoods as well, and the Malaysian GLT standard considers exclusively hardwoods. One of the major reasons to exclude hardwoods from the present EU GLT standard contrary to the previous standard version EN 386 (2001) were the split opinions on the issue of reliable methods for verification of constancy of performance of the beams. Although the fact of several existing, well performing, load bearing structures made of GLT from different hardwood species was not contested, the standardization discussion in CEN focused on the lack 2 of consistent experimental data and respective theoretical considerations to establish realistic, industrially feasible yet s afe requirements for bond shear strength and delamination tests for hardwood GLTs. One major reason for the difficulty in establishing reliable requirements for bonds of hardwood GLTs stems from the vast diversity of hardwoods as compared to softwoods. This is highlighted by the fact that worldwide softwoods comprise about 650 species grouped in seven botanical families, whereas for hardwoods, over 40.000 species within some 60 families exist (Fine and Ree 2006, Slik et al. 2015), from which however only a very minor part is commonly used for construction purposes. Further, the heterogeneity of the structurally used hardwood species is far higher than that of softwoods, which can be easily demonstrated by wood density. The worldwide industrially mostly used softwood family of pinaceae comprises a density range of roughly 350-550 kg/m³ compared with the densities of technically relevant hardwoods used for GLT which range from about 300 to 1000 kg/m³. Further, the differences within hardwoods resulting from wood structure (ring-/semi-ring-/diffuse-porous) and material contents, for example tannic acid, are considerably larger as compared to softwoods. In view of the pronounced species-dependent density and growth characteristics of hardwoods, one possible solution for the derivation of bond strength and wood failure requirements would be to tackle the problem species-wise as done in the US or to form groups of hardwood species and density ranges in a manner similar to Japan. Such an approach would be entirely different from the present EU procedure for softwood GLTs, where irrespective of species and density, the same requirements for bond strength, wood failure and delamination are specified. The derivation of reliable GLT bondline shear tests and assessment criteria was a major task in a recent European research project on hardwoods (WoodWisdom &quot; EU hardwoods &quot;-www.eu-hardwoods.eu). This paper reports on condensed, relevant literature-based experimental bond shear investigations and results with GLTs made from several European and tropical hardwoods. Deepened discussions of underlying physical phenomena of observed performances are outside the scope of the paper and addressed separately. A new species-encompassing proposal for bond shear performance verification is presented. 2 Literature review The literature study uncovered a substantial number of block shear investigations on bondlines of GLT made from hardwood species. Details of the evaluation of about 60 publications and reports are given in Hirsch and Aicher (2017). Essential results of the literature review are provided in Figs. 1 and 2. Figure 1 shows the relationship of the mean wood failure percentage (WF) and the mean bond shear strength (f v,b) for each of the 62 reported test series with about 40 EU, US and tropical (TR) hardwood species (for references see caption of Fig. 1). Figure 2a specifies for most of the test series from Fig. 1 and some additional ones the relationship of bond strength vs. wood density. Figure 2b shows for a subsample of 26 test series from Fig. 1 (and one additional) the relationship of bond vs. wood shear strength on the level of the strength means. All presented shear strength data stem from block shear tests, performed and evaluated respectively according to EN 14080 (2013) and EN 392 (1995), ASTM D905 (2009) and ASTM D2555 (2016), MS 758 (1981), JAS SE-9 (2000) and JAS 234 (2003) as well as respective previous standard versions. The shearing lengths parallel to fiber ranged from 20–55 mm. The shear areas had sizes of 460– 3025 mm². The moisture content was nearly throughout in the range of 10–15%. In one case (Tan et al. 1992) where the data were given for a MC of 19 %, an adjustment to 15 % was made. The test data comprise important hardwood species of the northern hemisphere, such as beech (Fagus sylvatica), ash (Fraxinus excelsior), oak (Quercus robur/petraea; Q. rubra) and poplar (i.a. Populus tremuloides), yet the majority of species stems from tropical or subtropical areas. Some other well-known species represented in the data are teak (Tectona grandis), meranti (Shorea spp.), rubberwood (Hevea brasiliensis), mangium (Acacia mangium), angélique (Dicorynia spp.) and limba (Terminalia superba). The adhesives of the bond data belong to seven families represented in the test series as follows: (phenol)-resorcinol-formaldehydes (PRF/RF, 56 %), emulsion polymer isocyanates (EPI, 13 %), melamine-urea-formaldehydes (MUF/UF, 11%), one-component polyurethanes (1C-PUR, 6 %), polyvinyl acetates (PVAc, 6 %), epoxies (EP, 5 %) and casein (2 %).</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

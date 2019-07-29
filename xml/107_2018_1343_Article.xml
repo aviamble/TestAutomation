@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">How the surface wettability and modulus of elasticity of the Amazonian paricá nanofibrils films are affected by the chemical changes of the natural fibers</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mário</forename>
+                                <forename type="middle">Vanoli</forename>
+                                <surname>Scatolino</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Forest science</orgName>
+                                <orgName key="dep2" type="department">Perimetral Av</orgName>
+                                <orgName type="institution">Federal University of Lavras -UFLA</orgName>
+                                <address>
+                                    <postBox>POB 3037</postBox>
+                                    <settlement>Lavras</settlement>
+                                    <region>MG</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Camila</forename>
+                                <forename type="middle">Soares</forename>
+                                <surname>Fonseca</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Forest science</orgName>
+                                <orgName key="dep2" type="department">Perimetral Av</orgName>
+                                <orgName type="institution">Federal University of Lavras -UFLA</orgName>
+                                <address>
+                                    <postBox>POB 3037</postBox>
+                                    <settlement>Lavras</settlement>
+                                    <region>MG</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Marcela</forename>
+                                <surname>Silva Gomes</surname>
+                                <particle>da</particle>
+                            </persName>
+                            <contact>
+                                <email>marioufla@posgrad.ufla.br</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Agricultural Sciences</orgName>
+                                <orgName type="institution">Rural Federal University of Amazonia – UFRA</orgName>
+                                <address>
+                                    <addrLine>Perimetral Av., POB 917</addrLine>
+                                    <settlement>Belém</settlement>
+                                    <region>PA</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vinícius</forename>
+                                <forename type="middle">Dutra</forename>
+                                <surname>Rompa</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Forest science</orgName>
+                                <orgName key="dep2" type="department">Perimetral Av</orgName>
+                                <orgName type="institution">Federal University of Lavras -UFLA</orgName>
+                                <address>
+                                    <postBox>POB 3037</postBox>
+                                    <settlement>Lavras</settlement>
+                                    <region>MG</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maria</forename>
+                                <forename type="middle">Alice</forename>
+                                <surname>Martins</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Instrumentation Unit of Brazilian Agriculture Research Corporation – EMBRAPA</orgName>
+                                <address>
+                                    <addrLine>Quinze de Novembro St., POB 741</addrLine>
+                                    <settlement>São Carlos</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gustavo</forename>
+                                <forename type="middle">Henrique</forename>
+                                <forename type="middle">Denzin</forename>
+                                <surname>Tonoli</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Forest science</orgName>
+                                <orgName key="dep2" type="department">Perimetral Av</orgName>
+                                <orgName type="institution">Federal University of Lavras -UFLA</orgName>
+                                <address>
+                                    <postBox>POB 3037</postBox>
+                                    <settlement>Lavras</settlement>
+                                    <region>MG</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lourival</forename>
+                                <forename type="middle">Marin</forename>
+                                <surname>Mendes</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Forest science</orgName>
+                                <orgName key="dep2" type="department">Perimetral Av</orgName>
+                                <orgName type="institution">Federal University of Lavras -UFLA</orgName>
+                                <address>
+                                    <postBox>POB 3037</postBox>
+                                    <settlement>Lavras</settlement>
+                                    <region>MG</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">How the surface wettability and modulus of elasticity of the Amazonian paricá nanofibrils films are affected by the chemical changes of the natural fibers</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The use of natural resources for the production of nanostructured cellulosic films of high quality could reduce pollution and raw material costs for cellulose industry. This work provides innovative information about the use of Amazonian species not explored in studies involving the production of nanostructured films, as well as the evaluation of important characteristics that may be decisive for the destination of the product. The aim of this study was to modify Schizolobium parahyba var. amazonicum (paricá) waste fibers through alkaline (NaOH) and bleaching (NaClO 2) treatments for cellulose nanofibrils (CNFs) production and evaluate the characteristics of the nanofibrils and the surface as well as the mechanical resistance of the films obtained. The alkaline treatment was carried out with sodium hydroxide (5% NaOH solution (w/v); 2 h), while the bleaching was performed using sodium chlorite and glacial acetic acid (1.5 g NaClO 2 ; 10 drops of glacial acetic acid; 1 h). The treatments were performed in sequence, producing nanofibrils after alkaline treatment and after bleaching. Lignin content did not change with the alkaline treatment, but it significantly decreased with bleaching (from 26.1 to 6.8%). Hemicelluloses content decreased with the sequence of treatments. FTIR results showed that the mechanical defibrillation caused disruption of the fiber bonds. The temperature of thermal degradation observed in DTG analysis increased from the natural fibers (243°C) to alkaline + bleached fibers (255°C). The defibrillation process led to higher thermal stability of the alkaline + bleached nanofibrils in comparison to fibers. Moreover, films were prepared from the obtained CNFs and evaluated by the mechanical properties and surface contact angle. The mechanical properties showed values of 6.93 ± 0.18 GPa for modulus of elasticity (MOE) for the films produced from material which was submitted to the bleaching treatment. The results highlighted a more hydrophobic surface of the film produced with the CNFs generated from the bleached fibers. The results of mechanical properties showed the superiority of the films produced from the alkaline + bleached fibers. Introduction The annual biomass production of cellulose in nature is about 1 trillion tons, making it a virtually inexhaustible source of raw material that can be obtained from woody and non-woody feedstock, since cellulose is the main component of the vegetal cell wall (Ioelovich 2008; Eichhorn et al. 2010). The vegetable fibers are represented by a great diversity of species, from lignocellulosic wastes such as rice husk (Daza Serna et al. 2016), coffee grounds (Huang et al. 2016), hemp stalk (Kim et al. 2016), coconut coir (Subhedar et al. 2017), and bamboo leaves (Huang et al. 2016), up to wood like rubber wood (Khan et al. 2018), eucalyptus (Fonseca et al. 2016), pine (Viana 2013), spruce (Yu et al. 2017), Japanese cedar (Muranaka et al. 2017), etc. A prior knowledge of the morphology and thermal characteristics of the wood fibers is essential for evaluation of their potential for different applications, such as for panels or pulp and paper industry, or for obtainment of derivative products with new and unique properties, as observed for cellulose nanofibrils (CNFs). The term " micro/nanofibrils " refers to long, flexible micro and nanofibrils consisting of alternating crystalline and amorphous cellulose chains (Siqueira et al. 2009). The films produced from the CNFs can be applied to the production of paper and packaging materials (Mirmehdi et al. 2017). Other applications include flexible organic papers such as electronic papers (e-papers) (Zhang et al. 2012), paper coating (Nygårds 2011), and transparent substrates for solar cells (Eichhorn et al. 2010). Due to the complex chemical composition of wood fibers, chemical treatments have been widely studied and used in order to improve the defibrillation process. Chemical modification can generally be classified as either cell wall modification, or filling of large cell cavities, or a combination of both (Xie et al. 2013). Among these treatments, the most common are alkaline (Bertoti et al. 2009), acid (Mariano et al. 2016), TEMPO oxidation (Rohaizu and Wanrosli 2017), silane groups (Thakur et al. 2014) and peroxide treatment (Marinelli et al. 2008; Bonelli et al. 2005). The alkaline treatment is probably the most popular process for modifying natural fibers. This treatment has been used to remove natural impurities, and obtain fibers with low hemicellulose and lignin content (Moubarik et al. 2013). Its application to fibers causes the solubilization of hemicellulose and lignin, and changes the crystal structure of the cellulose fibers (Ichazo et al. 2001; Joseph et al. 1996; Li et al. 2007). It depends on several factors such as fiber origin, treatments and combinations among them, carboxyl contents, yield etc. The biggest hemicellulose content facilitates fibrillation, since this high content inhibits the coalescence between microfibrils. Besides alkali treatment, acid chlorite (acetic acid and sodium chlorite) treatments that employ oxidizing agent chlorine dioxide for bleaching are effective for delignification (Agarwal et al. 2013; Hubbell and Ragauskas 2010; Moubarik et al. 2013). The delignification treatment with sodium</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

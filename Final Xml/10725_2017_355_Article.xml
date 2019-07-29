@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T03:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Molecular regulation of seed development and strategies for engineering seed size in crop plants</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Siddanna</forename>
+                                <surname>Savadi</surname>
+                            </persName>
+                            <contact>
+                                <email>siddannasavadi@gmail.com</email>
+								<phone>+91-9013439512</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">ICAR-Indian Institute of Wheat and Barley Research (IIWBR), Regional Station</orgName>
+                                <address>
+                                    <postCode>1710 002</postCode>
+                                    <settlement>Shimla</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Molecular regulation of seed development and strategies for engineering seed size in crop plants</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>seed</term>
+                    <term>development</term>
+                    <term>yield</term>
+                    <term>size</term>
+                    <term>engineering</term>
+                    <term>regulation Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Seed, a unit of plant reproduction, is an important source of food, feed, and feedstock. Seed size is a key component of a seed yield trait. Improving seed size has been one of the primary goals of plant breeding since the domestication of crop plants. In the last one and half decade, molecular studies on seed development have gained a great importance in plant research and as a result, a number of molecular regulators of seed size have been identified in the model plant Arabidopsis and some of the crop plants. Seed development is a complex process involving a coordinated growth of maternal and zygotic tissues, which is regulated by the integrated action of transcriptional, epigenetic, hormonal, peptide and sugar signaling regulators. In this review, the role of different transcriptional, epigenetic, hormonal, peptide and sugar signaling regulators in seed development pathways are discussed in detail followed by a brief description of the application of the knowledge gained over the years on molecular regulation of seed development for engineering seed size in crop plants using novel transgenic and recently evolved new breeding strategies such as genome editing.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

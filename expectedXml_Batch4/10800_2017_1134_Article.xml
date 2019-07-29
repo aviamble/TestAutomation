@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:44+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Controlled growth of ZnO nanorods via self-assembled monolayer</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Nivedita</forename>
+                                <surname>Yumnam</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physics and Earth Sciences</orgName>
+                                <orgName type="institution">Jacobs University Bremen</orgName>
+                                <address>
+                                    <postCode>D-28759</postCode>
+                                    <settlement>Bremen</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Veit</forename>
+                                <surname>Wagner</surname>
+                            </persName>
+                            <contact>
+                                <email>v.wagner@jacobs-university.de</email>
+                                <phone>+49(0)421 200 3225</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physics and Earth Sciences</orgName>
+                                <orgName type="institution">Jacobs University Bremen</orgName>
+                                <address>
+                                    <postCode>D-28759</postCode>
+                                    <settlement>Bremen</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Controlled growth of ZnO nanorods via self-assembled monolayer</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>ZnO nanorods</term>
+                    <term>Self-assembled monolayer</term>
+                    <term>Controlled nucleation</term>
+                    <term>Tailored nanorod dimensions Patterned growth 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>A simple method to achieve tailored growth of ZnO nanorods by employing self-assembled monolayer of alkanethiol molecules on a conductive substrate is introduced. Defects or pinholes in self-assembled monolayer are used to define the nucleation sites of ZnO during electrochemical deposition. The density of ZnO nanorods is tuned by the quality of self-assembled monolayer. A corresponding growth model for the growth of ZnO on self-assembled monolayer-modified substrate is proposed. The dimensions and the nucleation density of ZnO nanorods are tailored by systematically varying the quality of self-assembled monolayer and the parameters of electrochemical deposition. Furthermore, it is shown that this method also allows for laterally patterned growth of ZnO nanorods via microcontact printing of self-assembled monolayer.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

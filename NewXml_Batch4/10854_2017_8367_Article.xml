@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Hydrothermal Synthesis, Structural, Electrical and Magnetic Studies of Cathode Material Li 2 FeZrO 4 for Lithium Ion Batteries</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Viswarupa</forename>
+                                <surname>Mohanty</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Physics</orgName>
+                                <orgName key="dep2" type="department">School of Physical, Chemical and Applied Sciences</orgName>
+                                <orgName type="institution">Pondicherry University</orgName>
+                                <address>
+                                    <addrLine>R.V. Nagar</addrLine>
+                                    <postCode>605 014</postCode>
+                                    <settlement>Kalapet, Pondicherry</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <surname>Govindaraj</surname>
+                            </persName>
+                            <contact>
+                                <email>ggraj_7@yahoo.com</email>
+                                <phone>Tel.: +914132654405</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Physics</orgName>
+                                <orgName key="dep2" type="department">School of Physical, Chemical and Applied Sciences</orgName>
+                                <orgName type="institution">Pondicherry University</orgName>
+                                <address>
+                                    <addrLine>R.V. Nagar</addrLine>
+                                    <postCode>605 014</postCode>
+                                    <settlement>Kalapet, Pondicherry</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Hydrothermal Synthesis, Structural, Electrical and Magnetic Studies of Cathode Material Li 2 FeZrO 4 for Lithium Ion Batteries</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Hydrothermal synthesis</term>
+                    <term>pinned dipole relaxation</term>
+                    <term>free dipole relaxation 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In this present work, Li 2 FeZrO 4 has been synthesized by hydrothermal method. The material is characterized using XRD, TGA, FTIR, UV-Vis, VSM and impedance spectroscopy. The powder XRD patterns of Li 2 FeZrO 4 sintered at 800 o C shows that these crystallites are stable in room temperature with tetragonal structure of space group p141 and the average crystallites size is found to be 38nm. Due to its structural stability, ac electrical properties in terms of complex Impedance Z*(ω), complex permittivity ε*(ω), complex conductivity σ*(ω) and complex electric modulus M*(ω) of the sample have been evaluated as a function of frequency at different temperatures. The shape of the impedance spectra reveals the non-Debye nature of the relaxation processes of the present material. The relaxation process consists of two different polarization processes i.e., hopping charge polarization (" pinned dipole ") and dielectric dipolar like polarization (" free dipole ") mechanism. The dc conductivity activation energy E σ has been calculated for the material along with the activation energy for hopping conduction and dielectric relaxation. Magnetic properties have been investigated by vibrating sample magnetometer (VSM) for the sample at various temperatures.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

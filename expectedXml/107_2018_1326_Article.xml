@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effects of recycled fiber content on the properties of medium density fiberboard</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Muhammad</forename>
+                                <forename type="middle">Adly</forename>
+								<forename type="middle">Rahandi</forename>
+                                <surname>Lubis</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Wood and Paper Sciences</orgName>
+                                <orgName type="institution">Kyungpook National University</orgName>
+                                <address>
+                                    <postCode>41566</postCode>
+                                    <settlement>Daegu</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Min-Kug</forename>
+                                <surname>Hong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Wood and Paper Sciences</orgName>
+                                <orgName type="institution">Kyungpook National University</orgName>
+                                <address>
+                                    <postCode>41566</postCode>
+                                    <settlement>Daegu</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Byung-Dae</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <contact>
+                                <email>byungdae@knu.ac.kr</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Wood and Paper Sciences</orgName>
+                                <orgName type="institution">Kyungpook National University</orgName>
+                                <address>
+                                    <postCode>41566</postCode>
+                                    <settlement>Daegu</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Agricultural Science and Technology</orgName>
+                                <orgName type="institution">Kyungpook National University</orgName>
+                                <address>
+                                    <postCode>41566</postCode>
+                                    <settlement>Daegu</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sang-Min</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Forest Products</orgName>
+                                <orgName type="institution">National Institute of Forest Science</orgName>
+                                <address>
+                                    <postCode>02455</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effects of recycled fiber content on the properties of medium density fiberboard</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 *Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The large global production quantity of medium-density fiberboard (MDF) creates equal quantities of waste MDF, which consequently requires research on the recycling of MDF. This work was conducted to study the effect of recycled fiber (RF) content on the recycling properties of MDF. After pretreating waste MDF, a refiner and hammer were used to isolate refiner RFs (RRFs) and hammer mill RFs (HRFs) from two softwood species. This work also characterized the physical, chemical, and morphological features of RFs and virgin fibers (VFs). RRF and HRF contents of 0, 5, 10, 20, 30, 50, and 100% were used to fabricate recycled MDF (rMDF) panels. All RFs had shorter fiber lengths and higher fines contents than VFs had. The presence of N from urea-formaldehyde resins was confirmed by multiple analyses; more N was distributed in RFs than in VFs. The highest internal bonding (IB) strength of the rMDF occurred at 10% RF, regardless of isolation method and wood species; IB strength decreased afterward. The mechanical properties, including modulus of rupture, modulus of elasticity, and screw withdrawal resistance of rMDF, showed behaviors similar to the IB strength with increasing RF content. However, the thickness swelling, water absorption, and formaldehyde emission of rMDF samples decreased with increasing RF content. Statistical analysis indicates that the minimum of 10% RFs can be used to replace VFs without diminishing the properties of rMDF. The improved properties of rMDF were ascribed to the reinforcing effects of RFs covered with cured resins.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

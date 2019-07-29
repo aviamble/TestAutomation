@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T04:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Characterization of biosurfactants produced by the oil-degrading bacterium Rhodococcus erythropolis S67 at low temperature</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Luong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Tula State University</orgName>
+                                <address>
+                                    <postCode>300012</postCode>
+                                    <settlement>Tula</settlement>
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">O.</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Ponamoreva</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Tula State University</orgName>
+                                <address>
+                                    <postCode>300012</postCode>
+                                    <settlement>Tula</settlement>
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">I.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Nechaeva</surname>
+                            </persName>
+                            <contact>
+                                <email>nechaeva1902@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Tula State University</orgName>
+                                <address>
+                                    <postCode>300012</postCode>
+                                    <settlement>Tula</settlement>
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">V.</forename>
+                                <surname>Petrikov</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms</orgName>
+                                <orgName type="institution" key="instit2">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>142290</postCode>
+									<settlement>Pushchino, Moscow Region</settlement>
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ya.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Delegan</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms</orgName>
+                                <orgName type="institution" key="instit2">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>142290</postCode>
+									<settlement>Pushchino, Moscow Region</settlement>									
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A.</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Surin</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Institute of Protein Research</orgName>
+                                <address>
+                                    <postCode>142290</postCode>
+									<settlement>Pushchino, Moscow Region</settlement>									
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">D.</forename>
+                                <surname>Linklater</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution" key="instit1">Swinburne University of Technology</orgName>
+                                 <address>
+                                    <postCode>3122</postCode>
+                                    <settlement>Hawthorn</settlement>
+									<region>VICTORIA</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A.</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Filonov</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms</orgName>
+                                <orgName type="institution" key="instit2">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>142290</postCode>
+									<settlement>Pushchino, Moscow Region</settlement>
+                                    <country key="RU">Russian Federation</country>
+                                </address>
+                            </affiliation>
+                        </author>
+<!--                        <author>
+                            <persName>
+                                <forename type="first">Olga</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Ponamoreva</surname>
+                                <prefix>Prof.</prefix>
+                                <authordegree>Sc. D., Ph. D.,</authordegree>
+                            </persName>
+                            <contact>
+                                <email>olgaponamoreva@mail.ru</email>
+                                <email>olga@tsu.tula.ru</email>
+                                <phone>+7 (4872)25 79 29</phone>
+                            </contact>
+                        </author>-->
+                        <author>
+                            <persName>
+                                <forename type="first">Mo</forename>
+                                <forename type="middle">T.</forename>
+                                <surname>Luong</surname>
+                                <authordegree>M. S.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>luongmo@mail.ru</email>
+                            </contact>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Irina</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Nechaeva</surname>
+                                <prefix>Associate professor</prefix>
+                                <authordegree>Ph. D.</authordegree>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kirill</forename>
+								<forename type="middle">V.</forename>
+                                <surname>Petrikov</surname>
+                                <prefix>Reseacher</prefix>
+                                <authordegree>Ph. D.</authordegree>
+                            </persName>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">Tula State University</orgName>
+                                <address>
+                                    <addrLine>92 Lenin Av, Tula</addrLine>
+                                    <postCode>300012</postCode>
+                                    <settlement>Russian Federation</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff6">
+                                <address>
+                                    <postCode>300012</postCode>
+                                    <settlement>Russian Federation</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff7">
+                                <orgName type="department">Biotechnology Department</orgName>
+                                <orgName type="institution">Tula State University</orgName>
+                                <address>
+                                    <addrLine>92 Lenin Av, Tula</addrLine>
+                                    <postCode>300012</postCode>
+                                    <settlement>Russian Federation</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff8">
+                                <orgName type="department">Biotechnology Department</orgName>
+                                <orgName type="institution">Tula State University</orgName>
+                                <address>
+                                    <addrLine>92 Lenin Av, Tula</addrLine>
+                                    <postCode>300012</postCode>
+                                    <settlement>Russian Federation</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff9">
+                                <orgName type="department">Institute of Biochemistry and Physiology of Microorganisms</orgName>
+                                <orgName type="institution">Russian Academy of Sciences</orgName>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Characterization of biosurfactants produced by the oil-degrading bacterium Rhodococcus erythropolis S67 at low temperature</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Contact information for the corresponding author: Information about Authors:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

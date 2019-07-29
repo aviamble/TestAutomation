@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T06:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Running head: emotion recognition in people with autism Selective impairment of basic emotion recognition in people with autism: Discrimination thresholds for recognition of facial expressions of varying intensities</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yongning</forename>
+                                <surname>SONG</surname>
+                            </persName>
+							<contact>
+								<email>ynsong@psy.ecnu.edu.cn</email>
+								<phone>+86+13816517909</phone>
+							</contact>								
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Education</orgName>
+                                <orgName type="institution">East China Normal University</orgName>
+                                <address>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Brain Functional Genomics</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">Shanghai Key Laboratory of Brain Functional Genomics</orgName>
+                                <orgName type="department" key="dep4">School of Psychology and Cognitive Science</orgName>
+                                <orgName type="institution">East China Normal University</orgName>
+                                <address>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuji</forename>
+                                <surname>HAKODA</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Faculty of Human Development and Education</orgName>
+                                <orgName type="institution">Kyoto Women&apos;s University</orgName>
+                                <address>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						<author>
+						<affiliation key="aff4">
+							<orgName type="department">School of Psychology and Cognitive Science</orgName>
+							<orgName type="institution">East China Normal University</orgName>
+							<address>
+								<addrLine>North Zhongshan Road 3663</addrLine>
+								<postCode>200062</postCode>
+								<settlement>Shanghai</settlement>
+								<country key="CN">China</country>
+							</address>
+                      </affiliation>
+                       </author>							
+                        <title level="a" type="main">Running head: emotion recognition in people with autism Selective impairment of basic emotion recognition in people with autism: Discrimination thresholds for recognition of facial expressions of varying intensities</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Autism Spectrum Disorders (ASD) are characterized by early onset qualitative impairments in reciprocal social development. However, whether individuals with ASD exhibit impaired recognition of facial expressions corresponding to basic emotions is debatable. To investigate subtle deficits in facial emotion recognition, we asked 14 children diagnosed with High-Functioning Autism (HFA)/AS and 17 typically developing peers to complete a new highly sensitive test of facial emotion recognition. The test stimuli comprised faces expressing increasing degrees of emotional intensity that slowly changed from a neutral to a full-intensity happiness, sadness, surprise,</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

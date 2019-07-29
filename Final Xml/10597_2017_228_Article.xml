@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:08+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title: Validation of the Community Integration Scale for Adults with Psychiatric Title page Validation of the Community Integration Scale for Adults with Psychiatric Disorders (CIS-APP-34)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Joana</forename>
+                                <surname>Cabral</surname>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>joana.m.cabral@uac.pt</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Educational Sciences</orgName>
+                                <orgName type="institution">University of Azores</orgName>
+                                <address>
+                                    <settlement>Azores</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Célia</forename>
+                                <forename type="middle">Barreto</forename>
+                                <surname>Carvalho</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>celia.mo.carvalho@uac.pt</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Azores</orgName>
+                                <address>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Carrolina</forename>
+                                <surname>Motta</surname>
+                                <particle>da</particle>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of Azores</orgName>,
+								<orgName type="department">Portugal and Cognitive and Behavioural Center for Research and Intervention</orgName>
+                                <orgName type="institution">University of Coimbra</orgName>
+                                <address>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Title: Validation of the Community Integration Scale for Adults with Psychiatric Title page Validation of the Community Integration Scale for Adults with Psychiatric Disorders (CIS-APP-34)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Disorders (CIS-APP-34). Cover Letter Dear Editor I am part of a young research team that is currently focused on the issue of community integration of adults with mental health problems. We are sending you a paper entitled &quot; Confirmatory Factor Analysis and Validation studies of the Community Integration Scale for Adults with Psychiatric Disorders (CIS-APP-34) &quot; for review and possible publication at the Community Mental Health Journal. We want to assure you that this manuscript has neither been published nor is under editorial review for publication elsewhere. No known conflicts of interest and all authors certify responsibility. The paper comprises a study conducted by members of the Department of Educational Sciences of the Azores University in Ponta Delgada, Portugal. In this study we presented Confirmatory Factor Analysis and the the validation studies of the The Community Integration Scale of Adults with Psychiatric Disorders (CIS-APP) a new self-report scale developed to assess community integration in several. The main goal of the current study is to explore the psychometric properties of CIS-APP in a sample of 411 participants with and without a psychiatric illness, with ages between 19 and 91 years old, living in the Azores Islands, Portugal. Since this scale was developed for the Portuguese population, it is noteworthy that Portuguese is the fourth most spoken language in the world, with more than 240 million native speakers, thus allowing professional spread all across the globe to use this assessment tool (Ethnologue, 2014).</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T10:12+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Disruptive Behavior Treatment Progress as a Function of Therapy Focus and Youth Diagnosis in a Community Mental Health Setting</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Daniel</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Wilkie</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">University of Hawai‛i at Mānoa</orgName>
+                                <address>
+                                    <addrLine>2530 Dole Street, Sakamaki C400</addrLine>
+                                    <postCode>96822</postCode>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Cicero</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">University of Hawai‛i at Mānoa</orgName>
+                                <address>
+                                    <addrLine>2530 Dole Street, Sakamaki C400</addrLine>
+                                    <postCode>96822</postCode>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Charles</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Mueller</surname>
+                            </persName>
+                            <contact>
+                                <email>cmueller@hawaii.edu</email>
+                                <phone>(808) 956-8414</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">University of Hawai‛i at Mānoa</orgName>
+                                <address>
+                                    <addrLine>2530 Dole Street, Sakamaki C400</addrLine>
+                                    <postCode>96822</postCode>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Disruptive Behavior Treatment Progress as a Function of Therapy Focus and Youth Diagnosis in a Community Mental Health Setting</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>DISRUPTIVE BEHAVIOR TREATMENT PROGRESS 1 Portions of this paper were presented at Association for Behavioral and Cognitive Therapies Conference in New York, New York, October, 2016. Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>children&apos;s mental health</term>
+                    <term>disruptive behavior</term>
+                    <term>depression</term>
+                    <term>usual care</term>
+                    <term>treatment targets</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Monthly disruptive behavior treatment progress for 613 youth ages 7-18 receiving intensive in-home services was examined. Multilevel modeling indicated carrying a depressive mood diagnosis predicted less disruptive behavior progress compared to youth with only externalizing diagnoses. Paradoxically, more monthly focus on disruptive behavior treatment targets predicted lower concurrent progress ratings, while greater focus on depressive mood targets predicted greater disruptive behavior progress for youth with a depressive mood diagnosis. Findings held when other predictors of disruptive behavior progress were included as covariates, including episode length, youth age, and functional impairment. Treatment and research implications are discussed.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T12:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Synthesis and investigation of SnS 2 /RGO nanocomposites with different GO concentrations: structure and optical properties, photocatalytic performance</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Atefeh</forename>
+                                <surname>Rahimi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Physics Department</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Shahid Chamran University of Ahvaz</orgName>
+                                <address>
+                                    <settlement>Ahvaz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Iraj</forename>
+                                <surname>Kazeminezhad</surname>
+                            </persName>
+                            <contact>
+                                <email>I.Kazeminezhad@scu.ac.ir</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Physics Department</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Shahid Chamran University of Ahvaz</orgName>
+                                <address>
+                                    <settlement>Ahvaz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Center for Research on Laser and Plasma</orgName>
+                                <orgName type="institution">Shahid Chamran University of Ahvaz</orgName>
+                                <address>
+                                    <settlement>Ahvaz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seyed</forename>
+                                <forename type="middle">Ebrahim</forename>
+                                <forename type="middle">Mousavi</forename>
+                                <surname>Ghahfarokhi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Physics Department</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Shahid Chamran University of Ahvaz</orgName>
+                                <address>
+                                    <settlement>Ahvaz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Synthesis and investigation of SnS 2 /RGO nanocomposites with different GO concentrations: structure and optical properties, photocatalytic performance</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>In this study, we report the synthesis of tin disulfide/reduced graphrene oxide (SnS 2 /RGO) nanocomposites by a simple one-step hydrothermal method. In order to investigate the effect of RGO on the structure and optical properties and photocatalytic activity of the products a series of nanocomposites was prepared with different concentrations of GO. The samples were examined using X-ray diffraction (XRD), field emission scanning electron microscopy (FESEM), Raman spectroscopy, UV-vis spectroscopy and Photoluminescence (PL) techniques. The results confirmed the growth of SnS 2 with the hexagonal phase. FESEM analysis showed that the hexagonal tin disulfide nanoplates are uniformly dispersed on the surface of the graphene oxide sheets. The optical examination of SnS 2 and SnS 2 /RGO nanocomposites indicated that the band gaps of all nanocomposites are greater than that of SnS 2 due to the quantum confinement effect. The photocatalytic activity of the SnS 2 /RGO nanocomposites was investigated for degradation of the acid orange 7 dye under visible light. It was observed that all nanocomposites have a higher photocatalytic activity for the degradation in comparison with pure SnS 2. The optimum concentration of GO in SnS 2 /RGO nanocomposite for achieving the highest photocatalytic efficiency (81%) was determined as 2mg ml-1 during 180 min. Keywords: SnS 2 /RGO nancomposite‚ Structural properties, Optical properties‚ Photocatalytic activity, Acid orange 7. 1. Introduction Entrance of colored wastewater in the environmental medium has created many problems for human health and that of other living beings. So far, several methods have been used to remove dye pollutants from wastewaters. One of the effective and preferable approaches for removing organic pollutants is photocatalytic degradation of dyes method [1,2]. In recent decades, titanium dioxide (TiO 2) as an environmentally friendly photocatalyst has shown good photocatalytic performance with respect to other discovered photocatalysts; however, due to its relatively wide band gap of 3.2 eV, it does not respond in the visible region which includes about 46% of the sunlight [3]. Therefore, many researchers have paid attention to the development of visible light responsive photocatalysts. Metal dichalcogenides such as MoSe 2 , MoS 2 , WSe 2 and WS 2 have been recently reported as photocatalysts in visible light [4-7]. Tin disulfide (SnS 2) is another useful metal dichalcogenide with hexagonal CdI 2 crystal structure [8]. In this structure, tin atoms are sandwiched between two close packed sheets of sulfur anions and they are bounded by week van der Waals forces [9]. SnS 2 has an enormous range of application and unique properties‚ such as being inexpensive, non-toxic, chemically stable in acid and neutral aqueous media, and thermally stable in the air. In addition, narrow band gap (2.2 eV) and sensitivity to visible light photocatalyst could be an alternative for this manner [10]. Photocatalytic application of SnS 2 is restricted significantly due to the photocorrosion problem and high recombination rate of its photoinduced charge carriers [11]. However, combination of SnS 2 with different materials such as SnO 2 ‚ TiO 2 ‚ g-C 3 N 4 ‚ Ag 2 CO 3 ‚ WO 3 , and graphene has improved its photocatalytic activity [12-17]. Recently, graphene has been found as one of the most promising semiconductors in the field of nanoscience due to its high electrical and thermal conductivities, high surface area (~ 2600 m 2 g-1) and mobility of charge carriers (230000 cm 2 v-1 s-1) [18]. It is regarded as an extremely attractive component for the preparation of semiconductor/reduced graphene nanocomposites for many applications such as solar cells, ion batteries and photocatalytic activities [19-22]. The aim of this study is to investigate the optical properties of SnS 2 /RGO nanocomposites synthesized with different concentrations of graphene oxide using UV-visible and PL spectroscopies and also to study the photocatalytic degradation of acid orange 7 (AO7) dye from polluted water by the composite. 2. Exprimental details: 2.1 Materials Graphite powder, sodium nitrate (NaNO 3 , 99%), sulfuric acid (H 2 SO 4 , 98%)‚ hydrochloric acid (HCl, 30%)‚ hydrogen peroxide (H 2 O 2 , 30%) and thiourea (CH 4 N 2 S, 99%) were purchased from Merck (Germany). Potassium</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

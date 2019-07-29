@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">ENDORECTAL ULTRASOUND IN THE IDENTIFICATION OF RECTAL TUMORS FOR TRANSANAL ENDOSCOPIC SURGERY: FACTORS INFLUENCING ITS ACCURACY Short running head: Endorectal ultrasound for rectal tumors</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Xavier</forename>
+                                <surname>Serra-Aracil</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ana</forename>
+                                <forename type="middle">Gálvez</forename>
+                                <surname>Saldaña</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <contact>
+								<phone>+34 937 23 10 10. Ext 21490</phone>
+                                <email>anagalvezs@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Laura</forename>
+                                <forename type="middle">Mora</forename>
+                                <surname>López</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pere</forename>
+                                <forename type="middle">Rebasa</forename>
+                                <surname>Cladera</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sheila</forename>
+                                <forename type="middle">Serra</forename>
+                                <surname>Pla</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anna</forename>
+                                <forename type="middle">Pallisera</forename>
+                                <surname>Lloveras</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Carla</forename>
+                                <forename type="middle">Zerpa</forename>
+                                <surname>Martin</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Oriol</forename>
+                                <surname>Moreno</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Salvador</forename>
+                                <forename type="middle">Navarro</forename>
+                                <surname>Soto</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Coloproctology Unit. General and Digestive Surgery Service</orgName>
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Parc Tauli University Hospital, Sabadell. Universitat Autònoma de Barcelona</orgName>
+                                <address>
+                                    <addrLine>Parc Tauli s/n</addrLine>
+                                    <postCode>08208</postCode>
+                                    <settlement>Sabadell (Barcelona)</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>						
+                        <title level="a" type="main">ENDORECTAL ULTRASOUND IN THE IDENTIFICATION OF RECTAL TUMORS FOR TRANSANAL ENDOSCOPIC SURGERY: FACTORS INFLUENCING ITS ACCURACY Short running head: Endorectal ultrasound for rectal tumors</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 AUTHORS: Correspondence:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T12:49+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Current Perspective on MDMA-Assisted Psychotherapy for Posttraumatic Stress Disorder</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sascha</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Thal</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Clinical Psychology and Experimental Psychopathology</orgName>
+                                <orgName type="institution">University of Groningen</orgName>
+                                <address>
+                                    <addrLine>Grote Kruisstraat 2/1</addrLine>
+                                    <postCode>9712 TS</postCode>
+                                    <settlement>Groningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Miriam</forename>
+                                <forename type="middle">J.</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Lommen</surname>
+                            </persName>
+                            <contact>
+                                <email>m.j.j.lommen@rug.nl</email>
+                                <phone>+31 50 3639730</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Clinical Psychology and Experimental Psychopathology</orgName>
+                                <orgName type="institution">University of Groningen</orgName>
+                                <address>
+                                    <addrLine>Grote Kruisstraat 2/1</addrLine>
+                                    <postCode>9712 TS</postCode>
+                                    <settlement>Groningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Current Perspective on MDMA-Assisted Psychotherapy for Posttraumatic Stress Disorder</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>PTSD</term>
+                    <term>MDMA</term>
+                    <term>MDMA-assisted therapy</term>
+                    <term>substance-assisted therapy</term>
+                    <term>overview Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The present paper discusses the current literature with regard to substance-assisted psychotherapy with Methylenedioxymethamphetamine (MDMA) for posttraumatic stress disorder (PTSD). The aim of the paper is to give a comprehensive overview of the development from MDMA&apos;s early application in psychotherapy to its present and future role in the treatment of PTSD. It is further attempted to increase the attention for MDMA&apos;s therapeutic potential by providing a thorough depiction of the scientific evidence regarding its theorized mechanism of action and potential harms of its application in the clinical setting (e.g., misattribution of therapeutic gains to medication instead of psychological changes). Empirical support for the use of MDMD-assisted psychotherapy, including the randomized, double-blind, placebo-controlled trails that have been conducted since 2008, is discussed. Thus far, an overall remission rate of 66,2% and low rates of adverse effects have been found in the six phase two trials conducted in clinical settings with 105 blinded subjects with chronic PTSD. The results seem to support MDMA&apos;s safe and effective use as an adjunct to psychotherapy. Even though preliminary studies may look promising, more studies of its application in a psychotherapeutic context are needed in order to establish MDMA as a potential adjunct to therapy.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

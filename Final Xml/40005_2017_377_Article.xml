@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T10:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Combination of photodynamic therapy (PDT) and anti-tumor immunity in cancer therapy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Hee</forename>
+                                <forename type="middle">Sook</forename>
+                                <surname>Hwang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">The catholic University of Korea</orgName>
+                                <address>
+                                    <addrLine>43 Jibong-ro, Wonni-gu</addrLine>
+                                    <postCode>14662</postCode>
+                                    <settlement>Bucheno-si</settlement>
+                                    <region>Gyeonggido</region>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Heejun</forename>
+                                <surname>Shin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">The catholic University of Korea</orgName>
+                                <address>
+                                    <addrLine>43 Jibong-ro, Wonni-gu</addrLine>
+                                    <postCode>14662</postCode>
+                                    <settlement>Bucheno-si</settlement>
+                                    <region>Gyeonggido</region>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jieun</forename>
+                                <surname>Han</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">The catholic University of Korea</orgName>
+                                <address>
+                                    <addrLine>43 Jibong-ro, Wonni-gu</addrLine>
+                                    <postCode>14662</postCode>
+                                    <settlement>Bucheno-si</settlement>
+                                    <region>Gyeonggido</region>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kun</forename>
+                                <surname>Na</surname>
+                            </persName>
+                            <contact>
+                                <email>kna6997@catholic.ac.kr</email>
+                                <phone>+82-2-2164-4832</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">The catholic University of Korea</orgName>
+                                <address>
+                                    <addrLine>43 Jibong-ro, Wonni-gu</addrLine>
+                                    <postCode>14662</postCode>
+                                    <settlement>Bucheno-si</settlement>
+                                    <region>Gyeonggido</region>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Combination of photodynamic therapy (PDT) and anti-tumor immunity in cancer therapy</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Manuscript for Journal of Pharmaceutical Investigation † Corresponding Author :</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Photodynamic therapy</term>
+                    <term>reactive oxygen species</term>
+                    <term>cancer</term>
+                    <term>antitumor immune response Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Photodynamic therapy (PDT) is performed using a photosensitizer and light of specific wavelength in the presence of oxygen to generate singlet oxygen and reactive oxygen species(ROS) in the cancer cells. The accumulated photosensitizers in target sites induce ROS generation upon light activation, then the generated cytotoxic reactive oxygen species lead to tumor cell death via apoptosis or necrosis, and damages the target sites which results tumor destruction. As a consequence, the PDT-mediated cell death is associated with anti-tumor immune response. In this paper, the effects of PDT and immune response on tumors are reviewed. Activation of an immune response regarding the innate and adaptive immune response, interaction with immune cells and tumor cells that associated with antitumor efficacy of PDT are also discussed.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

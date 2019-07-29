@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T06:19+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">40Hz auditory steady-state response: the impact of handedness and gender</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sigita</forename>
+                                <surname>Melynyte</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute of Biosciences</orgName>
+                                <orgName type="department" key="dep2">Life Sciences Centre</orgName>
+                                <orgName type="institution">Vilnius University</orgName>
+                                <address>
+                                    <settlement>Vilnius</settlement>
+                                    <country key="LT">Lithuania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Evaldas</forename>
+                                <surname>Pipinis</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute of Biosciences</orgName>
+                                <orgName type="department" key="dep2">Life Sciences Centre</orgName>
+                                <orgName type="institution">Vilnius University</orgName>
+                                <address>
+                                    <settlement>Vilnius</settlement>
+                                    <country key="LT">Lithuania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vaida</forename>
+                                <surname>Genyte</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute of Biosciences</orgName>
+                                <orgName type="department" key="dep2">Life Sciences Centre</orgName>
+                                <orgName type="institution">Vilnius University</orgName>
+                                <address>
+                                    <settlement>Vilnius</settlement>
+                                    <country key="LT">Lithuania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aleksandras</forename>
+                                <surname>Voicikas</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute of Biosciences</orgName>
+                                <orgName type="department" key="dep2">Life Sciences Centre</orgName>
+                                <orgName type="institution">Vilnius University</orgName>
+                                <address>
+                                    <settlement>Vilnius</settlement>
+                                    <country key="LT">Lithuania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tonia</forename>
+                                <surname>Rihs</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Fundamental Neurosciences</orgName>
+                                <orgName type="institution">University of Geneva</orgName>
+                                <address>
+                                    <settlement>Geneva</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Inga</forename>
+                                <surname>Griskova-Bulanova</surname>
+                            </persName>
+                            <contact>
+								<email>i.griskova@gmail.com</email>													
+                                <email>inga.griskova-bulanova@gf.vu.lt</email>
+								<phone>+37067110954</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute of Biosciences</orgName>
+                                <orgName type="department" key="dep2">Life Sciences Centre</orgName>
+                                <orgName type="institution">Vilnius University</orgName>
+                                <address>
+                                    <settlement>Vilnius</settlement>
+                                    <country key="LT">Lithuania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Biosciences</orgName>
+                                <orgName type="institution">Vilnius University</orgName>
+                                <address>
+                                    <addrLine>Sauletekio ave 7</addrLine>
+                                    <postCode>LT-10257</postCode>
+                                    <settlement>Vilnius</settlement>
+                                    <country key="LT">Lithuania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">40Hz auditory steady-state response: the impact of handedness and gender</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Auditory steady-state response</term>
+                    <term>40Hz</term>
+                    <term>gender</term>
+                    <term>handedness Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The 40Hz auditory steady-state response (ASSR) is a periodic response to a periodic stimulation. Its sources are located in the primary auditory cortex and the asymmetry of the planum temporale has previously been associated with hand preference and gender-related differences; thus subject&apos;s handedness and gender could potentially influence ASSRs. Nevertheless, electrophysiological studies of ASSRs are mainly dominated by right-handed participants and the observed findings can only be generalized to the right-handed populations. However, for a potential use of 40Hz ASSR as a translational biomarker of neuropsychiatric disorders, it is important to investigate the response in association to handedness and gender. We included an equal number of left-handed and right-handed males and females and recorded EEG responses during left-ear, right-ear and both ears stimulation. The results of the study suggest that the processing of 40Hz auditory stimulation depends on the subjects&apos; gender and handedness: significantly lower phase-locking and strength of 40Hz ASSRs were observed in left-handed females as compared to left-handed males, but right-handers did not differ in 40Hz ASSRs. Our observation of the opposite impact of gender in the examined handedness groups stresses the importance of careful consideration of handedness and gender factors when evaluating the determinants of inter individual variability of 40Hz ASSRs. This finding is of particular importance for clinical studies in psychiatry and neurology.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

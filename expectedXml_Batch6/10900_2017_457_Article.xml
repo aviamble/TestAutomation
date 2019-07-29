@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T11:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Barriers and Facilitators of HPV Vaccination in the VFC Program</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+                <date type="published" when="2017-11-30">November 30, 2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wayne</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Fleming</surname>
+                            </persName>
+                            <contact>
+                                <email>wfleming@pa.gov</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">PA Department of Health, Bureau of Epidemiology</orgName>
+                                <orgName type="department" key="dep2">Division of Infectious Disease Epidemiology</orgName>
+                                <address>
+                                    <addrLine>Room 933, Health and Welfare Building, 625 Forster Street</addrLine>
+                                    <postCode>17120-0701</postCode>
+									<settlement>Harrisburg</settlement>
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Public Health Sciences, College of Medicine</orgName>
+                                <orgName type="institution">Penn State University</orgName>
+                                <address>
+                                    <postCode>17033</postCode>
+                                    <settlement>Hershey</settlement>
+                                    <region>PA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kristin</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Sznajder</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Public Health Sciences, College of Medicine</orgName>
+                                <orgName type="institution">Penn State University</orgName>
+                                <address>
+                                    <postCode>17033</postCode>
+                                    <settlement>Hershey</settlement>
+                                    <region>PA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Margaret</forename>
+                                <surname>Nepps</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution" key="instit1">Penn Medicine</orgName>
+                                <orgName type="institution" key="instit2">Lancaster General Hospital</orgName>
+                                <address>
+                                    <addrLine>Behavioral Science 555 North Duke Street</addrLine>
+                                    <postCode>17604-3555</postCode>
+                                    <settlement>Lancaster</settlement>									
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sameh</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Boktor</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">PA Department of Health, Bureau of Epidemiology</orgName>
+                                <orgName type="department" key="dep2">Division of Infectious Disease Epidemiology</orgName>
+                                <address>
+                                    <addrLine>Room 933, Health and Welfare Building, 625 Forster Street</addrLine>
+                                    <postCode>17120-0701</postCode>
+                                    <settlement>Harrisburg</settlement>									
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Public Health Sciences, College of Medicine</orgName>
+                                <orgName type="institution">Penn State University</orgName>
+                                <address>
+                                    <postCode>17033</postCode>
+                                    <settlement>Hershey</settlement>
+                                    <region>PA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Barriers and Facilitators of HPV Vaccination in the VFC Program</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date type="published" when="2017-11-30">November 30, 2017</date>
+                        </imprint>
+                    </monogr>
+                    <note>Running head: BARRIERS TO HPV VACCINATION 1 About the Authors The primary author WF, MPA, MPH is a graduate of the Penn State Hershey College of Medicine, Public Health Sciences Program, Hershey, PA and employed by the Pennsylvania Department of Health (PA DOH), Bureau of Epidemiology, Harrisburg, as a Vaccine Preventable Disease Epidemiology Research Associate, PA. KS, PhD, MPH is an Assistant Professor in the Contributing authors MN, is a Psychologist affiliated with Penn Medicine, Lancaster General Hospital, Behavioral Science Lancaster, PA, SB, MD, MPH is employed by PA DOH, Bureau of Epidemiology, Harrisburg, as an Influenza Surveillance Epidemiologist and is an Adjunct Assistant Professor in the Acknowledgement The authors would like to thank the PA DOH, for the review and approval of the survey instrument and the PA DOH&apos;s, Division of Immunizations and the Division of Cancer Prevention and Control for participation and feedback through the review and pretesting of the survey instrument. The authors have no financial disclosures or conflicts of interest to report, and no funding was provided for this study.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

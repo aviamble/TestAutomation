@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Determining the degree of heat treatment of wood by light polarization technique</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Hariyadi</forename>
+                                <surname>Soetedjo</surname>
+                            </persName>
+                            <contact>
+                                <email>hariyadi@uad.ac.id</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Integrated Research and Innovation (CIRNOV)</orgName>
+                                <orgName type="institution">University of Ahmad Dahlan</orgName>
+                                <address>
+                                    <addrLine>Jalan Cendana No 9A, Semaki</addrLine>
+                                    <postCode>55166</postCode>
+                                    <settlement>Yogyakarta</settlement>
+                                    <country key="ID">Indonesia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ilpo</forename>
+                                <surname>Niskanen</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Technology</orgName>
+                                <orgName type="institution">Structures and Construction Technology</orgName>
+                                <address>
+                                    <postBox>P.O. Box 7300</postBox>
+                                    <postCode>FI-90014</postCode>
+                                    <settlement>Oulu</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Electronics Design</orgName>
+                                <orgName type="institution">Mid Sweden University</orgName>
+                                <address>
+                                    <addrLine>Holmgatan 10</addrLine>
+                                    <postCode>SE-85170</postCode>
+                                    <settlement>Sundsvall</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lauri</forename>
+                                <surname>Rautkari</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Department of Bioproducts and Biosystems</orgName>
+                                <orgName type="department" key="dep2">School of Chemical Engineering</orgName>
+                                <orgName type="institution">Aalto University</orgName>
+                                <address>
+                                    <postBox>P. O. Box 16300</postBox>
+                                    <postCode>00076</postCode>
+                                    <settlement>Aalto</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <surname>Altgen</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Department of Bioproducts and Biosystems</orgName>
+                                <orgName type="department" key="dep2">School of Chemical Engineering</orgName>
+                                <orgName type="institution">Aalto University</orgName>
+                                <address>
+                                    <postBox>P. O. Box 16300</postBox>
+                                    <postCode>00076</postCode>
+                                    <settlement>Aalto</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Eero</forename>
+                                <surname>Hiltunen</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Department of Bioproducts and Biosystems</orgName>
+                                <orgName type="department" key="dep2">School of Chemical Engineering</orgName>
+                                <orgName type="institution">Aalto University</orgName>
+                                <address>
+                                    <postBox>P. O. Box 16300</postBox>
+                                    <postCode>00076</postCode>
+                                    <settlement>Aalto</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Göran</forename>
+                                <surname>Thungström</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Electronics Design</orgName>
+                                <orgName type="institution">Mid Sweden University</orgName>
+                                <address>
+                                    <addrLine>Holmgatan 10</addrLine>
+                                    <postCode>SE-85170</postCode>
+                                    <settlement>Sundsvall</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Daniel</forename>
+                                <surname>Zakrisson</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Electronics Design</orgName>
+                                <orgName type="institution">Mid Sweden University</orgName>
+                                <address>
+                                    <addrLine>Holmgatan 10</addrLine>
+                                    <postCode>SE-85170</postCode>
+                                    <settlement>Sundsvall</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jukka</forename>
+                                <surname>Räty</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Unit of Measurement Technology (MITY)</orgName>
+                                <orgName type="institution">University of Oulu</orgName>
+                                <address>
+                                    <addrLine>Technology Park 127</addrLine>
+                                    <postCode>FI-87400</postCode>
+                                    <settlement>Kajaani</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Determining the degree of heat treatment of wood by light polarization technique</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Thermal modification of wood enables the use of non-durable wood species in exterior applications, but quality control methods are required to monitor the product variability. This study tests the potential of a light polarization technique where visible light (400-500 nm) is directed through a linear polarizer to the surface of thermally modified wood to measure the reflectance. Besides an effect of the grain direction, the reflectance decreased with increasing temperature during the thermal modification process. The technique could be used for quality control, but further studies are required to understand its modes of action.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

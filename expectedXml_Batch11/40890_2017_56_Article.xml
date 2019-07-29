@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:09+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Promoting Economically Equitable Rural Road Development –Case Study among Chinese Provinces</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Xinwei</forename>
+                                <surname>Lu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Economic and Management</orgName>
+                                <orgName type="institution">Chang&apos;an University</orgName>
+                                <address>
+                                    <addrLine>Nanerhuan Rd</addrLine>
+                                    <postCode>710064</postCode>
+                                    <settlement>Xi&apos;an City</settlement>
+                                    <region>Shaanxi Province</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Civil, Construction, and Environmental Engineering</orgName>
+                                <orgName type="institution">University of Alabama</orgName>
+                                <address>
+                                    <postCode>35487</postCode>
+                                    <settlement>Tuscaloosa</settlement>
+                                    <region>AL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Steven</forename>
+                                <surname>Jones</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Civil, Construction, and Environmental Engineering</orgName>
+                                <orgName type="institution">University of Alabama</orgName>
+                                <address>
+                                    <postCode>35487</postCode>
+                                    <settlement>Tuscaloosa</settlement>
+                                    <region>AL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Li</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Economic and Management</orgName>
+                                <orgName type="institution">Chang&apos;an University</orgName>
+                                <address>
+                                    <addrLine>Nanerhuan Rd</addrLine>
+                                    <postCode>710064</postCode>
+                                    <settlement>Xi&apos;an City</settlement>
+                                    <region>Shaanxi Province</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Promoting Economically Equitable Rural Road Development –Case Study among Chinese Provinces</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Rural road networks play a fundamental role in the socioeconomic development and poverty alleviation in rural regions, especially in developing countries. However, lacking of sufficient rural road construction fund is a very common phenomenon in the majority of developing countries. This paper proposes a method for allocating rural roadway construction funding in a more equitable manner. A methodology based on an index composed of a modified Gini coefficient formulation and the population weighted coefficient of variation is proposed to score geographic regions according to: a) the relative equity of roadway construction to economic development; b) the relative equity of economic development across populations within a region; and c) the relative economic strength of individual regions. The methodology is illustrated by a case study of four representative Chinese provinces. The study and results of this paper can be</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

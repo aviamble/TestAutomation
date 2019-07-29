@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T07:02+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The Heart of Control: Proactive Cognitive Control Training Limits Anxious Cardiac Arousal under Stress The Heart of Control: Proactive Cognitive Control Training Limits Anxious Cardiac Arousal under Stress</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jeffrey</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Birk</surname>
+                            </persName>
+							<contact>
+							  <email>jlb2287@cumc.columbia.edu</email>
+							</contact>
+							<affiliation key="aff1">
+                                <orgName type="department">Center for Behavioral Cardiovascular Health</orgName>
+                                <orgName type="institution">Columbia University Medical Center</orgName>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="department">Center for Behavioral Cardiovascular Health</orgName>
+								<orgName type="institution">Columbia University Medical Center</orgName>
+								<address>
+								<addrLine>622 West 168th Street, PH9-319</addrLine>
+								<postCode>10032</postCode>
+								<settlement>New York</settlement>
+								<region>NY</region>
+								<country>United States</country>
+								</address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andrew</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Rogers</surname>
+                            </persName>
+							<affiliation key="aff2">
+                                <orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">University of Houston</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anoushka</forename>
+                                <forename type="middle">D.</forename>
+                                <surname>Shahane</surname>
+                            </persName>
+							<affiliation key="aff3">
+                                <orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Rice University</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Heather</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Urry</surname>
+                            </persName>
+							<affiliation key="aff4">
+                                <orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Tufts University</orgName>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The Heart of Control: Proactive Cognitive Control Training Limits Anxious Cardiac Arousal under Stress The Heart of Control: Proactive Cognitive Control Training Limits Anxious Cardiac Arousal under Stress</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Author Note This project was funded by the U.S. Army Natick Soldier Research, Development, and Engineering Center (NSRDEC; BAA Contract W911QY-13-C-0012). Permission was granted by the U.S. Army NSRDEC to publish this material. The views expressed in this article are solely those of the authors and do not reflect the official policies or positions of the Department of Army, the Department of Defense, or any other department or agency of the U.S. government. Author Note We would like to thank (in alphabetical order) for help with data collection for this project. We would also like to thank Victoria Floerke, Lara Vujovic, Gizem Altheimer, and Nishi Mehta for guidance and suggestions. This project was funded by the U.S. Army Natick Soldier Research, Development, and Engineering Center (NSRDEC; BAA Contract W911QY-13-C-0012). Permission was granted by the U.S. Army NSRDEC to publish this material. The</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

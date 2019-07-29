@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Discovering the role of the apolipoprotein gene and the genes in the putative pullulan biosynthesis pathway on the synthesis of pullulan, heavy oil and melanin in Aureobasidium pullulans</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jian</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Industrial Fermentation Microbiology</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">Tianjin Industrial Microbiology Key Laboratory</orgName>
+                                <orgName type="department" key="dep4">College of Biotechnology</orgName>
+                                <orgName type="institution">Tianjin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>300457</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Siyao</forename>
+                                <surname>Huang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Industrial Fermentation Microbiology</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">Tianjin Industrial Microbiology Key Laboratory</orgName>
+                                <orgName type="department" key="dep4">College of Biotechnology</orgName>
+                                <orgName type="institution">Tianjin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>300457</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yefu</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <contact>
+                                <email>yfchen@tust.edu.cn</email>
+                                <phone>+86 22 60601396</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Industrial Fermentation Microbiology</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">Tianjin Industrial Microbiology Key Laboratory</orgName>
+                                <orgName type="department" key="dep4">College of Biotechnology</orgName>
+                                <orgName type="institution">Tianjin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>300457</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xuewu</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Industrial Fermentation Microbiology</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">Tianjin Industrial Microbiology Key Laboratory</orgName>
+                                <orgName type="department" key="dep4">College of Biotechnology</orgName>
+                                <orgName type="institution">Tianjin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>300457</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dongguang</forename>
+                                <surname>Xiao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Industrial Fermentation Microbiology</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">Tianjin Industrial Microbiology Key Laboratory</orgName>
+                                <orgName type="department" key="dep4">College of Biotechnology</orgName>
+                                <orgName type="institution">Tianjin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>300457</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Discovering the role of the apolipoprotein gene and the genes in the putative pullulan biosynthesis pathway on the synthesis of pullulan, heavy oil and melanin in Aureobasidium pullulans</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author,</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Apolipoprotein</term>
+                    <term>Aureobasidium pullulans</term>
+                    <term>Heavy oil</term>
+                    <term>Melanin</term>
+                    <term>Pullulan Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Pullulan produced by Aureobasidium pullulans presents various applications in food manufacturing and pharmaceutical industry. However, the pullulan biosynthesis mechanism remains unclear. This work proposed a pathway suggesting that heavy oil and melanin may correlate with pullulan production. The effects of overexpression or deletion of genes encoding apolipoprotein, UDPG-pyrophosphorylase, glucosyltransferase, and a-phosphoglucose mutase on the production of pullulan, heavy oil, and melanin were examined. Pullulan production increased by 16.93% and 8.52% with the overexpression of UDPG-pyrophosphorylase and apolipoprotein genes, respectively. Nevertheless, the overexpression or deletion of other genes exerted little effect on pullulan biosynthesis. Heavy oil production increased by 146.30%, 64.81%, and 33.33% with the overexpression of UDPG-pyrophosphorylase, a-phosphoglucose mutase, and apolipoprotein genes, respectively. Furthermore, the syntheses of pullulan, heavy oil, and melanin can compete with one another. This work may provide new guidance to improve the production of pullulan, heavy oil, and melanin through genetic approach.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

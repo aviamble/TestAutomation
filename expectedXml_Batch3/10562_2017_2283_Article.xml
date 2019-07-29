@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:20+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">New oscillating system: CO oxidation over Ni</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">V.</forename>
+                                <forename type="middle">Yu.</forename>
+                                <surname>Bychkov</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Semenov Institute of Chemical Physics</orgName>
+                                <orgName type="institution">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>Kosygina str. 4</addrLine>
+									<postCode>119991</postCode>
+									<addrLine>GSP-1</addrLine>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yu.</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Tulenin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Semenov Institute of Chemical Physics</orgName>
+                                <orgName type="institution">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>Kosygina str. 4</addrLine>
+									<postCode>119991</postCode>
+									<addrLine>GSP-1</addrLine>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Slinko</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Semenov Institute of Chemical Physics</orgName>
+                                <orgName type="institution">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>Kosygina str. 4</addrLine>
+									<postCode>119991</postCode>
+									<addrLine>GSP-1</addrLine>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yu.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Gordienko</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Semenov Institute of Chemical Physics</orgName>
+                                <orgName type="institution">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>Kosygina str. 4</addrLine>
+									<postCode>119991</postCode>
+									<addrLine>GSP-1</addrLine>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">V.</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Korchak</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Semenov Institute of Chemical Physics</orgName>
+                                <orgName type="institution">Russian Academy of Sciences</orgName>
+                                <address>
+                                    <addrLine>Kosygina str. 4</addrLine>
+									<postCode>119991</postCode>
+									<addrLine>GSP-1</addrLine>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">New oscillating system: CO oxidation over Ni</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Key-words: oscillations</term>
+                    <term>CO oxidation</term>
+                    <term>Ni</term>
+                    <term>spatiotemporal behavior</term>
+                    <term>surface waves</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>For the first time, the oscillatory behavior during CO oxidation over Ni foil has been discovered under atmospheric pressure conditions in the temperature range of 570-630 °C. The oscillatory behavior occurred in CO excess in contrast to the well-known oscillations during CO oxidation over Pt, Pd, Ir, and Ru. The periodic variation of oxygen imbalance together with the variation of color changes during the oscillations indicated that the oscillations were closely connected with the reversible oxidation of Ni to NiO. The observation of oscillations in a pulse supply mode proved their kinetic origin. The oscillations were accompanied by the propagation of the oxidation and reduction fronts which could be observed with the naked eye. Graphical Abstract Temporal and spatial self-organization during CO oxidation over Ni foil</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

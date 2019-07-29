@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T09:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Atomistic computer simulations on multi-loaded PAMAM dendrimers: A comparison of amine-and hydroxyl-terminated dendrimers</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Farideh</forename>
+                                <surname>Badalkhani-Khamseh</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physical Chemistry</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Azadeh</forename>
+                                <surname>Ebrahim-Habibi</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Biosensor Research Center, Endocrinology and Metabolism Molecular-Cellular Sciences Institute</orgName>
+                                <orgName type="institution">Tehran University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Endocrinology and Metabolism Research Center, Endocrinology and Metabolism Clinical Sciences Institute</orgName>
+                                <orgName type="institution">Tehran University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Nasser</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Hadipour</surname>
+                            </persName>
+                            <contact>
+                                <email>hadipour@modares.ac.ir</email>
+                                <phone>+982182883495</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physical Chemistry</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Physical Chemistry Faculty of Science</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postBox>P.O. Box 14115-175</postBox>
+                                    <region>Tehran</region>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Atomistic computer simulations on multi-loaded PAMAM dendrimers: A comparison of amine-and hydroxyl-terminated dendrimers</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>PAMAM dendrimers</term>
+                    <term>surface chemistry</term>
+                    <term>5-Fluorouracil</term>
+                    <term>molecular dynamics (MD) simulations</term>
+                    <term>multi-loading</term>
+                    <term>drug delivery INTRODUCTION</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Poly(amidoamine) (PAMAM) dendrimers have been extensively studied as delivery vectors in biomedical applications. A limited number of molecular dynamics (MD) simulation studies have investigated the effect of surface chemistry on therapeutic molecules loading, with the aim of providing insights for biocompatibility improvement and increase in drug loading capacity of PAMAM dendrimers. In this work, fully atomistic MD simulations were employed to study the association of 5-Fluorouracil (5-FU) with amine (NH 2)-and hydroxyl (OH)-terminated PAMAM dendrimers of generations 3 and 4 (G3 and G4). MD results show a 1:12, 1:1, 1:27, and 1:4 stoichiometry, respectively, for G3NH 2-FU, G3OH-FU, G4NH 2-FU, and G4OH-FU complexes, which is in good agreement with the isothermal titration calorimetry results. The results obtained showed that NH 2-terminated dendrimers assume segmented open structures with large cavities and more drug molecules can encapsulate inside the dendritic cavities of amine terminated dendrimers. However, OH-terminated have a densely packed structure and therefore, 5-FU drug molecules are more stable to locate close to the surface of the dendrimers. Intermolecular hydrogen bonding analysis showed that 5-FU drug molecules have more tendency to form hydrogen bonds with terminal monomers of OH-terminated dendrimers, while in NH 2-terminated these occur both in the inner region and the surface. Furthermore, MM-PBSA analysis revealed that van der Waals and electrostatic energies are both important to stabilize the complexes. We found that drug molecules are distributed uniformly inside the amine and hydroxyl terminated dendrimers and therefore, both dendrimers are promising candidates as drug delivery systems for 5-FU drug molecules.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

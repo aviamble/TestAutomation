@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T04:46+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">An unusual bi-arsenic capped Well-Dawson arsenomolybdate hybrid supramolecular material with photocatalytic property and anticancer activity</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Pengju</forename>
+                                <surname>Lv</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Automation</orgName>
+                                <orgName type="institution">Harbin Engineering University</orgName>
+                                <address>
+                                    <postCode>150001</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <addrLine>Daqing Campus</addrLine>
+                                    <postCode>163319</postCode>
+                                    <settlement>Daqing</settlement>
+                                    <region>Heilongjiang</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jie</forename>
+                                <surname>Yuan</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <addrLine>Daqing Campus</addrLine>
+                                    <postCode>163319</postCode>
+                                    <settlement>Daqing</settlement>
+                                    <region>Heilongjiang</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kai</forename>
+                                <surname>Yu</surname>
+                            </persName>
+                            <contact>
+                                <email>hlyukai188@163.com</email>
+								<phone>+86-451-88060570</phone>								
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">School of Chemistry and Chemical Engineering</orgName>
+                                <orgName type="institution">Harbin Normal University</orgName>
+                                <address>
+                                    <postCode>150025</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Jihong</forename>
+                                <surname>Shen</surname>
+                            </persName>
+                            <contact>
+                                <email>shenjihong@hrbeu.edu.cn</email>
+								<phone>+86-451-88060570</phone>								
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Automation</orgName>
+                                <orgName type="institution">Harbin Engineering University</orgName>
+                                <address>
+                                    <postCode>150001</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">An unusual bi-arsenic capped Well-Dawson arsenomolybdate hybrid supramolecular material with photocatalytic property and anticancer activity</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 *Corresponding author: *Corresponding author: Address: 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>supramolecular</term>
+                    <term>{As 2 Mo 18 }</term>
+                    <term>photocatalytic properties</term>
+                    <term>anticancer activity</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>An bi-arsenic capped Well-Dawson arsenomolybdates supramolecular material, formulated as, {pyr}{Hbib} 2 {As III 2 (OH) 2 As V 2 Mo 18 O 62 } (1) (pyr = pyrrole; bib = 1, 4-bis(1-imidazoly)benzene) has been hydrothermally synthesized and characterized by elemental analysis, IR, TG, UV, XRD, and single-crystal X-ray diffraction. In the structure of 1, {As 2 Mo 18 O 62 } (abbreviated to {As 2 Mo 18 }) polyanions are capped by two disordered As III units which are distributed in six symmetric ditches of the {Mo 3 O 13 } group on two poles of the Dawson cluster with the occupation ratio of 0.5 and 0.25, respectively. Two kinds of caps: pyramidal-shaped {AsO 3 } and tetrahedron {AsO 3 (OH)} caps are formed via the combination of three u-O atoms from Dawson cluster or the same three u-O atoms and one hydroxyl with As centers. Compound 1 represents a brand new bi-capped Dawson structure, which shows good photocatalytic behaviors for degradation of recalcitrant dyes Azon Phloxine (AP). Moreover, compound 1 exhibits an effective inhibition effect on proliferation of Human hepatoma cells (HepG-2) for the synergetic effect of Dawson cluster and As III cap.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Role of serotonin in the intestinal mucosal epithelium barrier in weaning mice undergoing stress-induced diarrhea</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Yulan</forename>
+                                <surname>Dong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Laboratory of Veterinary Anatomy</orgName>
+                                <orgName key="dep2" type="department">College of Animal Medicine</orgName>
+                                <orgName type="institution">China Agricultural University</orgName>
+                                <address>
+                                    <postCode>100193</postCode>
+                                    <settlement>Haidian, Beijing</settlement>
+                                    <country key="CN">People's Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zixu</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Laboratory of Veterinary Anatomy</orgName>
+                                <orgName key="dep2" type="department">College of Animal Medicine</orgName>
+                                <orgName type="institution">China Agricultural University</orgName>
+                                <address>
+                                    <postCode>100193</postCode>
+                                    <settlement>Haidian, Beijing</settlement>
+                                    <country key="CN">People's Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhuoming</forename>
+                                <surname>Qin</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Poultry</orgName>
+                                <orgName type="institution">Shandong Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>250100</postCode>
+                                    <settlement>Jinan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jing</forename>
+                                <surname>Cao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Laboratory of Veterinary Anatomy</orgName>
+                                <orgName key="dep2" type="department">College of Animal Medicine</orgName>
+                                <orgName type="institution">China Agricultural University</orgName>
+                                <address>
+                                    <postCode>100193</postCode>
+                                    <settlement>Haidian, Beijing</settlement>
+                                    <country key="CN">People's Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yaoxing</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <contact>
+                                <email>yxchen@cau.edu.cn</email>
+                                <phone>Tel.: +86-10-62733778</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Laboratory of Veterinary Anatomy</orgName>
+                                <orgName key="dep2" type="department">College of Animal Medicine</orgName>
+                                <orgName type="institution">China Agricultural University</orgName>
+                                <address>
+                                    <postCode>100193</postCode>
+                                    <settlement>Haidian, Beijing</settlement>
+                                    <country key="CN">People's Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Role of serotonin in the intestinal mucosal epithelium barrier in weaning mice undergoing stress-induced diarrhea</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>serotonin</term>
+                    <term>stress-induced diarrhea</term>
+                    <term>intestine</term>
+                    <term>tight junction Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Stress-induced diarrhea is a frequent and challenging threat to humans and domestic animals. Serotonin (5-HT) has been shown to be involved in the pathological process of stress-induced diarrhea. However, the role of 5-HT in stress-induced diarrhea remains unclear. A stress-induced diarrhea model was established in 21-day-old ICR weaning mice through an intragastric administration of 0.25 mL of 0.4 g/mL folium sennae and restraint of the hind legs with adhesive tape for four hours to determine whether 5-HT regulates the mucosal barrier to cause diarrhea. Mice with decreased levels of 5-HT were pretreated with an intraperitoneal injection of 300 mg/kg p-Chlorophenylalanine (PCPA), a 5-HT synthesis inhibitor. After 5 days of treatment, the stress level, body weight and intestinal mucosal morphology indexes were measured. Compared to the controls, the mice with stress-induced diarrhea displayed a stress reaction, with increased corticosterone levels, as well as increased 5-HT-positive cells. However, the mice with stress-induced diarrhea exhibited decreased body weights, villus height to crypt depth ratios (V/C), and Occludin and Claudin1 expression. The PCPA injection reversed these effects in mice with different degrees of stress-induced diarrhea. Based on these findings, inhibition of 5-HT synthesis relieved the stress response and improved the health of the intestinal tract, including both the intestinal absorption capacity, as determined by the villus height and crypt depth, and the mucosal barrier function, as determined by the tight epithelial cell junctions.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

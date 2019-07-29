@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Seojung</forename>
+                                <surname>Jung</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>jungs@oldwestbury.edu</email>
+                                <phone>Phone: 516-876-3439; Fax: 516-876-8432</phone>
+                            </contact>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">SUNY College at Old Westbury</orgName>
+                                <address>
+                                    <postBox>P.O. Box 210</postBox>
+                                    <postCode>11568</postCode>
+                                    <settlement>Old Westbury</settlement>
+                                    <region>NY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Karen</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Siedlecki</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>klsiedlecki@fordham.edu</email>
+                                <phone>Phone: 212-636-7891</phone>
+                            </contact>
+                            <affiliation key="aff2" role="corresp" sequence="2">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">Fordham University</orgName>
+                                <address>
+                                    <addrLine>113 West 60th Street</addrLine>
+                                    <postCode>10023</postCode>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Running head: ATTITUDE TOWARD OWN AGING Attitude Toward Own Aging: Age Invariance and Construct Validity Across Middle-aged, Young-Old, and Old-Old Adults Author contact information: (Corresponding Author)</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Attitude Toward Own Aging</term>
+                    <term>self-perceptions of aging</term>
+                    <term>subjective aging</term>
+                    <term>measurement invariance</term>
+                    <term>construct validity</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The Attitude Toward Own Aging (ATOA) scale assesses an individual's evaluation of their own aging, and has been widely used in the field of subjective aging literature. The present study examined whether the ATOA scale measures the same construct across middle-aged (40-60), young-old (61-74), and old-old adults (ages 75 or older) and also evaluated the construct validity of the ATOA construct in relation to measures of subjective well-being. Data drawn from the 2008 wave of the German Aging Survey (DEAS; n = 6,091) were used. ATOA was assessed by the ATOA subscale of the Philadelphia Geriatric Center Morale Scale (PGCMS) and subjective well-being was assessed with the Satisfaction with Life Scale (SWLS) and the Positive and Negative Affect Scale (PANAS). Confirmatory factor analysis revealed that the model fit of the one-factor model consisting of 4 items fit the data well. Multi-group invariance analyses provide evidence for configural and metric invariance of the ATOA scale across the age groups, but not for scalar invariance. Additional analysis assessing construct validity indicated that the ATOA items exhibited convergent validity. The findings support the utility of the 4-item scale when examining age group differences of attitude toward own aging across a wide age range and that ATOA is distinct from measures of subjective well-being. Attitude Toward Own Aging: Age Invariance and Construct Validity Across Middle-aged, Young-Old, and Old-Old Adults Negative age-related stereotypes are well-documented. Research shows that older adults in our society are often perceived as isolated, incapable, dependent, sick, and lonely (Nelson, 2004; Palmore, 2001). These kinds of negative age stereotypes not only impact the lives of elderly in negative ways, but also the way individuals of all ages evaluate their own aging. Levy's stereotype embodiment theory (2009; 2003) and empirical studies suggest that individuals' age stereotypes or attitudes towards older adults can begin in early childhood and become implicitly internalized as a form of self-concept (Kornadt &amp; Ruthermund, 2012; Rothermund, &amp; Brandtstädter, 2003). These internalized age stereotypes can adversely impact a</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:49+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Oxyphenbutazone promotes cytotoxicity in rats and Hep3B cellsvia suppression of PGE 2 and deactivation of Wnt/ß-catenin signaling pathway</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Shakir</forename>
+                                <surname>Saleem</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Glocal School of Pharmacy</orgName>
+                                <orgName type="institution">Glocal University</orgName>
+                                <address>
+									<postCode>247121</postCode>
+                                    <settlement>Saharanpur</settlement>
+									<region>Uttar Pradesh</region>
+                                    <country key="IN">India</country>
+								</address>
+                            </affiliation>
+						</author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ruqaiyah</forename>
+                                <surname>Khan</surname>
+                            </persName>
+							<affiliation key="aff3">
+                                <orgName type="institution">Siddhartha Institute of Pharmacy</orgName>
+                                <address>
+                                    <settlement>Dehradun</settlement>
+                                    <region>Uttarakhand</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Muhammad</forename>
+                                <surname>Afzal</surname>
+                            </persName>
+							<affiliation key="aff2">
+                                <orgName type="department">Department of Pharmacology, College of Pharmacy</orgName>
+                                <orgName type="institution">Aljouf University</orgName>
+                                <address>
+                                    <settlement>Sakaka</settlement>
+                                    <region>KSA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Imran</forename>
+                                <surname>Kazmi</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>kazmiimran2005@gmail.com</email>
+                                <phone>+91 96 90 717 533</phone>
+                            </contact>
+							<affiliation key="aff1">
+                                <orgName type="department">Glocal School of Pharmacy</orgName>
+                                <orgName type="institution">Glocal University</orgName>
+                                <address>
+									<postCode>247121</postCode>
+                                    <settlement>Saharanpur</settlement>
+									<region>Uttar Pradesh</region>
+                                    <country key="IN">India</country>
+							</address>
+                            </affiliation>
+							<affiliation key="aff4">
+                                <orgName type="department">Glocal School of Pharmacy</orgName>
+                                <orgName type="institution">Glocal University</orgName>
+                                <address>
+									<settlement>Saharanpur</settlement>
+									<country key="IN">India</country>
+								</address>
+                            </affiliation>
+						</author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <surname>Saleem</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Glocal School of Pharmacy</orgName>
+                                <orgName type="institution">Glocal University</orgName>
+                                <address>
+									<postCode>247121</postCode>
+                                    <settlement>Saharanpur</settlement>
+									<region>Uttar Pradesh</region>
+                                    <country key="IN">India</country>
+									
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">I.</forename>
+                                <surname>Kazmi</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Glocal School of Pharmacy</orgName>
+                                <orgName type="institution">Glocal University</orgName>
+                                <address>
+									<postCode>247121</postCode>
+                                    <settlement>Saharanpur</settlement>
+									<region>Uttar Pradesh</region>
+                                    <country key="IN">India</country>
+									
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <surname>Afzal</surname>
+                            </persName>
+							<affiliation key="aff2">
+                                <orgName type="department">Department of Pharmacology, College of Pharmacy</orgName>
+                                <orgName type="institution">Aljouf University</orgName>
+                                <address>
+                                    <settlement>Sakaka</settlement>
+                                    <region>KSA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">R.</forename>
+                                <surname>Khan</surname>
+                            </persName>
+							<affiliation key="aff3">
+                                <orgName type="institution">Siddhartha Institute of Pharmacy</orgName>
+                                <address>
+                                    <settlement>Dehradun</settlement>
+                                    <region>Uttarakhand</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                       
+                        <title level="a" type="main">Oxyphenbutazone promotes cytotoxicity in rats and Hep3B cellsvia suppression of PGE 2 and deactivation of Wnt/ß-catenin signaling pathway</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hepatocellular carcinoma (HCC) is the fifth leading cause of death and is generally typified by elevated liver enzyme biomarkers, antioxidants and chronic inflammation of hepatocytes. Although, currently available drugs have shown remarkable alleviation of the cancerous condition, but at the same time they present a more severe challenge of toxic effects due to chemotherapy.Therefore, in order to bring more patient compliant therapy, we aimedtorefurbishthe use of a COX inhibitor,oxyphenbutazone (OPB), with low dose of</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:47+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Brevinin-2R and Derivatives as Potential Anticancer Peptides: Synthesis, Purification, Characterization and Biological Activities</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Robab</forename>
+                                <forename type="middle">Hassanvand</forename>
+                                <surname>Jamadi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of biology, faculty of science</orgName>
+                                <orgName type="institution">University of Mohaghegh Ardabili</orgName>
+                                <address>
+                                    <settlement>Ardabil</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Hashem</forename>
+                                <surname>Yaghoubi</surname>
+                            </persName>
+                            <contact>
+                                <email>yaghoubi_h@iauardabil.ac.ir</email>
+                                <phone>+989125798735</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Biology</orgName>
+                                <orgName type="department" key="dep2">Ardabil Branch</orgName>
+                                <orgName type="institution">Islamic Azad University</orgName>
+                                <address>
+                                    <settlement>Ardabil</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Majid</forename>
+                                <surname>Sadeghizadeh</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Genetics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Brevinin-2R and Derivatives as Potential Anticancer Peptides: Synthesis, Purification, Characterization and Biological Activities</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>anticancer activity</term>
+                    <term>apoptosis</term>
+                    <term>Brevinin-2R</term>
+                    <term>cell cycle</term>
+                    <term>chemical Synthesis Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Brevinin-2R (BR-2R), a novel antimicrobial and anti-cancer peptide and two derivatives, BR-C and BR-D, were well designed, synthesized and purified by RP-HPLC (reverse phase high pressure chromatography). Accuracy was confirmed through mass spectrometry. MTT (3-(4,5-dimethylthiazol-2-yl)-2,5 diphenyltetrazolium bromide) assays were carried out to determine cytotoxicity of various concentrations of peptides and their anti-proliferative potential. Results indicate that these compounds have significant anticancer activities in vitro on both MCF-7 (human breast adenocarcinoma) and A549 (human lung carcinoma) cancer cells in a concentration-dependent manner, although showed less cytotoxicity on human red blood cell. Further investigation verified that apoptosis induction, confirmed by Annexin V/PI staining and strong sub G1 cell cycle arrest, was observed in treated MCF-7 and A549 cells. Induction of apoptosis and anti-proliferating activity were closely associated with augmentation of caspase-3/7 activity, surging the apoptotic cells with no variation on caspase-8 activity. The growth inhibition of BR-2R was exceedingly stronger than two derivatives; on the other hand, MCF-7 was more susceptible to treatment than A549. Findings prominently suggested development of Brevinin-2R and derivatives as novel promising compounds for cancer therapy, which may conquer drug resistance.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

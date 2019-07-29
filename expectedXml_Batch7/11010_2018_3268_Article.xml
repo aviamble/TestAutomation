@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:49+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Hepatocyte nuclear factors as possible C-reactive protein transcriptional inducer in liver and white adipose tissue of rats with experimental chronic renal failure</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Elzbieta</forename>
+                                <surname>Sucajtys-Szulc</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Nephrology, Transplantology, and Internal Medicine</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 7</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alicja</forename>
+                                <surname>Debska-Slizien</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Nephrology, Transplantology, and Internal Medicine</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 7</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Boleslaw</forename>
+                                <surname>Rutkowski</surname>
+                                <authordegree>MD, PhD,</authordegree>
+                            </persName>
+							 <contact>
+                            <email>bolo@gumed.edu.pl</email>
+                        </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Nephrology, Transplantology, and Internal Medicine</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 7</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+							 <affiliation key="aff6">
+                                <orgName type="department">Department of Nephrology, Transplantology, and Internal Medicine</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 7</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ryszard</forename>
+                                <surname>Milczarek</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Pharmaceutical Biochemistry</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 1</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Iwona</forename>
+                                <surname>Pelikant-Malecka</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 1</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department" key="dep1">Department of Clinical Analytics</orgName>
+                                <orgName type="department" key="dep2">Central Bank of Frozen Tissues and Genetic Specimens</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 7</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tomasz</forename>
+                                <surname>Sledzinski</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Pharmaceutical Biochemistry</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 1</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Julian</forename>
+                                <surname>Swierczynski</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 1</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">State School of Higher Vocational Education in Koszalin</orgName>
+                                <address>
+                                    <addrLine>Lesna 1</addrLine>
+                                    <postCode>75-582</postCode>
+                                    <settlement>Koszalin</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Marek</forename>
+                                <surname>Szolkiewicz</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Nephrology, Transplantology, and Internal Medicine</orgName>
+                                <orgName type="institution">Medical University of Gdansk</orgName>
+                                <address>
+                                    <addrLine>Debinki 7</addrLine>
+                                    <postCode>80-211</postCode>
+                                    <settlement>Gdansk</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                       
+                        <title level="a" type="main">Hepatocyte nuclear factors as possible C-reactive protein transcriptional inducer in liver and white adipose tissue of rats with experimental chronic renal failure</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Short title: HNFs as possible mediators of inflammation in experimental CRF Conflict of interest statements The authors declare that they have no conflicts of interest. Financial disclosures This work was supported by grants ST-4, ST-40, and ST-41, from the Medical University of Gdansk Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>CRP</term>
+                    <term>Il-6</term>
+                    <term>HNF1</term>
+                    <term>HNF4</term>
+                    <term>LPS</term>
+                    <term>CRF</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

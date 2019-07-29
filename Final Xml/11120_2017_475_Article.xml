@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T06:32+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Binding of pigments to the cyanobacterial High-light-inducible protein HliC</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mahendra</forename>
+                                <forename type="middle">Kumar</forename>
+                                <surname>Shukla</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre Algatech, Institute of Microbiology</orgName>
+                                <orgName type="institution">Academy of Sciences of the Czech Republic</orgName>
+                                <address>
+                                    <postCode>379 81</postCode>
+                                    <settlement>Trebon</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Science</orgName>
+                                <orgName type="institution">University of South Bohemia</orgName>
+                                <address>
+                                    <postCode>370 01</postCode>
+                                    <settlement>Ceské Budejovice</settlement>									
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Manuel</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Llansola-Portoles</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS</orgName>
+                                <orgName type="institution">Université Paris-Saclay</orgName>
+                                <address>
+                                    <postCode>F-91198</postCode>
+                                    <settlement>Gif-sur-Yvette cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Martin</forename>
+                                <surname>Tichý</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre Algatech, Institute of Microbiology</orgName>
+                                <orgName type="institution">Academy of Sciences of the Czech Republic</orgName>
+                                <address>
+                                    <postCode>379 81</postCode>
+                                    <settlement>Trebon</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andrew</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Pascal</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS</orgName>
+                                <orgName type="institution">Université Paris-Saclay</orgName>
+                                <address>
+                                    <postCode>F-91198</postCode>
+                                    <settlement>Gif-sur-Yvette cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bruno</forename>
+                                <surname>Robert</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS</orgName>
+                                <orgName type="institution">Université Paris-Saclay</orgName>
+                                <address>
+                                    <postCode>F-91198</postCode>
+                                    <settlement>Gif-sur-Yvette cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Roman</forename>
+                                <surname>Sobotka</surname>
+                            </persName>
+                            <contact>
+                                <email>sobotka@alga.cz</email>
+                                <phone>+420-384340434</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre Algatech, Institute of Microbiology</orgName>
+                                <orgName type="institution">Academy of Sciences of the Czech Republic</orgName>
+                                <address>
+                                    <postCode>379 81</postCode>
+                                    <settlement>Trebon</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Science</orgName>
+                                <orgName type="institution">University of South Bohemia</orgName>
+                                <address>
+                                    <addrLine>Ceské Budejovice</addrLine>
+                                    <postCode>370 01</postCode>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						<author>
+                            <affiliation>
+                                <orgName type="department">Centre Algatech, Institute of Microbiology</orgName>
+                                <orgName type="institution">Academy of Sciences of the Czech Republic</orgName>
+                                <address>
+                                    <postCode>379 81</postCode>
+                                    <settlement>Trebon</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>						
+                        <title level="a" type="main">Binding of pigments to the cyanobacterial High-light-inducible protein HliC</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>+ These authors contributed equally to this work. *Correspondence to: Running title Binding of pigments to HliC Acknowledgments: We thank Dr. Andrew Hitchcock for reading the manuscript. This study</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Synechocystis</term>
+                    <term>HLIPs</term>
+                    <term>HliC</term>
+                    <term>Raman spectroscopy</term>
+                    <term>chlorophyll</term>
+                    <term>ß-carotene</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

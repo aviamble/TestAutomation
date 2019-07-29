@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:16+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Article type: Methods and Resource Articles Title: Understanding predation behaviour of the tiger (Panthera tigris tigris) in Ranthambore Tiger Reserve, Rajasthan, India: Use of low-cost gel based molecular sexing of prey hairs from scats</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Rahul</forename>
+                                <surname>De</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Wildlife Institute of India</orgName>
+                                <address>
+                                    <postCode>PIN -248001</postCode>
+                                    <settlement>Chandrabani, Dehradun</settlement>
+                                    <region>Uttarakhand</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bheem</forename>
+                                <forename type="middle">Dutt</forename>
+                                <surname>Joshi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Wildlife Institute of India</orgName>
+                                <address>
+                                    <postCode>PIN -248001</postCode>
+                                    <settlement>Chandrabani, Dehradun</settlement>
+                                    <region>Uttarakhand</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Malay</forename>
+                                <surname>Shukla</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Gujarat Forensic Sciences University</orgName>
+                                <address>
+                                    <postCode>PIN -382007</postCode>
+                                    <settlement>Gandhinagar</settlement>
+                                    <region>Gujarat</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Puneet</forename>
+                                <surname>Pandey</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Amity Institute of Wildlife Sciences</orgName>
+                                <orgName type="institution">Amity University Campus</orgName>
+                                <address>
+                                    <addrLine>Sector-125, Gautam Buddha Nagar</addrLine>
+                                    <postCode>PIN -201303</postCode>
+                                    <settlement>Noida</settlement>
+                                    <region>Uttar Pradesh</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Randeep</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Amity Institute of Wildlife Sciences</orgName>
+                                <orgName type="institution">Amity University Campus</orgName>
+                                <address>
+                                    <addrLine>Sector-125, Gautam Buddha Nagar</addrLine>
+                                    <postCode>PIN -201303</postCode>
+                                    <settlement>Noida</settlement>
+                                    <region>Uttar Pradesh</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Surendra</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Goyal</surname>
+                            </persName>
+                            <contact>
+                                <email>goyalsp@wii.gov.in</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Wildlife Institute of India</orgName>
+                                <address>
+                                    <postCode>PIN -248001</postCode>
+                                    <settlement>Chandrabani, Dehradun</settlement>
+                                    <region>Uttarakhand</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Article type: Methods and Resource Articles Title: Understanding predation behaviour of the tiger (Panthera tigris tigris) in Ranthambore Tiger Reserve, Rajasthan, India: Use of low-cost gel based molecular sexing of prey hairs from scats</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Diet reconstruction of carnivores elucidates ecology of the species and prey-predator relationship in different bioclimatic regions. Micro-histological analyses of undigested prey hairs from tiger scats have widely been used for reconstruction of predator diet. However, sex of the prey is obtained from kill data, acquiring which require extensive and intensive monitoring. The encounter rate of scats in the field is relatively higher than that of kills. Thus, we used microscopic examination of prey hairs isolated from confirmed tiger scats (n=42) collected from Ranthambore Tiger Reserve, Rajasthan, India to identify prey species. We describe a novel method for prey sex identification from a single hair collected per tiger scat. We extracted DNA from the prey hairs and validated the absence of tiger DNA using felid specific microsatellite loci. We could amplify up to 230 bp (base pairs) nuclear and mitochondrial fragments successfully from DNA extracted from a single prey hair. We amplified a Y-linked fragment for identifying male individuals while using a mitochondrial marker as a control for PCR amplification. Sambar (Rusa unicolor) and chital (Axis axis) were the principal prey of tiger in the study area with frequencies of occurrences of 47.6% and 30.9% respectively in tiger scats. The proportions of sambar and chital males in tiger diet were 80% and 61.5% respectively. The literature indicate that cervid males are more prone to predation, possibly shaping the demography of the prey species. The results corroborated previous studies reporting male-biased predation and were consistent with the low proportion of males documented in the wild populations. This technique can also identify the sex of young prey, which is difficult to ascertain from kills. Therefore, the described methodology holds the potential to augment information on tiger diet and underlying prey-predator dynamics to a finer resolution. Keywords Tiger, diet reconstruction, food habit, molecular sexing, sex-biased predation. Introduction Determining diet composition has a major implication in comprehending various life-history traits in carnivores including spatial distribution, movement patterns, habitat selection, social structure and reproductive success (Krebs 1978; Bekoff et al. 1984). Therefore, understanding of dietary habits has enabled ecologists to assess the influence of predators on prey communities (Radloff and Du Toit 2004; Owen-smith 2008). The majority of predators feed on more than one prey species dwelling in complex and heterogeneous environments. The ability to distinguish between the prey and make decisions related to optimal foraging is thus of utmost necessity for the predators (Ishii and Shimada 2010). Prey choice plays a key part in defining movement pattern, habitat selection, social structure, geographical distribution and reproductive success of large felids (Sunquist and Sunquist 1989). Sunquist and Sunquist (1999) showed that the average sizes of prey killed by tigers vary considerably across landscapes as numerous ecological variables, e.g. prey availability,</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T06:03+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effect of down-regulating 1-deoxy-D-xylulose-5-phosphate reductoisomerase by RNAi on growth and artemisinin biosynthesis in Artemisia annua L</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Cong</forename>
+                                <forename type="middle">Hui</forename>								
+                                <surname>Wang</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiu</forename>
+                                <forename type="middle">Yun</forename>								
+                                <surname>Lei</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jing</forename>
+                                <surname>Xia</surname>
+                            </persName>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jian</forename>
+                                <forename type="middle">Wen</forename>
+                                <surname>WANG</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>jwwang@suda.edu.cn</email>
+								<email>bcjwwang@gmail.com</email>
+                                <phone>+86 512 69561430</phone>
+                            </contact>
+                           <affiliation key="aff2">
+                                <orgName type="department">College of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Soochow University</orgName>
+                                <address>
+                                    <postCode>215123</postCode>
+                                    <settlement>Suzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Soochow University Suzhou</orgName>
+                                <address>
+                                    <postCode>215123</postCode>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effect of down-regulating 1-deoxy-D-xylulose-5-phosphate reductoisomerase by RNAi on growth and artemisinin biosynthesis in Artemisia annua L</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Submitted to: Plant Growth Regulation (Revision 1) Running title: Effect of down-regulating DXR by RNAi in Artemisia annua Corresponding author: Number of Figures: 6 Number of Tables: 1 Number of Supplemental Figures: 2 Number of Supplemental Tables: 1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>1-Deoxy-D-xylulose-5-phosphate reductoisomerase (DXR), an important enzyme in the 2-C-methyl-D-erythritol-4-phosphate (MEP) pathway in plant plastids, provides the basic five-carbon units for isoprenoid biosynthesis. To investigate the</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

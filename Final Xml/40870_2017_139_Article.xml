@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:08+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Dynamic Tensile Experimental Techniques for Geomaterials – A Comprehensive Review</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">William</forename>
+                                <surname>Heard</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">U.S. Army Engineer Research and Development Center</orgName>
+                                <address>
+									<settlement>Vicksburg</settlement>
+                                    <region>MS</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bo</forename>
+                                <surname>Song</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Sandia National Laboratories</orgName>
+                                <address>
+                                    <settlement>Albuquerque</settlement>
+                                    <region>NM</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Brett</forename>
+                                <surname>Williams</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">U.S. Army Engineer Research and Development Center</orgName>
+                                <address>
+									<settlement>Vicksburg</settlement>
+                                    <region>MS</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Mechanical Engineering</orgName>
+                                <orgName type="institution">Southern Methodist University</orgName>
+                                <address>
+                                    <settlement>Dallas</settlement>
+                                    <region>TX</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bradley</forename>
+                                <surname>Martin</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">U.S. Air Force Research Laboratory</orgName>
+                                <address>
+                                    <addrLine>Eglin AFB</addrLine>
+                                    <region>FL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Paul</forename>
+                                <surname>Sparks</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">U.S. Army Engineer Research and Development Center</orgName>
+                                <address>
+									<settlement>Vicksburg</settlement>
+                                    <region>MS</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xu</forename>
+                                <surname>Nie</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Mechanical Engineering</orgName>
+                                <orgName type="institution">Southern Methodist University</orgName>
+                                <address>
+                                    <settlement>Dallas</settlement>
+                                    <region>TX</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Dynamic Tensile Experimental Techniques for Geomaterials – A Comprehensive Review</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Dynamic tension</term>
+                    <term>geomaterials</term>
+                    <term>high strain rate</term>
+                    <term>Hopkinson bar</term>
+                    <term>Kolsky bar</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>This review article is dedicated to the Dynamic Behavior of Materials Technical Division for celebrating the 75 th anniversary of the Society for Experimental Mechanics (SEM). Understanding dynamic behavior of geomaterials is critical for analyzing and solving engineering problems of various applications related to underground explosions, seismic, airblast, and penetration events. Determining the dynamic tensile response of geomaterials has been a great challenge in experiments due to the nature of relatively low tensile strength and high brittleness. Various experimental approaches have been made in the past century, especially in the most recent half century, to understand the dynamic behavior of geomaterials in tension. In this review paper, we summarized the dynamic tensile experimental techniques for geomaterials that have been developed. The major dynamic tensile experimental techniques include dynamic direct tension, dynamic split tension, and spall tension. All three of the experimental techniques are based on Hopkinson or split Hopkinson (also known as Kolsky) bar techniques and principles. Uniqueness and limitations for each experimental technique are also discussed.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

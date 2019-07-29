@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:20+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Sulphonic Acid-Functionalized Benzimidazolium based Poly ionic liquid Catalyzed Esterification of Levulinic Acid</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Avinash</forename>
+                                <forename type="middle">Ganesh</forename>
+                                <surname>Khiratkar</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Chemistry</orgName>
+                                <orgName type="department" key="dep2">School of Advanced Sciences</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632014</postCode>
+									<settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kamlesh</forename>
+                                <forename type="middle">Rudreshwar</forename>
+                                <surname>Balinge</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Chemistry</orgName>
+                                <orgName type="department" key="dep2">School of Advanced Sciences</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632014</postCode>
+									<settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Manikandan</forename>
+                                <surname>Krishnamurthy</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Chemistry</orgName>
+                                <orgName type="department" key="dep2">School of Advanced Sciences</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632014</postCode>
+									<settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <surname>Cheralathan</surname>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">K.</forename>
+                            </persName>
+							 <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Chemistry</orgName>
+                                <orgName type="department" key="dep2">School of Advanced Sciences</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632014</postCode>
+									<settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dipesh</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Patle</surname>
+                            </persName>
+                           
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Chemical Engineering</orgName>
+                                <orgName type="department" key="dep2">School of Civil and Chemical Engineering</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632 014</postCode>
+                                    <settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vishal</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Chemical Engineering</orgName>
+                                <orgName type="department" key="dep2">School of Civil and Chemical Engineering</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632 014</postCode>
+                                    <settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sanyam</forename>
+                                <surname>Arora</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Chemical Engineering</orgName>
+                                <orgName type="department" key="dep2">School of Civil and Chemical Engineering</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632 014</postCode>
+                                    <settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Pundlik</forename>
+                                <forename type="middle">Rambhau</forename>
+                                <surname>Bhagat</surname>
+                            </persName>
+                            <contact>
+                                <email>drprbhagat111@gmail.com</email>
+                                <phone>+91-9047289073</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Chemistry</orgName>
+                                <orgName type="department" key="dep2">School of Advanced Sciences</orgName>
+                                <orgName type="institution">VIT</orgName>
+                                <address>
+                                    <postCode>632014</postCode>
+									<settlement>Vellore</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Sulphonic Acid-Functionalized Benzimidazolium based Poly ionic liquid Catalyzed Esterification of Levulinic Acid</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Sulphonic acid-functionalized Levulinic acid Benzimidazolium Poly Ionic Liquid Esterification Brønsted acid 1 Introduction</keywords>
+            </textClass>
+            <abstract>
+                <p>Esters of levulinic acid (LA) are bio-based compounds having widespread applications and have the remarkable potential to be blended with commercial diesel or gasoline. In this study, a sulphonic acid-functionalized benzimidazolium based poly ionic liquid (SAFBPIL) catalyst was prepared and characterized by NMR, FT-IR, elemental analysis (C, H, N, S), TGA and BET surface area. Brønsted acidity was determined by anion-exchange/neutralization titration method and was found to be 5.55 mmol/g. The heterogeneous ionic liquid catalyst showed an excellent thermal stability up to 270 ?C. Experiments were carried at different temperatures, LA to ethanol molar ratios, catalyst loadings and duration of the reaction in a batch reactor. The highest conversion was obtained at 70 o C using an initial LA:ethanol molar ratio of 1:10 and a catalyst loading of 15 wt? in 9 h. It was observed that ethyl levulinate (EL) could be effectively obtained over SAFBPIL with a selectivity higher than 99.5%. This is due to more acidic sites exhibited on SAFBPIL catalyst under optimized conditions. Herein, we are reporting for the first time an esterification of LA to EL using a new SAFBPIL as a catalyst. The catalyst was recycled for five runs without significant loss of catalytic activity.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

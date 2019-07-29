@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:23+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Environmental impact study of bagasse valorization routes</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Saurabh</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Joglekar</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Chemical Engineering Department</orgName>
+                                <orgName type="institution">Visvesvaraya National Institute of Technology</orgName>
+                                <address>
+                                    <addrLine>South Ambazari Road</addrLine>
+                                    <postCode>440010</postCode>
+                                    <settlement>Nagpur</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Akshay</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Tandulje</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Chemical Engineering Department</orgName>
+                                <orgName type="institution">Visvesvaraya National Institute of Technology</orgName>
+                                <address>
+                                    <addrLine>South Ambazari Road</addrLine>
+                                    <postCode>440010</postCode>
+                                    <settlement>Nagpur</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Sachin</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Mandavgane</surname>
+                            </persName>
+                            <contact>
+                                <email>mandavgane1@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Chemical Engineering Department</orgName>
+                                <orgName type="institution">Visvesvaraya National Institute of Technology</orgName>
+                                <address>
+                                    <addrLine>South Ambazari Road</addrLine>
+                                    <postCode>440010</postCode>
+                                    <settlement>Nagpur</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bhaskar</forename>
+                                <forename type="middle">D.</forename>
+                                <surname>Kulkarni</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <affiliation key="aff2">
+                                <orgName type="institution">National Chemical Laboratory</orgName>
+                                <address>
+                                    <settlement>Pune</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Environmental impact study of bagasse valorization routes</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>bagasse valorization</term>
+                    <term>LCA</term>
+                    <term>environmental impact</term>
+                    <term>midpoint indicators</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>India is the world&apos;s second largest producer of sugarcane and a major manufacturer of molasses-derived ethanol. The sugarcane produced is widely used in the production of sugar and 1G ethanol, leaving behind a huge amount of bagasse as waste. However, sugarcane bagasse also has some end-use value, for example, its utilization for the production of methanol, 2G ethanol, and electricity. Although the technologies for the production of these value-added products are well established, it is important to analyze the social, economic, and environmental impacts associated with their production processes. This work compares the environmental impacts of various sugarcane conversion processes on the life cycle basis. The functional unit used is 1 ton of sugarcane cultivated on field. Four routes were identified for bagasse utilization: (i) conversion to methanol (Route 1), (ii) conversion to ethanol via a two-stage dilute acid process (Route 2), (iii) conversion to ethanol via an enzymatic process (Route 3), and (iv) electricity generation (Route 4). The comparison of bagasse management scenarios to obtain various products is made based on midpoint indicators, such as global warming potential (GWP), acidification potential (AP), eutrophication potential (EP), ozone depletion potential (ODP), and photochemical ozone creation potential (POCP). It was observed that methanol production had the highest environmental indicator values. Ethanol production processes and cogeneration process have nearly similar impacts, although it can be said that cogeneration is more eco-friendly. Introduction Sugarcane is one of the major grasses cultivated worldwide. India, in particular, is the second</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

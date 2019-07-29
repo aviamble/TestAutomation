@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T11:14+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Perception of community on attachment and resilience according to closing of hospitals</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Kichan</forename>
+                                <surname>Yoon</surname>
+                            </persName>
+                            <contact>
+                                <email>ykichan08@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Health Policy &amp; Management</orgName>
+                                <orgName type="department" key="dep2">Health Science College</orgName>
+                                <orgName type="institution">Korea Univerisy</orgName>
+                                <address>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Munjae</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <contact>
+                                <email>emunjae@gmail.com</email>
+								<phone>82-10-8851-7796</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Medical Device Management and Research, SAIHST</orgName>
+                                <orgName type="institution" key="ins1">SAIHST</orgName>
+                                <orgName type="institution" key="ins2">Sungkyunkwan University</orgName>								
+                                <address>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Perception of community on attachment and resilience according to closing of hospitals</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 First author Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Closing of Hospital</term>
+                    <term>Attachment</term>
+                    <term>Resilience</term>
+                    <term>Difference in Differences (DID)</term>
+                    <term>Perception of community Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>This study includes a comparison analysis of how community resilience and its influence factor of community attachment were changed before and after the closing of the hospital in the rural community. In order to analyze the influence factors of healthcare and medical vulnerability on community resilience, as well as the mean difference from before and after the closing of the hospital, this study conducted matching sample t-test, hierarchical regression analysis, difference in differences (DID) analysis. The results indicate that community attachment consists of such factors as closeness, preference, affective bond, and identity, and they showed significance in confidence. It showed that resilience and community attachment are lower after closing than before closing. Moreover, as a result of DID analysis where the variation of community attachment affects community resilience, closeness together with closeness had an influence on the community resilience. It needs to expand public projects to improve the settlement environment of the basic local government, and in particular, it should consider various support measures to overcome vulnerabilities in 2 the healthcare and medical sector.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

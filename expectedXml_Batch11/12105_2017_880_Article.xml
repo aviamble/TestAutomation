@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:59+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">LOCALIZED NASOPHARYNGEAL AMYLOIDOSIS: A CLINICOPATHOLOGIC SERIES OF 7 CASES WITH A LITERATURE REVIEW</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Georgios</forename>
+                                <surname>Sakagiannis</surname>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Ear, Nose, Throat and Head and Neck Department</orgName>
+                                <orgName type="institution">Attikon University Hospital</orgName>
+                                <address>
+                                    <settlement>Athens</settlement>
+                                    <country key="GR">Greece</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Evangelos</forename>
+                                <surname>Giotakis</surname>
+                                <authordegree>M. D., Ph. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Ear, Nose, Throat and Head and Neck Department</orgName>
+                                <orgName type="institution">Attikon University Hospital</orgName>
+                                <address>
+                                    <settlement>Athens</settlement>
+                                    <country key="GR">Greece</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lester</forename>
+                                <forename type="middle">D.</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Thompson</surname>
+                                <authordegree>M. D.,</authordegree>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Pathology</orgName>
+								<orgName type="institution">Woodland Hills Medical Center</orgName>
+                                <address>
+                                    <settlement>California</settlement>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">LOCALIZED NASOPHARYNGEAL AMYLOIDOSIS: A CLINICOPATHOLOGIC SERIES OF 7 CASES WITH A LITERATURE REVIEW</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Authors: Running Title: Nasopharyngeal amyloidosis Total number of: 1) Text pages: 15 2) Tables: 2 3) Figures: 4 Compliance With Ethical Standards No external funding was obtained for this study. Conflict of Interest: All authors declare that he/she has not conflict of interest as it relates to this research project. Ethical approval: All procedures performed in this retrospective data analysis involving human participants were in accordance with the ethical standards of the institutional review board, which did not require informed consent. Anatomic Site: Nasopharynx Précis: Nasopharyngeal amyloidosis is rare, affecting primarily adults, usually presenting as isolated disease, probably reactive in nature.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>nasopharyngeal amyloidosis</term>
+                    <term>amyloidosis</term>
+                    <term>palatine tonsils</term>
+                    <term>nasopharynx</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Localized nasopharyngeal amyloidosis is an extremely rare entity with only 25 cases described in the English and German literature. We present a case series of 7 patients with localized nasopharyngeal amyloidosis and combine the findings with a thorough review the literature. INTRODUCTION</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

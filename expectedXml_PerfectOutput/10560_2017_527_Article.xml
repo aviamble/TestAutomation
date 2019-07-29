@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T09:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Conducting Successful Memory Interviews with Children</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Rachel</forename>
+                                <surname>Zajac</surname>
+                            </persName>
+                            <contact>
+                                <email>rachelz@psy.otago.ac.nz</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Psychology Department</orgName>
+                                <orgName type="institution">University of Otago</orgName>
+                                <address>
+                                    <postBox>PO Box 56</postBox>
+                                    <postCode>9054</postCode>
+                                    <settlement>Dunedin</settlement>
+                                    <country key="NZ">New Zealand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Deirdre</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Brown</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Psychology</orgName>
+                                <orgName type="institution">Victoria University of Wellington</orgName>
+                                <address>
+                                    <settlement>Wellington</settlement>
+                                    <country key="NZ">New Zealand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Conducting Successful Memory Interviews with Children</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Practitioners interview children in a range of settings to assess their wellbeing and to make decisions about their care. These interviews often have a significant memory component. Interviewing children about their past experiences, however, is a challenging task. It requires practitioners to be sensitive to children&apos;s developmental capacities and vulnerabilities, to understand how to facilitate effective retrieval and reporting of information, and to set aside the usual dynamics and expectations of how adults and children communicate. Managing these challenges requires constant evaluation, self-reflection, and professional development. Fortunately, several decades of research into children&apos;s memory and narrative development has provided a robust platform on which to base practice. Here, we provide a framework for devising a general approach to memory interviews with children that is both evidence-based and practical. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

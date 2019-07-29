@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Curing behavior and bonding strength of two-component fast-setting adhesives prepared with phenol-liquefied Cryptomeria japonica wood Curing behavior and bonding strength of two-component fast-setting adhesives prepared with phenol-liquefied Cryptomeria japonica wood</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Yen-Chun</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forestry</orgName>
+                                <orgName type="institution">National Chung-Hsing University</orgName>
+                                <address>
+                                    <postCode>402</postCode>
+                                    <settlement>Taichung</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wen-Jau</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <contact>
+                                <email>wjlee@dragon.nchu.edu.tw</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forestry</orgName>
+                                <orgName type="institution">National Chung-Hsing University</orgName>
+                                <address>
+                                    <postCode>402</postCode>
+                                    <settlement>Taichung</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Curing behavior and bonding strength of two-component fast-setting adhesives prepared with phenol-liquefied Cryptomeria japonica wood Curing behavior and bonding strength of two-component fast-setting adhesives prepared with phenol-liquefied Cryptomeria japonica wood</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Corresponding author: 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Honeymoon adhesive is a special adhesive system that contains two components which are applied onto two substrates separately for glulam manufacturing to provide a fast-setting capability. It has been confirmed that phenol-liquefied wood can be used as a raw material for preparing phenolic resins. In this study, liquefied wood (LW) was obtained by liquefying Cryptomeria japonica wood in phenol with sulfuric acid as a catalyst. Resorcinol-formaldehyde resin (RF), phenol-resorcinol-formaldehyde resins (PRF), LW-PF and LW-PRF (synthesized using LW as a raw material), and RF/LW and RF/LW-PF (blended RF with LW and LW-PF) were prepared. The properties such as non-volatile content, pH, viscosity gelation time and DSC curing behavior of these resins were measured. The results show all resins can be cured at room temperature when paraformaldehyde is added as a hardener, except for the LW-PF. The honeymoon adhesive was prepared by using RF and PRF that contains 10% paraformaldehyde as the A-component and LW-PRF, RF/LW and RF/LW-PF without paraformaldehyde as the B-component. After mixing the A-component and B-component, the gelation time of RF and PRF can be shortened. The glued lumber was prepared by separately applying the A-component and B-component on the surface of two wood strips and combining them. The result shows using RF/LW-PF as the B-component has faster bonding strength development than others. When PRF and RF are used as the A-component, they have a bonding strength of over 5.4 MPa, the requirement of CNS 11031 standard for the glued lumber of C. japonica, at pressing</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

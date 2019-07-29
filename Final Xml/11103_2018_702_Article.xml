@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T09:11+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">RAP2.6L and jasmonic acid–responsive genes are expressed upon Arabidopsis hypocotyl grafting but are not needed for cell proliferation related to healing</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Keita</forename>
+                                <surname>Matsuoka</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <addrLine>1-1 Toyosatodai</addrLine>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Utsunomiya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Raiki</forename>
+                                <surname>Yanagi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <addrLine>1-1 Toyosatodai</addrLine>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Utsunomiya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Emi</forename>
+                                <surname>Yumoto</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <addrLine>1-1 Toyosatodai</addrLine>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Utsunomiya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Takao</forename>
+                                <surname>Yokota</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <addrLine>1-1 Toyosatodai</addrLine>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Utsunomiya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hisakazu</forename>
+                                <surname>Yamane</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <addrLine>1-1 Toyosatodai</addrLine>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Utsunomiya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shinobu</forename>
+                                <surname>Satoh</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Graduate School of Life and Environmental Sciences</orgName>
+                                <orgName type="institution">University of Tsukuba</orgName>
+                                <address>
+                                    <addrLine>1-1-1 Tennodai</addrLine>
+                                    <postCode>305-8572</postCode>
+                                    <settlement>Tsukuba</settlement>
+                                    <region>Ibaraki</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Masashi</forename>
+                                <surname>Asahina</surname>
+                            </persName>
+                            <contact>
+                                <email>asahina@nasu.bio.teikyo-u.ac.jp</email>
+                                <phone>+81-28-627-7182 (ex. 7182)</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <addrLine>1-1 Toyosatodai</addrLine>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Utsunomiya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biosciences</orgName>
+                                <orgName type="institution">Teikyo University</orgName>
+                                <address>
+                                    <postCode>320-8551</postCode>
+                                    <settlement>Tochigi</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>						
+                        <title level="a" type="main">RAP2.6L and jasmonic acid–responsive genes are expressed upon Arabidopsis hypocotyl grafting but are not needed for cell proliferation related to healing</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author Number of black and white figures, color figures and tables Color figures: 5. Tables: 1 Supplementary figures: 6. Supplementary tables: 1. Key Message Jasmonic acid and RAP2.6L are induced upon wounding but are not involved in cell proliferation during healing in Arabidopsis hypocotyls.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

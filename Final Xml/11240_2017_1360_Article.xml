@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T11:59+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Optimization of cell/tissue culture of Linum persicum for production of lignans derivatives including Podophyllotoxin</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mina</forename>
+                                <surname>Esfandiari</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Plant Biology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postCode>14115-154</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Nanotechnology and Tissue Engineering</orgName>
+                                <orgName type="institution">Stem Cell Technology Research Center</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mohsen</forename>
+                                <surname>Sharifi</surname>
+                            </persName>
+                            <contact>
+                                <email>msharifi@modares.ac.ir</email>
+                                <phone>+9882884445</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Plant Biology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postCode>14115-154</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Farzaneh</forename>
+                                <surname>Mohamadyar-Toupkanlou</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Chemical Engineering</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemical Engineering</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hana</forename>
+                                <surname>Hanaee-Ahwaz</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Stem Cell Biology Department</orgName>
+                                <orgName type="institution">Stem Cell Technology Research Center</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Morteza</forename>
+                                <surname>Yousefzadi</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Marine Biology</orgName>
+                                <orgName type="institution">Hormozgan University</orgName>
+                                <address>
+									<settlement>Bandar Abbas</settlement>
+									<country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Azizollah</forename>
+                                <surname>Jafari</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department" key="dep1">Department of Phytochemistry</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Yasouj University</orgName>
+                                <address>
+                                    <settlement>Yasouj</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Symzar</forename>
+                                <surname>Hosseinzadeh</surname>
+                            </persName>
+                            <affiliation key="aff7">
+                                <orgName type="department" key="dep1">Department of Tissue Engineering and Regenerative Medicine</orgName>
+                                <orgName type="department" key="dep2">School of Advanced Technologies in Medicine</orgName>
+                                <orgName type="institution">Shahid Beheshti University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masoud</forename>
+                                <surname>Soleimani</surname>
+                            </persName>
+                            <affiliation key="aff8">
+                                <orgName type="department" key="dep1">Department of Hematology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Medicine</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Optimization of cell/tissue culture of Linum persicum for production of lignans derivatives including Podophyllotoxin</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Abbreviations: PTOX: Podophyllotoxin FW: Fresh weight 2 MPTOX: Methoxy podophyllotoxin NAA: 1-Naphthalene acetic acid Kin: Kinetin Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Linum persicum</term>
+                    <term>Lignan</term>
+                    <term>Podophyllotoxin</term>
+                    <term>Anti-cancer</term>
+                    <term>MCF7 cell line</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Linum persicum contains significant amount of lignans as podophyllotoxin (PTOX) that may show therapeutic effects against several types of metastatic cancers such as breast cancer. The aim of this study was to establish the cell culture of Linum persicum for lignans production and evaluation for anti-carcinogenic activity on MCF7 cell line. Also, lignan contents of the cell, callus, and plantlets and also in different parts including; capsule, leave, stem and root of the wild plants were determined using HPLC technique. The highest podophyllotoxin in capsules and pinoresinol in leaf and root organs were observed. Shoot extract of the in-vitro plantlets have greater cytotoxic effect on breast cancer cells (IC50= 5µg/ml) and leads to significant raise in ratio of Bax/ Bcl-2 value=1.42 and Rbl1 gene expression that are well-known as apoptotic inducing agents. In conclusion, due to cytotoxic activity of in-vitro plantlet extracts on MCF7 cell line with limited side-effects; the corresponding extracted component could be led to therapeutic approaches in future. Graphical Abstract</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

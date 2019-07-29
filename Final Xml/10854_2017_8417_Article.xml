@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:45+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Structural and Optical characterization of stacked MoS 2 Nanosheets by Hydrothermal Method</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Melbin</forename>
+                                <surname>Baby</surname>
+                            </persName>
+                            <contact>
+                                <email>melbin_83@yahoo.co.in</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Instrumentation</orgName>
+                                <orgName type="institution">Cochin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>682022</postCode>
+                                    <settlement>Cochin</settlement>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Sophisticated Test and Instrumentation Centre</orgName>
+                                <orgName type="institution">Cochin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>682022</postCode>
+                                    <settlement>Cochin</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">Rajeev</forename>
+                                <surname>Kumar</surname>
+                            </persName>
+                            <contact>
+                                <email>rajeev@cusat.ac.in</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Instrumentation</orgName>
+                                <orgName type="institution">Cochin University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>682022</postCode>
+                                    <settlement>Cochin</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Structural and Optical characterization of stacked MoS 2 Nanosheets by Hydrothermal Method</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Author for correspondence:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Molybdenum disulfide</term>
+                    <term>Transition metal dichalcogenides</term>
+                    <term>Exfoliation</term>
+                    <term>Stack</term>
+                    <term>nanosheets</term>
+                    <term>Hydrothermal</term>
+                    <term>PL emission</term>
+                    <term>CIE diagram</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Molybdenum disulfide (MoS 2), as a layered transition metal dichalcogenides has profound applications in electronic devices, sensors, Li-ion batteries, solar cells, water purification, photo catalysis etc. Layered transition metal dichalcogenides (TMDCs) are obtained through exfoliation of bulk material. There are various methods for synthesizing layered transition metal dichalcogenides from their respective bulk form. In this paper, we report hydrothermal method as the easiest and environmentally friendly way of preparing stacked MoS 2 nanosheets from its bulk form. Here we confirm the structural and morphological properties of these stacked nanosheets by X-ray diffraction and electron microscopy. Energy dispersive X-ray analyzer (EDAX) confirms the elemental composition of the prepared MoS 2 nanolayer. Optical properties of the stacked MoS 2 were characterized by UV-Vis Spectroscopy and Photoluminescence Spectroscopy (PL). The C.I.E Chromaticity diagram identifies the color of the emission using PL data.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

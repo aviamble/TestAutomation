@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Confined assembly of TiO 2 nanostructures in the nanochannels of AAO membrane</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Junhan</forename>
+                                <surname>Kong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials Science and Chemistry</orgName>
+                                <orgName type="institution">China University of Geosciences</orgName>
+                                <address>
+                                    <postCode>430074</postCode>
+                                    <settlement>Wuhan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tianyi</forename>
+                                <surname>Zhou</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Hongshan Highschool</orgName>
+                                <address>
+                                    <postCode>430074</postCode>
+                                    <settlement>Wuhan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Xiuling</forename>
+                                <surname>Wu</surname>
+                            </persName>
+                            <contact>
+                                <email>xlwu@cug.edu.cn</email>
+                                <email>cugwyq@126.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials Science and Chemistry</orgName>
+                                <orgName type="institution">China University of Geosciences</orgName>
+                                <address>
+                                    <postCode>430074</postCode>
+                                    <settlement>Wuhan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yongqian</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials Science and Chemistry</orgName>
+                                <orgName type="institution">China University of Geosciences</orgName>
+                                <address>
+                                    <postCode>430074</postCode>
+                                    <settlement>Wuhan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Confined assembly of TiO 2 nanostructures in the nanochannels of AAO membrane</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>TiO 2 nanostructures</term>
+                    <term>AAO membrane</term>
+                    <term>nanochannel</term>
+                    <term>optical</term>
+                    <term>ionic current 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Nanochannels were attractive nanostructures due to their special small sizes and biomimetic functions. Here we reported a novel hybrid nanochannel, which combined with TiO 2 nanostructures and anodic aluminum oxide (AAO) membrane. We used a facile solution-dipping method to make TiO 2 nanostructures assemble in the nanochannnels of AAO membrane. The morphologies of nanochannels were monitored by field emission scanning electron microscopy (FESEM) and the micro-regional compositions were characterized by energy dispersive spectrometer (EDS). Optical information of the nanochannels were recorded by ultraviolet-visible spectrophotometer (UV-vis), and the ionic current through nanochannels was recorded by an electrochemical workstation. From the results, the TiO 2 nanostructures were well-anchored on the walls of nanochannels and the size of nanostructures was uniform. The optical properties and ionic current of hybrid nanochannels would change when the conditions of dipping method changed. For this, this nanochannel had huge potential in the field of photovoltaic conversion, ionic rectifier and biosensor.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

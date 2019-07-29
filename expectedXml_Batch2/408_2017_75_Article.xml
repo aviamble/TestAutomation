@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Intratracheal administration of autologous bone marrow-derived cells ameliorates monocrotaline-induced pulmonary vessel remodeling and lung inflammation in rats</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yoriko</forename>
+                                <surname>Yamazato</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                        <contact>
+                            <phone>+81 98-895-1144</phone>
+                            <email>yoriy-ryk@umin.ac.jp</email>
+                        </contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Infectious, Respiratory, and Digestive Medicine</orgName>
+                                <orgName type="department" key="dep2">Graduate School and Faculty of Medicine</orgName>
+                                <orgName type="institution">University of the Ryukyus</orgName>
+                                <address>
+                                    <region>Okinawa</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masanobu</forename>
+                                <surname>Yamazato</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Cardiovascular Medicine, Nephrology and Neurology</orgName>
+                                <orgName type="department" key="dep2">Graduate School and Faculty of Medicine</orgName>
+                                <orgName type="institution">University of the Ryukyus</orgName>
+                                <address>
+                                    <region>Okinawa</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Akio</forename>
+                                <surname>Ishida</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Cardiovascular Medicine, Nephrology and Neurology</orgName>
+                                <orgName type="department" key="dep2">Graduate School and Faculty of Medicine</orgName>
+                                <orgName type="institution">University of the Ryukyus</orgName>
+                                <address>
+                                    <region>Okinawa</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jiro</forename>
+                                <surname>Fujita</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Infectious, Respiratory, and Digestive Medicine</orgName>
+                                <orgName type="department" key="dep2">Graduate School and Faculty of Medicine</orgName>
+                                <orgName type="institution">University of the Ryukyus</orgName>
+                                <address>
+                                    <region>Okinawa</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yusuke</forename>
+                                <surname>Ohya</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Cardiovascular Medicine, Nephrology and Neurology</orgName>
+                                <orgName type="department" key="dep2">Graduate School and Faculty of Medicine</orgName>
+                                <orgName type="institution">University of the Ryukyus</orgName>
+                                <address>
+                                    <region>Okinawa</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation>
+                                <orgName type="department">Department of Infectious, Respiratory, and Digestive Medicine, Graduate School and Faculty of Medicine</orgName>
+                               <orgName type="institution">University of the Ryukyus</orgName>							
+                                <address>
+                                    <addrLine>207 Uehara, Nishihara-city</addrLine>
+                                    <postCode>903-0215</postCode>
+                                    <region>Okinawa</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Intratracheal administration of autologous bone marrow-derived cells ameliorates monocrotaline-induced pulmonary vessel remodeling and lung inflammation in rats</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Word count: abstract 237 words, text 2596 words Total number of Figures: 5 Corresponding author: Running Head: Airway delivery of BMCs prevents MCT-induced lung injury</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

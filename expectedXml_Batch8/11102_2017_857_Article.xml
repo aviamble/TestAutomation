@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T07:08+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Malignant transformation in Non-Functioning Pituitary Adenomas (Pituitary Carcinoma)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Nèle</forename>
+                                <surname>Lenders</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Garvan Institute of Medical Research</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">St Vincent&apos;s Hospital</orgName>
+                                <orgName type="institution">University of New South Wales</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Royal Brisbane and Women&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Brisbane</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ann</forename>
+                                <surname>McCormack</surname>
+                            </persName>
+                            <contact>
+                                <email>a.mccormack@garvan.org.au</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Garvan Institute of Medical Research</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">St Vincent&apos;s Hospital</orgName>
+                                <orgName type="institution">University of New South Wales</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff4">
+                                <orgName type="department">Department of Endocrinology</orgName>
+								<orgName type="institution">St Vincent&apos;s Hospital</orgName>
+                                <address>
+								    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+              <title level="a" type="main">Malignant transformation in Non-Functioning Pituitary Adenomas (Pituitary Carcinoma)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author: Word count: 3522</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Pituitary carcinomas</term>
+                    <term>non-functioning pituitary adenomas</term>
+                    <term>aggressive pituitary tumours</term>
+                    <term>metastases</term>
+                    <term>temozolomide</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Non-functioning pituitary carcinomas (NFPC) are defined as tumours of adenophyseal origin with craniospinal or systemic dissemination, with the absence of a hormonal hypersecretion syndrome. These are a histologically heterogenous group of tumours, comprising gonadotroph, null cell, &quot; silent &quot; tumours of corticotroph, somatotroph or lactotroph cell lineages as well as plurihormonal Pit-1 tumours. NFPC are exceedingly rare, and hence few cases have been described. This review has identified 38 patients with NFPC reported in the literature. Recurrent invasive non-functioning pituitary adenomas (NFPA) were observed in a majority of patients. Various factors have been identified as markers of the potential for aggressive behaviour, including rapid tumour growth, growth after radiotherapy, gain or shift of hormone secretion and raised proliferative markers. Typically, there is a latency of several years from the original presentation with an NFPA to identification of metastases and only 5 cases reported with rapidly progressive malignant disease within 1 month of presentation. Therapeutic options include debulking surgery, radiation therapy and chemotherapy with temozolomide (TMZ) recommended as first line systemic treatment. Although long-term survivors are described, prognosis remains generally very poor (median survival 8 months). Improvements in molecular tumour profiling may assist in predicting tumour behaviour, guide therapeutic choices and identify novel therapies. Word count: 203 Epidemiology and definition Pituitary carcinomas (PC) are defined as tumours of adenophyseal origin with craniospinal or systemic dissemination [1]. They are exceedingly rare, with a reported prevalence of 0.1-0.5% of all pituitary tumours [2-7]. Incidence may be underreported, given that in some cases metastatic disease was only detected on post mortem evaluation [8-10]. Prolactin (PRL) and adrenocorticotropic hormone (ACTH)-secreting PC are most common, with clinically non-functioning (NF) PC accounting for just 15-30% of cases, and in fact the true proportion of NFPC may be overestimated [1,11,12,2,13]. Many older cases have not had hormonal immunohistochemistry performed to assist with classification. Furthermore, incorporation of transcription factor expression analysis in pathological reporting, as recommended in the recent World Health Organisation (WHO) 2017 classification of pituitary tumours, will better identify pituitary tumour cell lineage [1,14].</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

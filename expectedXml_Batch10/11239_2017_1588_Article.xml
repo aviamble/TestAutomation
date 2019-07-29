@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T11:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Cost-Effectiveness Analysis of Patient Self-Testing Therapy of Oral Anticoagulation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sutat</forename>
+                                <surname>Kantito</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="department" key="dep3">Faculty of Medicine</orgName>
+                                <orgName type="department" key="dep4">Ramathibodi Hospital</orgName>
+                                <orgName type="institution">Mahidol University</orgName>
+                                <address>
+                                    <settlement>Bangkok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Surasak</forename>
+                                <surname>Saokaew</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Center of Health Outcomes Research and Therapeutic Safety (Cohorts)</orgName>
+                                <orgName type="department" key="dep2">Department of Pharmaceutical Care</orgName>
+                                <orgName type="department" key="dep3">School of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">University of Phayao</orgName>
+                                <address>
+                                    <settlement>Phayao</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Center of Pharmaceutical Outcomes Research (CPOR)</orgName>
+                                <orgName type="department" key="dep2">Faculty of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Naresuan University</orgName>
+                                <address>
+                                    <settlement>Phitsanulok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sukit</forename>
+                                <surname>Yamwong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="department" key="dep3">Faculty of Medicine</orgName>
+                                <orgName type="department" key="dep4">Ramathibodi Hospital</orgName>
+                                <orgName type="institution">Mahidol University</orgName>
+                                <address>
+                                    <settlement>Bangkok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Prin</forename>
+                                <surname>Vathesatogkit</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="department" key="dep3">Faculty of Medicine</orgName>
+                                <orgName type="department" key="dep4">Ramathibodi Hospital</orgName>
+                                <orgName type="institution">Mahidol University</orgName>
+                                <address>
+                                    <settlement>Bangkok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wisuit</forename>
+                                <surname>Katekao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="department" key="dep3">Faculty of Medicine</orgName>
+                                <orgName type="department" key="dep4">Ramathibodi Hospital</orgName>
+                                <orgName type="institution">Mahidol University</orgName>
+                                <address>
+                                    <settlement>Bangkok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Piyamitr</forename>
+                                <surname>Sritara</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="department" key="dep3">Faculty of Medicine</orgName>
+                                <orgName type="department" key="dep4">Ramathibodi Hospital</orgName>
+                                <orgName type="institution">Mahidol University</orgName>
+                                <address>
+                                    <settlement>Bangkok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Nathorn</forename>
+                                <surname>Chaiyakunapruk</surname>
+                                <authordegree>PharmD, PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>nathorn.chaiyakunapruk@monash.edu</email>
+                                <phone>(+603) 5514-4413</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Center of Pharmaceutical Outcomes Research (CPOR)</orgName>
+                                <orgName type="department" key="dep2">Faculty of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Naresuan University</orgName>
+                                <address>
+                                    <settlement>Phitsanulok</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">School of Pharmacy</orgName>
+                                <orgName type="institution">Monash University Sunway Campus</orgName>
+                                <address>
+                                    <country key="MY">Malaysia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                               <orgName type="department">School of Pharmacy</orgName>
+                                <orgName type="institution">Monash University Sunway Campus</orgName>
+                                <address>
+                                    <addrLine>Building 2, Level 5, Room 36</addrLine>
+									<addrLine>Jalan Lagoon Selatan</addrLine>
+									<settlement>Bandar Sunway</settlement>
+									<region>Selangor Darul Ehsan</region>
+									<country key="MY">Malaysia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Cost-Effectiveness Analysis of Patient Self-Testing Therapy of Oral Anticoagulation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Original articles Corresponding author Short running head: Cost analysis of self-testing of anticoagulants Word count: Abstract: 249 ; Body text : 4,128 (including tables, figures and legends) 2 tables and 4 Figures 64 references</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

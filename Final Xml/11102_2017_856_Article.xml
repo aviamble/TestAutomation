@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Management of Nonfunctioning Pituitary Adenomas (NFAs): Observation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Wenyu</forename>
+                                <surname>Huang</surname>
+                                <authordegree>M. D., Ph. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Endocrinology, Metabolism and Molecular Medicine</orgName>
+                                <orgName type="institution">Northwestern University Feinberg School of Medicine</orgName>
+                                <address>
+									<settlement>Chicago</settlement>
+                                    <region>Illinois</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mark</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Molitch</surname>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>molitch@northwestern.edu</email>
+                                <phone>312 503-4130</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Endocrinology, Metabolism and Molecular Medicine</orgName>
+                                <orgName type="institution">Northwestern University Feinberg School of Medicine</orgName>
+                                <address>
+									<settlement>Chicago</settlement>
+                                    <region>Illinois</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="department">Division of Endocrinology Metabolism and Molecular Medicine</orgName>
+                                <orgName type="institution">Northwestern University Feinberg School of Medicine</orgName>
+                                <address>
+                                    <addrLine>645 N. Michigan Avenue, Suite 530</addrLine>
+									<settlement>Chicago</settlement>
+                                    <postCode>60611</postCode>
+                                    <region>IL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Martha</forename>
+                                <forename type="middle">Leland</forename>
+                                <surname>Sherwin</surname>
+                                <prefix>Professor of Endocrinology</prefix>
+                            </persName>
+							
+                            <affiliation key="aff2">
+                                <orgName type="department">Division of Endocrinology Metabolism and Molecular Medicine</orgName>
+                                <orgName type="institution">Northwestern University Feinberg School of Medicine</orgName>
+                                <address>
+                                    <addrLine>645 N. Michigan Avenue, Suite 530 Chicago</addrLine>
+                                    <postCode>60611</postCode>
+                                    <region>IL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Management of Nonfunctioning Pituitary Adenomas (NFAs): Observation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Running title: Observation of nonfunctioning pituitary adenomas Correspondence: FAX: 312 926-8693 ORCID (Mark Molitch) 0000-0002-8492-3587 ORCID (Wenyu Huang) 0000-0002-7329-1887</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>pituitary</term>
+                    <term>adenoma</term>
+                    <term>incidentaloma</term>
+                    <term>nonfunctioning</term>
+                    <term>observation</term>
+                    <term>tumor Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Clinically nonfunctioning pituitary adenomas (NFAs) range from those causing significant hypothalamic/pituitary dysfunction and visual field compromise due to their large size to those being completely asymptomatic. In the absence of hypersecretion, hypopituitarism or visual field defects, patients with NFAs may be followed by periodic surveillance using MRI to detect tumor enlargement. In some cases, endocrine tests are also needed during observation to discover new pituitary dysfunction. Enlargement of NFAs without treatment occurs in about 10% of microadenomas and 23% of macroadenomas. Growth of a pituitary incidentaloma, the development of visual field defects or the development of hypopituitarism are potential indications for surgery during follow up.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

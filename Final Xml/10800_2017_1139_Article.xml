@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T06:11+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Surface enhanced Raman spectroscopy measurement of surface pH at the electrode during Ni electrodeposition reaction</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Takayuki</forename>
+                                <surname>Homma</surname>
+                            </persName>
+                            <contact>
+                                <email>t.homma@waseda.jp</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Applied Chemistry</orgName>
+                                <orgName type="institution">Waseda University</orgName>
+                                <address>
+                                    <addrLine>3-4-1, Okubo, Shinjuku</addrLine>
+                                    <postCode>169-8555</postCode>
+                                    <settlement>Tokyo</settlement>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Research Organization for Nano &amp; Life Innovation</orgName>
+                                <orgName type="institution">Waseda University</orgName>
+                                <address>
+                                    <addrLine>513, Wasedatsurumaki, Shinjuku</addrLine>
+                                    <postCode>162-0041</postCode>
+                                    <settlement>Tokyo</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masahiro</forename>
+                                <surname>Kunimoto</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Research Organization for Nano &amp; Life Innovation</orgName>
+                                <orgName type="institution">Waseda University</orgName>
+                                <address>
+                                    <addrLine>513, Wasedatsurumaki, Shinjuku</addrLine>
+                                    <postCode>162-0041</postCode>
+                                    <settlement>Tokyo</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Moe</forename>
+                                <surname>Sasaki</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Applied Chemistry</orgName>
+                                <orgName type="institution">Waseda University</orgName>
+                                <address>
+                                    <addrLine>3-4-1, Okubo, Shinjuku</addrLine>
+                                    <postCode>169-8555</postCode>
+                                    <settlement>Tokyo</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tomoya</forename>
+                                <surname>Hanai</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Applied Chemistry</orgName>
+                                <orgName type="institution">Waseda University</orgName>
+                                <address>
+                                    <addrLine>3-4-1, Okubo, Shinjuku</addrLine>
+                                    <postCode>169-8555</postCode>
+                                    <settlement>Tokyo</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masahiro</forename>
+                                <surname>Yanagisawa</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Research Organization for Nano &amp; Life Innovation</orgName>
+                                <orgName type="institution">Waseda University</orgName>
+                                <address>
+                                    <addrLine>513, Wasedatsurumaki, Shinjuku</addrLine>
+                                    <postCode>162-0041</postCode>
+                                    <settlement>Tokyo</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Surface enhanced Raman spectroscopy measurement of surface pH at the electrode during Ni electrodeposition reaction</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Affiliations</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>surface pH</term>
+                    <term>electrodeposition</term>
+                    <term>surface enhanced Raman spectroscopy</term>
+                    <term>Au nano particles</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In this work, we developed a precise approach to analyze local proton concentration at the solid/liquid interface of electrodes, i.e. &quot; surface pH &quot; , during electrochemical reactions. For this, surface enhanced Raman spectroscopy (SERS) was applied to analyze pH-dependent structural changes of the-COOH group of p-mercaptobenzoic acid (p-MBA) modified onto Au nanoparticles (NPs) on the substrate close to a working electrode. Measurements using this system identified deprotonation of-COOH of p-MBA. Since preliminary experiments and density functional theory calculations suggest that the pKa of p-MBA attached to Au NPs is close to that in bulk solution, the SERS results indicate pH increase due to proton consumption by the cathodic overpotential of the working electrode. As an example, we applied this system to surface pH monitoring in electrodeposition process of Ni in an acidic bath, which indicated the validity of our method to precisely detecting pH changes at electrode interfaces in situ.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:05+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effects of experimental lead exposure on testis of the Chestnut Capped Blackbird Chrysomus ruficapillus</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Danusa</forename>
+                                <surname>Leidens</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Ciências Fisiológicas -Instituto de Ciências Biológicas</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande -FURG</orgName>
+                                <address>
+                                    <settlement>Rio Grande</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Adalto</forename>
+                                <surname>Bianchini</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Instituto de Ciências Biológicas</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande -FURG</orgName>
+                                <address>
+                                    <settlement>Rio Grande</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Antonio</forename>
+                                <forename type="middle">Sergio</forename>
+                                <surname>Varela</surname>
+								<suffix>Junior</suffix>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Instituto de Ciências Biológicas</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande -FURG</orgName>
+                                <address>
+                                    <settlement>Rio Grande</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Indianara</forename>
+                                <forename type="middle">Fernanda</forename>
+                                <surname>Barcarolli</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Instituto de Ciências Biológicas</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande -FURG</orgName>
+                                <address>
+                                    <settlement>Rio Grande</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Carlos</forename>
+                                <forename type="middle">Eduardo</forename>
+                                <surname>Rosa</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Instituto de Ciências Biológicas</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande -FURG</orgName>
+                                <address>
+                                    <settlement>Rio Grande</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Josiane</forename>
+                                <surname>Bonnel</surname>
+                                
+                            </persName>
+							 <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Departamento de Patologia</orgName>
+                                <orgName type="department" key="dep2">Faculdade de Veterinária</orgName>
+                                <orgName type="institution">Universidade Federal de Pelotas -UFPEL</orgName>
+                                <address>
+                                    <settlement>Pelotas</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+						</author>
+						<author>
+                            <persName>
+                                <forename type="first">Cecilia</forename>
+                                <forename type="middle">Perez</forename>
+                                <surname>Calabuig</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Departamento de Ciências Animais</orgName>
+                                <orgName type="institution">Universidade Federal Rural do Semiárido</orgName>
+                                <address>
+                                    <settlement>Mossoró</settlement>
+                                    <region>RN</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Carine</forename>
+                                <forename type="middle">Dahl</forename>
+								<surname>Corcini</surname>
+							</persName>
+                            <contact>
+                                <email>corcinicd@gmail.com</email>
+								<phone>+55 5332759167</phone>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Ciências Fisiológicas -Instituto de Ciências Biológicas</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande -FURG</orgName>
+                                <address>
+                                    <settlement>Rio Grande</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                       
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Departamento de Patologia</orgName>
+                                <orgName type="department" key="dep2">Faculdade de Veterinária</orgName>
+                                <orgName type="institution">Universidade Federal de Pelotas -UFPEL</orgName>
+                                <address>
+                                    <settlement>Pelotas</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                      
+                            <affiliation key="aff5">
+                                <orgName type="department">Faculdade de Veterinária</orgName>
+								<orgName type="institution">UFPEL</orgName>
+                                <address>
+                                    <addrLine>Campus Universitário s/n-96160-00</addrLine> -
+									<settlement>Pelotas</settlement>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Effects of experimental lead exposure on testis of the Chestnut Capped Blackbird Chrysomus ruficapillus</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>blackbird</term>
+                    <term>histopathology</term>
+                    <term>lead toxicity</term>
+                    <term>reproduction</term>
+                    <term>sperm</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Lead (Pb) effects on testis histology, as well as sperm quality and oxidative status were evaluated in male Chestnut Capped Blackbird (Chrysomus ruficapillus). Wild blackbirds were captured, immediately sampled (field group) or kept in captivity and treated with a single intraperitoneal injection of saline solution (control) or saline solution with Pb acetate (50 or 100 mg/Kg Pb). Seven days after injection, whole blood, ductus deferens and testis samples were collected. Increased Pb concentrations were observed in whole blood and testis of Pb-exposed blackbirds with respect to those from field and control blackbirds. Sperm cells of Pb-exposed blackbirds showed loss of membrane integrity, mitochondrial functionality, and DNA integrity. Also, oxidative damage was observed in testis of blackbirds injected with 100 mg/Kg Pb. These findings indicate that Pb is accumulated in testis of C. ruficapillius, inducing severe morphological and biochemical injury that can compromise the reproductive performance of male blackbirds. Although the exposure scenario (Pb acetate, high dosage and intraperitoneal injection) tested in the present study would likely not occur in the wild, it was adequate to show potential and relevant toxic effects of Pb in wild birds.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

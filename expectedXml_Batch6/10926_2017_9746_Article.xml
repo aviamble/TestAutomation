@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T08:37+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A Psychometric Validation of the Employers&apos; Stigmatizing Attitudes toward Cancer Survivors Scale</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wei-Mo</forename>
+                                <surname>Tu</surname>
+                            </persName>
+                            <contact>
+                                <email>Wei-mo.Tu@unt.edu</email>
+                                <phone>(940) 369-8299</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Rehabilitation and Health Services</orgName>
+                                <orgName type="institution">University of North Texas</orgName>
+                                <address>
+                                    <addrLine>1155 Union Circle #311456</addrLine>
+                                    <postCode>76203</postCode>
+                                    <settlement>Denton</settlement>
+                                    <region>Texas</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fong</forename>
+                                <surname>Chan</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Rehabilitation Psychology &amp; Special Education</orgName>
+                                <orgName type="institution">University of Wisconsin-Madison</orgName>
+                                <address>
+                                    <addrLine>1000 Bascom Mall</addrLine>
+                                    <postCode>53706</postCode>
+									<settlement>Madison</settlement>
+                                    <region>Wisconsin</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Joseph</forename>
+                                <surname>Pfaller</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Rehabilitation Psychology &amp; Special Education</orgName>
+                                <orgName type="institution">University of Wisconsin-Madison</orgName>
+                                <address>
+                                    <addrLine>1000 Bascom Mall</addrLine>
+                                    <postCode>53706</postCode>
+                                    <settlement>Madison</settlement>
+                                    <region>Wisconsin</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kanako</forename>
+                                <surname>Iwanaga</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Rehabilitation Psychology &amp; Special Education</orgName>
+                                <orgName type="institution">University of Wisconsin-Madison</orgName>
+                                <address>
+                                    <addrLine>1000 Bascom Mall</addrLine>
+                                    <postCode>53706</postCode>
+									<settlement>Madison</settlement>
+                                    <region>Wisconsin</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <surname>Strauser</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Kinesiology and Community Health</orgName>
+                                <orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+                                <address>
+								    <addrLine>Huff Hall, MC-588 1206 S Fourth St Champaign</addrLine>
+                                    <postCode>61820</postCode>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ming-Hung</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department">Graduate Institute of Rehabilitation Counseling</orgName>
+                                <orgName type="institution">National Changhua University of Education</orgName>
+                                <address>
+                                    <addrLine>No.1, Jinde Rd.</addrLine>
+                                    <postCode>500</postCode>
+									<settlement>Changhua City</settlement>
+                                    <region>Changhua County</region>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nicole</forename>
+                                <surname>Ditchman</surname>
+                            </persName>
+                            <affiliation key="aff7">
+                                <orgName type="department">Department of Psychology, Counseling and Rehabilitation Science Division</orgName>
+                                <orgName type="institution">Illinois Institute of Technology</orgName>
+                                <address>
+                                    <addrLine>3105 South Dearborn</addrLine>
+                                    <postCode>60616</postCode>
+									<settlement>Chicago</settlement>
+                                    <region>Illinois</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A Psychometric Validation of the Employers&apos; Stigmatizing Attitudes toward Cancer Survivors Scale</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>(*corresponding author).</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Purpose: The aim of this study was to evaluate the measurement structure of the Employers&apos; Stigmatizing Attitudes toward Cancer Survivors Scale (ESATPD-Cancer Scale). Methods: A quantitative descriptive design using exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). One hundred and seventy-seven Taiwanese human resources (HR) professionals participated in this study. Results: EFA revealed a one-factor measurement structure accounting for 50% of the total variance. We conducted a CFA to confirm the one-factor structure; after two pairs of error terms were correlated, the re-specified model was found to fit the data adequately: ? 2 /df = 1.69, GFI = .97, CFI = .98, and RMSEA = .06. Internal consistency reliability coefficient</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

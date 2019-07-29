@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T08:37+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Influence of Sintering Temperature on the Magnetic Properties of LTCC Ferrite Tape for Multilayer Component Applications</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Cedo</forename>
+                                <surname>Žlebic</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Technical Sciences</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                    <postcode>21000</postcode> 
+									<settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Miodrag</forename>
+                                <surname>Milutinov</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Technical Sciences</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                   <postcode>21000</postcode> 
+									<settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                            
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ljiljana</forename>
+                                <surname>Živanov</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Technical Sciences</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                   <postcode>21000</postcode> 
+									<settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andrea</forename>
+                                <surname>Maric</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Technical Sciences</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                    <postcode>21000</postcode> 
+									<settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nelu</forename>
+                                <surname>Blaž</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Technical Sciences</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                   <postcode>21000</postcode> 
+									<settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Goran</forename>
+                                <surname>Radosavljevic</surname>
+                            </persName>
+                            
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Sensor and Actuators Systems</orgName>
+                                <orgName type="institution">Vienna University of Technology</orgName>
+                                <address>
+                                    <postCode>A-1040</postCode>
+                                    <settlement>Wien</settlement>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Influence of Sintering Temperature on the Magnetic Properties of LTCC Ferrite Tape for Multilayer Component Applications</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>LTCC technology</term>
+                    <term>sintering temperature</term>
+                    <term>core loss density</term>
+                    <term>relative permeability</term>
+                    <term>B-H hysteresis loop</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>– Influence of sintering temperature on the complex permeability, the core loss density and B-H hysteresis loop of ferrite LTCC (Low-Temperature Co-fired Ceramic) multilayer toroidal cores is presented. Ferrite LTCC toroidal cores are fabricated from 22 layers of ESL 40011 tapes sintered at 885 °C, 1000 °C, 1100 °C and 1200 °C. Applying the sinusoidal excitation, the measurements are performed in the frequency range from 10 kHz to 5 MHz and for magnetic flux density from 2 mT to 100 mT. The measurements of sintered multilayer cores were done in order to investigate the difference in magnetic properties among those samples. This investigation enables to find optimal sintering temperature of multilayer ferrite cores which used in different multilayer magnetic component applications.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T11:01+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Growth response of Scots pine to changing climatic conditions over the last 100 years: a case study from Western Hungary</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Dávid</forename>
+                                <surname>Misi</surname>
+                            </persName>
+                            <contact>
+                                <email>misid@geo.u-szeged.hu</email>
+                                <phone>+36205729004</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Geology and Paleontology</orgName>
+                                <orgName type="institution">University of Szeged</orgName>
+                                <address>
+                                    <addrLine>Egyetem utca 2-6</addrLine>
+                                    <postCode>H-6722</postCode>
+                                    <settlement>Szeged</settlement>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Katalin</forename>
+                                <surname>Náfrádi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Geology and Paleontology</orgName>
+                                <orgName type="institution">University of Szeged</orgName>
+                                <address>
+                                    <addrLine>Egyetem utca 2-6</addrLine>
+                                    <postCode>H-6722</postCode>
+                                    <settlement>Szeged</settlement>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Growth response of Scots pine to changing climatic conditions over the last 100 years: a case study from Western Hungary</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Key Message Climate change has a significant influence on the climate-growth relationship of Scots pine in Western Hungary, and this typically expressed as a decrease in the strength of the connection between tree-ring width variation and climate data. Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>dendroclimatology</term>
+                    <term>climate change</term>
+                    <term>climate-growth relationship</term>
+                    <term>moving window correlation</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The current paper aims to expand our understanding of the climate-growth relationship of Scots pines in Transdanubia. Changes in the influence of climate on tree growth over various timescales has been the subject of numerous investigations with pine trees, but these relationships have never been explored for Scots pines in Hungary. In this research, Pearson correlation values in 25-year moving windows were used to evaluate the temporal relationships of temperature, precipitation and tree-ring width variation, and additionally to investigate how these might be connected to climate change between 1915-2014. In the cases of summer precipitation and late winter-early spring temperature, our results detected a significant positive influence on the tree-ring width development of those Scots pines at our study sites. Furthermore, intensive warming over the last 100 years has resulted in a changing relationship between tree-ring width variation and climate data. In the present study, the temporal instability of the climate-growth relationship was observed in every important month of tree-ring growth, and the response of growth to climate declined sharply in most of the studied periods. This indicates that ongoing climate change has already altered the climate-growth relationship in Scots pines in certain sites of Western Hungary.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

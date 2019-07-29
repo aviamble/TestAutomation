@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T06:14+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Simple and green synthesis of CuFe 2 O 4 -CuO nanocomposite using some natural extracts: Photo-degradation and magnetic study of nanoparticles</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Rouzbeh</forename>
+                                <surname>Naghikhani</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Physics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Arak University</orgName>
+                                <address>
+                                    <postCode>38156-88349</postCode>
+                                    <settlement>Arak</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Nanoscience and Nanotechnology</orgName>
+                                <orgName type="institution">Arak University</orgName>
+                                <address>
+                                    <settlement>Arak</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Gholamreza</forename>
+                                <surname>Nabiyouni</surname>
+                            </persName>
+                            <contact>
+                                <email>g-nabiyouni@araku.ac.ir</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Physics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Arak University</orgName>
+                                <address>
+                                    <postCode>38156-88349</postCode>
+                                    <settlement>Arak</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Nanoscience and Nanotechnology</orgName>
+                                <orgName type="institution">Arak University</orgName>
+                                <address>
+                                    <settlement>Arak</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Davood</forename>
+                                <surname>Ghanbari</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Science</orgName>
+                                <orgName type="institution">Arak University of Technology</orgName>
+                                <address>
+                                    <settlement>Arak</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Simple and green synthesis of CuFe 2 O 4 -CuO nanocomposite using some natural extracts: Photo-degradation and magnetic study of nanoparticles</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author,</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Nanostructures</term>
+                    <term>Nanocomposite</term>
+                    <term>Green synthesis</term>
+                    <term>Magnetic</term>
+                    <term>Photo-catalyst Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Copper ferrite (CuFe 2 O 4) nanoparticles were synthesized via a simple hydrothermal method by applying various surfactants such as sucrose, gelatine, polyethylene glycol, sodium dodecyl sulphate, saffron and turmeric extract. Then copper oxide nanoparticles and CuFe 2 O 4-CuO nanocomposite were prepared using water solvent and the products were characterized by X-ray diffraction (XRD), scanning electron microscopy (SEM), and Fourier transform infrared (FT-IR) spectroscopy. SEM images approve the best mono-disperse nanoparticles were obtained in the presence of sucrose and gelatine. Vibrating sample magnetometer (VSM) was used for magnetic characterization of the samples. The results illustrate super-paramagnetic behaviour of CuFe 2 O 4 nanoparticles. The photocatalytic behaviour of CuFe 2 O 4-CuO nanocomposite was investigated using degradation of three various azo dyes under visible light irradiations. The results indicate that the prepared nanocomposite is suitable for degradation of toxic azo dyes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

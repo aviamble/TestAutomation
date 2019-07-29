@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title: Comorbidity amplifies the effects of post-9/11 posttraumatic stress disorder trajectories on health-related quality of life</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jiehui</forename>
+                                <surname>Li</surname>
+                                <authordegree>MBBS, MS</authordegree>
+                            </persName>
+                            <contact>
+                                <email>jli3@health.nyc.gov</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">New York City Department of Health and Mental Hygiene</orgName>
+                                <orgName type="institution">World Trade Center Health Registry</orgName>
+                                <address>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="department">New York City Department of Health and Mental Hygiene</orgName>
+                                <orgName type="institution">World Trade Center Health Registry</orgName>
+                                <address>
+									<addrLine>125 Worth Street, CN-6W</addrLine>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+									<postCode>10013</postCode>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kimberly</forename>
+                                <forename type="middle">Caramanica</forename>
+                                <surname>Zweig</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">New York City Department of Health and Mental Hygiene</orgName>
+                                <orgName type="institution">World Trade Center Health Registry</orgName>
+                                <address>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Robert</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Brackbill</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">New York City Department of Health and Mental Hygiene</orgName>
+                                <orgName type="institution">World Trade Center Health Registry</orgName>
+                                <address>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mark</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Farfel</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">New York City Department of Health and Mental Hygiene</orgName>
+                                <orgName type="institution">World Trade Center Health Registry</orgName>
+                                <address>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">James</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Cone</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">New York City Department of Health and Mental Hygiene</orgName>
+                                <orgName type="institution">World Trade Center Health Registry</orgName>
+                                <address>
+                                    <settlement>New York</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+						
+						
+						
+						
+						
+                        <title level="a" type="main">Title: Comorbidity amplifies the effects of post-9/11 posttraumatic stress disorder trajectories on health-related quality of life</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Short title: PTSD and HRQOL Name, mailing address, and email address for the corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Purpose The present study aims to examine the impact of physical and mental health comorbidities on the association between post-9/11 posttraumatic stress disorder (PTSD) trajectories over 10 years and health-related quality of life (HRQOL) among 9/11-exposed persons. Methods 30,002 responding adult World Trade Center Health Registry enrollees reporting no pre-9/11 PTSD were studied. PTSD trajectories (chronic, delayed, remitted, no-PTSD) were defined based on a 17-item PTSD Checklist specific to 9/11 across three waves of survey data. Three indicators of poor HRQOL were defined based on CDC HRQOL-4 measures. We computed age-adjusted prevalence of physical and mental health comorbidity (depression/anxiety) by PTSD-trajectory and used modified Poisson regression to assess the effect of PTSD trajectory on poor HRQOL prevalence, accounting for comorbidity. Results Age-adjusted prevalence of overall comorbid conditions was 95.8% and 61.4% among the chronic and no PTSD groups, respectively. Associations between 9/11-related PTSD trajectories and poor HRQOL were significant and became greater when comorbidity was included. Adjusted prevalence ratios were elevated for fair/poor health status (APR=7.3, 95% CI=6.5-8.2), =14 unhealthy days (4.7; 95% CI=4.4-5.1), and =14 activity limitation days during the last 30 days (9.6; 95% CI=8.1-11.4) in the chronic PTSD group with physical and mental health comorbidity compared to those without PTSD and comorbidity; similar associations were observed for delayed PTSD.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

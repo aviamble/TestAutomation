@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T09:23+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title Analysis of the DNA Methylation Patterns and Transcriptional Regulation of the NB-LRR-Encoding Gene Family in Arabidopsis thaliana</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Weiwen</forename>
+                                <surname>Kong</surname>
+                            </persName>
+                            <contact>
+                                <email>wwkong@yzu.edu.cn</email>
+                                <phone>+86-1395-2572-061</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Horticulture and Plant Protection</orgName>
+                                <orgName type="institution">Yangzhou University</orgName>
+                                <address>
+                                    <postCode>225009</postCode>
+                                    <settlement>Yangzhou</settlement>
+									<region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Joint International Research Laboratory of Agriculture and Agri-Product Safety of the Ministry of Education</orgName>
+                                <orgName type="institution">Yangzhou University</orgName>
+                                <address>
+                                    <postCode>225009</postCode>
+                                    <settlement>Yangzhou</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bin</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Horticulture and Plant Protection</orgName>
+                                <orgName type="institution">Yangzhou University</orgName>
+                                <address>
+                                    <postCode>225009</postCode>
+                                    <settlement>Yangzhou</settlement>
+									<region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qianqian</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bin</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Horticulture and Plant Protection</orgName>
+                                <orgName type="institution">Yangzhou University</orgName>
+                                <address>
+                                    <postCode>225009</postCode>
+                                    <settlement>Yangzhou</settlement>
+									<region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaoke</forename>
+                                <surname>Duan</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Li</forename>
+                                <surname>Ding</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Horticulture and Plant Protection</orgName>
+                                <orgName type="institution">Yangzhou University</orgName>
+                                <address>
+                                    <postCode>225009</postCode>
+                                    <settlement>Yangzhou</settlement>
+									<region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yanke</forename>
+                                <surname>Lu</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Li-Wei</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">State Key Laboratory of Pharmaceutical Biotechnology</orgName>
+                                <orgName type="department" key="dep2">School of Life Sciences</orgName>
+                                <orgName type="institution">Nanjing University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Honggui</forename>
+                                <surname>La</surname>
+                            </persName>
+                            <contact>
+                                <email>hongguila@njau.edu.cn</email>
+                                <phone>+86-1820-5093-896</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>							
+                        <author>						
+                            <affiliation key="aff5">
+                                <orgName type="department">School of Horticulture and Plant Protection</orgName>
+                                <orgName type="institution">Yangzhou University</orgName>
+                                <address>
+                                    <postCode>225009</postCode>
+                                    <settlement>Yangzhou</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="department">School of Life Sciences</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>								
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Title Analysis of the DNA Methylation Patterns and Transcriptional Regulation of the NB-LRR-Encoding Gene Family in Arabidopsis thaliana</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Institutions Corresponding Authors</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

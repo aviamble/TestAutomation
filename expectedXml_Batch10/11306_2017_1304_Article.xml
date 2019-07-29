@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Absolute Quantitative Lipidomics Reveals Lipidome-Wide Alterations in Aging Brain</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jia</forename>
+                                <surname>Tu</surname>
+                            </persName>
+                            
+                            <affiliation key="aff1">
+                                <orgName type="department">Interdisciplinary Research Center on Biology and Chemistry</orgName>
+                                <orgName type="department">Shanghai Institute of Organic Chemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>200032</postCode>
+                                    <settlement>Shanghai</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yandong</forename>
+                                <surname>Yin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Interdisciplinary Research Center on Biology and Chemistry</orgName>
+                                <orgName type="department">Shanghai Institute of Organic Chemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>200032</postCode>
+                                    <settlement>Shanghai</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Meimei</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Interdisciplinary Research Center on Biology and Chemistry</orgName>
+                                <orgName type="department">Shanghai Institute of Organic Chemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>200032</postCode>
+                                    <settlement>Shanghai</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ruohong</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Interdisciplinary Research Center on Biology and Chemistry</orgName>
+                                <orgName type="department">Shanghai Institute of Organic Chemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>200032</postCode>
+                                    <settlement>Shanghai</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>100049</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Zheng-Jiang</forename>
+                                <surname>Zhu</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+							<contact>
+                                <email>jiangzhu@sioc.ac.cn</email>
+                                <phone>86-21-68582296</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Interdisciplinary Research Center on Biology and Chemistry</orgName>
+                                <orgName type="department">Shanghai Institute of Organic Chemistry</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <postCode>200032</postCode>
+                                    <settlement>Shanghai</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Absolute Quantitative Lipidomics Reveals Lipidome-Wide Alterations in Aging Brain</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author Abbreviations for</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Lipidomics</term>
+                    <term>Mass spectrometry</term>
+                    <term>Absolute quantitation</term>
+                    <term>Aging</term>
+                    <term>Lipid homeostasis</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Introduction: The absolute quantitation of lipids at the lipidome-wide scale is a challenge but plays an important role in the comprehensive study of lipid metabolism. Objectives: We aim to develop a high-throughput quantitative lipidomics approach to enable the simultaneous identification and absolute quantification of hundreds of lipids in a single experiment. Then, we will systematically characterize lipidome-wide changes in the aging mouse brain and provide a link between aging and disordered lipid homeostasis. Methods: We created an in-house lipid spectral library, containing 76,361 lipids and 181,300 MS/MS spectra in total, to support accurate lipid identification. Then, we developed a response factor-based approach for the large-scale absolute quantifications of lipids. Results: Using the lipidomics approach, we absolutely quantified 1212 and 864 lipids in human cells and mouse brains, respectively. The quantification precision was validated using the traditional approach with a median relative error of 12.6%. We further characterized the lipidome-wide changes in aging mouse brains, and dramatic changes were observed in both glycerophospholipids and sphingolipids. Sphingolipids with longer acyl chains tend to accumulate in aging brains. Membrane-esterified fatty acids demonstrated diverse changes with aging, while most polyunsaturated fatty acids consistently decreased. Conclusion: We developed a high-throughput quantitative lipidomics approach and systematically characterized the lipidome-wide changes in aging mouse brains. The results proved a link between aging and disordered lipid homeostasis.</p>
+            </abstract>
+        </profileDesc>
+        <revisionDesc>
+            <date type="submission" when="-1" />
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

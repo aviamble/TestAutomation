@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effect of dopant on the growth of (Bis) aminoacetic acid cadmium chloride single crystals</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">V.</forename>
+                                <surname>Rajendran</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">PG &amp; Research Department of Physics</orgName>
+                                <orgName type="institution">Presidency College</orgName>
+                                <address>
+                                    <postCode>600005</postCode>
+                                    <settlement>Chennai</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <surname>Sangeetha</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">PG &amp; Research Department of Physics</orgName>
+                                <orgName type="institution">Presidency College</orgName>
+                                <address>
+                                    <postCode>600005</postCode>
+                                    <settlement>Chennai</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effect of dopant on the growth of (Bis) aminoacetic acid cadmium chloride single crystals</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Crystal growth</term>
+                    <term>Crystal structure</term>
+                    <term>FT-IR</term>
+                    <term>Non linear optical material</term>
+                    <term>Thermal properties</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Urea doped aminoacetic acid cadmium chloride single crystals have been successfully grown from slow evaporation technique. The purity of the crystals was increased by recrystallization process. The grown crystals were optically transparent and large in size. The powder XRD study shows the crystalline nature of the sample. The cell parameters and morphology of the grown crystal were determined by single crystal X-ray diffraction technique. The presence of functional group in the compound crystal was confirmed by FT-IR analysis. The UV-Vis spectroscopic studies show that the grown crystal has 85% of transmittance window in the entire visible and IR region. Vickers microhardness study reveals that the grown crystal belongs to hard material category and the TG/DTA studies show the good thermal stability of the grown crystal. The relative second harmonic generation efficiency was found to be higher than that of the KDP crystal. 1. Introduction Crystal growth is an interesting task to investigate the growth of non linear optical single crystals. In this modern world, the research in organic and semiorganic materials has been achieved extremely. The promising nonlinear optical properties in these materials have been attracted the researchers and which leads to develop the modern science and technology. The non linear optical material finds number of applications in the field of optical communication, telecommunication, second harmonic generation, laser technology etc. In order to enhance the good optical non linearity, amino acids are the suitable materials with the combination of organic and semi-organic compounds [1-4]. In this series, amino acetic acid (glycine) is one of the amino acid which is the best candidate for achieving good optical properties in the present work. Aminoacetic acid exists into three polymorphs at ambient temperature which are classified into α-, β-and γ-types. α-aminoacetic acid is most stable due to some properties like molecular chirality, broad transparency and zwitterionic nature that are an internal transfer of hydrogen ion from COOH group to NH 2 group to leave an ion with positive and negative charge. Because of strong ionic attraction between one ion and its neighbours, aminoacetic acid required more energy to break, so that it is having high melting point [5-7]. The first report on the details of γ-aminoacetic acid was published in the literature in 1958 [8]. The mixture of water and sodium hydroxide salt was used as a solvent; α-to -phase transition was observed at 168C [6]. γ-Glycine which has good optical transmittance and -α phase transition was observed around 174C [9]. Further recently efforts have been made to study the effect of urea and cadmium chloride on the glycine single crystals. For example, due to effect of dopant some morphological alteration was observed and increased in thermal stability and SHG efficiency of the grown crystal was reported [10] and the dielectric behaviour of KDP crystal with urea has been studied [11]. Diglycine cadmium chloride crystals exhibit good optical and mechanical property which is thermally stable upto 245C and it has low dielectric loss indicates the quality of the crystal [12]. Inclusion of dye in the crystal lattice increased the relative size of planes and mechanical strength of crystal was improved [13]. Addition of dopant exhibit good NLO application and the grain size may get reduced [14]. But to the best of our knowledge, there is no report available for the growth of the titled compound urea doped aminoacetic acid cadmium chloride single crystals. In the present work urea was chosen as a dopant, it is an interesting organic material due to large dipole moment and it is applicable for photonics and served as a model compound. The crystals were grown by slow evaporation technique and subjected to single crystal and powder X-ray diffraction, FT-IR and UV-Visible analysis. The mechanical strength of the grown crystal was measured using Vickers microhardness tester. Further TG/DTA and kurtz powder SHG test was studied and the results were discussed. 2. Experimental procedure 2.1 Materials The following materials were used for the crystal growth such as analar reagent of aminoacetic acid (C 2 H 5 NO 2 glycine) SD-fine 99.5% with M.wt 75.07 g/mol, cadmium chloride monohydrate (CdCl 2. H 2 O) SD-fine 99.5% with M.wt 201.32 g/mol, urea (CH 4 N 2 O) Merck 99% with M.wt 60.06 g/mol and double distilled water. 2.2 Crystal growth The crystals were grown by taking aminoacetic acid and cadmium chloride in stoichiometric ratio of 2:1 and were dissolved in double distilled water at ambient temperature and is represented by the following reaction 2 [C 2 H 5 NO 2 ] + CdCl 2. H 2 O  Cd [C 2 H 5 NO 2 ] 2 .Cl 2 + H 2 O For the growth of urea doped aminoacetic acid cadmium chloride single crystals, 1 mol% of urea (CH 4 N 2 O) was added to the solution of aminoacetic acid cadmium chloride. The solution was stirred well for about 4 h to obtain homogenous mixture. Then the prepared saturated solution was allowed to evaporate at room temperature. The successive recrystallization was made to improve the purity and quality of the grown crystal. After recrystallization large size of single crystals with good quality has been harvested after a period of 15 days. Fig.1. shows the as grown crystal of UAACC. Fig.1. Photograph of UAACC crystal 3. Characterization The grown crystals were subjected to single crystal X-ray diffraction (XRD) study by employing an ENRAF NONIUS CAD4 diffractometer with MoK α radiation. The powder form of grown sample were subjected to powder X-ray diffraction technique using Rich seifert diffractometer with CuK radiation ( = 1.5406 Å). FT-IR spectrum was recorded by Perkin Elmer spectrometer using KBr pellet technique in the wavelength range of 400-4000 cm-1. An optical transmission spectrum of the grown crystal was recorded using Perkin Elmer Lambda 650 UV-Vis spectrometer in the wavelength range of 200-800 nm. The mechanical and thermal properties (TG/DTA) of the grown crystals have been analysed. Further the relative second harmonic generation (SHG) efficiency has measured by Kurtz powder technique in order to confirm the optical non linearity of the grown crystal. 4. Result and discussion 4.1 Single crystal and powder X-ray diffraction analyses Using single crystal X-ray diffraction technique, the unit cell parameters and morphology of the grown crystal have been studied. The observed unit cell parameters are in good agreement with the reported value [13]. However, for the grown crystal, a slight variation in the cell parameters have been observed with respect to reported value of pure crystal which confirms that the crystal belongs to monoclinic structure. The prominent planes (1 0-1), (0 0 1), (0 1 1) are appeared in the crystal lattice are symmetry equivalents and which elongated along 'a' direction is shown in Fig.2. The crystallographic data for the both bis glycine cadmium chloride and urea doped AACC single crystals are presented in Table 1. The slight variation in the unit cell parameters and cell volume is due to incorporation of urea as dopant in the compound crystal which may create lattice strain in the crystal lattice. The power XRD pattern depicted in Fig.3 which reveals crystallinity nature of the sample and the h k l values of all reflections are exactly matches with the obtained values of lattice parameter in the single crystal XRD analysis [12]. Fig.2. Morphology of the grown crystal. Table 1 Single crystal XRD data of BGCC and UAACC crystals b = 9.080 Å b = 9.068 Å c = 13.921 Å c = 13.707Å V = 991.95 Å 3 V=989.014 Å 3 Fig.3. Powder XRD pattern of UAACC crystal. 4.2 Fourier transform infrared analysis (FT-IR) The functional groups present in the sample were identified by using FT-IR spectrometer. The recorded spectrum of the present sample represented in Fig.4. The absorption observed at 3077 cm-1 is assigned to the vibration of NH 3 + asymmetric stretching and the peak at 2837 cm-1 is due to the vibration of CH 2 group. The stretching vibration of NH 3 + positioned at 2648 cm-1. The peak at 1579 cm-1 is due to NH 3 + symmetric bending vibration. The absorption at 1331 cm-1 is due to CH 2 stretching vibration. The CN and CCN symmetric stretching vibrations are occurred at 1026 cm-1 and 898 cm-1. The presence of chlorine ion is confirmed by the absorption band at 675 cm-1. The peak observed at 530 cm-1 corresponds to CC=O wagging. The rocking vibration of COO  is observed at 456 cm-1. All these vibration are in good agreement with the reported values [12-17]. Fig.4. FT-IR spectrum of UAACC crystal. 4.3 UV-Vis spectral analysis For efficient non linear optical application, the optical transparency and lower cutoff wavelength of the grown crystal is essential. An optical transmission spectrum of the titled compound shows 85% of wide transparency window and there is no absorption in region between 300 and 800 nm as shown in Fig.5. The observed transparency of the doped sample is in good agreement with the reported value of pure sample [13]. The lower cutoff wavelength for the present sample is around 250 nm and there is change in the lower cutoff wavelength is observed due to the incorporation of dopant ions in the crystal lattice when compared to the pure Pure BGCC [13] Urea doped AACC a = 8.278 Å a = 8.258 Å</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

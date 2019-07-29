@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Changes of mitochondrial respiratory function during odontogenic differentiation of rat dental papilla cells</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Fuping</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Oral Anatomy and Physiology</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								 <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Liulin</forename>
+                               <surname>Jiang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Oral Anatomy and Physiology</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								 <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yifan</forename>
+                                <surname>He</surname>
+                            </persName>
+							<affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								<address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Guanghua School of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wenguo</forename>
+								<surname>Fan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Oral Anatomy and Physiology</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								<address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaoyan</forename>
+                                <surname>Guan</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Pediatric Dentistry</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								<address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qianyi</forename>
+                                <surname>Deng</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Pediatric Dentistry</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								<address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Fang</forename>
+                                <surname>Huang</surname>
+                            </persName>
+							<contact>
+                                <email>hfang@mail.sysu.edu.cn</email>
+								<phone>+86 20 87330570</phone>
+                            </contact>
+						 <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Pediatric Dentistry</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								<address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="department">Guanghua School of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <addrLine>74 Zhongshan Rd 2</addrLine>
+                                    <postCode>510080</postCode>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Hongwen</forename>
+                                <surname>He</surname>
+                            </persName>
+							<contact>
+                                <email>hehw@mail.sysu.edu.cn</email>
+								<phone>+86 20 87330570</phone>
+                            </contact>
+                            
+                             <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Oral Anatomy and Physiology</orgName>
+                                <orgName type="department" key="dep2">Guanghua School of Stomatology</orgName>
+                                <orgName type="department" key="dep3">Hospital of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Guangdong Provincial Key Laboratory of Stomatology</orgName>
+								 <address>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="department">Guanghua School of Stomatology</orgName>
+                                <orgName type="institution">Sun Yat-sen University</orgName>
+                                <address>
+                                    <addrLine>74 Zhongshan Rd 2</addrLine>
+                                    <postCode>510080</postCode>
+                                    <settlement>Guangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						
+						
+                        <author>
+                            <persName>
+                                <forename type="first">H.</forename>
+                                <surname>He</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">F.</forename>
+                                <surname>Huang</surname>
+                            </persName>
+                        </author>
+                        
+                      
+                        <title level="a" type="main">Changes of mitochondrial respiratory function during odontogenic differentiation of rat dental papilla cells</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding authors at:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Dental papilla cells (DPCs) belong to precursor cells differentiating to odontoblasts and play an important role in dentin formation and reproduction. This study aimed to explore the changes and and involvement of mitochondrial respiratory function during odontogenic differentiation. Primary DPCs were obtained from first molar dental papilla of neonatal rats and cultured in odontogenic medium for 7, 14, 21 days. DPCs, which expressed mesenchymal surface markers CD29, CD44 and CD90, had the capacity for self-renewal and multipotent differentiation. Odontoblastic induction increased mineralized matrix formation in a time-dependent manner, which was accompanied by</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

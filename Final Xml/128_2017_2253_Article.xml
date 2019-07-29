@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:06+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">In silico Screening-Level Prioritization of 8,468 Chemicals Produced in OECD Countries to Identify Potential Planetary Boundary Threats</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Efstathios</forename>
+                                <surname>Reppas-Chrysovitsinos</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Environmental Science and Analytical Chemistry (ACES)</orgName>
+                                <orgName type="institution">Stockholm University</orgName>
+                                <address>
+                                    <postCode>SE-10691</postCode>
+                                    <settlement>Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anna</forename>
+                                <surname>Sobek</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Environmental Science and Analytical Chemistry (ACES)</orgName>
+                                <orgName type="institution">Stockholm University</orgName>
+                                <address>
+                                    <postCode>SE-10691</postCode>
+                                    <settlement>Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Matthew</forename>
+                                <surname>MacLeod</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Environmental Science and Analytical Chemistry (ACES)</orgName>
+                                <orgName type="institution">Stockholm University</orgName>
+                                <address>
+                                    <postCode>SE-10691</postCode>
+                                    <settlement>Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">In silico Screening-Level Prioritization of 8,468 Chemicals Produced in OECD Countries to Identify Potential Planetary Boundary Threats</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Legislation such as the Stockholm Convention and REACH aim to identify and regulate the production and use of chemicals that qualify as persistent organic pollutants (POPs) and very persistent and very bioaccumulative (vPvB) chemicals, respectively. Recently, a series of studies on planetary boundary threats proposed seven chemical hazard profiles that are distinct from the POP and vPvB profiles. We previously defined two exposure-based hazard profiles; airborne persistent contaminants (APCs) and waterborne persistent contaminants (WPCs) that correspond to two profiles of chemicals that are planetary boundary threats. Here, we extend our method to screen a database of chemicals consisting of 8,648 substances produced within the OECD countries. We propose a new scoring scheme to disentangle the POP, vPvB, APC and WPC profiles by focusing on the spatial range of exposure potential, discuss the relationship between high exposure hazard and elemental composition of chemicals, and identify chemicals with high exposure hazard potential. Introduction The global production of synthetic chemicals is increasing exponentially by total volume [1,2] and in structural diversity [3]. The presence of synthetic chemicals in the environment is responsible for a plethora of effects that manifest themselves at scales from the molecular level up to the scale of earth system processes [4–9]. To address the conceptual and data-related challenges associated with early identification of chemicals with unacceptable impacts, a number of databases [10,11], in silico physicochemical property estimation tools [12– 15] and models of chemical fate and transport [16] have been developed. Furthermore, a series of regulatory efforts that aim to identify chemicals of concern by screening against exposure and hazard criteria, and by defining profiles of contaminants of concern [17,18] have been developed and deployed. There is a growing number of computational studies in the scientific literature that aim to identify and prioritize chemicals that may have unacceptable environmental profiles [19–25]. Among these studies, Screen-POP [26,27] focused on screening chemicals reportedly produced in the OECD countries to identify chemicals similar to persistent organic pollutants (POPs)-a chemical profile regulated under the Stockholm Convention-and persistent, bioaccumulative and toxic (PBT) substances, which are regulated under the European chemicals regulation, REACH. To this end, a database of 12,619 organic chemicals reportedly produced in the OECD countries was assembled from five national and international production volume lists, and a number of potential POP and PBT chemicals were identified [26,28]. The Screen-POP project applied a &quot; holistic &quot; approach to quantitatively assess the exposure potential of the chemicals in the database, taking into account their physicochemical properties, their overall environmental partitioning and behavior, and their emissions. Moreover, uncertainties associated with emission and property estimates were also considered. A few chemicals identified in Screen-POP that were previously unknown as contaminants in the environment were later detected in the atmosphere and sediments near Stockholm, Sweden [29]. Recently, MacLeod et al. [9] defined a set of chemical profiles for planetary boundary threats. The potential for chemicals to be planetary boundary threats is not considered in current regulatory regimes for PBT chemicals at local and regional scales, or for POPs at the global scale [6], and should therefore be considered independently in screening and prioritization exercises. We subsequently proposed a screening-level prioritization method to identify chemicals that fit two novel exposure-based profiles we derived from the planetary boundary threat framework [30]. These novel profiles assign high priority to persistent and mobile chemicals, which are labelled as airborne persistent contaminants (APCs) and/or waterborne persistent contaminants (WPCs). We applied an exposure-based screening method using our two proposed novel profiles, in parallel to profiles for POPs and very persistent and very bioaccumulative chemicals (vPvB), and evaluated the method using a set of 464 chemicals identified in an Arctic Monitoring and Assessment Programme (AMAP) report [31] as emerging Arctic contaminants of concern. In this study, we apply the same methodology to 8,648 chemicals taken from the Screen-POP database of 12,619 substances produced within OECD countries. Our goal is to apply our hazard scoring method to identify potential POP, vPvB, APC and WPC candidates among these chemicals. The Screen-POP database is larger than the AMAP database, which is composed only of known environmental contaminants, and it is also more structurally diverse. Therefore, the application of our method to the Screen-POP set of chemicals provides an opportunity to further investigate its prospective assessment capabilities, and to identify and prioritize chemicals that are POPs, vPvB, and potential planetary boundary threats from among those in the database. Materials and methods 1. Screening Method Our screening method is described in detail in our previous publication in which we screened known Arctic contaminants [30]. In brief, our method is based on deriving an exposure-based hazard scoring scheme for each</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

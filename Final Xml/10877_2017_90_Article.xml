@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:39+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Can thyromental distance be measured accurately?</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Bin</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Anesthesiology</orgName>
+                                <orgName type="department" key="dep2">Wannan Medical College First Affiliated Hospital</orgName>
+                                <orgName type="institution">Yijishan Hospital</orgName>
+                                <address>
+                                    <addrLine>No. 2, Zheshan Rd.</addrLine>
+									<settlement>Wuhu</settlement>
+                                    <postCode>241001</postCode>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hui</forename>
+                                <surname>Peng</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Hospital Infection Management</orgName>
+                                <orgName type="department" key="dep2">Wannan Medical College First Affiliated Hospital</orgName>
+                                <orgName type="institution">Yijishan Hospital</orgName>
+                                <address>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Weidong</forename>
+                                <surname>Yao</surname>
+                            </persName>
+                            <contact>
+                                <email>yaowdmd@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Anesthesiology</orgName>
+                                <orgName type="department" key="dep2">Wannan Medical College First Affiliated Hospital</orgName>
+                                <orgName type="institution">Yijishan Hospital</orgName>
+                                <address>
+                                    <addrLine>No. 2, Zheshan Rd.</addrLine>
+									<settlement>Wuhu</settlement>
+                                    <postCode>241001</postCode>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ling</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Anesthesiology</orgName>
+                                <orgName type="department" key="dep2">Wannan Medical College First Affiliated Hospital</orgName>
+                                <orgName type="institution">Yijishan Hospital</orgName>
+                                <address>
+                                    <addrLine>No. 2, Zheshan Rd.</addrLine>
+									<settlement>Wuhu</settlement>
+                                    <postCode>241001</postCode>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaoju</forename>
+                                <surname>Jin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Anesthesiology</orgName>
+                                <orgName type="department" key="dep2">Wannan Medical College First Affiliated Hospital</orgName>
+                                <orgName type="institution">Yijishan Hospital</orgName>
+                                <address>
+                                    <addrLine>No. 2, Zheshan Rd.</addrLine>
+									<settlement>Wuhu</settlement>
+                                    <postCode>241001</postCode>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Can thyromental distance be measured accurately?</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Airway management</term>
+                    <term>Thyroid cartilage</term>
+                    <term>Anatomic landmarks</term>
+                    <term>Accuracy</term>
+                    <term>Ultrasonography</term>
+                    <term>Volunteers Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Using the thyromental distance (TMD) measured based on the ultrasonographic location of the thyroid cartilage prominence as the criterion, we investigated the accuracy of TMD measurement by surface landmark identification of the thyroid cartilage prominence. Twenty-nine anesthetist resident volunteers were recruited, including 10 first-year residents, 9 second-year residents and 10 third-year residents. Each volunteer measured the other 28 volunteers&apos; TMD. Then, the thyroid cartilage prominence of each volunteer was identified by ultrasonography of the junction of the vocal cord and thyroid cartilage, and the TMD was measured precisely. The error of the TMD measurement was determined by the minimal detectable difference (MDD) compared to the ultrasound measurement. A difference of greater than 5.4 mm between the TMD measured by volunteers and that based on ultrasound localization was defined as a measurement error. The measurement error rate of females&apos; TMD was significantly higher than that of males&apos; (50 vs 10%, P&lt;0.001). The error rates of anesthetist residents of first-year, second-year and third-year were 34, 27, and 31%, respectively, and were not significantly different. The error of TMD measurement by surface landmark identification is often, especially for women. More clinic experience don&apos;t improve it.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

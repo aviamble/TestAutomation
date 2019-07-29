@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:18+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Enzyme-catalyzed cascade Michael/cyclization reaction for the synthesis of 3,4-dihydropyran derivatives by using a protease</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Xuan</forename>
+                                <surname>Ding</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Applied Chemistry of Chongqing Municipality</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xue-Dong</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Applied Chemistry of Chongqing Municipality</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chun-Lin</forename>
+                                <surname>Dong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Applied Chemistry of Chongqing Municipality</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Zhi</forename>
+                                <surname>Guan</surname>
+                            </persName>
+                            <contact>
+                                <email>guanzhi@swu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Applied Chemistry of Chongqing Municipality</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yan-Hong</forename>
+                                <surname>He</surname>
+                            </persName>
+                            <contact>
+                                <email>heyh@swu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Applied Chemistry of Chongqing Municipality</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Z.</forename>
+                                <surname>Guan</surname>
+                            </persName>
+                           
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Y.-H.</forename>
+                                <surname>He</surname>
+                            </persName>
+                            
+                        </author>
+                        <title level="a" type="main">Enzyme-catalyzed cascade Michael/cyclization reaction for the synthesis of 3,4-dihydropyran derivatives by using a protease</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>E-mails:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>enzyme catalysis</term>
+                    <term>protease</term>
+                    <term>enzymatic promiscuity</term>
+                    <term>Michael/cyclization reaction</term>
+                    <term>3,4-dihydropyran derivatives 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Protease from Streptomyces griseus (SGP) as a sustainable biocatalyst was successfully applied in the Michael/cyclization reaction between dimedone and aryl or alkyl substituted a,ß-unsaturated ketones or ester for the synthesis of 3,4-dihydropyran derivatives. The products were obtained in moderate to excellent yields (46-95%) with certain enantioselectivities (up to 18% ee) for 27 examples. This process afforded a potential biocatalytic approach as alternative to chemical synthesis for 3,4-dihydropyran derivatives. Graphical abstract R 1 R 2 O O O O O R 1 R 2 HO SGP THF/H 2 O, 30 o C R 1 = aryl, alkyl R 2 = Me, CO 2 Me 27 examples Yields 46-95% + SGP = Protease from Streptomyces griseus 3-18% ee Protease from Streptomyces griseus (SGP) was used as a catalyst in the Michael addition/cyclization reaction for the synthesis of 3,4-dihydropyran derivatives.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

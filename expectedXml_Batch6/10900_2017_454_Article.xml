@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T10:38+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Tracking Success – Outputs versus Outcomes: A comparison of accredited and non-accredited public health agencies&apos; Community Health Improvement Plan objectives</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Evan</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Perrault</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>perrault@purdue.edu</email>
+                                <phone>765-496-6429</phone>
+                            </contact>
+							<affiliation key="aff1">
+							<orgName type="department" key="dep1">Assistant Professor of Health Communication</orgName>
+							<orgName type="institution" key="ins1">Brian Lamb School of Communication</orgName>
+							<orgName type="institution" key="ins2">Purdue University</orgName>
+							<address>
+								<addrLine>2158 Beering Hall 100 N. University St.</addrLine>
+								<postCode>47907</postCode>
+								<settlement>West Lafayette</settlement>
+								<region>IN</region>
+							</address>
+							</affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jill</forename>
+                                <surname>Inderstrodt-Stephens</surname>
+                                <authordegree>MA Ph. D. &amp; MPH Student</authordegree>
+                            </persName>
+							<affiliation key="aff2">
+							<orgName type="institution" key="ins1">Brian Lamb School of Communication</orgName>
+							<orgName type="institution" key="ins2">Purdue University</orgName>
+							<address>
+							<postCode>47907</postCode>
+							<settlement>West Lafayette</settlement>
+							<region>IN</region>
+							</address>
+							</affiliation>							
+                        </author>						
+                        <author>
+                            <persName>
+                                <forename type="first">Elizabeth</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Hintz</surname>
+                                <authordegree>BA MA Candidate</authordegree>
+                            </persName>
+							<affiliation key="aff3">
+							<orgName type="department" key="dep1">Interpersonal Health Communication</orgName>
+							<orgName type="institution" key="ins1">Brian Lamb School of Communication</orgName>
+							<orgName type="institution" key="ins2">Purdue University</orgName>
+							<address>
+							<postCode>47907</postCode>
+							<settlement>West Lafayette</settlement>
+							<region>IN</region>
+							</address>
+							</affiliation>							
+                        </author>
+                        <title level="a" type="main">Tracking Success – Outputs versus Outcomes: A comparison of accredited and non-accredited public health agencies&apos; Community Health Improvement Plan objectives</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>CHIP Objectives: Outputs or Outcomes 1 (Corresponding Author) Assistant Professor of Health Communication</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>objectives</term>
+                    <term>outcomes</term>
+                    <term>public health departments</term>
+                    <term>CHIP</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

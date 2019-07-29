@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Plant Growth Regulation (Revision 1) Number of Figures: 6 Number of Tables: 1 Number of Supplemental Figures: 2 Number of Supplemental Tables: 1 Effect of down-regulating 1-deoxy-D-xylulose-5-phosphate reductoisomerase by RNAi on growth and artemisinin biosynthesis in Artemisia annua L</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jian</forename>
+                                <forename type="middle">Wen</forename>
+                                <surname>WANG</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>jwwang@suda.edu.cn</email>
+                                <email>bcjwwang@gmail.com</email>
+                                <phone>Tel: +8651269561430 Fax: +8651265882089</phone>
+                            </contact>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">College of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Soochow University</orgName>
+                                <address>
+                                    <postCode>215123</postCode>
+                                    <settlement>Suzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Hui</forename>
+                                <surname>Cong</surname>
+                            </persName>
+                            <contact>
+                                <email>bcjwwang@gmail.com</email>
+                            </contact>
+                        </author>
+                        <author>
+                            <persName>
+                                <surname>Wang</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yun</forename>
+                                <surname>Xiu</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jing</forename>
+                                <surname>Lei</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jian</forename>
+                                <forename type="middle">Wen</forename>
+                                <surname>Xia</surname>
+                            </persName>
+                        </author>
+                        <title level="a" type="main">Plant Growth Regulation (Revision 1) Number of Figures: 6 Number of Tables: 1 Number of Supplemental Figures: 2 Number of Supplemental Tables: 1 Effect of down-regulating 1-deoxy-D-xylulose-5-phosphate reductoisomerase by RNAi on growth and artemisinin biosynthesis in Artemisia annua L</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Submitted to: Running title: Effect of down-regulating DXR by RNAi in Artemisia annua Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>1-Deoxy-D-xylulose-5-phosphate reductoisomerase (DXR), an important enzyme in the 2-C-methyl-D-erythritol-4-phosphate (MEP) pathway in plant plastids, provides the basic five-carbon units for isoprenoid biosynthesis. To investigate the roles of the MEP pathway in regulating growth, development and artemisinin biosynthesis of Artemisia annua L., we used RNA interference technology to generate transgenic plants with suppressed expression of DXR in A. annua (AaDXR). Suppression of AaDXR resulted in shorter stems, decreased branch numbers and leaf area, lower density of leaf trichomes. Although AaDXR-RNAi plants had no significant changes on the stomatal conductance, the net photosynthesis rate was decreased by 20.0-31.4% due to the marked decline in the contents of chlorophyll. Decreased levels of endogenous gibberellic acid (GA 3) and abscisic acid (ABA) were also detected in the transgenic lines. The artemisinin contents in leaves of all tested transgenic lines declined by 41.8-73.4% at the vegetative stage and 61.5-63.6% at the stages of flowering. The enhancement of artemisinin contents by methyl jasmonate (MeJA) at 300 M has been abolished at seedling and vegetative stages in AaDXR-RNAi plants. These results demonstrate that AaDXR play import roles in the control of plan vegetative growth and artemisinin biosynthesis in A. annua. Keywords 1-Deoxy-D-xylulose-5-phosphate reductoisomerase·RNA interference· Growth·Artemisinin·Artemisia annua L. Introduction Artemisinin is an effective antimalarial drug isolated from medicinal herb Artemisia annua L. in China. Currently the main commercial source of artemisinin comes from the extraction of A. annua with a lower content from 0.01 to 0.8% of dry weight (DW) (Woerdenbag et al. 1994). Substantial efforts have been made to explore plant growth characteristics and artemisinin biosynthesis for enhanced artemisinin</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

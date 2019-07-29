@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Review on Catalytic Cleavage of C-C Inter-unit Linkages in Lignin Model Compounds: Towards Lignin Depolymerisation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Susana</forename>
+                                <surname>Guadix-Montero</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Cardiff Catalysis Institute</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry</orgName>
+                                <orgName type="institution">Cardiff University</orgName>
+                                <address>
+                                    <postCode>CF10 3AT</postCode>
+                                    <settlement>Cardiff</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Meenakshisundaram</forename>
+                                <surname>Sankar</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>sankar@cardiff.ac.uk</email>
+                            </contact>
+							 <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Cardiff Catalysis Institute</orgName>
+                                <orgName type="department" key="dep2">School of Chemistry</orgName>
+                                <orgName type="institution">Cardiff University</orgName>
+                                <address>
+                                    <postCode>CF10 3AT</postCode>
+                                    <settlement>Cardiff</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Cardiff Catalysis Institute, School of Chemistry</orgName>
+                                <orgName type="institution">Cardiff University</orgName>
+                                <address>
+                                    <postCode>CF10 3AT</postCode>
+                                    <settlement>Cardiff</settlement>
+									<country>UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Review on Catalytic Cleavage of C-C Inter-unit Linkages in Lignin Model Compounds: Towards Lignin Depolymerisation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>C-C bond cleavage</term>
+                    <term>lignin valorization</term>
+                    <term>catalytic depolymerization</term>
+                    <term>lignin model compounds</term>
+                    <term>technical lignins</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Lignin depolymerisation has received considerable attention recently due to the pressing need to find sustainable alternatives to fossil fuel feedstock to produce chemicals and fuels. Two types of interunit linkages (CC and CO linkages) link several aromatic units in the structure of lignin. Between these two interunit linkages, the bond energies of CC linkages are higher than that of CO linkages, making them harder to break. However, for an efficient lignin depolymerisation, both types of inter-unit linkages have to be broken. This is more relevant because of the fact that many delignification processes tend to result in the formation of additional CC inter unit bonds. Here we review the strategies reported for the cleavage of CC interunit linkages in lignin model compounds and lignin. Although a number of articles are available on the cleavage of CO inter-unit linkages, reports on the selective cleavage of CC inter-unit linkages are relatively less. Oxidative cleavage, hydrogenolysis, two-step redox-neutral process, microwave assisted cleavage, biocatalytic and photocatalytic methods have been reported for the breaking of CC inter-unit linkages in lignin. Here we review all these methods in detail, focused only on the breaking of CC linkages. The objective of this review is to motivate researchers to design new strategies to break this strong CC inter-unit bonds to valorise lignins, technical lignins in particular.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

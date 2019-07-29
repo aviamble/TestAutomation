@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T08:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Current smoking is associated with a larger waist circumference and a more androgenic profile in young healthy women from high-risk breast cancer families</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Carolina</forename>
+                                <surname>Ellberg</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Clinical Sciences</orgName>
+                                <orgName type="department" key="dep2">Division of Oncology and Pathology</orgName>
+                                <orgName type="institution">Lund University and Skåne University Hospital</orgName>
+                                <address>
+                                    <settlement>Lund, Lund</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Clinical Sciences</orgName>
+                                <orgName type="department" key="dep2">Division of Cancer Epidemiology</orgName>
+                                <orgName type="institution">Lund University and Skåne University Hospital</orgName>
+                                <address>
+                                    <settlement>Lund, Lund</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Håkan</forename>
+                                <surname>Olsson</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Clinical Sciences</orgName>
+                                <orgName type="department" key="dep2">Division of Oncology and Pathology</orgName>
+                                <orgName type="institution">Lund University and Skåne University Hospital</orgName>
+                                <address>
+                                    <settlement>Lund, Lund</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Clinical Sciences</orgName>
+                                <orgName type="department" key="dep2">Division of Cancer Epidemiology</orgName>
+                                <orgName type="institution">Lund University and Skåne University Hospital</orgName>
+                                <address>
+                                    <settlement>Lund, Lund</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Helena</forename>
+                                <surname>Jernström</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Clinical Sciences</orgName>
+                                <orgName type="department" key="dep2">Division of Oncology and Pathology</orgName>
+                                <orgName type="institution">Lund University and Skåne University Hospital</orgName>
+                                <address>
+                                    <settlement>Lund, Lund</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Current smoking is associated with a larger waist circumference and a more androgenic profile in young healthy women from high-risk breast cancer families</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Smoking</term>
+                    <term>testosterone</term>
+                    <term>oral contraceptives</term>
+                    <term>androstenedione</term>
+                    <term>waist-to-hip ratio</term>
+                    <term>breast cancer</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The purpose was to elucidate the interplay between current smoking, anthropometric measurements, and endogenous hormone levels in women =40 years. Questionnaires on lifestyle and reproductive factors were completed by 269 healthy women from high-risk breast cancer families between 1996 and 2006 in Sweden. Blood samples for analyses of plasma testosterone, estradiol, androstenedione, SHBG, and body measurements were obtained 5-10 days before predicted onset of the next menstrual period. Women without smoking status, who were currently breastfeeding or using hormonal contraception other than combined oral contraceptives (OCs) were excluded (n=27). Current smokers (n=57) had larger waist circumference (adj P=0.004) and waist-to-hip ratio (WHR) (adj P=0.007) than non-smokers (n=185). In non-OC users, adjusted mean androstenedione levels were higher in current smokers compared with non-smokers (10.3 versus 8.6 nmol/L; adj P=0.0002). While in current OC users, estradiol levels were higher in smokers compared with non-smokers (22.5 versus 17.4 pg/mL; adj P=0.012). In multivariable models, WHR was associated with both current smoking (adj P=0.016) and higher levels of androstenedione (adj P =0.05) or bioavailable testosterone (adj P =0.001). Among non-OC users, a more androgenic profile was observed in current smokers compared with non-smokers, but not in current OC users. Irrespective of OC use, current smoking was associated with increased waist circumference. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

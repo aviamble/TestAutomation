@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Leadership Developmental Level and Performance: An Investigation Of Gender Differences</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Karl</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Kuhnert</surname>
+                            </persName>
+                            <contact>
+                                <email>kkuhnert3@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Organization and Management</orgName>
+                                <orgName type="institution">Goizueta Business School Emory University</orgName>
+                                <address>
+                                    <postCode>30322</postCode>
+                                    <settlement>Atlanta</settlement>
+                                    <region>GA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Karl</forename>
+                                <surname>Kuhnert</surname>
+                            </persName>
+                            <affiliation key="aff2" role="corresp" sequence="1">
+                                <orgName type="department">Department of Organization and Management</orgName>
+                                <orgName type="institution">Emory University</orgName>
+                                <address>
+                                    <postCode>30322</postCode>
+                                    <settlement>Atlanta</settlement>
+                                    <region>GA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Leadership Developmental Level and Performance: An Investigation Of Gender Differences</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Running head: LEADERSHIP DEVELOPMENTAL LEVEL AND GENDER DIFFERENCES The author would like to thank Bob and Lyn Turknett and the Turknett Leadership Group for their help in data collection and Sarah Strang for her assistance on an earlier draft of the manuscript. 2 Abstract</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>This study investigates the predictive ability of Leadership Developmental Levels</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

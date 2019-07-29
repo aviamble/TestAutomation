@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T10:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Relational autonomy in the care of the vulnerable: Health care professionals&apos; reasoning in Moral Case Deliberation (MCD)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kaja</forename>
+                                <surname>Heidenreich</surname>
+                            </persName>
+                            <contact>
+                                <email>kaja.heidenreich@regionorebrolan.se</email>
+                                <phone>+46 70 269 4705</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Health and Medicine</orgName>
+                                <orgName type="institution" key="instit1">University Health Care Research Center</orgName>
+                                <orgName type="institution" key="instit2">Örebro University</orgName>
+								<address>
+								<country>Sweden</country>
+								</address>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="institution">University Health Care Research Center</orgName>
+                                <address>
+                                    <postBox>Box 1613</postBox>
+                                    <postCode>701 16</postCode>
+                                    <settlement>Örebro</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anders</forename>
+                                <surname>Bremer</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Health and Caring Sciences</orgName>
+                                <orgName type="department" key="dep2">Faculty of Health and Life Sciences</orgName>
+								<orgName type="institution" key="instit1">Linnaeus University</orgName>
+								<orgName type="institution" key="instit2">Växjö and PreHospen – Centre for Prehospital Research</orgName>
+                                <orgName type="institution" key="instit3">University of Borås</orgName>
+                                <address>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lars</forename>
+                                <forename type="middle">Johan</forename>
+                                <surname>Materstvedt</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Philosophy and Religious Studies, Faculty of Humanities</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Glasgow End of Life Studies Group</orgName>
+                                <orgName type="department" key="dep2">School of Interdisciplinary Studies</orgName>
+                                <orgName type="institution">University of Glasgow</orgName>
+                                <address>
+                                    <addrLine>Dumfries Campus</addrLine>
+									<settlement>Scotland</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ulf</forename>
+                                <surname>Tidefelt</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Health and Medicine</orgName>
+                                <orgName type="institution" key="instit1">University Health Care Research Center</orgName>
+                                <orgName type="institution" key="instit2">Örebro University</orgName>
+								<address>
+								<country>Sweden</country>
+								</address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mia</forename>
+                                <surname>Svantesson</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Health and Medicine</orgName>
+                                <orgName type="institution" key="instit1">University Health Care Research Center</orgName>
+                                <orgName type="institution" key="instit2">Örebro University</orgName>
+								<address>
+								<country>Sweden</country>
+								</address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Relational autonomy in the care of the vulnerable: Health care professionals&apos; reasoning in Moral Case Deliberation (MCD)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>†Deceased Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>In Moral Case Deliberation (MCD), healthcare professionals discuss ethically difficult patient situations in their daily practice. There is a lack of knowledge regarding the content of MCD and there is a need to shed light on this ethical reflection in the midst of clinical practice. Thus, the aim of the study was to describe the content of healthcare professionals&apos; moral reasoning during MCD. The design was qualitative and descriptive, and data consisted of 22 audio-recorded inter-professional MCDs, analysed with content analysis. The moral reasoning centred on how to strike the balance between personal convictions about what constitutes good care, and the perceived dissonant care preferences held by the patient. The healthcare professionals deliberated about good care in relation to demands considered to be unrealistic, justifications for influencing the patient, the incapacitated patient&apos;s nebulous interests, and coping with the conflict between using coercion to achieve good while protecting human dignity. Furthermore, as a basis for the reasoning, the healthcare professionals reflected on how to establish a responsible relationship with the vulnerable person. This comprised acknowledging the patient as a susceptible human being, protecting dignity and integrity, defining their own moral responsibility, and having patience to give the patient and family time to come to terms with illness and declining health. The profound struggle to respect the patient&apos;s autonomy in clinical practice can be understood through the concept of relational autonomy, to try to secure both patients&apos; influence and at the same time take responsibility for their needs as vulnerable humans.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

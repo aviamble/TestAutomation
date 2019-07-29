@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:48+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Prenatal and Postpartum Care Disparities in a Large Medicaid Program</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Natasha</forename>
+                                <surname>Parekh</surname>
+                            </persName>
+							<contact>
+								<email>nkp10@pitt.edu</email>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">University of Pittsburgh School of Medicine</orgName>
+                                <address>
+                                    <addrLine>200 Lothrop Street, Suite 933 W</addrLine>
+                                    <postCode>15213</postCode>
+									<settlement>Pittsburgh</settlement>
+                                    <region>PA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Marian</forename>
+                                <surname>Jarlenski</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of Pittsburgh Health Policy Institute</orgName>
+                            </affiliation>
+							 <affiliation key="aff3">
+                                <orgName type="department">Department of Health Policy and Management</orgName>
+                                <orgName type="institution">University of Pittsburgh</orgName>
+                              </affiliation>
+                        </author>
+						
+						<author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <surname>Kelley</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Office of Medical Assistance Programs</orgName>
+								<orgName type="institution">Pennsylvania Department of Human Services</orgName>
+							</affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Prenatal and Postpartum Care Disparities in a Large Medicaid Program</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Objectives: Pennsylvania&apos;s maternal mortality, infant mortality, and preterm birth rates rank 24 th , 35 th , and 25 th in the country, and are higher among racial and ethnic minorities. Provision of prenatal and postpartum care represents one way to improve these outcomes. We assessed the extent of disparities in the provision and timeliness of prenatal and postpartum care for women enrolled in Pennsylvania Medicaid. Methods: We performed a cross-sectional evaluation of representative samples of women who delivered live births from November 2011-2015. Our outcomes were 3 binary effectiveness-of-care measures: prenatal care timeliness, frequency of prenatal care, and postpartum care timeliness. Pennsylvania&apos;s Managed Care Organizations (MCOs) were required to submit these outcomes to the state after</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

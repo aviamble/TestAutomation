@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Brief Original Macroporous films from acetylated lignin and cellulose as precursors for Smart Coatings based on Regenerated Wood</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Shadan</forename>
+                                <surname>Musa</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Biotechnology</orgName>
+                                <orgName type="institution">Hochschule Mannheim</orgName>
+                                <address>
+                                    <addrLine>Paul-Wittsack-Straße 10</addrLine>
+                                    <postCode>68163</postCode>
+                                    <settlement>Mannheim</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Oliver</forename>
+                                <surname>Richter</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Applied Natural Sciences</orgName>
+                                <orgName type="institution">Technische Hochschule Köln</orgName>
+                                <address>
+                                    <addrLine>Chempark Leverkusen, E39</addrLine>
+                                    <postCode>51368</postCode>
+                                    <settlement>Leverkusen</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Hochschule Niederrhein</orgName>
+                                <address>
+                                    <addrLine>Adlerstr. 32</addrLine>
+                                    <postCode>47798</postCode>
+                                    <settlement>Krefeld</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Matthias</forename>
+                                <surname>Balsam</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Metabolon Center</orgName>
+                                <orgName type="institution">Technische Hochschule Köln</orgName>
+                                <address>
+                                    <addrLine>Am Berkebach 1</addrLine>
+                                    <postCode>51789</postCode>
+                                    <settlement>Lindlar</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aron</forename>
+                                <surname>Kneer</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="institution">TinniT Technologies GmbH</orgName>
+                                <address>
+                                    <addrLine>Essenweinstr. 25</addrLine>
+                                    <postCode>76131</postCode>
+                                    <settlement>Karlsruhe</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Stéphan</forename>
+                                <surname>Barbe</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Applied Natural Sciences</orgName>
+                                <orgName type="institution">Technische Hochschule Köln</orgName>
+                                <address>
+                                    <addrLine>Chempark Leverkusen, E39</addrLine>
+                                    <postCode>51368</postCode>
+                                    <settlement>Leverkusen</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Brief Original Macroporous films from acetylated lignin and cellulose as precursors for Smart Coatings based on Regenerated Wood</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A straightforward method for the preparation of macroporous films from acetylated lignin and cellulose as precursors for smart coatings based on regenerated wood via dry cast was developed. Series of coatings with different casting solutions were performed, and coating surfaces were analyzed by Laser Scanning Microscopy. The necessity to achieve simultaneous polymer demixing during dry cast operations was demonstrated, and the crucial role played by the solvent/non-solvent ratio was highlighted. The successfully prepared coatings exhibit a well-formed macroporous structure and wood-like appearance.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

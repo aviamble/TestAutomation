@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T06:28+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">PURIFICATION AND CHARACTERIZATION OF EXO-INULINASE FROM Paenibacillus sp. D9 STRAIN</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <surname>Jeza</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Discipline of Microbiology</orgName>
+                                <orgName type="department" key="dep2">School of Life sciences</orgName>
+                                <orgName type="institution">University of KwaZulu-Natal (Westville campus)</orgName>
+                                <address>
+                                    <addrLine>Private Bag X54001</addrLine>
+                                    <postCode>4001</postCode>
+                                    <settlement>Durban</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Maseko</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Discipline of Microbiology</orgName>
+                                <orgName type="department" key="dep2">School of Life sciences</orgName>
+                                <orgName type="institution">University of KwaZulu-Natal (Westville campus)</orgName>
+                                <address>
+                                    <addrLine>Private Bag X54001</addrLine>
+                                    <postCode>4001</postCode>
+                                    <settlement>Durban</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <surname>Lin</surname>
+                            </persName>
+                            <contact>
+                                <email>linj@ukzn.ac.za</email>
+                                <phone>+27-31-2607407</phone>
+                            </contact>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Discipline of Microbiology</orgName>
+                                <orgName type="department" key="dep2">School of Life sciences</orgName>
+                                <orgName type="institution">University of KwaZulu-Natal (Westville campus)</orgName>
+                                <address>
+                                    <addrLine>Private Bag X54001</addrLine>
+                                    <postCode>4001</postCode>
+                                    <settlement>Durban</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Johnson</forename>
+                                <surname>Lin</surname>
+                                <prefix>Professor</prefix>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Discipline of Microbiology</orgName>
+                                <orgName type="department" key="dep2">School of Life sciences</orgName>
+                                <orgName type="institution">University of KwaZulu-Natal (Westville campus)</orgName>
+                                <address>
+                                    <addrLine>Private Bag X54001</addrLine>
+                                    <postCode>4001</postCode>
+                                    <settlement>Durban</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="department">School of Life Sciences</orgName>
+                                <orgName type="institution">University of KwaZulu-Natal (Westville)</orgName>
+                                <address>
+                                    <addrLine>Private Bag X 54001</addrLine>
+                                    <postCode>4000</postCode>
+                                    <settlement>Durban</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">PURIFICATION AND CHARACTERIZATION OF EXO-INULINASE FROM Paenibacillus sp. D9 STRAIN</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Exo-inulinase</term>
+                    <term>Paenibacillus sp</term>
+                    <term>Enzyme purification</term>
+                    <term>Characterization</term>
+                    <term>Phylogenetic tree</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>This study intended to purify and characterise exo-inulinase of diesel-degrading Paenibacillus sp. D9. The whole genome sequencing of Paenibacillus sp. D9 revealed to possess the sacC gene that is encoded as exo-inulinase/levanase. This isolate was capable of producing a maximum of 50.9 IU/mL of exo-inulinase activity within three days at 30 ° C, 200 rpm and pH of 7.0 on minimal salt medium (MSM) agar supplemented with 1% (w/v) inulin. An exo-inulinase of 58.5 kDa was purified using ammonium sulphate precipitation, HiTrap QFF column and MMC column chromatographies with a specific activity of 4333 IU/mg, 7.1% recovery and a 4.3-fold increase in purity. The purified D9 exo-inulinase had temperature and pH optimum at 40 ° C and pH 4.0, respectively, with the Michaelis constant of 5.5 mM and a maximal velocity of 476.2 IU mg-1 , respectively. Catalytic constant, k cat was calculated to be 42.6 s-1 with a catalytic efficiency (k cat /K m) of 7.6 s-1 mM-1. The presence of Ca 2+ enhanced the activity of D9 exo-inulinase while Hg 2+ completely inhibited the activity, other compounds such as Fe 3+ and Cu +2 had an inhibitory effect. The results of amino acid alignment and the complete degradation of inulin into fructose by the purified enzyme confirmed that inulinase from Paenibacillus sp. D9 is an exo-form. The phylogenetic tree based on the protein sequences indicates that bacterial exo-inulinases possess a common ancestry. Abbreviation list bp base pair k cat catalytic constant K m Michaelis Constant MSM minimal salt medium PCR polymerase chain reaction QFF Q Sepharose® Fast Flow SDS-PAGE sodium dodecyl sulphate-polyacrylamide gel electrophoresis V max maximum rate of reaction INTRODUCTION</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T04:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Cancer treatment and bone health</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Catherine</forename>
+                                <surname>Handforth</surname>
+                            </persName>
+                            <contact>
+                                <email>c.handforth@sheffield.ac.uk</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Academic Unit of Clinical Oncology</orgName>
+                                <orgName type="department" key="dep2">Department of Oncology and Metabolism</orgName>
+                                <orgName type="institution" key="instit1">Weston Park Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Sheffield</orgName>
+                                <address>
+                                    <settlement>Sheffield</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Stella</forename>
+                                <surname>D &apos;Oronzo</surname>
+                            </persName>
+                            <contact>
+                                <email>s.doronzo@sheffield.ac.uk</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Academic Unit of Clinical Oncology</orgName>
+                                <orgName type="department" key="dep2">Department of Oncology and Metabolism</orgName>
+                                <orgName type="institution" key="instit1">Weston Park Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Sheffield</orgName>
+                                <address>
+                                    <settlement>Sheffield</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Robert</forename>
+                                <surname>Coleman</surname>
+                            </persName>
+                            <contact>
+                                <email>r.e.coleman@sheffield.ac.uk</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Academic Unit of Clinical Oncology</orgName>
+                                <orgName type="department" key="dep2">Department of Oncology and Metabolism</orgName>
+                                <orgName type="institution" key="instit1">Weston Park Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Sheffield</orgName>
+                                <address>
+                                    <settlement>Sheffield</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						<author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Janet</forename>
+                                <surname>Brown</surname>
+                            </persName>
+                            <contact>
+                                <email>j.e.brown@sheffield.ac.uk</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Academic Unit of Clinical Oncology</orgName>
+                                <orgName type="department" key="dep2">Department of Oncology and Metabolism</orgName>
+                                <orgName type="institution" key="instit1">Weston Park Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Sheffield</orgName>
+                                <address>
+                                    <settlement>Sheffield</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Cancer treatment and bone health</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 # Corresponding Author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>cancer treatment</term>
+                    <term>osteoporosis</term>
+                    <term>BMD</term>
+                    <term>prostate cancer</term>
+                    <term>breast cancer</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

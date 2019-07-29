@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T06:27+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Trends in prostate cancer incidence between 1996 and 2013 in two Swiss regions by age, grade and T-stage</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Miriam</forename>
+                                <surname>Wanner</surname>
+                            </persName>
+                            <contact>
+                                <email>miriam.wanner@uzh.ch</email>
+                                <phone>+41 43 253 0223</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cancer Registry Zurich and Zug</orgName>
+                                <orgName type="institution">University Hospital Zurich</orgName>
+                                <address>
+                                    <addrLine>Vogelsangstrasse 10</addrLine>
+                                    <postCode>8091</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Epidemiology, Biostatistics and Prevention Institute</orgName>
+                                <orgName type="institution">University of Zurich</orgName>
+                                <address>
+                                    <addrLine>Hirschengraben 82</addrLine>
+                                    <postCode>8001</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aline</forename>
+                                <surname>Richard</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Epidemiology, Biostatistics and Prevention Institute</orgName>
+                                <orgName type="institution">University of Zurich</orgName>
+                                <address>
+                                    <addrLine>Hirschengraben 82</addrLine>
+                                    <postCode>8001</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Katarina</forename>
+                                <surname>Matthes</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cancer Registry Zurich and Zug</orgName>
+                                <orgName type="institution">University Hospital Zurich</orgName>
+                                <address>
+                                    <addrLine>Vogelsangstrasse 10</addrLine>
+                                    <postCode>8091</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Epidemiology, Biostatistics and Prevention Institute</orgName>
+                                <orgName type="institution">University of Zurich</orgName>
+                                <address>
+                                    <addrLine>Hirschengraben 82</addrLine>
+                                    <postCode>8001</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Laura</forename>
+                                <surname>Ortelli</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Pathology</orgName>
+                                <orgName type="institution">Ticino Cancer Registry</orgName>
+                                <address>
+                                    <addrLine>Via in Selva 24</addrLine>
+                                    <postCode>6600</postCode>
+                                    <settlement>Locarno</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Matthias</forename>
+                                <surname>Lorez</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">National Institute for Cancer Epidemiology and Registration (NICER)</orgName>
+                                <address>
+                                    <addrLine>Hirschengraben 82</addrLine>
+                                    <postCode>8001</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dimitri</forename>
+                                <surname>Korol</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cancer Registry Zurich and Zug</orgName>
+                                <orgName type="institution">University Hospital Zurich</orgName>
+                                <address>
+                                    <addrLine>Vogelsangstrasse 10</addrLine>
+                                    <postCode>8091</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andrea</forename>
+                                <surname>Bordoni</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Pathology</orgName>
+                                <orgName type="institution">Ticino Cancer Registry</orgName>
+                                <address>
+                                    <addrLine>Via in Selva 24</addrLine>
+                                    <postCode>6600</postCode>
+                                    <settlement>Locarno</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sabine</forename>
+                                <surname>Rohrmann</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cancer Registry Zurich and Zug</orgName>
+                                <orgName type="institution">University Hospital Zurich</orgName>
+                                <address>
+                                    <addrLine>Vogelsangstrasse 10</addrLine>
+                                    <postCode>8091</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Epidemiology, Biostatistics and Prevention Institute</orgName>
+                                <orgName type="institution">University of Zurich</orgName>
+                                <address>
+                                    <addrLine>Hirschengraben 82</addrLine>
+                                    <postCode>8001</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Trends in prostate cancer incidence between 1996 and 2013 in two Swiss regions by age, grade and T-stage</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author: Fax: +41 44 255 5636 Word count Abstract: 200 Word count main text: 3547</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Purpose To investigate differences in prostate cancer incidence between two distinct Swiss regions from 1996 to 2013 stratified by age group, grade and T-stage. Methods The dataset included 17,495 men living in Zurich and 3,505 men living in Ticino, diagnosed with prostate cancer between 1996 and 2013. We computed age-standardized incidence rates per 100,000 person-years using the European Standard Population. Trends were assessed using JoinPoint regression analysis Software. Results Age-standardized incidence rates were generally higher in Zurich compared to Ticino but the difference decreased over time. Incidence rates increased significantly up to 2002 in Zurich</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T06:39+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main"></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Lili</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yinjie</forename>
+                                <surname>Niu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Taofeng</forename>
+                                <surname>Lu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Haichang</forename>
+                                <surname>Yin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuanyuan</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lijing</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yiping</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Hongyan</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <contact>
+                                <email>hychen@hvri.ac.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Veterinary Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Heilongjiang Provincial Key Laboratory of Laboratory Animal and Comparative Medicine</orgName>
+                                <orgName type="institution">Harbin Veterinary Research Institute, the Chinese Academy of Agriculture Sciences</orgName>
+                                <address>
+                                    <addrLine>678 Haping Road</addrLine>
+                                    <postCode>150069</postCode>
+                                    <settlement>Harbin</settlement>
+                                    <country>P R China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 1 Metagenomic analysis of the Jinding duck fecal virome 2 3 contributed equally to this work. 9 Correspondence 10 11 12</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ducks play an important role in transmitting and maintaining mammalian viruses in nature, 13 and are a reservoir host of many animal viruses. We analyzed the fecal virome of four strains (A, B, C 14 and D) of ducks living in isolation by using metagenomic analysis. The feces of the ducks tested 15 contained 18 animal virus families. The percentage of RNA virus reads, compared to the total animal 16 virus reads in each of the four strains were 96.96% (A), 97.30% (B), 98.01 (C), and 67.49% (D), and 17 were mainly from Orthomyxoviridae, Mimiviridae, Bunyaviridae, Picobirnaviridae and Reoviridae. 18 Meanwhile, the minority of DNA virus reads were related to Herpesviridae, Adenoviridae, 19 Iridoviridae, and other, low abundance viral families. The percentage of Orthomyxoviridae, 20 Mimiviridae, Bunyaviridae, Picobirnaviridae and Herpesviridae reads were not significantly different 21 among strains A, B and C; however, there were marked differences in the abundance of these reads in 22 strain D. In summary, this study provides an unbiased examination of the viral diversity in the feces of 23 four strains of ducks in specific-pathogen-free periods, and highlights the variation in the percentage of 24 viral families present. These results can be used as a reference for detecting duck viral pathogens and 25 predicting zoonotic potential. 26 Introduction 27 Ducks are aquatic birds belonging to the order Anseriformes [14]. China is one of the most prominent 28 countries for duck breeding in world, having the highest duck slaughter rates and breeding stocks. 29 Domestic ducks and waterfowl live side by side in the rice fields and wetlands in China, and the 30 common-living environment provides opportunity for contact between wild and domestic birds [15].</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

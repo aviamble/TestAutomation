@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">5-year Experience of Laparoscopic Single Anastomosis (mini-) Gastric Bypass: Comparison with other bariatric procedures</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Nawaf</forename>
+                                <surname>Alkhalifah</surname>
+                                <authordegree>KBS (General Surgery)</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Min-Sheng General Hospital</orgName>
+                                <address>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Al-Adan General Hospital</orgName>
+                                <address>
+                                    <country key="KW">Kuwait</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wei-Jei</forename>
+                                <surname>Lee</surname>
+                                <prefix>Dr</prefix>
+                                <authordegree>M.D., Ph.D.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>wjlee_obessurg_tw@yahoo.com.tw</email>
+                                <phone>886-3-3179599 ext 1598</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Min-Sheng General Hospital</orgName>
+                                <address>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tan</forename>
+                                <forename type="middle">Chun</forename>
+                                <surname>Hai</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Min-Sheng General Hospital</orgName>
+                                <address>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Khoo Teck Puat Hospital</orgName>
+                                <address>
+                                    <country>Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kong-Han</forename>
+                                <surname>Ser</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Min-Sheng General Hospital</orgName>
+                                <address>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jung-Chien</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Min-Sheng General Hospital</orgName>
+                                <address>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chun-Chi</forename>
+                                <surname>Wu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Min-Sheng General Hospital</orgName>
+                                <address>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation>
+								<address>
+                                    <addrLine>No. 168, Chin Kuo Road</addrLine>
+                                    <settlement>Tauoyan</settlement>
+									<country key="TW">Taiwan, ROC</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						
+                        <title level="a" type="main">5-year Experience of Laparoscopic Single Anastomosis (mini-) Gastric Bypass: Comparison with other bariatric procedures</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Reprint request and correspondence to</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Background: Laparoscopic Single Anastomosis (mini-) Gastric Bypass</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

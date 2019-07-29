@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T08:25+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Antioxidant and catalytic activity of biosynthesized CuO nanoparticles using extract of Galeopsidis herba</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Renata</forename>
+                                <surname>Dobrucka</surname>
+                            </persName>
+                            <contact>
+                                <email>renata.dobrucka@ue.poznan.pl</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Industrial Products Quality and Ecology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Commodity Science</orgName>
+                                <orgName type="institution">Poznan University of Economics</orgName>
+                                <address>
+                                    <addrLine>al. Niepodleglosci 10</addrLine>
+                                    <postCode>61-875</postCode>
+                                    <settlement>Poznan</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Antioxidant and catalytic activity of biosynthesized CuO nanoparticles using extract of Galeopsidis herba</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>CuO nanoparticles</term>
+                    <term>green synthesis</term>
+                    <term>antioxidant activity Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The main objective of this study was synthesis of CuO nanoparticles using extract of Galeopsidis herba and were characterized by UV–VIS spectroscopy, Fourier transform infrared spectroscopy (FTIR), scanning electron microscopy (SEM), SEM with EDS profile and transmission electron microscopy (TEM) analysis. SEM images confirmed that synthesized nanoparticles were spherical in nature. EDS profile confirmed the signal characteristic of cooper and oxygen. All the analyses revealed that synthesized CuO nanoparticles were 10±5 nm in size. The antioxidant behavior of synthesized CuO nanoparticles was evaluated by scavenging free radicals of 2,2-diphenyl-1-picrylhydrazyl hydrate (DPPH). The DPPH scavenging activity was monitored using UV–vis spectrophotometer. The synthesized CuO nanoparticles presented very good catalytic activity in the reduction of malachite green.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

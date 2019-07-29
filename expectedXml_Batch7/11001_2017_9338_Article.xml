@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T12:20+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Combining pixel and object based image analysis of ultra-high resolution multibeam bathymetry and backscatter for habitat mapping in shallow marine waters</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Daniel</forename>
+                                <surname>Ierodiaconou</surname>
+                            </persName>
+                            <contact>
+                                <email>daniel.ierodiaconou@deakin.edu.au</email>
+								<email>iero@deakin.edu.au</email>
+								<phone>+61409502980</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="ins1">Deakin University</orgName>
+                                <address>
+                                    <settlement>Geelong</settlement>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">School of Life and Environmental Sciences</orgName>
+								<orgName type="institution" key="ins2">Centre for Integrative Ecology (Warrnambool Campus)</orgName>
+                                <address>
+									<addrLine>Princes Hwy, Sherwood Park</addrLine>
+									<postbox>PO Box 423</postbox>
+									<postCode>3280</postCode>
+									<settlement>Warrnambool</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alexandre</forename>
+                                <forename type="middle">C.</forename>
+                                <forename type="middle">G.</forename>
+                                <surname>Schimel</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="ins1">Deakin University</orgName>
+                                <address>
+                                    <settlement>Geelong</settlement>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">School of Life and Environmental Sciences</orgName>
+								<orgName type="institution" key="ins2">Centre for Integrative Ecology (Warrnambool Campus)</orgName>
+                                <address>
+									<addrLine>Princes Hwy, Sherwood Park</addrLine>
+									<postbox>PO Box 423</postbox>
+									<postCode>3280</postCode>
+									<settlement>Warrnambool</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">National Institute of Water and Atmospheric Research (NIWA) – Taihoro Nukurangi</orgName>
+                                <address>
+                                    <addrLine>301 Evans Bay Parade</addrLine>
+                                    <postCode>6021</postCode>
+                                    <settlement>Hataitai, Wellington</settlement>
+                                    <country key="NZ">New Zealand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <surname>Kennedy</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">School of Geography</orgName>
+                                <orgName type="institution">The University of Melbourne</orgName>
+                                <address>
+                                    <postCode>3010</postCode>
+                                    <settlement>Parkville</settlement>
+									<region>Vic</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jacquomo</forename>
+                                <surname>Monk</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="ins1">Deakin University</orgName>
+                                <address>
+                                    <settlement>Geelong</settlement>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">School of Life and Environmental Sciences</orgName>
+								<orgName type="institution" key="ins2">Centre for Integrative Ecology (Warrnambool Campus)</orgName>
+                                <address>
+									<addrLine>Princes Hwy, Sherwood Park</addrLine>
+									<postbox>PO Box 423</postbox>
+									<postCode>3280</postCode>
+									<settlement>Warrnambool</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>							
+                            <affiliation key="aff5">
+                                <orgName type="department">Institute of Marine and Antarctic Studies</orgName>
+                                <orgName type="institution">University of Tasmania</orgName>
+                                <address>
+                                    <addrLine>Private Bag 49</addrLine>
+                                    <postCode>7001</postCode>
+                                    <settlement>Hobart</settlement>
+                                    <region>Tasmania</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Grace</forename>
+                                <surname>Gaylard</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="ins1">Deakin University</orgName>
+                                <address>
+                                    <settlement>Geelong</settlement>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">School of Life and Environmental Sciences</orgName>
+								<orgName type="institution" key="ins2">Centre for Integrative Ecology (Warrnambool Campus)</orgName>
+                                <address>
+									<addrLine>Princes Hwy, Sherwood Park</addrLine>
+									<postbox>PO Box 423</postbox>
+									<postCode>3280</postCode>
+									<settlement>Warrnambool</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mary</forename>
+                                <surname>Young</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="ins1">Deakin University</orgName>
+                                <address>
+                                    <settlement>Geelong</settlement>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">School of Life and Environmental Sciences</orgName>
+								<orgName type="institution" key="ins2">Centre for Integrative Ecology (Warrnambool Campus)</orgName>
+                                <address>
+									<addrLine>Princes Hwy, Sherwood Park</addrLine>
+									<postbox>PO Box 423</postbox>
+									<postCode>3280</postCode>
+									<settlement>Warrnambool</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Markus</forename>
+                                <surname>Diesing</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="institution">Geological Survey of Norway</orgName>
+                                <address>
+                                    <addrLine>Sluppen</addrLine>								
+                                    <postBox>P.O. Box 6315</postBox>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Centre for Environment, Fisheries and Aquaculture Science</orgName>
+                                <address>
+                                    <addrLine>Pakefield Road</addrLine>
+                                    <postCode>NR330HT</postCode>
+                                    <settlement>Lowestoft, Suffolk</settlement>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alex</forename>
+                                <surname>Rattray</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="ins1">Deakin University</orgName>
+                                <address>
+                                    <settlement>Geelong</settlement>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">School of Life and Environmental Sciences</orgName>
+								<orgName type="institution" key="ins2">Centre for Integrative Ecology (Warrnambool Campus)</orgName>
+                                <address>
+									<addrLine>Princes Hwy, Sherwood Park</addrLine>
+									<postbox>PO Box 423</postbox>
+									<postCode>3280</postCode>
+									<settlement>Warrnambool</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <title level="a" type="main">Combining pixel and object based image analysis of ultra-high resolution multibeam bathymetry and backscatter for habitat mapping in shallow marine waters</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Multibeam echosounder</term>
+                    <term>Marine habitat mapping</term>
+                    <term>Object Based Image Analysis</term>
+                    <term>Random Forests 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Habitat mapping data are increasingly being recognised for their importance in underpinning marine spatial planning. The ability to collect ultra-high resolution (cm) multibeam echosounder (MBES) data in shallow waters has facilitated understanding of the fine-scale distribution of benthic habitats in these areas that are often prone to human disturbance. Developing quantitative and objective approaches to integrate MBES data with ground observations for predictive modelling is essential for ensuring repeatability and providing confidence measures for habitat mapping products. Whilst supervised classification approaches are becoming more common, users are often faced with a decision whether to implement a Pixel based (PB) or an Object based (OB) image analysis approach, with often limited understanding of the potential influence of that decision on final map products and relative importance of data inputs to patterns observed. In this study, we apply an ensemble learning approach capable of integrating PP and OB Image Analysis from ultra-high resolution MBES bathymetry and backscatter data for mapping benthic habitats in Refuge Cove, a temperate coastal embayment in southeast Australia. We demonstrate the relative importance of PP and OB seafloor derivatives for the five broad benthic habitats that dominate the site. We found that OB and PB approach performed well with differences in classification accuracy but not discernible statistically. However, a model incorporating elements of both approaches proved to be significantly more accurate than OB or PB methods alone and demonstrate the benefits of using MBES bathymetry and backscatter combined for class discrimination.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

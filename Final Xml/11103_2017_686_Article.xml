@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T07:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A specific amino acid residue in the catalytic site of dandelion polyphenol oxidases acts as &apos;selector&apos; for substrate specificity</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sarah</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Prexler</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute for Biology and Biotechnology of Plants</orgName>
+                                <orgName type="institution">University of Münster</orgName>
+                                <address>
+                                    <addrLine>Schlossplatz 8</addrLine>
+                                    <postCode>48143</postCode>
+                                    <settlement>Münster</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ratna</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute for Biology and Biotechnology of Plants</orgName>
+                                <orgName type="institution">University of Münster</orgName>
+                                <address>
+                                    <addrLine>Schlossplatz 8</addrLine>
+                                    <postCode>48143</postCode>
+                                    <settlement>Münster</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Bruno</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Moerschbacher</surname>
+                            </persName>
+							<contact>
+							<email>moersch@uni-muenster.de</email>
+							<phone>+49 251 83-24794</phone>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute for Biology and Biotechnology of Plants</orgName>
+                                <orgName type="institution">University of Münster</orgName>
+                                <address>
+                                    <addrLine>Schlossplatz 8</addrLine>
+                                    <postCode>48143</postCode>
+                                    <settlement>Münster</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mareike</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Dirks-Hofmeister</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute for Biology and Biotechnology of Plants</orgName>
+                                <orgName type="institution">University of Münster</orgName>
+                                <address>
+                                    <addrLine>Schlossplatz 8</addrLine>
+                                    <postCode>48143</postCode>
+                                    <settlement>Münster</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">WeissBioTech GmbH</orgName>
+                                <address>
+                                    <addrLine>An der Hansalinie 48-50</addrLine>
+                                    <postCode>59387</postCode>
+                                    <settlement>Ascheberg</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A specific amino acid residue in the catalytic site of dandelion polyphenol oxidases acts as &apos;selector&apos; for substrate specificity</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author: ORCID ID: 0000-0001-6067-3205 ACKNOWLEDGEMENTS</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

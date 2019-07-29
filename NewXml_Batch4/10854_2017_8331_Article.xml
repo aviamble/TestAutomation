@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The effect of different dwell times in the ball milling process on the superconducting properties of Bi 1.8 Sr 2 Ca 1.1 Cu 2.1 O y (Bi-2212) ceramics</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Berdan</forename>
+                                <surname>ÖZKURT</surname>
+                            </persName>
+                            <contact>
+                                <email>berdanozkurt@mersin.edu.tr</email>
+                                <phone>Tel.: +903246274804; fax: +903246274805</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Nanotechnology and Advanced Materials</orgName>
+                                <orgName key="dep2" type="department">Graduate School of Natural and Applied Science</orgName>
+                                <orgName type="institution">Mersin University</orgName>
+                                <address>
+                                    <settlement>Mersin</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Department of Energy Systems Engineering</orgName>
+                                <orgName key="dep2" type="department">Faculty of Tarsus Technology</orgName>
+                                <orgName type="institution">University of Mersin</orgName>
+                                <address>
+                                    <settlement>Mersin</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <forename type="middle">Ersin</forename>
+                                <surname>AYTEKİN</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Nanotechnology and Advanced Materials</orgName>
+                                <orgName key="dep2" type="department">Graduate School of Natural and Applied Science</orgName>
+                                <orgName type="institution">Mersin University</orgName>
+                                <address>
+                                    <settlement>Mersin</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The effect of different dwell times in the ball milling process on the superconducting properties of Bi 1.8 Sr 2 Ca 1.1 Cu 2.1 O y (Bi-2212) ceramics</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Bi 18 Sr 2 Ca 11 Cu 21 O y</term>
+                    <term>XRD</term>
+                    <term>SEM</term>
+                    <term>Magnetic-hysteresis loop</term>
+                    <term>Critical current density</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In this paper, the effect of the applied different dwell times (1, 4, and 8 h) during ball-milling on the basic properties of Bi-2212 ceramics has been investigated. Bi 1.8 Sr 2 Ca 1.1 Cu 2.1 O y was selected as the initial composition to obtain the high amount of Bi-2212 phase. All samples have been prepared by the conventional solid state reaction method. It has been observed that increasing dwell time negatively affected the superconducting properties of Bi-2212 samples because of the formation of structures with weak grain links. The magnetic properties of samples were determined from the magnetic hysteresis loops (M-H) between  2 T at 10 K, showing that the width of M-H loops has been significantly decreased with increasing dwell time. In addition, the magnetic critical current densities (J c) of the samples were calculated from their magnetic hysteresis loops using the Bean's model. The highest value of J c has been observed in the sample exposed to dwell time of 1h.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

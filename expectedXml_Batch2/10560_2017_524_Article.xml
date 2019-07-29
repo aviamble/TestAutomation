@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T09:39+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Impact of Parenting Behaviors on Recent Alcohol Use Among African American Students</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Rebecca</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Vidourek</surname>
+                            </persName>
+                            <contact>
+                                <email>rebecca.vidourek@uc.edu</email>
+                                <phone>513-556-3857</phone>								
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Health Promotion and Education</orgName>
+                                <orgName type="institution">University of Cincinnati</orgName>
+                                <address>
+                                    <postCode>45221-0068</postCode>
+                                    <settlement>Cincinnati</settlement>
+                                    <region>OH</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Keith</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>King</surname>
+                            </persName>
+                            <contact>
+                                <email>keith.king@uc.edu</email>
+                                <phone>513-556-3859</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Health Promotion and Education</orgName>
+                                <orgName type="institution">University of Cincinnati</orgName>
+                                <address>
+                                    <postCode>45221-0068</postCode>
+                                    <settlement>Cincinnati</settlement>
+                                    <region>OH</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michelle</forename>
+                                <surname>Burbage</surname>
+                            </persName>
+                            <contact>
+                                <email>burbageml@mail.uc.edu</email>
+                                <phone>513-556-3857</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Health Promotion and Education</orgName>
+                                <orgName type="institution">University of Cincinnati</orgName>
+                                <address>
+                                    <postCode>45221-0068</postCode>
+                                    <settlement>Cincinnati</settlement>
+                                    <region>OH</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Barbara</forename>
+                                <surname>Okuley</surname>
+                            </persName>
+                            <contact>
+                                <email>okuleyb@mail.uc.edu</email>
+                                <phone>513-556-3857</phone>								
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Health Promotion and Education</orgName>
+                                <orgName type="institution">University of Cincinnati</orgName>
+                                <address>
+                                    <postCode>45221-0068</postCode>
+                                    <settlement>Cincinnati</settlement>
+                                    <region>OH</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Impact of Parenting Behaviors on Recent Alcohol Use Among African American Students</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Parenting</term>
+                    <term>alcohol</term>
+                    <term>recent alcohol use</term>
+                    <term>sex</term>
+                    <term>age Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Parenting is a critical factor in substance abuse prevention. Positive parenting behaviors are identified as a protective factor for substance abuse among youth. Limited research exists that investigates the role of parenting practices on minority youth substance use. The present study seeks to examine correlates between parenting and recent alcohol use among African American youth. Specifically, to what extent do African American students report experiencing specific parenting behaviors that are measured by the National Household Survey on Drug Use and Health?, do specific parenting behaviors increase the risk of recent alcohol use among African American youth?, does the impact of parenting behaviors on recent alcohol use among African American youth differ based on sex (males and females) and age category (12 to 13 years old, 14 to 15 years old, and 16 to 17 years old) were examined in this study? Logistic regression analysis of the National Household Survey on Drug Use and Health was conducted to examine the research questions. Findings indicated that parenting behaviors was associated with recent alcohol among youth. Significant differences were found for males, females, 12 to 13 year olds, 14 to 15 year olds, and 16 to 17 years olds. Study findings demonstrate the importance of positive parenting behaviors in youth alcohol prevention. Program specialists may target parenting as a means of preventing and reducing youth alcohol use among African American youth.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

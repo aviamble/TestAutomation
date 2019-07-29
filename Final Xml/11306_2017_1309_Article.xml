@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A lost opportunity for science: Journals promote data sharing in metabolomics but do not enforce it</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Rachel</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Spicer</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">European Molecular Biology Laboratory</orgName>
+                                <orgName type="institution">European Bioinformatics Institute (EMBL-EBI)</orgName>
+                                <address>
+                                    <addrLine>Wellcome Trust Genome Campus, Hinxton</addrLine>
+                                    <postCode>CB10 1SD</postCode>
+                                    <settlement>Cambridge</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Christoph</forename>
+                                <surname>Steinbeck</surname>
+                            </persName>
+                            <contact>
+                                <email>christoph.steinbeck@uni-jena.de</email>
+                                <phone>+49-3641-948171</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">European Molecular Biology Laboratory</orgName>
+                                <orgName type="institution">European Bioinformatics Institute (EMBL-EBI)</orgName>
+                                <address>
+                                    <addrLine>Wellcome Trust Genome Campus, Hinxton</addrLine>
+                                    <postCode>CB10 1SD</postCode>
+                                    <settlement>Cambridge</settlement>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute for Inorganic and Analytical Chemistry</orgName>
+                                <orgName type="institution">Friedrich-Schiller-University</orgName>
+                                <address>
+                                    <settlement>Jena</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A lost opportunity for science: Journals promote data sharing in metabolomics but do not enforce it</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author Fax: +49-3641-948172 ORCIDs The concepts of data sharing and open data are becoming increasingly important in science. Areas as diverse as psychology (Open Science Collaboration 2015), medicine (Begley and Ellis 2012) and computer science (Collberg and Proebsting 2016) have been affected by the &apos;replication crisis&apos; and two thirds of scientists report being concerned about reproducibility ( &quot; Reality check on reproducibility &quot; 2016). Sharing data publicly is an important way of improving reproducibility and showing that researchers are confident in their work (McKiernan et al. 2016). Studies with data shared in a repository also receive more citations than those without publicly available data (Piwowar and Vision 2013). As more funding bodies, journals and societies are now encouraging or mandating data sharing, it is important to look at the effectiveness of these policies. In this study we review the data sharing policies of the journals with publications associated with the most publicly available metabolomics data. Data Sharing in Metabolomics There are now &gt;750 metabolomics studies indexed on MetabolomeXchange (http://www.metabolomexchange.org/) and &gt;1300 on OmicsDI (Perez-Riverol et al. 2017). These studies with data publicly available in dedicated repositories (MetaboLights (Haug et al. 2013), Metabolomics Workbench (Sud et al. 2016), MetaPhen (Carroll et al. 2015), MeRy-B (Ferry-Dumazet et al. 2011) and GNPS (Wang et al. 2016)), directly link to 368 unique journal articles (as of 15 th September 2017). 45.4% of these 368 journal articles are published in 10 journals (Figure 1), with 58 (14.4%) being published in the Metabolomics journal. Of these 10 journals, PLoS One, PNAS, Scientific Reports and Nature Communications require data availability statements to be included in submitted manuscripts. PLoS One specifically requires data be submitted to an appropriate public repository, whereas Nature journals (Nature Communications and Scientific Reports) and PNAS only encourage it. Metabolomics and Plant Physiology require that authors make materials available to investigators for non-commercial research purposes, with Metabolomics specifying raw data must be shared and suggesting users deposit their data in a repository. There are more than 17,000 journal articles on metabolomics indexed in PubMed (when searching for &quot; metabolome &quot; OR &quot; metabolomics &quot; ). The 10 journals that have published the highest number of papers returned when searching for this criteria in PubMed are shown in Figure 2. Whilst PLoS One appears to have the highest number of metabolomics papers, it is worth noting that only ~25% (304/1178) of articles published in the journal Metabolomics are indexed in PubMed. Searching PubMed like this provides only a very rough estimate of the total number of metabolomics journal articles, as they may not contain the words &quot; metabolome &quot; or &quot; metabolomics &quot; in their title or abstract, may not be indexed by PubMed, or non-metabolomics papers may be returned. In fact, 44% of publications directly associated with metabolomics studies are not returned when searching for &quot; metabolome &quot; OR &quot; metabolomics &quot; in</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Data sharing</term>
+                    <term>Open Data</term>
+                    <term>Metabolomics</term>
+                    <term>Journal Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Background Openly sharing data signals researchers confidence in their data and has been proposed as a solution to the &apos;replication crisis&apos;. As data sharing is being increasingly encouraged or required by journals, we review the effectiveness of these policies in promoting open metabolomics data. Aim of Review (i) Review data sharing policies of journals publishing the most metabolomics papers associated with open data and (ii) compare these journals&apos; policies to those that publish the most metabolomics papers. Key Scientific Concepts of Review Journals that support data sharing are not necessarily those with the most papers associated to open metabolomics data.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

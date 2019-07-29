@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T12:37+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Microwave dielectric properties of high Q and temperature stable Li 3 (Mg 1-x Ni x ) 2 NbO 6 ceramics</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ping</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Electrical and Information Engineering and Key Laboratory of Advanced Ceramics and Machining Technology of Ministry of Education</orgName>
+                                <orgName type="institution">Tianjin University</orgName>
+                                <address>
+                                    <postCode>300072</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lu</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Electrical and Information Engineering and Key Laboratory of Advanced Ceramics and Machining Technology of Ministry of Education</orgName>
+                                <orgName type="institution">Tianjin University</orgName>
+                                <address>
+                                    <postCode>300072</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mi</forename>
+                                <surname>Xiao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Electrical and Information Engineering and Key Laboratory of Advanced Ceramics and Machining Technology of Ministry of Education</orgName>
+                                <orgName type="institution">Tianjin University</orgName>
+                                <address>
+                                    <postCode>300072</postCode>
+                                    <settlement>Tianjin</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Microwave dielectric properties of high Q and temperature stable Li 3 (Mg 1-x Ni x ) 2 NbO 6 ceramics</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Li 3 Mg 2 NbO 6 ceramics</term>
+                    <term>Microwave dielectric properties</term>
+                    <term>Low loss</term>
+                    <term>Temperature Stable</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In this paper, the Li 3 (Mg 1-x Ni x) 2 NbO 6 (0.02?x?0.08) ceramics are prepared by a solid state reaction method. The effects of Ni 2+ substitution on the microwave dielectric properties, microstructure and sintering properties are investigated systematically. The XRD patterns reveal that all the samples could form solid solution with a single Li 3 Mg 2 NbO 6 phase in the sintering process. The variation in Q×f values is similar to that in bulk density, and tremendous improvement of Q×f values could be attributed to bigger grains and high densification. Since the more polarizable Mg 2+ ion is replaced by the less polarizable Ni 2+ ion, the permittivities decrease almost linearly with increasing Ni 2+ content. Otherwise, with the x value increase from 0.02 to 0.08, the t f values could be effectively adjusted to near zero, but the decreasing porosity-corrected permittivities would damage the stability of crystal structure, which make the t f values shift toward the negative direction. In general, the Li 3 (Mg 0.96 Ni 0.04) 2 NbO 6 ceramics sintered at 1175 o C for 6h exhibit superior microwave dielectric properties of e r ~ 15.22, Q×f ~ 126,784 GHz, t f ~-2.63 ppm/ o C, which demonstrate that the ceramics could be selected as a promising low loss and temperature stable material for future application.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

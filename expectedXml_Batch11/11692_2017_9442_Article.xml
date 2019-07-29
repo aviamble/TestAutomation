@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T10:28+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Swimmers, diggers, climbers and more, a study of integration across the mustelids&apos; locomotor apparatus (Carnivora: Mustelidae)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Léo</forename>
+                                <surname>Botton-Divet</surname>
+                            </persName>
+                            <contact>
+                                <email>lbottondivet@mnhn.fr</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">UMR 7179</orgName>
+                                <orgName type="institution" key="instit2">Muséum National d&apos;Histoire Naturelle, Centre National de la Recherche Scientifique</orgName>
+                                <address>
+                                    <addrLine>Mécadev, 57 rue Cuvier</addrLine>
+									<postBox>CP 55</postBox>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alexandra</forename>
+                                <surname>Houssaye</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">UMR 7179</orgName>
+                                <orgName type="institution" key="instit2">Muséum National d&apos;Histoire Naturelle, Centre National de la Recherche Scientifique</orgName>
+                                <address>
+                                    <addrLine>Mécadev, 57 rue Cuvier</addrLine>
+									<postBox>CP 55</postBox>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anthony</forename>
+                                <surname>Herrel</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">UMR 7179</orgName>
+                                <orgName type="institution" key="instit2">Muséum National d&apos;Histoire Naturelle, Centre National de la Recherche Scientifique</orgName>
+                                <address>
+                                    <addrLine>Mécadev, 57 rue Cuvier</addrLine>
+									<postBox>CP 55</postBox>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anne-Claire</forename>
+                                <surname>Fabre</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">UMR 7179</orgName>
+                                <orgName type="institution" key="instit2">Muséum National d&apos;Histoire Naturelle, Centre National de la Recherche Scientifique</orgName>
+                                <address>
+                                    <addrLine>Mécadev, 57 rue Cuvier</addrLine>
+									<postBox>CP 55</postBox>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Raphaël</forename>
+                                <surname>Cornette</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">Institut de Systématique, Évolution, Biodiversité (ISYEB)</orgName>
+                                <orgName type="institution" key="instit2">UMR 7205</orgName>
+                                <orgName type="institution" key="instit3">CNRS/MNHN/UPMC/EPHE</orgName>
+                                <orgName type="institution" key="instit4">Muséum National d&apos;Histoire Naturelle</orgName>
+                                <address>
+                                    <addrLine>45 rue Buffon</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Swimmers, diggers, climbers and more, a study of integration across the mustelids&apos; locomotor apparatus (Carnivora: Mustelidae)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>a http://orcid.org/0000-0002-3931-2752 b http://orcid.org/0000-0001-8789-5545 c http://orcid.org/0000-0003-0991-4434 d http://orcid.org/0000-Abstract Phenotypic integration, defined as the coordinated co-variation of parts of an organism can be an important constraint on phenotypic diversification. Functional factors, by having an heterogeneous impact across the animal body, may reinforce the integration of some parts while causing a perturbation of the integration among other parts. The integration across the locomotor apparatus should thus reflect to a certain extent the locomotor ecology of the animal. Using the mustelids as study group, we track changes in the patterns of co-variation in species belonging to four different locomotor ecologies (terrestrial, semi-arboreal, semi-fossorial, and semi-aquatic). Our results highlight the strong overall integration in mustelid long bones. The main shape change associated</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

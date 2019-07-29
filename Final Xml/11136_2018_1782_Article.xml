@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T11:10+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Measurement properties of depression questionnaires in patients with diabetes: a systematic review</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Susan</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Dijk</surname>
+								<particle>van</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU University Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Amsterdam Public Health research institute</orgName>
+                                <address>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Marcel</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Adriaanse</surname>
+                            </persName>
+                            <contact>
+                                <email>marcel.adriaanse@vu.nl</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU University Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Amsterdam Public Health research institute</orgName>
+                                <address>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lennart</forename>
+                                <surname>Zwaan</surname>
+                                <particle>van der</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU University Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Amsterdam Public Health research institute</orgName>
+                                <address>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Judith</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Bosmans</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU University Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Amsterdam Public Health research institute</orgName>
+                                <address>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Harm</forename>
+                                <forename type="middle">W.J.</forename>
+                                <surname>Marwijk</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <affiliation key="aff2">						
+							<orgName type="department">Department of General Practice and Elderly Medicine and the Amsterdam Public Health research institute</orgName>
+							<orgName type="institution">VU University Medical Center</orgName>
+                                <address>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+							</affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Manchester Academic Health Sciences Centre and NIHR School for Primary Care Research</orgName>
+                                <orgName type="institution">The University of Manchester</orgName>
+                                <address>
+                                    <country key="GB">United Kingdom</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maurits</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Tulder</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU University Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Amsterdam Public Health research institute</orgName>
+                                <address>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Caroline</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Tarwee</surname>
+                            </persName>
+                               <affiliation key="aff4">
+                                <orgName type="department">Department of Epidemiology and Biostatistics and the Amsterdam Public Health research institute</orgName>
+                                <orgName type="institution">VU University Medical Center</orgName>
+                                <address>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Measurement properties of depression questionnaires in patients with diabetes: a systematic review</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Page 1 of 24 * Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>diabetes</term>
+                    <term>depression questionnaires</term>
+                    <term>measurement properties</term>
+                    <term>COSMIN checklist Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Purpose: To conduct a systematic review on measurement properties of questionnaires measuring depressive symptoms in adult patients with type 1 or type 2 diabetes. Methods: A systematic review of the literature in MEDLINE, EMbase and PsycINFO was performed. Full text, original articles, published in any language up to October 2016 were included. Eligibility for inclusion was independently assessed by three reviewers who worked in pairs. Methodological quality of the studies was evaluated by two independent reviewers using the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) checklist. Quality of the questionnaires was rated per measurement property, based on the number and quality of the included studies and the reported results. Results: Of 6286 unique hits, 21 studies met our criteria evaluating 9 different questionnaires in multiple settings and languages. The methodological quality of the included studies was variable for the different measurement properties: 9/15 studies scored &apos;good&apos; or &apos;excellent&apos; on internal consistency, 2/5 on reliability, 0/1 on content validity, 10/10 on structural validity, 8/11 on hypothesis testing, 1/5 on cross-cultural validity, and 4/9 on criterion validity. For the CES-D, there was strong evidence for good internal consistency, structural Page 2 of 24 validity, and construct validity; moderate evidence for good criterion validity; and limited evidence for good cross-cultural validity. The PHQ-9 and WHO-5 also performed well on several measurement properties. However, the evidence for structural validity of the PHQ-9 was inconclusive. The WHO-5 was less extensively researched and originally not developed to measure depression. Conclusion: Currently the CES-D is best supported for measuring depressive symptoms in diabetes patients.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

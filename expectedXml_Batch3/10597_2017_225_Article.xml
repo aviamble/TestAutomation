@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:42+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Migrant Live-in Caregivers Mental Health in Canada</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mandana</forename>
+                                <surname>Vahabi</surname>
+                            </persName>
+                            <contact>
+                                <email>mvahabi@ryerson.ca</email>
+                                <phone>(416) 979-5000</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Faculty of Community Services</orgName>
+                                <orgName type="department" key="dep2">Daphne Cockwell School of Nursing</orgName>
+                                <orgName type="institution">Ryerson University</orgName>
+                                <address>
+                                    <addrLine>350 Victoria Street</addrLine>
+                                    <postCode>M5B 2K3</postCode>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Ryerson Centre for Global Health and Health Equity</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Josephine</forename>
+								<forename type="middle">Pui-Hing</forename>
+                                <surname>Wong</surname>
+                            </persName>
+                            <contact>
+                                <email>jph.wong@ryerson.ca</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Faculty of Community Services</orgName>
+                                <orgName type="department" key="dep2">Daphne Cockwell School of Nursing</orgName>
+                                <orgName type="institution">Ryerson University</orgName>
+                                <address>
+                                    <addrLine>350 Victoria Street</addrLine>
+                                    <postCode>M5B 2K3</postCode>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aisha</forename>
+                                <surname>Lofters</surname>
+                            </persName>
+                            <contact>
+                                <email>aisha.lofters@utoronto.ca</email>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department">Centre for Research on Inner City Health</orgName>
+                                <orgName type="institution" key="instit1">Li Ka Shing Knowledge Institute</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Family and Community Medicine</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Family and Community Medicine</orgName>
+                                <orgName type="institution">St. Michael Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff2">
+                                <orgName type="department">Graduate Program in Immigration and Settlement Studies</orgName>
+                                <orgName type="institution">Ryerson University</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Migrant Live-in Caregivers Mental Health in Canada</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Background</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Live-in caregivers</term>
+                    <term>Working and living conditions</term>
+                    <term>Mental health</term>
+                    <term>Social exclusion</term>
+                    <term>Resiliency</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Empirical evidence suggests rapid health decline among temporary migrant workers but there is limited knowledge about their mental health. This study explored live-in care givers&apos;(LCs) mental health and its determinants. Using a mixed methods design, a purposeful sample of 30 LCs was recruited. Data were collected through a selfcompleted questionnaire. A third of participants reported their mental health as poor or fair. Almost half experienced major depression. The poor mental health was associated with the average working hours and living accommodation. The average resiliency scores was moderately high and appeared to function as a protective factor against mental illness. Our findings suggest LCs are at risk of compromised mental health associated to their substandard working and living conditions. These conditions originates from violation of employment contracts, unfair employment practices, and the lack of enforcement of LCs&apos; legal and human rights.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

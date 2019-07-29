@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T06:37+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Manure and mineral fertilization change enzyme activity and bacterial community in millet rhizosphere soils</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Lixia</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Life Science</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Traditional Chinese Pharmacy</orgName>
+                                <orgName type="institution">Shanxi Pharmaceutical Vocational College</orgName>
+                                <address>
+                                    <postCode>030031</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Min</forename>
+                                <surname>Yi</surname>
+                            </persName>
+                            
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Life Science</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Huilan</forename>
+                                <surname>Yi</surname>
+                            </persName>
+						<contact>
+                                <email>yihl@sxu.edu.cn</email>
+                                <phone>+86-351-7016068</phone>
+                          </contact>
+						<affiliation key="aff1">
+                                <orgName type="department">School of Life Science</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Erhu</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <contact>
+                                <email>guoerhu2003@163.com</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Millet Crops</orgName>
+                                <orgName type="institution">Shanxi Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>046011</postCode>
+                                    <settlement>Changzhi</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aiying</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Millet Crops</orgName>
+                                <orgName type="institution">Shanxi Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>046011</postCode>
+                                    <settlement>Changzhi</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department">School of Life Science</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Institute of Millet Crops</orgName>
+                                <orgName type="institution">Shanxi Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>046011</postCode>
+                                    <settlement>Changzhi</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Manure and mineral fertilization change enzyme activity and bacterial community in millet rhizosphere soils</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Fertilization is a key agricultural practice for increasing millet yields and influencing soil properties, enzyme activities and rhizosphere bacterial communities. High throughput Illumina sequencing of the 16S rDNA was applied to compare the bacterial community structures and diversities among six different soil samples. The experiments involved the following: no fertilizer (CK), phosphate (P) and potassium (K) plus organic manure (M) (PKM), nitrogen (N) and K plus M (NKM), NPM, NPK and</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T11:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Catheter-Directed, Ultrasound-Facilitated Fibrinolysis in Obese Patients with Massive and Submassive Pulmonary Embolism</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Brett</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Carroll</surname>
+                                <prefix>Dr.</prefix>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>bjcarroll@partners.org</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution" key="instit1">Brigham and Women&apos;s Hospital</orgName>
+                                <orgName type="institution" key="instit2">Harvard Medical School</orgName>
+                                <address>
+                                    <settlement>Boston</settlement>
+                                    <region>MA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Samuel</forename>
+                                <forename type="middle">Z.</forename>
+                                <surname>Goldhaber</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution" key="instit1">Brigham and Women&apos;s Hospital</orgName>
+                                <orgName type="institution" key="instit2">Harvard Medical School</orgName>
+                                <address>
+                                    <settlement>Boston</settlement>
+                                    <region>MA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ping-Yu</forename>
+                                <surname>Liu</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Fred Hutchinson Cancer Center</orgName>
+                                <address>
+                                    <settlement>Seattle</settlement>
+                                    <region>WA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gregory</forename>
+                                <surname>Piazza</surname>
+                                <authordegree>MD, MS</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution" key="instit1">Brigham and Women&apos;s Hospital</orgName>
+                                <orgName type="institution" key="instit2">Harvard Medical School</orgName>
+                                <address>
+                                    <settlement>Boston</settlement>
+                                    <region>MA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+								<orgName type="department" key="dep1">Cardiovascular Division</orgName>
+                                <orgName type="institution">Brigham and Women&apos;s Hospital</orgName>
+                                <address>
+                                    <addrLine>75 Francis Street</addrLine>
+                                    <postCode>02115</postCode>
+                                    <settlement>Boston</settlement>
+                                   <region>Massachusetts</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Catheter-Directed, Ultrasound-Facilitated Fibrinolysis in Obese Patients with Massive and Submassive Pulmonary Embolism</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Corresponding Author and Reprint Requests:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>pulmonary embolism</term>
+                    <term>catheter fibrinolysis</term>
+                    <term>obesity</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

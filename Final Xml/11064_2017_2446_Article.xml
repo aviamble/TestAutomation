@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T06:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Cell-type-specific spatiotemporal expression of creatine biosynthetic enzyme S-adenosylmethionine:guanidinoacetate N-methyltransferase in developing mouse brain</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Masanori</forename>
+                                <surname>Tachikawa</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>tachik-dds@umin.ac.jp</email>
+								<phone>+81-22-795-6832</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Membrane Transport and Drug Targeting</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Tohoku University</orgName>
+                                <address>
+                                    <settlement>Sendai</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Pharmaceutics</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Medicine and Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">University of Toyama</orgName>
+                                <address>
+                                    <settlement>Toyama</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+							 <affiliation key="aff4">
+                                <orgName type="department">Graduate School of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Tohoku University</orgName>
+                                <address>
+                                    <postCode>980-8578</postCode>
+                                    <settlement>Sendai</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masahiko</forename>
+                                <surname>Watanabe</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Hokkaido University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Sapporo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masahiro</forename>
+                                <surname>Fukaya</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Hokkaido University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Sapporo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kazuhisa</forename>
+                                <surname>Sakai</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Hokkaido University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Sapporo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tetsuya</forename>
+                                <surname>Terasaki</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Membrane Transport and Drug Targeting</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Tohoku University</orgName>
+                                <address>
+                                    <settlement>Sendai</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ken-ichi</forename>
+                                <surname>Hosoya</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Pharmaceutics</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Medicine and Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">University of Toyama</orgName>
+                                <address>
+                                    <settlement>Toyama</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                           
+                        </author>
+                        <title level="a" type="main">Cell-type-specific spatiotemporal expression of creatine biosynthetic enzyme S-adenosylmethionine:guanidinoacetate N-methyltransferase in developing mouse brain</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Address correspondence to Running title: Creatine synthetic enzyme and kinases in developing brain Abbreviations: BLBP; brain-type lipid-binding protein, CK; creatine kinase, CK-B; brain-type cytoplasmic creatine kinase, GAMT; S-adenosylmethionine:guanidinoacetate N-methyltransferase, GFAP; glial fibrillary acidic protein, GLUT; glucose transporter, MAP; microtubule associated protein, PLP; proteolipid protein, SMA; smooth muscle actin, uCK-Mi; ubiquitous mitochondrial creatine kinase</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>creatine</term>
+                    <term>developing brain</term>
+                    <term>S-adenosylmethionine:guanidinoacetate N-methyltransferase</term>
+                    <term>biosynthesis</term>
+                    <term>creatine kinase</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

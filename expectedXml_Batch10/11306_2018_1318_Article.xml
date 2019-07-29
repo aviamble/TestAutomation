@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">METABOLITES PREDICT CARDIOVASCULAR DISEASE EVENTS IN PERSONS LIVING WITH HIV: A PILOT CASE-CONTROL STUDY</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Nwora</forename>
+                                <forename type="middle">Lance</forename>
+                                <surname>Okeke</surname>
+                                <authordegree>MD, MPH</authordegree>
+                            </persName>
+                            <contact>
+                                <email>lance.okeke@duke.edu</email>
+                                <phone>(919) 684-2579</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Infectious Diseases</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Duke University Medical Center</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff6">
+								<address>
+                                    <addrLine>315 Trent Drive, Rm. 178</addrLine>
+									<postCode>27710</postCode>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Damian</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Craig</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Duke Molecular Physiology Institute</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Muehlbauer</surname>
+                                <authordegree>Ph. D</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Duke Molecular Physiology Institute</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Olga</forename>
+                                <surname>Ilkayeva</surname>
+                                <authordegree>Ph. D</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Duke Molecular Physiology Institute</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Meredith</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Clement</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Infectious Diseases</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Duke University Medical Center</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Susanna</forename>
+                                <surname>Naggie</surname>
+                                <authordegree>MD, MHS</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Infectious Diseases</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Duke University Medical Center</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Duke Clinical Research Institute</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Svati</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Shah</surname>
+                                <authordegree>MD, MPH</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Duke Molecular Physiology Institute</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Duke Global Health Institute</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department" key="dep1">Division of Cardiology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Duke University Medical Center</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <region>North Carolina</region>
+                                </address>
+                            </affiliation>
+						</author>
+                        <title level="a" type="main">METABOLITES PREDICT CARDIOVASCULAR DISEASE EVENTS IN PERSONS LIVING WITH HIV: A PILOT CASE-CONTROL STUDY</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Short Title: Metabolites Predict CVD in PLWH Corresponding Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>cardiovascular disease</term>
+                    <term>HIV</term>
+                    <term>metabolomics</term>
+                    <term>acute coronary syndrome</term>
+                    <term>myocardial infarction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Introduction: Persons living with HIV (PLWH) are at higher risk for cardiovascular disease (CVD) events than uninfected persons. Current risk-stratification methods to define PLWH at highest risk for CVD events are lacking. Methods: Using tandem flow injection mass spectrometry, we quantified plasma levels of 60 metabolites in 24 matched pairs of PLWH (1:1 with and without known coronary artery disease(CAD)). Metabolite levels were reduced to interpretable factors using principal components analysis.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

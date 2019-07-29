@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:14+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Determining the predictive accuracy of whole tree modulus of elasticity (MOE) of 14 – year old loblolly pine using density and dynamic MOEs estimated by three different acoustic tools</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Charles</forename>
+                                <surname>Essien</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Products Development Center</orgName>
+                                <orgName type="institution" key="instit1">SFWS</orgName>
+                                <orgName type="institution" key="instit2">Auburn University</orgName>
+                                <address>
+                                    <addrLine>520 Devall Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Brian</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Via</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Products Development Center</orgName>
+                                <orgName type="institution" key="instit1">SFWS</orgName>
+                                <orgName type="institution" key="instit2">Auburn University</orgName>
+                                <address>
+                                    <addrLine>520 Devall Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qingzheng</forename>
+                                <surname>Cheng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Products Development Center</orgName>
+                                <orgName type="institution" key="instit1">SFWS</orgName>
+                                <orgName type="institution" key="instit2">Auburn University</orgName>
+                                <address>
+                                    <addrLine>520 Devall Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Thomas</forename>
+                                <surname>Gallagher</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Forestry &amp; Wildlife Sciences</orgName>
+                                <orgName type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>602 Duncan Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Timothy</forename>
+                                <surname>McDonald</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Biosystems Engineering Department</orgName>
+                                <orgName type="institution">Auburn University Auburn</orgName>
+                                <address>
+                                    <postCode>36849</postCode>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lori</forename>
+                                <surname>Eckhardt</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Forestry &amp; Wildlife Sciences</orgName>
+                                <orgName type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>602 Duncan Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Determining the predictive accuracy of whole tree modulus of elasticity (MOE) of 14 – year old loblolly pine using density and dynamic MOEs estimated by three different acoustic tools</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 | P a g e 2 | P a g e</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Resonance based acoustic tools for evaluating wood properties have been reported to be more accurate in estimating the expected log MOE than time-of-flight (ToF) ones. However, there is no published study on the variations within different brands on these two major classes of acoustic tools. In this study, models were developed to predict the whole tree static MOE (WMOET) and rupture (WMORT) using log dynamic MOEs estimated by two resonance tools (Director HM200 (EHM200) and FAKOPP resonance log grader (ERLG)), ToF (FAKOPP Microsecond Timer (EFMT)), and density (green density, air-dry density) for a 14-year-old loblolly pine stand from two sites in the southern USA. The log velocity estimated by ToF was 33% and 30% more as compared to the resonance-based tools (Director HM200 and FAKOPP RLG respectively); translating into whole log static MOE (WMOEL) been 11% and 20% lower than those estimated by the resonance (HM200 and RLG respectively) , and 90% lower than that estimated by the ToF tools (EFMT). Although the dynamic MOE estimated by ToF tool (EFMT) was higher, its WMOET predictive performance (R2=51%) lies between the 39% and 74% for the resonance based tools (HM200 and RGL respectively). This result supports the theory that ToF tools generate dilatational wave, and hence their velocity will be generally higher than resonance tools. The presence of predictive variation within the resonance suggests the need for within tools calibration. The linear relationship between the WMOET vs Etree was stronger than that of WMOET vs EHM200 suggesting that the ToF acoustic tool measurements are not restricted to the outer wood zone for small diameter logs. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

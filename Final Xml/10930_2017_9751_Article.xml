@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T07:51+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Biochemical and Biophysical Characterisation of higher oligomeric structure of Rat Nucleosome Assembly Protein 1</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Divya</forename>
+                                <surname>Reddy</surname>
+                            </persName>
+							<contact>
+							<email>dvelga@actrec.gov.in</email>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Epigenetics and Chromatin Biology Group, Gupta Lab</orgName>
+                                <orgName type="department" key="dep2">Cancer Research Institute</orgName>
+                                <orgName type="department" key="dep3">Advanced Centre for Treatment, Research and Education in Cancer (ACTREC)</orgName>
+                                <orgName type="institution">Tata Memorial Centre</orgName>
+                                <address>
+                                    <addrLine>Kharghar</addrLine>
+									<postCode>410210</postCode>
+									<settlement>Navi Mumbai</settlement>
+									<region>Maharashtra</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                             <affiliation key="aff2">
+							 <orgName type="department">Training School Complex</orgName>
+                             <orgName type="institution">Homi Bhabha National Institute</orgName>
+                                <address>
+                                    <addrLine>Anushakti Nagar</addrLine>
+                                    <postCode>400085</postCode>
+                                    <settlement>Mumbai</settlement>
+                                    <region>MH</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Saikat</forename>
+                                <surname>Bhattacharya</surname>
+                            </persName>
+							<contact>
+							<email>stb@stowers.org</email>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Epigenetics and Chromatin Biology Group, Gupta Lab</orgName>
+                                <orgName type="department" key="dep2">Cancer Research Institute</orgName>
+                                <orgName type="department" key="dep3">Advanced Centre for Treatment, Research and Education in Cancer (ACTREC)</orgName>
+                                <orgName type="institution">Tata Memorial Centre</orgName>
+                                <address>
+                                    <addrLine>Kharghar</addrLine>
+									<postCode>410210</postCode>
+									<settlement>Navi Mumbai</settlement>
+									<region>Maharashtra</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+							 <orgName type="department">Training School Complex</orgName>
+                             <orgName type="institution">Homi Bhabha National Institute</orgName>
+                                <address>
+                                    <addrLine>Anushakti Nagar</addrLine>
+                                    <postCode>400085</postCode>
+                                    <settlement>Mumbai</settlement>
+                                    <region>MH</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+							    <orgName type="department">Workman Lab</orgName>
+                                <orgName type="institution">Stowers Institute for Medical Research</orgName>
+                                <address>
+                                    <addrLine>1000 E 50th Street</addrLine>
+                                    <postCode>64110</postCode>
+                                    <settlement>Kansas City</settlement>
+                                    <region>MO</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vinod</forename>
+                                <surname>Jani</surname>
+                            </persName>
+                            <contact>
+                                <email>vinodj@cdac.in</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Bioinformatics Group, Centre for Development of Advanced Computing (C-DAC)</orgName>
+                                <orgName type="institution">University of Pune Campus</orgName>
+                                <address>
+                                    <postCode>411007</postCode>
+                                    <settlement>Pune</settlement>
+                                    <region>MH</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Uddhavesh</forename>
+                                <surname>Sonavane</surname>
+                            </persName>
+                            <contact>
+                                <email>uddhaveshs@cdac.in</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Bioinformatics Group, Centre for Development of Advanced Computing (C-DAC)</orgName>
+                                <orgName type="institution">University of Pune Campus</orgName>
+                                <address>
+                                    <postCode>411007</postCode>
+                                    <settlement>Pune</settlement>
+                                    <region>MH</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rajendra</forename>
+                                <surname>Joshi</surname>
+                            </persName>
+                            <contact>
+                                <email>rajendra@cdac.in</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Bioinformatics Group, Centre for Development of Advanced Computing (C-DAC)</orgName>
+                                <orgName type="institution">University of Pune Campus</orgName>
+                                <address>
+                                    <postCode>411007</postCode>
+                                    <settlement>Pune</settlement>
+                                    <region>MH</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Sanjay</forename>
+                                <surname>Gupta</surname>
+                            </persName>
+                            <contact>
+                                <email>sgupta@actrec.gov.in</email>
+								<phone>(+91)22-27405086</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Epigenetics and Chromatin Biology Group, Gupta Lab</orgName>
+                                <orgName type="department" key="dep2">Cancer Research Institute</orgName>
+                                <orgName type="department" key="dep3">Advanced Centre for Treatment, Research and Education in Cancer (ACTREC)</orgName>
+                                <orgName type="institution">Tata Memorial Centre</orgName>
+                                <address>
+                                    <addrLine>Kharghar</addrLine>
+									<postCode>410210</postCode>
+									<settlement>Navi Mumbai</settlement>
+									<region>Maharashtra</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                             <affiliation key="aff2">
+							 <orgName type="department">Training School Complex</orgName>
+                             <orgName type="institution">Homi Bhabha National Institute</orgName>
+                                <address>
+                                    <addrLine>Anushakti Nagar</addrLine>
+                                    <postCode>400085</postCode>
+                                    <settlement>Mumbai</settlement>
+                                    <region>MH</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Biochemical and Biophysical Characterisation of higher oligomeric structure of Rat Nucleosome Assembly Protein 1</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Chaperone/Dimerization/Oligomerization/6X His tag/?-hairpin/Denaturation</keywords>
+            </textClass>
+            <abstract>
+                <p>Nucleosome assembly protein 1 (NAP1) is a histone chaperone that exchanges histone H2A-H2B dimer from chromatin templates. Studies with yeast NAP1 (yNAP1) have revealed the existence of its multiple oligomeric species in solution. Here, rat NAP1 (rNAP1), which is 98% identical to the human NAP1 (hNAP1) was used as a model to characterize the oligomeric structures of this protein in higher eukaryotes. Gel filtration chromatography and Dynamic light scattering of recombinant rNAP1 indicated that the protein exists as a complex mixture of multimeric species even at 500 mM ionic strength. The solution-state complexity remains unchanged even at higher ionic strengths. Equilibrium unfolding (?G 14.6 kcal mol-1) shows that rNAP1, both dimeric and oligomeric, follow the two-state model of unfolding with no detectable intermediates. Homology modelling suggests that rat and yeast NAP1 share an overall similar structure with conserved domains. However, dissimilar substitutions like threonine and lysine with glycine in the ?-hairpin involved in oligomerization, possibly leads to the observed differences in the oligomerization propensity of the two proteins. Molecular dynamic simulation (MDS) of the two structures also revealed that rNAP1 dimer is more stable owing to the extensive hydrogen bonding in comparison to yNAP1. Further, in vitro kinase assay showed that the phosphorylation of rNAP1 favors oligomerization with no effect on its histone binding capacity. Our results clearly suggest that there are differences in the in-solution behavior of rNAP1 compared to yNAP1 which may have in vivo functional implications for the regulation of these complexes during chromatin assembly and rearrangement.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

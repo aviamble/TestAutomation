@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:59+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The Training, Preparation and Professional Development of Principals in Henan Province, China: Contemporary evidence</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jiang</forename>
+                                <surname>Na</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Shangrao Normal University</orgName>
+                                <address>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Bambang</forename>
+                                <surname>Sumintono</surname>
+                            </persName>
+                            <contact>
+                                <email>bambang@um.edu.my</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Education</orgName>
+                                <orgName type="institution">Universiti Malaya</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Corinne</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Perera</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculty of Education</orgName>
+                                <orgName type="institution">Universiti Malaya</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alma</forename>
+                                <surname>Harris</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of Bath</orgName>
+                                <address>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michelle</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Jones</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of Bath</orgName>
+                                <address>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The Training, Preparation and Professional Development of Principals in Henan Province, China: Contemporary evidence</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>leadership preparation</term>
+                    <term>principal training</term>
+                    <term>secondary schools</term>
+                    <term>school improvement</term>
+                    <term>principal effectiveness Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Principal preparation and training is generally viewed as an important contributor to school and system improvement. While the international evidence base on leadership and leadership development is extensive, contemporary accounts of principal preparation in a number of Asian countries is not widespread. This article outlines the findings from a small-scale, exploratory investigation of principal preparation and training in one province in China. Open ended questionnaire and interview data were collected from a sample of secondary school principals in Henan Province in China, as part of a larger comparative study. The findings show that while principals in this province appreciate their formal training they also seek out other sources of informal preparation to assist them in their fulfilling their many obligations and responsibilities. The data also highlights that many principals in China are finding the demands of their formal leadership role very challenging, particularly in delivering, contemporary reforms such as the new curriculum. The article concludes by proposing that for principals in China, there are some contradictions and tensions associated with the current demands of this leadership role.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T08:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Quantitative inversion time prescription for myocardial late gadolinium enhancement using T1-mapping-based synthetic inversion recovery imaging: reducing subjectivity in the estimation of inversion time</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sebastian</forename>
+                                <surname>Gassenmaier</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Radiology</orgName>
+                                <orgName type="institution">University Hospital, Ludwig-Maximilians-University Munich</orgName>
+                                <address>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rob</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Geest</surname>
+                                <particle>van der</particle>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Radiology</orgName>
+                                <orgName type="institution">Leiden University Medical Center</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">U.</forename>
+                                <surname>Joseph Schoepf</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>schoepf@musc.edu</email>
+                                <phone>843-876-67146</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pal</forename>
+                                <surname>Suranyi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wolfgang</forename>
+                                <forename type="middle">G.</forename>
+                                <surname>Rehwald</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Siemens Medical Solutions</orgName>
+                                <address>
+                                    <settlement>Chicago</settlement>
+                                    <region>IL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Cardiovascular Magnetic Resonance Center</orgName>
+                                <orgName type="institution">Duke University Medical Center</orgName>
+                                <address>
+                                    <settlement>Durham</settlement>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Carlo</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Cecco</surname>
+                                <particle>De</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Domenico</forename>
+                                <surname>Mastrodicasa</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Neuroscience and Imaging, Section of Diagnostic Imaging and Therapy – Radiology Division</orgName>
+                                <orgName type="institution">&quot; G. d&apos;Annunzio &quot; University</orgName>
+                                <address>
+                                    <settlement>Chieti</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Moritz</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Albrecht</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Department of Diagnostic and Interventional Radiology</orgName>
+                                <orgName type="institution">University Hospital Frankfurt</orgName>
+                                <address>
+									<settlement>Frankfurt</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Domenico</forename>
+                                <surname>Santis</surname>
+                                <particle>De</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff8">
+                                <orgName type="department">Department of Radiological Sciences, Oncology and Pathology</orgName>
+                                <orgName type="institution">University of Rome &quot; Sapienza &quot;</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Virginia</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Lesslie</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Balazs</forename>
+                                <surname>Ruzsics</surname>
+                            </persName>
+                            <affiliation key="aff9">
+                                <orgName type="department">Department of Cardiology</orgName>
+                                <orgName type="institution">Royal Liverpool and Broadgreen University Hospital</orgName>								
+                                <address>
+                                    <settlement>Liverpool</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Akos</forename>
+                                <surname>Varga-Szemes</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Cardiovascular Imaging</orgName>
+                                <orgName type="department" key="dep2">Department of Radiology and Radiological Science</orgName>
+                                <orgName type="institution">Medical University of South Carolina</orgName>
+                                <address>
+                                    <addrLine>25 Courtenay Dr, MSC 226</addrLine>
+                                    <postCode>29425</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Quantitative inversion time prescription for myocardial late gadolinium enhancement using T1-mapping-based synthetic inversion recovery imaging: reducing subjectivity in the estimation of inversion time</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>To develop a quantitative T1-mapping-based synthetic inversion recovery (IR synth) approach to calculate the optimal inversion time (TI 0) for late gadolinium enhancement (LGE) imaging. Prospectively enrolled patients (n=130, 58±16 years) underwent cardiac MRI on a 1.5T system including Look-Locker TI-scout (LL), modified LL IR (MOLLI)-based T1-mapping, and LGE acquisitions. Patients were randomized into two groups: LL group (TI-scout followed T1-mapping) or MOLLI group (T1-mapping followed TI-scout). In both groups, the second acquisition was used to determine the TI 0 for LGE. IR synth images were generated from T1-maps between TI=200–400ms in 5ms increments. Image quality was rated on a 3-point scale and the remote/background signal intensity ratio (SIR) was calculated. In the LL group (n=53), the TI-scout-based TI 0 was significantly shorter compared to IR synth (230ms [219-242] vs. 280ms [263-297], P&lt;0.0001). The TI 0 used for LGE was set 30–40ms longer (261ms [247-276], P&lt;0.0001) than the TI-scout-based TI 0 , resulting in a TI 0 ~20ms shorter than what was obtained by IR synth (P=0.0156). In the MOLLI group (n=63), IR synth-based TI 0 was significantly longer than the TI-scout-based TI 0 (298ms [262-334] vs 242ms [217-267], P=0.0313). The quality of myocardial nulling was rated higher (2.4 [2.2-2.5] vs. 2.0 [1.8</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

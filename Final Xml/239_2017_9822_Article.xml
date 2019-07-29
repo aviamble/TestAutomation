@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T04:49+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">On the early evolution of catabolic pathways: a comparative genomics approach. I. The cases of glucose, ribose and the nucleobases catabolic routes</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mario</forename>
+                                <surname>Rivas</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ciencias</orgName>
+                                <orgName type="institution">Universidad Nacional Autónoma de México</orgName>
+                                <address>
+                                    <addrLine>Apdo. Postal 70-407, Cd. Universitaria</addrLine>
+                                    <postCode>04510</postCode>
+                                    <settlement>México D.F.</settlement>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Arturo</forename>
+                                <surname>Becerra</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ciencias</orgName>
+                                <orgName type="institution">Universidad Nacional Autónoma de México</orgName>
+                                <address>
+                                    <addrLine>Apdo. Postal 70-407, Cd. Universitaria</addrLine>
+                                    <postCode>04510</postCode>
+                                    <settlement>México D.F.</settlement>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Antonio</forename>
+                                <surname>Lazcano</surname>
+                            </persName>
+							<contact>
+                            <email>alar@ciencias.unam.mx</email>
+							<phone>52-55-56224823</phone>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ciencias</orgName>
+                                <orgName type="institution">Universidad Nacional Autónoma de México</orgName>
+                                <address>
+                                    <addrLine>Apdo. Postal 70-407, Cd. Universitaria</addrLine>
+                                    <postCode>04510</postCode>
+                                    <settlement>México D.F.</settlement>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff1">
+                                <orgName type="department">Miembro de El Colegio Nacional</orgName>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <title level="a" type="main">On the early evolution of catabolic pathways: a comparative genomics approach. I. The cases of glucose, ribose and the nucleobases catabolic routes</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>[2] Miembro de El Colegio Nacional [*] Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Compared with the large corpus of published work devoted to the study of the origin and early development of anabolism, little attention has been given to the discussion of the early evolution of catabolism in spite of its significance. In the present study we have used comparative genomics to explore the evolution and phylogenetic distribution of the enzymes that catalyze the extant catabolic pathways of the monosaccharides glucose and ribose, as well as those of the nucleobases adenine, guanine, cytosine, uracil and thymine. Based on the oxygen-dependence of the enzymes, their conservation and evolution, we speculate on the relative antiquity of the pathways. Our results allow us to suggest which catabolic pathways and enzymes may have already been present in the Last Common Ancestor (LCA). We conclude that the enzymatic degradations of ribose, as well as those of purines adenine and guanine, are among the most ancient catabolic pathways which can be traced by protein-based methodologies. 2 Keywords Catabolic pathways, early metabolic evolution, nucleobase degradation, carbohydrate degradation, LCA metabolic enzymes. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

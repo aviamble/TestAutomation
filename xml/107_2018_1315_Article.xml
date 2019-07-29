@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">New insights into the psychological dimension of wood-human interaction</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <forename type="middle">Luisa</forename>
+                                <surname>Demattè</surname>
+                            </persName>
+                            <contact>
+                                <email>marialuisa.dematte@unipd.it</email>
+                            </contact>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">Department of Land, Environment, Agriculture, and Forestry</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Viale dell'Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of General Psychology</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Via Venezia 8</addrLine>
+                                    <postCode>35131</postCode>
+                                    <settlement>Padova</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gesualdo</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Zucco</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of General Psychology</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Via Venezia 8</addrLine>
+                                    <postCode>35131</postCode>
+                                    <settlement>Padova</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sergio</forename>
+                                <surname>Roncato</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of General Psychology</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Via Venezia 8</addrLine>
+                                    <postCode>35131</postCode>
+                                    <settlement>Padova</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Paola</forename>
+                                <surname>Gatto</surname>
+                            </persName>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">Department of Land, Environment, Agriculture, and Forestry</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Viale dell'Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Elena</forename>
+                                <surname>Paulon</surname>
+                            </persName>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">Department of Land, Environment, Agriculture, and Forestry</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Viale dell'Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Raffaele</forename>
+                                <surname>Cavalli</surname>
+                            </persName>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">Department of Land, Environment, Agriculture, and Forestry</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Viale dell'Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michela</forename>
+                                <surname>Zanetti</surname>
+                            </persName>
+                            <affiliation key="aff1" role="corresp" sequence="1">
+                                <orgName type="department">Department of Land, Environment, Agriculture, and Forestry</orgName>
+                                <orgName type="institution">University of Padova</orgName>
+                                <address>
+                                    <addrLine>Viale dell'Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">New insights into the psychological dimension of wood-human interaction</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The effect a wooden-built environment exerts on the physical and psychological well-being of people has mostly been investigated by evaluation, through a limited number of sensory modalities, of small size stimuli. In this research two real-size wooden and plaster indoor settings were used to examine the influence of wood on people's emotions and perceptions. Three questionnaires assessed participants' multimodal sensory, affective, and cognitive responses to the settings (Semantic Differential questionnaire), their emotional state (Positive and Negative Affect Schedule), and their environmental behaviour and biophilia degree (Nature Relatedness Scale). The results revealed that wood induces more positive emotions than plaster, and that individual biophilia degree appears to influence the tactile, auditory, and olfactory evaluation of the settings. It furthermore indicates how wood used in real buildings positively influences human psychological well-being and highlights the importance of considering multiple sensory modalities when investigating wood-human interaction. INTRODUCTION</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

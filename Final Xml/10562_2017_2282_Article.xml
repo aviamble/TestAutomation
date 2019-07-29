@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:19+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">An Efficient Cr-TUD-1 Catalyst for Oxidative Dehydrogenation of Propane to Propylene with CO 2 as Soft Oxidant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Abhishek</forename>
+                                <surname>Burri</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Laboratory of Nano-Green Catalysis and Nano Center for Fine Chemical Fusion Technology</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry</orgName>
+                                <orgName type="institution">Inha University</orgName>
+                                <address>
+                                    <postCode>402-751</postCode>
+                                    <settlement>Incheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Md</forename>
+                                <forename type="middle">Abdul</forename>
+                                <surname>Hasib</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Laboratory of Nano-Green Catalysis and Nano Center for Fine Chemical Fusion Technology</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry</orgName>
+                                <orgName type="institution">Inha University</orgName>
+                                <address>
+                                    <postCode>402-751</postCode>
+                                    <settlement>Incheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yong-Hawn</forename>
+                                <surname>Mo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Laboratory of Nano-Green Catalysis and Nano Center for Fine Chemical Fusion Technology</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry</orgName>
+                                <orgName type="institution">Inha University</orgName>
+                                <address>
+                                    <postCode>402-751</postCode>
+                                    <settlement>Incheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Benjaram</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Reddy</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Laboratory of Nano-Green Catalysis and Nano Center for Fine Chemical Fusion Technology</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry</orgName>
+                                <orgName type="institution">Inha University</orgName>
+                                <address>
+                                    <postCode>402-751</postCode>
+                                    <settlement>Incheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Inorganic and Physical Chemistry Division</orgName>
+                                <orgName type="institution">CSIR-Indian Institute of Chemical Technology</orgName>
+                                <address>
+                                    <addrLine>Uppal Road</addrLine>
+									<settlement>Hyderabad</settlement>
+                                    <postCode>500 007</postCode>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Sang-Eon</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <contact>
+                                <email>separk@inha.ac.kr</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Laboratory of Nano-Green Catalysis and Nano Center for Fine Chemical Fusion Technology</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry</orgName>
+                                <orgName type="institution">Inha University</orgName>
+                                <address>
+                                    <postCode>402-751</postCode>
+                                    <settlement>Incheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">An Efficient Cr-TUD-1 Catalyst for Oxidative Dehydrogenation of Propane to Propylene with CO 2 as Soft Oxidant</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Cr-TUD-1</term>
+                    <term>Oxidative dehydrogenation</term>
+                    <term>Carbon dioxide utilization</term>
+                    <term>Soft oxidant</term>
+                    <term>Propane</term>
+                    <term>Propylene 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>A series of Cr-TUD-1 catalysts with various loadings of chromium (3, 5, 7, and 9 wt.%) were prepared by microwave irradiation and explored for oxidative dehydrogenation of propane to propylene utilizing CO 2 as soft oxidant. The microwave irradiation reduced the synthesis time and the resulting Cr-TUD-1 catalysts exhibited a high specific surface area of more than 600 m 2 g ?1. The synthesized catalysts were characterized by various techniques including XRD, XPS, TEM, UV-vis DRS, BET surface area, and pore size distribution to understand the physicochemical properties, and to correlate with the catalytic activity. Among various compositions, the 7% Cr-TUD-1 catalyst exhibited a high propane conversion (~45%) with better propylene product selectivity (~75%). The Cr-TUD-1 catalyst was also found to be quite stable up to 8 h of time-on-stream investigated. As revealed by the characterization techniques, the inter-convertible Cr 6+ to Cr 3+/2+ species are very crucial for the observed better catalytic activity of these materials. The TUD-1 enables to encapsulate the chromium nanoparticles in the porous silica structure with high dispersion which help in maintaining the better catalytic performance.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

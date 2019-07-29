@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T10:35+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The relationships between timing of first childbirth, parity, and health-related quality of life</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sangshin</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Center for International Health Research</orgName>
+                                <orgName type="department" key="dep2">Rhode Island Hospital</orgName>
+                                <orgName type="institution">The Warren Alpert Medical School of Brown University</orgName>
+                                <address>
+                                    <settlement>Providence</settlement>
+                                    <region>RI</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Pediatrics</orgName>
+                                <orgName type="institution">The Warren Alpert Medical School of Brown University</orgName>
+                                <address>
+                                    <settlement>Providence</settlement>
+                                    <region>RI</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Nam-Kyong</forename>
+                                <surname>Choi</surname>
+                            </persName>
+                            <contact>
+                                <email>nchoi@ewha.ac.kr</email>
+                                <phone>+82-2-3277-6585</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Health Convergence</orgName>
+                                <orgName type="institution">Ewha Womans University</orgName>
+                                <address>
+                                    <addrLine>52 Ewhayeodae-gil, Seodaemun-gu</addrLine>
+                                    <postCode>03760</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">South Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The relationships between timing of first childbirth, parity, and health-related quality of life</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>health-related quality of life</term>
+                    <term>childbirth</term>
+                    <term>pregnancy</term>
+                    <term>parity</term>
+                    <term>maternal age Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Purpose: A few studies have investigated the relationship between age at first childbirth and health-related quality of life (HRQoL). This study examined the relationship between age at first childbirth and HRQoL and whether parity mediates this timing of the first childbirth-HRQoL relationship in women aged 50 years or above. Methods: The study population included 5,146 parous women â‰¥50 years in the cross-sectional survey, Korea National Health and Nutrition Examination Survey 2010-2012. HRQoL was evaluated by the EuroQol five-dimensional descriptive system. Participants were grouped according to quartiles of age at first childbirth (ranges: 13 to 21, 22 to 23, 24 to 25, and 26 to 44 years). This study used linear regression analysis to examine the relationship between age at first childbirth and HRQoL and on each dimension. Mediation analysis was used to examine the contribution of age at first childbirth to HRQoL and to each dimension. Results: This study found the increasing pattern of HRQoL across quartiles of age at first childbirth (p for trend = 0.030). Odds of problems in self-care and anxiety/depression dimensions significantly increased across the quartiles. Women with later age at first childbirth tended to have better HRQoL (B = 0.352, p = 0.003); parity significantly contributed to this relationship. Decreasing parity accounted for 33.5% of the relationship between late first childbirth and increased HRQoL. Early age at first childbirth significantly increased odds of the mobility problem through increasing parity. Conclusions: Women of an early age at first childbirth tended to have lower HRQoL though giving more deliveries. Our findings suggest that more attention needs to be given to women with early pregnancy and more delivery to prevent impaired HRQoL.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

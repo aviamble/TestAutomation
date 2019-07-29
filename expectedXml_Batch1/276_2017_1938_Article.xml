@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T05:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The validity of arterial measurements in a South African embalmed body population</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Marelize</forename>
+                                <surname>Schoeman</surname>
+                            </persName>
+                            <contact>
+                                <email>marelize.schoeman@hotmail.com</email>
+                                <phone>+27 12 319 2315</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Anatomy</orgName>
+                                <orgName type="department" key="dep2">Faculty of Health Sciences</orgName>
+                                <orgName type="department" key="dep3">School of Medicine</orgName>
+                                <orgName type="institution">University of Pretoria</orgName>
+                                <address>
+                                    <postBox>P.O Box 2034</postBox>
+                                    <postCode>0001</postCode>
+                                    <settlement>Pretoria</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Albert</forename>
+                                <surname>Schoor</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <contact>
+                                <email>albert.vanschoor@up.ac.za</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Anatomy</orgName>
+                                <orgName type="department" key="dep2">Faculty of Health Sciences</orgName>
+                                <orgName type="department" key="dep3">School of Medicine</orgName>
+                                <orgName type="institution">University of Pretoria</orgName>
+                                <address>
+                                    <postBox>P.O Box 2034</postBox>
+                                    <postCode>0001</postCode>
+                                    <settlement>Pretoria</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Farhana</forename>
+                                <surname>Suleman</surname>
+                            </persName>
+                            <contact>
+                                <email>fesuleman@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Radiology, Faculty of Health Sciences, School of Medicine, Steve Biko Academic Hospital</orgName>
+                                <orgName type="institution">University of Pretoria</orgName>
+                                <address>
+                                    <settlement>Pretoria</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Liebie</forename>
+                                <surname>Louw</surname>
+                            </persName>
+                            <contact>
+                                <email>liebie.louw@up.ac.za</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Statistics, Faculty of Natural and Agricultural Sciences</orgName>
+                                <orgName type="institution">University of Pretoria</orgName>
+                                <address>
+                                    <settlement>Pretoria</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Peet</forename>
+                                <surname>Toit</surname>
+								<particle>du</particle>
+                            </persName>
+                            <contact>
+                                <email>peet.dutoit@up.ac.za</email>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Physiology, Faculty of Health Sciences, School of Medicine</orgName>
+                                <orgName type="institution">University of Pretoria</orgName>
+                                <address>
+                                    <settlement>Pretoria</settlement>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The validity of arterial measurements in a South African embalmed body population</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 a http://orcid.org/0000-0001-8780-8843</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Introduction: Knowledge of the normal arterial diameter at a given anatomical</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

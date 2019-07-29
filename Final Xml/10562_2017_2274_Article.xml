@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:17+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">New Insights into the Kinetics of Structural Transformation and Hydrogenation Activity of Nano-Crystalline Molybdenum Carbide New Insights into the Kinetics of Structural Transformation and Hydrogenation Activity of Nano-Crystalline Molybdenum Carbide</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Khaled</forename>
+                                <forename type="middle">O.</forename>
+                                <surname>Sebakhy</surname>
+                            </persName>
+                            <contact>
+                                <email>kosebakh@ucalgary.ca</email>
+                                <phone>(403) 402-6760</phone>.
+                            </contact>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Catalysis for Bitumen Upgrading Group (CBUG)</orgName>
+                                <orgName type="department" key="dep2">Department of Chemical and Petroleum Engineering</orgName>
+                                <orgName type="department" key="dep3">Schulich School of Engineering</orgName>
+                                <orgName type="institution">University of Calgary</orgName>
+                                <address>
+                                    <postCode>T2N 1N4</postCode>
+                                    <settlement>Calgary</settlement>
+                                    <region>Alberta</region>
+                                    <country>Canada</country>, Correspondence
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gerardo</forename>
+                                <surname>Vitale</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Catalysis for Bitumen Upgrading Group (CBUG)</orgName>
+                                <orgName type="department" key="dep2">Department of Chemical and Petroleum Engineering</orgName>
+                                <orgName type="department" key="dep3">Schulich School of Engineering</orgName>
+                                <orgName type="institution">University of Calgary</orgName>
+                                <address>
+                                    <postCode>T2N 1N4</postCode>
+                                    <settlement>Calgary</settlement>
+                                    <region>Alberta</region>
+                                    <country>Canada</country>, Correspondence
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Azfar</forename>
+                                <surname>Hassan</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Catalysis for Bitumen Upgrading Group (CBUG)</orgName>
+                                <orgName type="department" key="dep2">Department of Chemical and Petroleum Engineering</orgName>
+                                <orgName type="department" key="dep3">Schulich School of Engineering</orgName>
+                                <orgName type="institution">University of Calgary</orgName>
+                                <address>
+                                    <postCode>T2N 1N4</postCode>
+                                    <settlement>Calgary</settlement>
+                                    <region>Alberta</region>
+                                    <country>Canada</country>, Correspondence
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pedro</forename>
+                                <surname>Pereira-Almao</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Catalysis for Bitumen Upgrading Group (CBUG)</orgName>
+                                <orgName type="department" key="dep2">Department of Chemical and Petroleum Engineering</orgName>
+                                <orgName type="department" key="dep3">Schulich School of Engineering</orgName>
+                                <orgName type="institution">University of Calgary</orgName>
+                                <address>
+                                    <postCode>T2N 1N4</postCode>
+                                    <settlement>Calgary</settlement>
+                                    <region>Alberta</region>
+                                    <country>Canada</country>, Correspondence
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Khaled</forename>
+                                <forename type="middle">Omar</forename>
+                                <surname>Sebakhy</surname>
+                            </persName>
+							<contact>
+								<email>kosebakh@ucalgary.ca</email>
+								<phone>(403) 402-6760</phone>
+							</contact>
+                            <affiliation key="aff2">
+								<orgName type="department" key="dep1">Catalysis for Bitumen Upgrading Group (CBUG)</orgName>
+                                <orgName type="department" key="dep1">Department of Chemical and Petroleum Engineering</orgName>
+                                <orgName type="department" key="dep2">Schulich School of Engineering</orgName>
+                                <orgName type="institution">University of Calgary</orgName>
+                                <address>
+                                    <postCode>T2N 1N4</postCode>
+                                    <settlement>Calgary</settlement>
+                                    <region>Alberta</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">New Insights into the Kinetics of Structural Transformation and Hydrogenation Activity of Nano-Crystalline Molybdenum Carbide New Insights into the Kinetics of Structural Transformation and Hydrogenation Activity of Nano-Crystalline Molybdenum Carbide</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Graphical Abstract * Corresponding Author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Molybdenum carbide</term>
+                    <term>cubic MoC 05</term>
+                    <term>hexagonal ÃŸ-Mo 2 C</term>
+                    <term>Density functional theory (DFT)</term>
+                    <term>Crystallographic transformation</term>
+                    <term>Selective hydrogenation</term>
+                    <term>CO Chemisorption</term>
+                    <term>Olefins Elimination</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Transformation of cubic molybdenum carbide into hexagonal ÃŸ-Mo 2 C was found to follow the Avrami-Erofeev kinetic model with an n parameter of 4 indicating a slow nucleation step with a polyhedral growth of the transformed phase. The transformation not only occurred at 773 K under atmospheric H 2 pressure, but also imperceptibly occurred under the employed hydrogenation reaction conditions (413 K and 70 psig of H 2 pressure) when using toluene or 1-octene as reactants, not affecting the activity under the steady state. Our computational studies also revealed that both crystal structures share common atomic cluster arrangements with small differences in angles and interatomic distances. The transformation was triggered by local distortions which favored shorter and more homogeneous interatomic distances as present in the hexagonal phase. The prepared molybdenum carbide materials were selective to the hydrogenation of 1-octene under the mild hydrogenation conditions tested. Hydrogenation of 1-octene was preferential in a 50 wt. % mixture of toluene and 1-octene with minimal toluene hydrogenation under the tested conditions.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

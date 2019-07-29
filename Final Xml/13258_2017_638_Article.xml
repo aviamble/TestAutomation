@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Temperature-dependent immune response of olive flounder (Paralichthys olivaceus) infected with viral hemorrhagic septicemia virus (VHSV)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jee</forename>
+                                <forename type="middle">Youn</forename>
+                                <surname>Hwang</surname>
+                            </persName>
+                            <contact>
+                                <email>jinihwang@korea.kr</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Aquatic Disease Control Division</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <addrLine>216 Gijanghaean-Ro, Gijang-up, Gijang-Gun</addrLine>
+                                    <postCode>46083</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kesavan</forename>
+                                <surname>Markkandan</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">TheragenETEX Bio Institute</orgName>
+                                <orgName type="institution">TheragenETEX Inc</orgName>
+                                <address>
+                                    <postCode>16229</postCode>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kyudong</forename>
+                                <surname>Han</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Nanobiomedical Science &amp; BK21 PLUS NBM Global Research Center for Regenerative Medicine</orgName>
+                                <orgName type="institution">Dankook University</orgName>
+                                <address>
+                                    <postCode>31116</postCode>
+                                    <settlement>Cheonan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mun</forename>
+                                <forename type="middle">Gyeong</forename>
+                                <surname>Kwon</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Aquatic Disease Control Division</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <addrLine>216 Gijanghaean-Ro, Gijang-up, Gijang-Gun</addrLine>
+                                    <postCode>46083</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jung</forename>
+                                <forename type="middle">Soo</forename>
+                                <surname>Seo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Aquatic Disease Control Division</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <addrLine>216 Gijanghaean-Ro, Gijang-up, Gijang-Gun</addrLine>
+                                    <postCode>46083</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seung-il</forename>
+                                <surname>Yoo</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">TheragenETEX Bio Institute</orgName>
+                                <orgName type="institution">TheragenETEX Inc</orgName>
+                                <address>
+                                    <postCode>16229</postCode>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seong</forename>
+                                <forename type="middle">Don</forename>
+                                <surname>Hwang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Aquatic Disease Control Division</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <addrLine>216 Gijanghaean-Ro, Gijang-up, Gijang-Gun</addrLine>
+                                    <postCode>46083</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bo</forename>
+                                <forename type="middle">Young</forename>
+                                <surname>Ji</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Aquatic Disease Control Division</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <addrLine>216 Gijanghaean-Ro, Gijang-up, Gijang-Gun</addrLine>
+                                    <postCode>46083</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maeng-Hyun</forename>
+                                <surname>Son</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Aquatic Disease Control Division</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <addrLine>216 Gijanghaean-Ro, Gijang-up, Gijang-Gun</addrLine>
+                                    <postCode>46083</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jun-hyung</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">TheragenETEX Bio Institute</orgName>
+                                <orgName type="institution">TheragenETEX Inc</orgName>
+                                <address>
+                                    <postCode>16229</postCode>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Temperature-dependent immune response of olive flounder (Paralichthys olivaceus) infected with viral hemorrhagic septicemia virus (VHSV)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Paralichthys olivaceus</term>
+                    <term>olive flounder</term>
+                    <term>Transcriptome</term>
+                    <term>RNA-Seq</term>
+                    <term>Viral hemorrhagic septicemia virus (VHSV)</term>
+                    <term>Head kidney Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Olive flounder (Paralichthys olivaceus) is one of the most economically important aquaculture fish. However, its production is often affected by various diseases, especially viral hemorrhagic septicemia vrus (VHSV) that cause serious economic losses. In this study, we sequenced the whole transcriptome of the P. olivaceus using Illumina RNA-seq. De novo assembly of control and virus-infected cDNA libraries of head kidney at 13ºC and 20℃ was accomplished with 2,007,532,438 raw reads, resulting in 244,578 unigenes with an average length of 533 bp and found 65,535 candidate coding unigenes with homology to other species by BLAST analysis. DEG analysis among control and virus-infected head kidney samples of 13ºC and 20℃ revealed that 1,290 up-regulated and 162 down-regulated genes (p≤0.01), linked to metabolism, virulence factors, adhesion and immune-response. We constructed an expressed gene catalog for the P. olivaceus to serve as a resource for marine environmental genomic and immuno-genetic/genomic studies focused on uncovering the molecular mechanisms underlying the responses of P. olivaceus to VHSV under different temperature.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

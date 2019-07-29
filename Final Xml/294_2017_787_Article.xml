@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T07:27+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The major contribution of the DNA damage-triggered reactive oxygen species production to cell death: implications for antimicrobial and cancer therapy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ivan</forename>
+                                <surname>Matic</surname>
+                            </persName>
+                            <contact>
+                                <email>ivan.matic@inserm.fr</email>
+                                <phone>+33 1 4061 5325</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculté de Médecine Paris Descartes</orgName>
+                                <orgName type="institution">INSERM U1001, Université Paris Descartes, Sorbonne Paris Cité</orgName>
+                                <address>
+                                    <addrLine>24 rue du Faubourg Saint-Jacques</addrLine>
+                                    <postCode>75014</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Life Sciences</orgName>
+                                <orgName type="institution">Centre National de la Recherche Scientifique</orgName>
+                                <address>
+                                    <postCode>75016</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>						
+                            <affiliation>
+							<orgName type="department">Faculté de Médecine Paris Descartes</orgName>
+							<orgName type="institution">INSERM U1001, Université Paris Descartes, Sorbonne Paris Cité</orgName>
+							<address>
+								<addrLine>24 rue du Faubourg Saint-Jacques</addrLine>
+                                <postCode>75014</postCode>
+                                <settlement>Paris</settlement>
+                                <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The major contribution of the DNA damage-triggered reactive oxygen species production to cell death: implications for antimicrobial and cancer therapy</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T11:36+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Psychopathology and associated risk factors among forcibly displaced Syrian children and adolescents</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Vahdet</forename>
+                                <surname>Gormez</surname>
+                            </persName>
+                            <contact>
+                                <email>vahdetgormez@gmail.com</email>
+                                <email>vgormez@bezmialem.edu.tr</email>
+                                <phone>0090 544 9023425</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="institution">Bezmialem Vakif University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hale</forename>
+                                <forename type="middle">Nur</forename>
+                                <surname>Kiliç</surname>
+                            </persName>
+                            <contact>
+                                <email>psikologhalenur@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Psychological Counselling and Guidance</orgName>
+                                <orgName type="institution">Marmara University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A.</forename>
+                                <surname>Cahid Orengul</surname>
+                            </persName>
+                            <contact>
+                                <email>aorengul@bezmialem.edu.tr</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="institution">Bezmialem Vakif University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Merve</forename>
+                                <forename type="middle">Nursoy</forename>
+                                <surname>Demir</surname>
+                            </persName>
+                            <contact>
+                                <email>nursoym@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">Bahçesehir University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seyma</forename>
+                                <surname>Demirlikan</surname>
+                            </persName>
+                            <contact>
+                                <email>seyma.dem90@gmail.com</email>
+                            </contact>						
+                            <affiliation key="aff5">
+                                <orgName type="institution">Turkish Red Crescent</orgName>
+                                <address>
+                                    <settlement>Ankara</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sibel</forename>
+                                <surname>Demirbas</surname>
+                            </persName>
+                            <contact>
+                                <email>sibeldmrbs@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">Fatih Sultan Mehmet University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Betül</forename>
+                                <surname>Babacan</surname>
+                            </persName>
+                            <contact>
+                                <email>babacanbetul@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff7">
+                                <orgName type="department">Department of Sociology</orgName>
+                                <orgName type="institution">Sehir University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kerem</forename>
+                                <surname>Kinik</surname>
+                            </persName>
+                            <contact>
+                                <email>kerem.kinik@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff8">
+                                <orgName type="department">Department of Public Health, PhD Candidate in Disaster Medicine</orgName>
+                                <orgName type="institution">Bezmialem Vakif University</orgName>
+                                <address>
+                                    <settlement>Istanbul</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bengi</forename>
+                                <surname>Semerci</surname>
+                            </persName>
+                            <contact>
+                                <email>bengisemerci@bengisemerci.com</email>
+                            </contact>
+                            <affiliation key="aff9">
+                                <orgName type="department">Department of Pscyhology</orgName>
+                                <orgName type="institution">Hasan Kalyoncu University</orgName>
+                                <address>
+                                    <settlement>Gaziantep</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Psychopathology and associated risk factors among forcibly displaced Syrian children and adolescents</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 a</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>More than half of the 2.7 million registered Syrian refugees in Turkey are under 18 years of age. This study investigates prevalence of psychopathology and associated risk factors in refugee children in Turkey. Of a total of 218 children aged 9-15 years, 56.2% lost someone important to them, 55.1% saw dead or wounded people, 70.4 % witnessed explosions or gun battles, 42.5 % witnessed people being tortured and 25.6 % personally experienced cruelty/torture during war. Prevalence of PTSD was 18.3% and that of anxiety-related disorders were as high as 69.0 %. Death of an important</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

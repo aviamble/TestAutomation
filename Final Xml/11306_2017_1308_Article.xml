@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Analysis of the free fatty acid metabolome in the plasma of patients with systemic lupus erythematosus and fever</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Tae</forename>
+                                <forename type="middle">Hwan</forename>
+                                <surname>Shin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physiology</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hyoun-Ah</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Rheumatology and BK21 Division of Cell Transformation and Restoration</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ju-Yang</forename>
+                                <surname>Jung</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Rheumatology and BK21 Division of Cell Transformation and Restoration</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wook-Young</forename>
+                                <surname>Baek</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Rheumatology and BK21 Division of Cell Transformation and Restoration</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hyeon-Seong</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                           
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physiology</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Pharmacy</orgName>
+                                <orgName type="institution">Sunchon National University</orgName>
+                                <address>
+                                    <settlement>Suncheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hyung</forename>
+                                <forename type="middle">Jin</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physiology</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jeuk</forename>
+                                <surname>Min</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Pharmacy</orgName>
+                                <orgName type="institution">Sunchon National University</orgName>
+                                <address>
+                                    <settlement>Suncheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Man-Jeong</forename>
+                                <surname>Paik</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Pharmacy</orgName>
+                                <orgName type="institution">Sunchon National University</orgName>
+                                <address>
+                                    <settlement>Suncheon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Gwang</forename>
+                                <surname>Lee</surname>
+                                <prefix>Professor,</prefix>
+                            </persName>
+							 <contact>
+                                <email>glee@ajou.ac.kr</email>
+                                <phone>+82-31-219-4554</phone>
+								<phone>+82-10-3738-9349</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Physiology</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff4">
+                                <orgName type="department">Department of Physiology</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <addrLine>164, World cup-ro, Yeongtong-gu</addrLine>
+                                    <postCode>16499</postCode>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+							
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Chang-Hee</forename>
+                                <surname>Suh</surname>
+                                <prefix>Professor,</prefix>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>chsuh@ajou.ac.kr</email>
+                                <phone>+82-31-219-5118</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Rheumatology and BK21 Division of Cell Transformation and Restoration</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="department">Department of Rheumatology and BK21 Division of Cell Transformation and Restoration</orgName>
+                                <orgName type="institution">Ajou University School of Medicine</orgName>
+                                <address>
+                                    <addrLine>164 Worldcup-ro, Yeongtong-gu</addrLine>
+                                    <postCode>16499</postCode>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Analysis of the free fatty acid metabolome in the plasma of patients with systemic lupus erythematosus and fever</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note># These authors contributed equally to this work. * Co-corresponding author: * Corresponding author: Acknowledgments</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>systemic lupus erythematosus</term>
+                    <term>free fatty acid</term>
+                    <term>metabolomics</term>
+                    <term>biomarker</term>
+                    <term>fever 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Introduction: Systemic lupus erythematosus (SLE) is a multifactorial autoimmune disease with heterogeneous clinical manifestations mediated by immune dysregulation. Objectives: We aimed to analyze the metabolomic differences in free fatty acids (FFAs) between patients with SLE and healthy controls (HCs). Methods: In this study, the levels of 24 FFAs, as their tert-butyldimethylsilyl derivatives, in the plasma of 41 patients with SLE and 41 HCs, were investigated using gas chromatography with mass spectrometry in selected-ion monitoring mode. Results: The results showed that patients with SLE and HCs had significantly different levels of 13 of the 24 FFAs. The levels of myristic, palmitoleic, oleic, and eicosenoic acids were significantly higher, whereas the levels of caproic, caprylic, linoleic, stearic, arachidonic, eicosanoic, behenic, lignoceric, and hexacosanoic acids were significantly lower in patients with SLE, than in the HCs. In the partial-correlation analysis of the FFA profiles and markers of disease activity of SLE, several metabolic markers correlated with SLE disease activity. Conclusions: Our results provide a comprehensive understanding of the relationship between FFAs and markers of SLE disease activity. Thus, this approach has promising potential for the discovery of metabolic biomarkers of SLE.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

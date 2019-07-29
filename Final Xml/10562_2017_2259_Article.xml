@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:16+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Reduced Temperature Ammonia Decomposition Using Ni/Zr-Doped Al 2 O 3 Catalyst</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Suparoek</forename>
+                                <surname>Henpraserttae</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Bio-Chemical Engineering and Technology</orgName>
+                                <orgName type="department" key="dep2">Sirindhorn International Institute of Technology</orgName>
+                                <orgName type="institution">Thammasat University</orgName>
+                                <address>
+                                    <postBox>P.O. BOX 22</postBox>
+                                    <postCode>12121</postCode>
+                                    <settlement>Pathumthani</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sumittra</forename>
+                                <surname>Charojrochkul</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">National Metal and Materials Technology Center</orgName>
+                                <orgName type="institution" key="instit2">National Science and Technology Development Agency</orgName>
+                                <address>
+                                    <addrLine>Thailand Science Park</addrLine>
+                                    <postCode>12120</postCode>
+                                    <settlement>Pathumthani</settlement>
+                                    <country>Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wantana</forename>
+                                <surname>Klysubun</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Synchrotron Light Research Institute</orgName>
+                                <address>
+                                    <addrLine>111 University Avenue</addrLine>
+                                    <postCode>30000</postCode>
+                                    <settlement>Nakhon Ratchasima</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Luckhana</forename>
+                                <surname>Lawtrakul</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Bio-Chemical Engineering and Technology</orgName>
+                                <orgName type="department" key="dep2">Sirindhorn International Institute of Technology</orgName>
+                                <orgName type="institution">Thammasat University</orgName>
+                                <address>
+                                    <postBox>P.O. BOX 22</postBox>
+                                    <postCode>12121</postCode>
+                                    <settlement>Pathumthani</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Pisanu</forename>
+                                <surname>Toochinda</surname>
+                            </persName>
+                            <contact>
+                                <email>pisanu@siit.tu.ac.th</email>
+                                <phone>+66-2-986-9009</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Bio-Chemical Engineering and Technology</orgName>
+                                <orgName type="department" key="dep2">Sirindhorn International Institute of Technology</orgName>
+                                <orgName type="institution">Thammasat University</orgName>
+                                <address>
+                                    <postBox>P.O. BOX 22</postBox>
+                                    <postCode>12121</postCode>
+                                    <settlement>Pathumthani</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Reduced Temperature Ammonia Decomposition Using Ni/Zr-Doped Al 2 O 3 Catalyst</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>doping of Zr in Al 2 O 3 framework; Ni/Zr-doped Al 2 O 3 catalyst 1. Introduction Ammonia decomposition is one of the hydrogen production reactions which have been of interest in the past decade. Unlike conventional H 2 productions from hydrocarbon reformings, NH 3 decomposition can yield H 2 without CO and CO 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Ammonia decomposition</term>
+                    <term>Hydrogen production</term>
+                    <term>Support modification</term>
+                    <term>Partial</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The development of Ni/Zr-doped Al 2 O 3 was achieved to reduce the reaction temperatures in ammonia decomposition by doping Zr into Al 2 O 3 framework. The Ni/Zr-doped Al 2 O 3 exhibits higher H 2 yield and NH 3 conversion than Ni/?-Al 2 O 3 in a continuous operation. Partial doping of Zr in Al 2 O 3 framework can increase Ni dispersion, Ni surface area and basic sites of the Ni catalyst. These effects can promote in both dehydrogenation of NH 3 and recombination of nitrogen adsorbates in an NH 3 decomposition mechanism. The comparison between roles of Zr as a dopant and a promoter for Ni catalyst was also discussed.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

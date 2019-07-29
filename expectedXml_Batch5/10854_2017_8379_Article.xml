@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T12:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The effect of calcination conditions on structural and magnetic behavior of bismuth ferrite synthesized by co-precipitation method</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Hamed</forename>
+                                <surname>Maleki</surname>
+                            </persName>
+                            <contact>
+                                <email>hamed.maleki@uk.ac.ir</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Physics</orgName>
+                                <orgName type="institution">Shahid Bahonar University of Kerman</orgName>
+                                <address>
+                                    <settlement>Kerman</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Marzieh</forename>
+                                <surname>Haselpour</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Physics</orgName>
+                                <orgName type="institution">Shahid Bahonar University of Kerman</orgName>
+                                <address>
+                                    <settlement>Kerman</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Reza</forename>
+                                <surname>Fathi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Physics</orgName>
+                                <orgName type="institution">Shahid Bahonar University of Kerman</orgName>
+                                <address>
+                                    <settlement>Kerman</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The effect of calcination conditions on structural and magnetic behavior of bismuth ferrite synthesized by co-precipitation method</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>In this paper the effect of calcination conditions on structural properties, particle size, as well as the presence of secondary phases and magnetic characteristics of BiFeO 3 nanocrystals have been investigated. Bismuth ferrite nanocrystals were synthesized at room temperature by chemical co-precipitation method. Phase analysis, structural and magnetic features and size of the produced nanopowders were studied via x-ray diffraction (XRD), Fourier transform infrared spectroscopy (FT-IR), transmission electron microscopy(TEM) and vibrating sample magnetometer (VSM). The formation of the single phase compounds were confirmed by XRD. By analyzing the results from different measurements it was shown that products have the perovskite phase with space group R 3 C and the average nanocrystal size around 50 nm. The structural studies showed that calcination temperature and duration has crucial roles in disappearing impurities and secondary phases. Magnetic results in an applied field at room temperature indicated that the nanoparticles of bismuth ferrite have weak ferromagnetic order.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

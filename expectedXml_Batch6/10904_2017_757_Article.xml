@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T04:23+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Ilex Paraguariensis Extract—Coated Magnetite Nanoparticles: A Sustainable Nano-adsorbent and Antioxidant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">D.</forename>
+                                <surname>Fabio Mercado</surname>								
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CCT-La Plata-CONICET</orgName>
+                                <orgName type="institution" key="instit1">Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA)</orgName>
+                                <orgName type="institution" key="instit2">Universidad Nacional de La Plata</orgName>
+                                <address>
+                                    <settlement>La Plata</settlement>
+									<country>Argentina</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Paula</forename>
+                                <surname>Caregnato</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CCT-La Plata-CONICET</orgName>
+                                <orgName type="institution" key="instit1">Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA)</orgName>
+                                <orgName type="institution" key="instit2">Universidad Nacional de La Plata</orgName>
+                                <address>
+                                    <settlement>La Plata</settlement>
+									<country>Argentina</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Laura</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Villata</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CCT-La Plata-CONICET</orgName>
+                                <orgName type="institution" key="instit1">Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA)</orgName>
+                                <orgName type="institution" key="instit2">Universidad Nacional de La Plata</orgName>
+                                <address>
+                                    <settlement>La Plata</settlement>
+									<country>Argentina</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mónica</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Gonzalez</surname>
+                            </persName>
+                            <contact>
+                                <email>gonzalez@inifta.unlp.edu.ar</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">CCT-La Plata-CONICET</orgName>
+                                <orgName type="institution" key="instit1">Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA)</orgName>
+                                <orgName type="institution" key="instit2">Universidad Nacional de La Plata</orgName>
+                                <address>
+                                    <settlement>La Plata</settlement>
+									<country>Argentina</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Ilex Paraguariensis Extract—Coated Magnetite Nanoparticles: A Sustainable Nano-adsorbent and Antioxidant</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 * Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>radical scavenger</term>
+                    <term>sulfate radicals</term>
+                    <term>ABTS+</term>
+                    <term>nanoadsorbent</term>
+                    <term>methylene blue 2 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Single-crystal 15 nm size magnetite nanoparticles were synthesized and coated with Yerba Mate (Ilex paraguariensis) extract to evaluate their use as versatile antioxidant magnetic nanoadsorbents. The obtained particles, Mnp@YM, were found to be composed of a crystalline magnetite core surrounded by a shell composed of Fe 3 O 4 , FeO, and Fe 2 O 3 oxides. YM extract resulted an effective protective coating for Mnp incorporating surface carboxylates, phenols, and organic N groups which improve the particles stability in aqueous suspensions. Mnp@YM antioxidant capacity (1.8 ?M Trolox equivalent per 0.1 mg YM coating contained in 1 mgL-1 particle suspension) is of the order reported for polyphenols. SO 4 ?-scavenging rate constant (1.5?10 4 g-1 L s-1) is within the diffusion controlled regime for 15 nm spherical nanoparticles with homogeneously distributed reactive sites. Mnp@YM reversibly adsorbs MB with maximum adsorption of 50 mg g-1. As a consequence of these capacities, Mnp@YM resulted effective in preventing MB oxidation by peroxodisulfate.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

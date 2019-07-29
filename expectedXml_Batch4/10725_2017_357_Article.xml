@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T05:45+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">An intact cytokinin-signaling pathway is required for Bacillus sp. LZR216-promoted plant growth and root system architecture altereation in Arabidopsis thaliana seedlings</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jianfeng</forename>
+                                <surname>Wang</surname>
+                            </persName>
+							<contact>
+								<email>zxcvb1234nm@126.com</email>							
+							</contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Cell Activities and Stress Adaptations</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">School of Life Sciences</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <postCode>730000</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <region>Gansu</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yongqiang</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <contact>
+                                <email>yqzhang@lzu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName type="department" key="dep2">School of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jie</forename>
+                                <surname>Jin</surname>
+                            </persName>
+                            <contact>
+                                <email>jinj2015@lzu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Cell Activities and Stress Adaptations</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">School of Life Sciences</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <postCode>730000</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <region>Gansu</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qien</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <contact>
+                                <email>qien.li@yahoo.com</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="institution" key="instit1">Tibetan Medicine Research Center of Qinghai University</orgName>
+                                <orgName type="institution" key="instit2">Qinghai University Tibetan Medical College</orgName>
+                                <address>
+                                    <postCode>810016</postCode>
+                                    <settlement>Xining</settlement>
+                                    <region>Qinghai</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chenzhou</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <contact>
+                                <email>zhaochzh13@lzu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="institution" key="instit1">Tibetan Medicine Research Center of Qinghai University</orgName>
+                                <orgName type="institution" key="instit2">Qinghai University Tibetan Medical College</orgName>
+                                <address>
+                                    <postCode>810016</postCode>
+                                    <settlement>Xining</settlement>
+                                    <region>Qinghai</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wenbin</forename>
+                                <surname>Nan</surname>
+                            </persName>
+                            <contact>
+                                <email>nanwenbin513@163.com</email>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Chongqing Key Laboratory of Molecular Biology of Plant Environmental Adaptations</orgName>
+                                <orgName type="department" key="dep2">College of Life Sciences</orgName>
+                                <orgName type="institution">Chongqing Normal University</orgName>
+                                <address>
+                                    <postCode>401331</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaomin</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <contact>
+                                <email>wangxiaomin@lzu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Cell Activities and Stress Adaptations</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">School of Life Sciences</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <postCode>730000</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <region>Gansu</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rongrong</forename>
+                                <surname>Ma</surname>
+                            </persName>
+                            <contact>
+                                <email>marr15@lzu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Cell Activities and Stress Adaptations</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">School of Life Sciences</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <postCode>730000</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <region>Gansu</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yurong</forename>
+                                <surname>Bi</surname>
+                            </persName>
+                            <contact>
+                                <email>yrbi@lzu.edu.cn</email>
+								<phone>+86-931-8912560</phone>									
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Key Laboratory of Cell Activities and Stress Adaptations</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="department" key="dep3">School of Life Sciences</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <postCode>730000</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <region>Gansu</region>
+                                    <country code="CN">People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">An intact cytokinin-signaling pathway is required for Bacillus sp. LZR216-promoted plant growth and root system architecture altereation in Arabidopsis thaliana seedlings</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wide ranges of microorganisms found in rhizhosphere are able to regulate plant growth and development through production of phytohormones. However, little is known about the effects of these rhizobacteria on phytohormone cytokinin signal transduction in plants. We here found that Bacillus sp. LZR216 can promote growth and alter the root system architecture of Arabidopsis. To study the roles of cytokinin in this process, we used a series of cytokinin signaling mutants. We found that LZR216 inoculation exhibited little effects on the growth promotion and root development of the triple mutant ahp2,3,5. However, LZR216 promoted the growth and altered the root system architecture of single and double mutants of the cytokinin receptor. Furthermore, LZR216 treatment decreased the ARR5</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

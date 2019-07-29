@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T12:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Photoelectrochemical properties of the relaxor Ba(Ti 0.90 Sc 0.05 Nb 0.05 )O 3 : Application to the degradation of amoxicillin under solar light</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">N.</forename>
+                                <surname>Haddadou</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Crystallography-Thermodynamics Laboratory</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">USTHB</orgName>
+                                <address>
+                                    <postBox>P.O. Box 32</postBox>
+                                    <postCode>16111</postCode>
+                                    <settlement>Algiers</settlement>
+                                    <country key="DZ">Algeria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">N.</forename>
+                                <surname>Bensemma</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Crystallography-Thermodynamics Laboratory</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">USTHB</orgName>
+                                <address>
+                                    <postBox>P.O. Box 32</postBox>
+                                    <postCode>16111</postCode>
+                                    <settlement>Algiers</settlement>
+                                    <country key="DZ">Algeria</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Nuclear Research Centre of Birine</orgName>
+                                <address>
+                                    <settlement>Ain-Oussera</settlement>
+                                    <country key="DZ">Algeria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                         <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <surname>Rekhila</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Laboratory of Storage and Valorization of Renewable Energies</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">USTHB</orgName>
+                                <address>
+                                    <postBox>P.O. Box 32</postBox>
+                                    <postCode>16111</postCode>
+                                    <settlement>Algiers</settlement>
+                                    <country key="DZ">Algeria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <surname>Trari</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Laboratory of Storage and Valorization of Renewable Energies</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">USTHB</orgName>
+                                <address>
+                                    <postBox>P.O. Box 32</postBox>
+                                    <postCode>16111</postCode>
+                                    <settlement>Algiers</settlement>
+                                    <country key="DZ">Algeria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <surname>Taïbi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Crystallography-Thermodynamics Laboratory</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">USTHB</orgName>
+                                <address>
+                                    <postBox>P.O. Box 32</postBox>
+                                    <postCode>16111</postCode>
+                                    <settlement>Algiers</settlement>
+                                    <country key="DZ">Algeria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Photoelectrochemical properties of the relaxor Ba(Ti 0.90 Sc 0.05 Nb 0.05 )O 3 : Application to the degradation of amoxicillin under solar light</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Ceramics</term>
+                    <term>Diffuse phase Transition</term>
+                    <term>Relaxor Ferroelectric</term>
+                    <term>Photoelectrochemical</term>
+                    <term>Amoxicillin</term>
+                    <term>Solar light</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Polycrystalline sample Ba(Ti 0.9 Sc 0.05 Nb 0.05)O 3 (BTSN) has been synthesized by solid-state reaction. The effects on the symmetry and dielectric properties of simultaneous cationic substitution of scandium and niobium in the titanium site of BaTiO 3 were investigated. The room-temperature X-ray diffraction revealed a cubic perovskite phase after sintering at 1350 °C. The dielectric properties in the ranges (80-445 K) and (10 2-10 6 Hz) were studied. A broad dielectric band anomaly coupled with the shift of dielectric maxima toward higher temperatures with increasing frequency indicates a diffuse phase transition with a relaxor behavior. The parameters of the diffuse phase transition were evaluated from the linear plot of the modified Curie–Weiss law and a good fit to the Vogel-Fülcher relation corroborates the relaxor nature. The relaxor ferroelectric is characterized by a spontaneous polarization which should promote the separation of electron/hole (e-/h +) pairs and favors the photocatalytic properties in the nanodomains. The electrochemical impedance spectroscopy, measured over the region (1 mH-10 5 Hz) at pH ~ 7, shows the predominance of the bulk contribution. This BTSN ferroelectric ceramic possesses attractive photoelectrochemical properties with an optical gap of 2.54 eV and a flat band potential of 0.45 V SCE. As application, the oxide was successfully tested for the photooxydation under solar light of amoxicillin (AMX), a currently used antibiotic. Indeed, the energy band diagram indicates an electron transfer from the conduction band to dissolved oxygen, forming O 2 ? radicals, responsible of the AMX degradation. The AMX concentration was followed by high performance liquid chromatography (HPLC). A conversion of 92% is recorded in AMX solution (50 mg L-1) within 4 h under solar light and the kinetic obeys to a first order model with a rate constant of 7.73×10-3 min-1 .</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

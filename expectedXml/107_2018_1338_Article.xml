@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:16+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effect of containing polyhydric alcohol liquefied wood on the properties of thermoplastic polyurethane resins Effect of containing polyhydric alcohol liquefied wood on the properties of thermoplastic polyurethane resins</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wen-Jau</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <contact>
+                                <email>wjlee@dragon.nchu.edu.tw</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forestry</orgName>
+                                <orgName type="institution">National Chung-Hsing University</orgName>
+                                <address>
+                                    <postCode>402</postCode>
+                                    <settlement>Taichung</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chung-Yu</forename>
+                                <surname>Chao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forestry</orgName>
+                                <orgName type="institution">National Chung-Hsing University</orgName>
+                                <address>
+                                    <postCode>402</postCode>
+                                    <settlement>Taichung</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chung-Yu</forename>
+                                <surname>Chao</surname>
+                            </persName>
+                        </author>
+                        <title level="a" type="main">Effect of containing polyhydric alcohol liquefied wood on the properties of thermoplastic polyurethane resins Effect of containing polyhydric alcohol liquefied wood on the properties of thermoplastic polyurethane resins</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Corresponding author: 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Polyurethane (PU) is one of the most important synthetic resins which have been widely used in various industries. Most of the PU resins are prepared by reacting isocyanate with polyols. Polyhydric alcohol liquefied biomasses are rich in hydroxyl groups and are considered having the potential to be a raw material for preparing PU resins. In this study, wood of Japanese cedar (Cryptomeria japonica) was liquefied in polyethylene glycol/glycerol co-solvent with H 2 SO 4 as a catalyst at 150?C for 60 min. After being cooled, the liquefied product was diluted, neutralized, filtered and vacuum distilled to obtain the liquefied wood (LW). Thermoplastic PU resin (TPU) containing LW was prepared by reacting a mixture of polytetramethylene ether glycol (PTMG) and LW with different OH/OH molar ratios with 1,6-hexamethylene diisocyanate (HDI), using 1,4-butanediol as a chain extender. The influence of the amount of LW on the molecular structure, mechanical and thermal properties of TPU was investigated. FTIR analysis shows that LW-containing TPU, referred to as LWTPU, has more hydrogen bonding than neat TPU. Resin films made from LW-TPU prepared with a mixture of PTMG/LW with an OH/OH molar ratio of 80/20 and 65/35 have higher tensile strength and less breaking elongation than that of neat TPU. DMA results show introducing LW leads to TPU films being more rigid. TGA results show the thermal stability of TPU films can be enhanced by LW before the temperature reaches 350 o C.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

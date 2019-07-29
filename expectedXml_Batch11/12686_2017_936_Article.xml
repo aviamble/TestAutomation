@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:25+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Complete chloroplast genome of Taihangia rupestris var. rupestris (Rosaceae), a rare cliff flower endemic to China</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Na</forename>
+                                <surname>Duan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Loess Plateau</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                    <region>Shanxi</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shuang</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Loess Plateau</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                    <region>Shanxi</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bing-bing</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Loess Plateau</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                    <region>Shanxi</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yu</forename>
+                                <forename type="middle">&amp;</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Loess Plateau</orgName>
+                                <orgName type="institution">Shanxi University</orgName>
+                                <address>
+                                    <postCode>030006</postCode>
+                                    <settlement>Taiyuan</settlement>
+                                    <region>Shanxi</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Complete chloroplast genome of Taihangia rupestris var. rupestris (Rosaceae), a rare cliff flower endemic to China</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Main Text:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Taihangia</term>
+                    <term>Chloroplast genome</term>
+                    <term>Phylogenetic analysis</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Taihangia rupestris (Rosaceae) is an endangered and beautiful cliff wildflower endemic to China. It is only disjunctively and sporadically distributed on cliff faces in the Taihang Mountains. In this paper, we sequenced its complete chloroplast (cp) genome by Illumina sequencing platform. Our study suggests that T. rupestris cp genome have a typical quadripartite structure with a length of 155,479 bp, comprising of a large single-copy region (LSC) of 85,771 bp, a small single-copy region (SSC) of 18,550 bp, and two inverted repeat regions (IRs) of 255,79 bp, respectively. The cp genome has 36.8 % GC content and includes 138 genes, of which 87 are protein coding genes, 39 are tRNA genes, eight are rRNA genes and four are pseudogenes. Phylogenetic analysis indicate that Taihangia is closely related to the genera of Geum. 1980). It has a disjunct distribution and occurs sporadically on cliff faces in eastern margin of the Taihang Mountains. So, this species has also been named &quot; rare cliff flower &quot; in the Taihang Mountains (Xu et al., 2006). T. rupestris var. Rupestris is a valuable wildflower resource and it has been registered on the China Species Red List (Wang &amp; Xie, 2004). According to our field investigation, there are only a few, small populations can be found. It is thus urgent to take effective measures to conserve this endangered and beautiful wildflower. In addition, it is an important species in the evolutionary study of the tribe Dryadeae because of its important systematic position (Yu &amp; Li, 1983). In plants, chloroplast (cp) genome provided useful information in systematics. In this paper, we assembled and characterized the cp genome of T.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:38+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Mechanism of thrombus removal using different strategy of treatment during primary angioplasty. A COCTAIL II OCT substudy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Laura</forename>
+                                <surname>Gatto</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">San Giovanni Addolorata Hospital</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alessio</forename>
+                                <surname>Landro</surname>
+								<particle>Di</particle>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Enrico</forename>
+                                <surname>Romagnoli</surname>
+                                <authordegree>MD, Phd</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Valeria</forename>
+                                <surname>Marco</surname>
+                                <authordegree>RN</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chiara</forename>
+                                <surname>Russo</surname>
+                                <authordegree>RN</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tomasz</forename>
+                                <surname>Pawlowski</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+							
+							<affiliation key="aff3">
+                                <orgName type="institution" key="instit1">Central Clinical Hospital of the Ministry of Interior</orgName>
+                                <address>
+                                    <settlement>Warsaw</settlement>
+									<country>Poland</country>
+                                </address>
+                            </affiliation>
+							
+							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Francesco</forename>
+                                <surname>Versaci</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution" key="instit1">Ospedale Civile Ferdinando Veneziale</orgName>
+                                <address>
+                                    <settlement>Isernia</settlement>
+									<country>Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ugo</forename>
+                                <surname>Limbruno</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Misericordia Hospital</orgName>
+                                <address>
+                                    <settlement>Grosseto</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fausto</forename>
+                                <surname>Castriota</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department">GVM Care &amp; Research</orgName>
+                                <orgName type="institution" key="instit1">Maria Cecilia Hospital</orgName>
+                                <orgName type="institution" key="instit2">Ettore Sansavini Health Science Foundation</orgName>
+                                <address>
+                                    <settlement>Cotignola</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Luca</forename>
+                                <surname>Vito</surname>
+								<particle>Di</particle>
+                                <authordegree>MD, Phd</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Antonio</forename>
+                                <surname>Trivisonno</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff4">
+							<orgName type="institution">Ospedale Civile Ferdinando Veneziale</orgName>
+                                <address>
+                                    <settlement>Isernia</settlement>
+									<country>Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">F</forename>
+                                <surname>Prati</surname>
+                                <authordegree>MD</authordegree>.
+                            </persName>
+                           
+                            <affiliation key="aff1">
+                                <orgName type="institution">San Giovanni Addolorata Hospital</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Centro per la Lotta Contro L&apos;Infarto -CLI Foundation</orgName>
+                                <address>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Francesco</forename>
+                                <surname>Prati</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+						 <contact>
+                                <email>fprati@hsangiovanni.roma.it</email>
+								<phone>+39 06 77.05.53.30</phone>
+                            </contact>
+							<affiliation key="aff7">
+								<orgName type="department">Interventional Cardiology</orgName>
+								<orgName type="institution">San Giovanni Addolorata Hospital</orgName>
+                                <address>
+                                    <addrLine>Via dell&apos;Amba Aradam, 8</addrLine>
+                                    <postCode>00184</postCode>
+                                    <settlement>Rome</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Mechanism of thrombus removal using different strategy of treatment during primary angioplasty. A COCTAIL II OCT substudy</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Short Title: Thrombus removal during primary PCI Total word count: 3781 Address for correspondence is uncertain. In this COCTAIL II substudy we compared the impact of these strategies on pre and post-stenting thrombus burden assessed by Optical Coherence tomography (OCT). Methods: COCTAIL II trial enrolled STEMI patients randomized to intra-lesion (IL, via the ClearWay catheter) versus intracoronary (IC, via the guide catheter) abciximab bolus with or without aspiration thrombectomy (AT). The following parameters were used to quantify atherothrombotic burden: thrombus volume (TVol), maximum Thrombus Area (TA) and Thrombus</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Purpose: Manual thrombus aspiration and local drug delivery of abciximab have been proposed as a strategy to reduce thrombus burden during percutaneous coronary intervention (PCI) in patients with ST Elevation Myocardial Infarction (STEMI); however, the effectiveness of these approaches,</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

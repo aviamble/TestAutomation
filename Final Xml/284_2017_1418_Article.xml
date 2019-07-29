@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:51+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Identification of a new uncompetitive inhibitor of adenosine deaminase from endophyte Aspergillus niger sp</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Xin-guo</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <contact>
+                                <email>biodrug@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jin-wen</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Peng</forename>
+                                <surname>Tang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zi-yu</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Guang-Jun</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qiao-Yun</forename>
+                                <surname>Sun</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Jian-jun</forename>
+                                <surname>Yin</surname>
+                            </persName>
+                            <contact>
+                                <email>yinjj_1962@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">School of Life Science and Engineering</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Herbal-Tebitan Drug Screening and Deep Processing of Gansu Province</orgName>
+                                <orgName type="institution">Lanzhou University of Technology</orgName>
+                                <address>
+                                    <postCode>730050</postCode>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Identification of a new uncompetitive inhibitor of adenosine deaminase from endophyte Aspergillus niger sp</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 * Author for correspondence (</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>endophytes</term>
+                    <term>ADA inhibitors</term>
+                    <term>antitumor activity Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Adenosine deaminase (ADA) is an enzyme widely distributed from bacteria to humans. ADA is known as a potential therapeutic target for the treatment of lymphoproliferative disorders and cancer. Endophytes are endosymbionts, often bacteria or fungi, which live within plant tissues and internal organs or intercellular space. Endophytes have a broad variety of bioactive metabolites that is used for identification of novel natural compounds. Here, 54 morphologically distinct endophyte strains were isolated from six plants such as Peganum harmala Linn, Rheum officinale Baill, Gentiana macrophylla Pall, Radix stephaniae tetrandrae, Myrrha and Equisetum hyemale Linn. The isolated strains were used for the search of ADA inhibitors that resulted in the identification of the strain with the highest inhibition activity, Aspergillus niger sp. Four compounds were isolated from this strain using three-step chromatography procedure, and compound 2 was determined as the compound with the highest inhibition activity of ADA. Based on the results of 1 H and 13 C NMR spectroscopies, compound 2 was identified as 3-(4-nitrophenyl)-5-phenyl isoxazole. We showed that compound 2 was a new uncompetitive inhibitor of ADA with high cytotoxic effect on HepG2 and SMCC-7721 cells (the IC 50 values were 0.347 and 0.380 mM, respectively). These results suggest that endophyte strains serve as promising sources for the identification of ADA inhibitors, and compound 2 could be an effective drug in the cancer treatment.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

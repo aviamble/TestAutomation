@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Strength properties of Scots pine from harbour piles degraded by erosion bacteria</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">D</forename>
+                                <surname>Lukowsky</surname>
+                            </persName>
+                            <contact>
+                                <email>dirk.lukowsky@wki.fraunhofer.de</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Fraunhofer Institute for Wood Research (WKI)</orgName>
+                                <address>
+                                    <settlement>Braunschweig</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A.</forename>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Fraunhofer Institute for Wood Research (WKI)</orgName>
+                                <address>
+                                    <settlement>Braunschweig</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Wartig Nord GmbH</orgName>
+                                <address>
+                                    <settlement>Hamburg</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Strength properties of Scots pine from harbour piles degraded by erosion bacteria</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>140-year-old Scots pine piles displaying various levels of degradation by erosion bacteria were excavated from the harbour of Hamburg and investigated. Bending and compression strength correlated to the basic density, moisture content and lignin content. The compression strength was determined both on samples with dimensions of 30 mm x 20 mm x 20 mm and using 6.6 mm-increment cores taken perpendicular to the grain direction. Both sizes of the samples showed almost identical results. The sapwood of all samples was completely water-saturated; the heartwood did not even achieve 50% water saturation. The sapwood samples showed a good correlation between moisture content and strength properties, whereas basic density correlated well with the strength properties of both sapwood and heartwood. With increasing bacterial attack and resulting lower basic density, the lignin content increased in relation to holocellulose. The measured lignin content of the sapwood showed a good conformity with all strength properties. Determination of the lignin content represents an alternative method for predicting strength values of waterlogged wood while leaving most of the test material intact.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

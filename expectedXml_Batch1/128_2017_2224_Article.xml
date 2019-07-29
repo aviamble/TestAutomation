@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:03+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc> 
+            <titleStmt>
+                <title level="a" type="main">Spatial and Ontogenetic Variation in Mercury in Lake Superior Basin Sea Lamprey (Petromyzon marinus)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sara</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Moses</surname>
+                            </persName>
+                           <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Biological Services Division</orgName>
+                                <orgName type="institution" key="instit1">Great Lakes Indian Fish &amp; Wildlife Commission</orgName>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Christine</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Polkinghorne</surname>
+                            </persName>
+							<contact>
+                            <phone>(715) 394-8318</phone>
+							</contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Lake Superior Research Institute</orgName>
+                                <orgName type="institution" key="instit1">University of Wisconsin-Superior</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">William</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Mattes</surname>
+                            </persName>
+                          <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Biological Services Division</orgName>
+                                <orgName type="institution" key="instit1">Great Lakes Indian Fish &amp; Wildlife Commission</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kimberly</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Beesley</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Lake Superior Research Institute</orgName>
+                                <orgName type="institution" key="instit1">University of Wisconsin-Superior</orgName>
+                            </affiliation>
+							
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">University of Wisconsin-Superior</orgName>
+                                <address>
+                                    <postBox>P.O. Box 2000</postBox>
+                                    <postCode>54880</postCode>
+                                    <settlement>Superior</settlement>
+                                    <region>WI</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Spatial and Ontogenetic Variation in Mercury in Lake Superior Basin Sea Lamprey (Petromyzon marinus)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords></keywords>
+            </textClass>
+            <abstract>
+                <p>Mercury concentrations were measured in eggs, larvae, and adult spawning-phase sea lampreys (Petromyzon marinus) collected in tributaries of Lake Superior to investigate spatial and ontogenetic variation. There were significant differences in mercury concentrations between all three life stages, with levels highest in adults (mean = 3.01 µg/g), followed by eggs (mean = 0.942 µg/g), and lowest in larvae (mean = 0.455 µg/g). There were no significant differences in mercury concentrations by location for any life stage or by sex in adults. Mercury was not correlated with adult or larval lamprey length or mass. Mercury levels in adult lampreys exceeded U.S. and Canadian federal guidelines for human consumption. Mercury concentrations in all life stages exceeded criteria for the protection of piscivorous wildlife, posing a threat to local fish, birds, and mammals. High mercury levels in adult lampreys combined with their semelparous life history make them a potential source of lake-derived mercury to spawning streams.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

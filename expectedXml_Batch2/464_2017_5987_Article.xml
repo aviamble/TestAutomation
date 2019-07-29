@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Prospective cohort study on mesh shrinkage measured with MRI after laparoscopic ventral hernia repair with an intraperitoneal iron oxide loaded PVDF mesh</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+                <date type="published" when="2017-03-27">May 27 th 2017 . June 17 th 2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Filip</forename>
+                                <surname>Muysoms</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>filip.muysoms@azmmsj.be</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Surgery</orgName>
+                                <orgName type="institution">Maria Middelares Ghent</orgName>
+                                <address>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Roel</forename>
+                                <surname>Beckers</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of radiology</orgName>
+                                <orgName type="institution">Maria Middelares Ghent</orgName>								
+                                <address>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Iris</forename>
+                                <surname>Kyle-Leinhase</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Surgery</orgName>
+                                <orgName type="institution">Maria Middelares Ghent</orgName>
+                                <address>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">Maria Middelares Hospital</orgName>
+                                <address>
+                                    <addrLine>Buitenring Sint-Denijs 30</addrLine>
+                                    <postCode>9800</postCode>
+                                    <settlement>Ghent</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Prospective cohort study on mesh shrinkage measured with MRI after laparoscopic ventral hernia repair with an intraperitoneal iron oxide loaded PVDF mesh</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">and at the 25 th Annual congress of the European Association of Endoscopic Surgery</title>
+                        <meeting>
+                            <address>
+                                <addrLine>Vienna, Austria</addrLine>
+                            </address>
+                        </meeting>
+                        <imprint>
+                            <date type="published" when="2017-03-27">May 27 th 2017 . June 17 th 2017</date>
+                        </imprint>
+                    </monogr>
+                    <note>Running title: Intraperitoneal mesh shrinkage on MRI corresponding author: Conflicts of Interest and Source of Funding: The study was funded with a grant from FEG Textiltechnik, Aachen, Germany and a grant from</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Background</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

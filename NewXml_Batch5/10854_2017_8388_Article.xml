@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Catalyst-free deposition of few layer graphene on c-plane sapphire substrates by drop casting technique</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <surname>Sanjay</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Crystal Growth Centre</orgName>
+                                <orgName type="institution">Anna University</orgName>
+                                <address>
+                                    <postCode>600 025</postCode>
+                                    <settlement>Chennai</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <surname>Prabakaran</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Crystal Growth Centre</orgName>
+                                <orgName type="institution">Anna University</orgName>
+                                <address>
+                                    <postCode>600 025</postCode>
+                                    <settlement>Chennai</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shubra</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <contact>
+                                <email>sspv44@gmail.com</email>
+                                <phone>Tel.: 91–44–22358342</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Crystal Growth Centre</orgName>
+                                <orgName type="institution">Anna University</orgName>
+                                <address>
+                                    <postCode>600 025</postCode>
+                                    <settlement>Chennai</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <surname>Baskar</surname>
+                            </persName>
+                            <contact>
+                                <email>drbaskar2009@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Crystal Growth Centre</orgName>
+                                <orgName type="institution">Anna University</orgName>
+                                <address>
+                                    <postCode>600 025</postCode>
+                                    <settlement>Chennai</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Manonmaniam Sundaranar University</orgName>
+                                <address>
+                                    <postCode>627 012</postCode>
+                                    <settlement>Tirunelveli</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Catalyst-free deposition of few layer graphene on c-plane sapphire substrates by drop casting technique</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A simple and easy method of synthesis and catalyst-free deposition of few layer graphene (FLG) on non-conducting sapphire substrates still remains a challenge. This work involves preparation of FLG by liquid exfoliation method and deposition of FLG onto chemically etched sapphire substrate with and without catalyst by drop casting technique. Field emission scanning electron microscopy was used to observe presence of FLG on sample surfaces and its energy dispersive X-ray spectra reveals absence of other trace impurity. Atomic force microscopy shows FLG within and along the sidewalls of the dislocation site for catalyst free sample. Fourier transform infrared spectroscopy confirmed the dispersion of FLG in solvent. Raman spectroscopy revealed prominent graphene peak positions corresponding to D, G and 2D bands. Also, diamond like carbon, fullerene and additional Raman modes have been observed using Raman spectroscopy excited at higher wavelength. FESEM, EDX and AFM results prove better FLG dispersions on catalyst-free sample in comparison to sample with catalyst. This method of FLG deposition will be highly suitable for optoelectronic applications for developing cost-efficient device with optimum performance.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

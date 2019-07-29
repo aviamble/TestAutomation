@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T11:44+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Preparation of Cadmium Sulfide/Polystyrene Nanocomposites Films Using Gamma Irradiation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">H.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Youssef</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">National Center for Radiation Research and Technology</orgName>
+                                <orgName type="institution" key="instit2">Atomic Energy Authority (AEA)</orgName>
+                                <address>
+                                    <settlement>Nasr City</settlement>
+                                    <country key="EG">Egypt</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Z.</forename>
+                                <forename type="middle">I.</forename>
+                                <surname>Ali</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">National Center for Radiation Research and Technology</orgName>
+                                <orgName type="institution" key="instit2">Atomic Energy Authority (AEA)</orgName>
+                                <address>
+                                    <settlement>Nasr City</settlement>
+                                    <country key="EG">Egypt</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Afify</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">National Center for Radiation Research and Technology</orgName>
+                                <orgName type="institution" key="instit2">Atomic Energy Authority (AEA)</orgName>
+                                <address>
+                                    <settlement>Nasr City</settlement>
+                                    <country key="EG">Egypt</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <surname>Bekhit</surname>
+                            </persName>
+							<contact>
+							<email>mohammed_bakhit2006@yahoo.com</email>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">National Center for Radiation Research and Technology</orgName>
+                                <orgName type="institution" key="instit2">Atomic Energy Authority (AEA)</orgName>
+                                <address>
+                                    <settlement>Nasr City</settlement>
+                                    <country key="EG">Egypt</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Preparation of Cadmium Sulfide/Polystyrene Nanocomposites Films Using Gamma Irradiation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Nanocomposites</term>
+                    <term>CdS nanoparticles</term>
+                    <term>CTAB</term>
+                    <term>gamma radiation</term>
+                    <term>Photoluminces</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In the present study we have synthesized Cadmium Sulfide/Cetyltrimethylammonium bromide (CdS/CTAB) nanoparticles by the gamma ray irradiation method and then embedded in polystyrene polymer with different concentration (2, 5 and 10 wt%) forming CdS/PS nanocomposites using solution casting method. The as-prepared CdS/CTAB nanoparticles and CdS/PS nanocomposites were characterized by X-ray diffraction (XRD), Fourier transform infrared spectroscope (FTIR), ultraviolet/visible (UV/Vis) absorption, high resolution scanning electron microscopy (HRSEM) and thermogravimetric analysis (TGA). The XRD results indicated the formation of CdS nanoparticles with hexagonal phase. FTIR data suggesting interaction of the alkyl ammonium head group of CTAB with the CdS nanoparticle surface. UV–vis spectroscopy revealed that the CdS/PS nanocomposites films showed quantum confinement effect. The TGA results showed incorporation of CdS nanoparticles significantly enhance the thermal properties of PS matrix. The photoluminescence spectra of CdS/PS nanocomposites films show two emission bands arising from the presence of CdS nanoparticles.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

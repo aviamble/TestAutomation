@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:20+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title: The complete mitochondrial genome of Rhinoceros hornbill (Bucerotiformes: Bucerotidae)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Yanhong</forename>
+                                <surname>Lan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Microbiology and Metabolic Engineering of Key Laboratory of Sichuan Province</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Sichuan University</orgName>
+                                <address>
+                                    <postCode>610065</postCode>
+                                    <settlement>Chengdu</settlement>
+                                    <region>Sichuan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mengjia</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Microbiology and Metabolic Engineering of Key Laboratory of Sichuan Province</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Sichuan University</orgName>
+                                <address>
+                                    <postCode>610065</postCode>
+                                    <settlement>Chengdu</settlement>
+                                    <region>Sichuan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yi</forename>
+                                <surname>Cao</surname>
+                            </persName>
+							<contact>
+                                <email>geneium@scu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Microbiology and Metabolic Engineering of Key Laboratory of Sichuan Province</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Sichuan University</orgName>
+                                <address>
+                                    <postCode>610065</postCode>
+                                    <settlement>Chengdu</settlement>
+                                    <region>Sichuan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Title: The complete mitochondrial genome of Rhinoceros hornbill (Bucerotiformes: Bucerotidae)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Rhinoceros hornbill ·Mitochondrial genome ·Protein-coding genes Keywords Rhinoceros hornbill · Mitochondrial genome · Protein-coding genes</keywords>
+            </textClass>
+            <abstract>
+                <p>The Rhinoceros hornbill has been listed in the International Union for Conservation of Nature (IUCN) Red List of Threatened Species due to population decline and habitat loss. Mitochondrial genome sequence is informative and very useful for systematics and conservation biology studies. Here we first reported the complete mitochondrial genome sequence of R. hornbill by next-generation sequencing (NGS). The complete mitochondrial genome sequence of R. hornbill was 17,390 bp in length and contained 13 protein-coding genes (PGCs), 2 ribosomal RNA (rRNA) genes, 22 transfer RNA genes, and 1 control region (D-loop). The overall nucleotide composition of this mitochondrial genome was 32.02% A, 23.42% T, 31.89% C, and 13.80% G, respectively, and the percentage of G+C content was 45.69%. This result provided new molecular biology information to further understand the genetic diversity of the R. hornbill, which will help to protect this population.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

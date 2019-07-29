@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:09+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Evaluating Service Criteria of Urban Streets in Developing Countries based on Road Users&apos; Perception</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Suprava</forename>
+                                <surname>Jena</surname>
+                            </persName>
+                            <contact>
+                                <email>suprava728@gmail.com</email>
+                                <phone>+91-8984585857</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Civil Engineering</orgName>
+                                <orgName type="institution">National Institute of Technology Rourkela</orgName>
+                                <address>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Priyanka</forename>
+                                <surname>Atmakuri</surname>
+                            </persName>
+                            <contact>
+                                <email>priyanka.atmakuri@gmail.com</email>
+                                <phone>+91-8985021263</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Civil Engineering</orgName>
+                                <orgName type="institution">Indian Institute of Technology Madras</orgName>
+                                <address>
+                                    <postCode>600036</postCode>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">P.</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Bhuyan</surname>
+                            </persName>
+						 <contact>
+                            <email>pkbtrans@gmail.com</email>
+                            <phone>+91-661-2462313</phone>
+                        </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Civil Engineering</orgName>
+                                <orgName type="institution">National Institute of Technology Rourkela</orgName>
+                                <address>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                       
+                        <title level="a" type="main">Evaluating Service Criteria of Urban Streets in Developing Countries based on Road Users&apos; Perception</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Level of service</term>
+                    <term>Road user perception</term>
+                    <term>Factor analysis</term>
+                    <term>Multiple linear regression</term>
+                    <term>k-means clustering 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The objective of this research is to develop a model that can be used to assess Level of Service (LOS) delivered by urban street segments in developing countries. An innovative survey questionnaire was developed taking 33 questions related to the Quality of Service (QOS) attributes affecting road user&apos;s satisfaction under mixed traffic flow condition. A road user&apos;s satisfaction survey was carried out, in which participants were requested to assess the QOS attributes and Overall Satisfaction (OS) on a seven-point Likert scale ranging from strongly disagree to strongly agree. The 33 responses were summarized into eight uncorrelated sets of variables using factor analysis. A Kaiser-Meyer-Olkin value of 0.836 indicates that the sample size is suitable for factor analysis. The model was developed using multiple linear regression analysis to predict the OS of urban street taking eight principal components as independent variables. The prediction performance of the developed model and significance of the input data sets were statistically checked. An R 2 value of 0.709 and adjusted R 2 value of 0.683 signifies the suitability of the model for its universal application. The predicted OS scores are classified into six categories by applying k-means clustering to assign the threshold values for six LOS classes. Most of the road segments were found out with provided service categories &quot; C &quot; or below. Hence necessary actions should be undertaken by the transportation authorities to achieve higher LOS scores. Land transport is the most important way of transportation because of coverage area. At the same time, managing the road network is turning out to be progressively challenging as demands increase and resources are limited. Emerging countries like India have highly heterogeneous traffic comprising of different vehicles of diverse operational features, which frequently leads to chaotic traffic growth and overcrowdings of traffic flow. To reduce these kind of problems, and to support appropriate traffic management Highway Capacity Manual (HCM), and several other handbooks were suggested level-of-service (LOS) analysis procedures to evaluate road and traffic condition, to recognize the necessities and allocate funds for future implementation. These guidelines help in quantitative estimation of service quality using measure of effectiveness (MOE) like speed, delay, number of stops per mile and presence of left turn lane to assess the performance of transportation infrastructure and to make investment decisions [5,11]. However, the LOS criteria in the current version of those guidelines are grounded on the basis of perception survey in which Overall Satisfaction (OS) of road user&apos;s for provided road facilities are taken in to consideration. But the road users&apos; opinion about constituting transportation facilities (such as pavement condition, geometrical features, signs and marking, cleanliness and aesthetics etc.) was neglected. A proposed new LOS criteria based on user perceptions regarding individual contributing aspects of transportation facility would be more credible than those based on overall satisfaction for any mode of transport. In contrast, majority of the general population utilizes both private and public modes of transport as per their necessity. Design and construction of infrastructure for the sustenance of one mode may adversely affect the operational enactment of alternative modes. Researchers from developed countries like USA have contributed significantly for the development of methodology to assess LOS using perception data. But in India, researchers have contributed very little for such research. This research has taken into considerations of all the qualitative measures of road transport, inconsistency as well as complications of human perception from a multimodal perspective. Hence the objective of this study is to derive a suitable method which shows the combined effect of several attributes of a transportation facility (urban street) to estimate road user&apos;s satisfaction level from a multimodal perspective in developing countries. To evaluate the road users&apos; satisfaction level, this paper is structured into several parts. The first part consists of investigating prominent factors of the transportation system that affects the satisfaction level of the road users on urban street segment. Then an innovative questionnaire having two main sections was developed. In the first section demographic information of the participants were included, so that the diversity in respondent&apos;s opinion according to their age group, gender, educational level, income level etc. could be confirmed. The next part consists of</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

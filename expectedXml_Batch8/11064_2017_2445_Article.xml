@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:51+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Protective effects of fisetin against 6-OHDA-induced apoptosis by activation of PI3K-Akt signaling in human neuroblastoma SH-SY5Y cells</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Ryoko</forename>
+                                <surname>Watanabe</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Laboratory of Pathobiochemistry</orgName>
+                                <orgName type="institution">Osaka University of Pharmaceutical Sciences</orgName>
+                                <address>
+                                    <addrLine>4-20-1 Nasahara</addrLine>
+                                    <postCode>569-1094</postCode>
+                                    <settlement>Takatsuki</settlement>
+                                    <region>Osaka</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Takumi</forename>
+                                <surname>Kurose</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Laboratory of Pathobiochemistry</orgName>
+                                <orgName type="institution">Osaka University of Pharmaceutical Sciences</orgName>
+                                <address>
+                                    <addrLine>4-20-1 Nasahara</addrLine>
+                                    <postCode>569-1094</postCode>
+                                    <settlement>Takatsuki</settlement>
+                                    <region>Osaka</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuta</forename>
+                                <surname>Morishige</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Laboratory of Biodefense and Regulation</orgName>
+                                <orgName type="institution">Osaka University of Pharmaceutical Sciences</orgName>
+                                <address>
+                                    <addrLine>4-20-1 Nasahara</addrLine>
+                                    <postCode>569-1094</postCode>
+                                    <settlement>Takatsuki</settlement>
+                                    <region>Osaka</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff4">
+                                <address>
+									<orgName type="institution">Research Institute of Tuberculosis</orgName>
+                                    <addrLine>3-1-24 Matsuyama, Kiyose</addrLine>
+                                    <postCode>204-8533</postCode>
+									<settlement>Tokyo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ko</forename>
+                                <surname>Fujimori</surname>
+                            </persName>
+                            <contact>
+                                <email>fujimori@gly.oups.ac.jp</email>
+                                <phone>+81-72-690-1215</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Laboratory of Pathobiochemistry</orgName>
+                                <orgName type="institution">Osaka University of Pharmaceutical Sciences</orgName>
+                                <address>
+                                    <addrLine>4-20-1 Nasahara</addrLine>
+                                    <postCode>569-1094</postCode>
+                                    <settlement>Takatsuki</settlement>
+                                    <region>Osaka</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff3">
+                                <orgName type="department">Laboratory of Pathobiochemistry</orgName>
+                                <orgName type="institution">Osaka University of Pharmaceutical Sciences</orgName>
+                                <address>
+                                    <addrLine>4-20-1 Nasahara</addrLine>
+                                    <postCode>569-1094</postCode>
+									<settlement>Takatsuki</settlement>
+                                    <region>Osaka</region>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Protective effects of fisetin against 6-OHDA-induced apoptosis by activation of PI3K-Akt signaling in human neuroblastoma SH-SY5Y cells</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*To whom correspondence should be addressed; 1 Present address; Abbreviations PD, Parkinson&apos;s disease; ROS, reactive oxygen species; 6-OHDA, 6-hydroxydopamine ; fisetin, 3,3&apos;,4&apos;,7-tetrahydroxyflavone; ERK, extracellular signal-regulated kinase; HRP, horseradish peroxidase; DCDFA, 2&apos;,7&apos;-Dichlorofluorescein diacetate; DMEM, Dulbecco&apos;s modified Eagle&apos;s medium; LDH, lactate dehydrogenase; qPCR, quantitative PCR; HO-1, hemeoxygenase-1; NQO1, NAD(P)H dehydrogenase quinone 1; NRF2, NF-E2-related factor 2; GCLM, ?-glutamate-cysteine ligase modifier; PI3K, phosphoinositide 3-kinase; Akti, Akt inhibitor</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

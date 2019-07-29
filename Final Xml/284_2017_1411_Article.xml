@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T05:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Secondary Metabolites and Their Biological Activity from Aspergillus aculeatus KKU–CT2</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Natanong</forename>
+                                <surname>Yodsing</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Microbiology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Khon Kaen University</orgName>
+                                <address>
+                                    <postCode>40002</postCode>
+                                    <settlement>Khon Kaen</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Graduate School</orgName>
+                                <orgName type="institution">Khon Kaen University</orgName>
+                                <address>
+                                    <postCode>40002</postCode>
+									<settlement>Khon Kaen</settlement>									
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ratsami</forename>
+                                <surname>Lekphrom</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Natural Products Research Unit</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry, Faculty of Science</orgName>
+                                <orgName type="institution">Khon Kaen University</orgName>
+                                <address>
+                                    <postCode>40002</postCode>
+                                    <settlement>Khon Kaen</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Watchara</forename>
+                                <surname>Sangsopha</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Natural Products Research Unit</orgName>
+                                <orgName type="department" key="dep2">Department of Chemistry, Faculty of Science</orgName>
+                                <orgName type="institution">Khon Kaen University</orgName>
+                                <address>
+                                    <postCode>40002</postCode>
+                                    <settlement>Khon Kaen</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tadanori</forename>
+                                <surname>Aimi</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Faculty of Agriculture</orgName>
+                                <orgName type="institution">Tottori University</orgName>
+                                <address>
+                                    <addrLine>4–101 Koyama–cho Minami</addrLine>
+                                    <postCode>680–8553</postCode>
+									<settlement>Tottori</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Sophon</forename>
+                                <surname>Boonlue</surname>
+                            </persName>
+							<contact>
+								<email>bsopho@kku.ac.th</email>
+							</contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Microbiology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Science</orgName>
+                                <orgName type="institution">Khon Kaen University</orgName>
+                                <address>
+                                    <postCode>40002</postCode>
+                                    <settlement>Khon Kaen</settlement>
+                                    <country key="TH">Thailand</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Secondary Metabolites and Their Biological Activity from Aspergillus aculeatus KKU–CT2</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The bioactive compounds of the fungus Aspergillus aculeatus strain KKU–CT2, have been studied. The crude extracts from this fungus showed good antimicrobial activity against human pathogens, including Gram–positive and Gram–negative bacteria and yeast–like fungi. Its chemical components were isolated and purified by chromatographic methods. The structures of the secondary metabolites were elucidated by spectroscopic methods (IR, 1 H and 13 C NMR). They were identified as ergosterol peroxide (1), secalonic acid D (2), secalonic acid F (3), variecolin (4), variecolactone (5) and ergosterol (6). Compounds 1 and 4–6 are reported for the first time as fungal metabolites from</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

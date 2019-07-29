@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T09:04+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Comparative transcriptome analysis reveals whole-genome duplications and gene selection patterns in cultivated and wild Chrysanthemum species</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">So</forename>
+                                <forename type="middle">Youn</forename>
+                                <surname>Won</surname>
+                            </persName>
+                            <contact>
+                                <email>soyounwon@korea.kr</email>
+                                <phone>+82-63-238-4561</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Genomics Division</orgName>
+                                <orgName type="institution">National Institute of Agricultural Sciences, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>54874</postCode>
+                                    <settlement>Jeonju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Soo-Jin</forename>
+                                <surname>Kwon</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Research Policy Bureau, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>54874</postCode>
+                                    <settlement>Jeonju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tae-Ho</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Genomics Division</orgName>
+                                <orgName type="institution">National Institute of Agricultural Sciences, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>54874</postCode>
+                                    <settlement>Jeonju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jae-A</forename>
+                                <surname>Jung</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Floriculture Research Division</orgName>
+                                <orgName type="institution">National Institute of Horticultural and Herbal Science, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>55365</postCode>
+                                    <settlement>Wanju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jung</forename>
+                                <forename type="middle">Sun</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Genomics Division</orgName>
+                                <orgName type="institution">National Institute of Agricultural Sciences, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>54874</postCode>
+                                    <settlement>Jeonju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sang-Ho</forename>
+                                <surname>Kang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Genomics Division</orgName>
+                                <orgName type="institution">National Institute of Agricultural Sciences, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>54874</postCode>
+                                    <settlement>Jeonju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seong-Han</forename>
+                                <surname>Sohn</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Genomics Division</orgName>
+                                <orgName type="institution">National Institute of Agricultural Sciences, Rural Development Administration</orgName>
+                                <address>
+                                    <postCode>54874</postCode>
+                                    <settlement>Jeonju</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <forename type="middle">Y.</forename>								
+                                <surname>Won</surname>
+                            </persName>
+                        </author>						
+                        <title level="a" type="main">Comparative transcriptome analysis reveals whole-genome duplications and gene selection patterns in cultivated and wild Chrysanthemum species</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Whole-genome duplication</term>
+                    <term>Transcriptome</term>
+                    <term>Asteraceae</term>
+                    <term>Chrysanthemum morifolium</term>
+                    <term>Chrysanthemum boreale Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Plants are unique in that they employ polyploidy (or whole-genome duplication, WGD) as a key process for speciation and evolution. The Chrysanthemum genus is closely associated with hybridization and polyploidization, with Chrysanthemum species exhibiting diverse ploidy levels. The commercially important species, C. morifolium is an allohexaploid plant that is thought to have originated via the hybridization of several Chrysanthemum species, but the genomic and molecular evolutionary mechanisms remain poorly understood. In the present study, we sequenced and compared the transcriptomes of C. morifolium and the wild Korean diploid species, C. boreale. De novo transcriptome assembly revealed 11,318 genes in C. morifolium and 10,961 genes in C. boreale, whose functions were annotated by homology searches. An analysis of synonymous substitution rates (Ks) of paralogous and orthologous genes suggested that the two Chrysanthemum species commonly experienced the Asteraceae paleopolyploidization and recent genome duplication or triplication before the divergence of these species. Intriguingly, C. boreale probably underwent rapid diploidization, with a reduction in chromosome number, whereas C. morifolium maintained the original chromosome number. Analysis of the ratios of non-synonymous to synonymous nucleotide substitutions (Ka/Ks) between orthologous gene pairs indicated that 107 genes experienced positive selection, which may have been crucial for the adaptation, domestication, and speciation of Chrysanthemum.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

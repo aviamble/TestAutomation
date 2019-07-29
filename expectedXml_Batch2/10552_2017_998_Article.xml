@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T07:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Manuscript Title: Rural-Urban Differences in Surgical Treatment, Regional Lymph Node Examination and Survival in Endometrial Cancer Patients</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Whitney</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Zahnd</surname>
+                                <authordegree>MS</authordegree>
+                            </persName>
+                            <contact>
+                                <email>wzahnd@siumed.edu</email>
+								<phone>(217) 545-2428</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Office of Population Science and Policy</orgName>
+                                <orgName type="institution">Southern Illinois University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Katherine</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Hyon</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Obstetrics and Gynecology</orgName>
+                                <orgName type="institution">Southern Illinois University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Paula</forename>
+                                <surname>Diaz-Sylvester</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Obstetrics and Gynecology</orgName>
+                                <orgName type="institution">Southern Illinois University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Center for Clinical Research</orgName>
+                                <orgName type="institution">Southern Illinois University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sonya</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Izadi</surname>
+                                <authordegree>BA</authordegree>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Division of Public Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Department of Surgery</orgName>
+                                <orgName type="institution">Washington University School of Medicine</orgName>
+                                <address>
+                                    <settlement>St. Louis</settlement>
+                                    <region>MO</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Graham</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Colditz</surname>
+                                <authordegree>MD, DrPH</authordegree>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Division of Public Health Sciences</orgName>
+                                <orgName type="department" key="dep2">Department of Surgery</orgName>
+                                <orgName type="institution">Washington University School of Medicine</orgName>
+                                <address>
+                                    <settlement>St. Louis</settlement>
+                                    <region>MO</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Laurent</forename>
+                                <surname>Brard</surname>
+                                <authordegree>MD, PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Obstetrics and Gynecology</orgName>
+                                <orgName type="institution">Southern Illinois University School of Medicine</orgName>
+                                <address>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Simmons Cancer Institute at SIU</orgName>
+                                <address>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+							</affiliation>								
+						</author>
+						<author>
+							<affiliation>
+                                <address>
+                                    <addrLine>201 E. Madison St Rm. 235</addrLine>
+									<postbox>PO Box 19664</postbox>
+                                    <postCode>62794-9664</postCode>
+                                    <settlement>Springfield</settlement>
+                                    <region>IL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Manuscript Title: Rural-Urban Differences in Surgical Treatment, Regional Lymph Node Examination and Survival in Endometrial Cancer Patients</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Correspondence: Acknowledgements: Research reported in this manuscript was supported by the National Cancer Institute (NCI) of the National Institutes of Health (NIH) under award number P20CA192987 (Dr. Laurent Brard) and P20CA192966 (Ms. Sonya Izadi and Dr. Graham Colditz).</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Purpose: Endometrial cancer (EC) is the most common gynecological malignancy and one of few cancers with an increasing US mortality rate. Rural patients may have less access to specialty care affecting their receipt of surgery and adequate lymphadenectomy (AL). We sought to assess rural-urban differences in EC surgery, lymphadenectomy and survival.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

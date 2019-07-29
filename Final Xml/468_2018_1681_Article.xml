@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-05T06:24+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Editor&apos;s Highlight for TSAF D-17-00396 Carbon and oxygen isotopes in tree rings – climate signals and microsite effects</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Arthur</forename>
+                                <surname>Gessler</surname>
+                            </persName>
+                            <contact>
+                                <email>arthur.gessler@wsl.ch</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Dynamics</orgName>
+                                <orgName type="institution">Swiss Federal Research Institute WSL</orgName>
+                                <address>
+                                    <settlement>Birmensdorf</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Terrestrial Ecosystems</orgName>
+                                <orgName type="institution">ETH Zurich</orgName>
+                                <address>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Editor&apos;s Highlight for TSAF D-17-00396 Carbon and oxygen isotopes in tree rings – climate signals and microsite effects</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Author statement: AG has written the manuscript and done all other analyses related to the manuscript Key message Isotopes are important proxies in tree rings but microsite differences are often not taken into account. Esper et al. (2018) assessed microsite differences contributing to the understanding of local drivers. Carbon and oxygen isotopes are important proxies in tree ring archives that allow the reconstruction of the past climate (e.g. Kress et al., 2010; Treydte et al., 2006) as well as to</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>retrospectively assess tree responses towards climatic drivers (e.g. Jansen et al., 2013). Stable isotopes analyses complement the assessment of more classical tree ring parameters such as tree ring width or maximum latewood density and might be more closely linked to tree physiology (c.f. Gessler et al., 2014) compared to the growth-related patterns. However, the exact physiological signal that is conveyed by tree ring isotopes is difficult to be straightforwardly disentangled. Whilst the fractionation mechanisms during photosynthesis that lead to the carbon isotopic signature (d 13 C) of new assimilates are well understood (Farquhar et al., 1982), post-carboxylation discrimination and mixing of various carbon pools might partially uncouple tree ring d 13 C information from photosynthesis and its climatic drivers (Offermann et al., 2011; Tcherkez et al., 2007). For the oxygen isotope composition (d 18 O) of tree rings, the situation is even more complex: On the one hand variations in d 18 O of the source water taken up by the tree can contain climatic information since air temperature and water vapor pressure amongst other parameters affect precipitation d 18 O (Araguás-Araguás et al., 2000). On the other hand, local differences in water access (e.g. river water, ground water) can influence the source water d 18 O causing differences not necessarily directly related to climate or weather. Moreover, not only the source water isotopic composition but also evaporative oxygen isotope enrichment of leaf water is imprinted on the organic matter produced during photosynthesis (Barbour, 2007) and the enrichment is affected by climate (e.g. VPD) as well as by tree physiological processes (e.g. stomatal response and transpiration). If that were not complex enough, various downstream fractionation steps and oxygen atom exchange between tissue water and organic matter occur and their impact on the tree ring d 18 O might not be constant but variable with environmental divers and physiological processes (Song et al., 2014; Sternberg and Ellsworth, 2011). In conclusion, subtle interactions between climate and tree responses but also site-specific conditions (e.g. access to different water sources) might affect the isotope signals in tree ring series complicating climate reconstructions based on d 13 C and d 18 O. Esper et al. (2018, this issue) took into account potential microsite differences as they not only chose a strong latitudinal gradient in Sweden (Kiruna, north of the polar circle vs. Stockholm) but also collected at both locations tree rings from Pinus sylvestris that grew directly at a lakeshore and trees up to 30 meters upslope with no accesses to lake and phreatic water. The authors could show that – even though there were significant correlations between all stable isotope microsite chronologies – the moist microsites (at the lakeshore) recorded climate signals more intensively than the drier microsites. Access to lake water also lead to a 13 C depletion of approx. 1 ‰ most probably due to higher stomatal conductance compared to the drier site whilst d 18 O was not affected by microsite condition. The results indicate that on the one hand, tree rings from moist microsite habitats might provide advantages for climate reconstructions. On the other hand, they show that it should be avoided to mix moist and dry</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

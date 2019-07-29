@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:48+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Introgressive hybridization between the Atlantic and Pacific herring (Clupea harengus and C. pallasii) in the White Sea, Barents and Kara Seas evidenced by microsatellites</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Anna</forename>
+                                <forename type="middle">V.</forename>
+                                <surname>Semenova</surname>
+                            </persName>
+                            <contact>
+                                <email>anna.semenova@mail.bio.msu.ru</email>
+                                <phone>+7 495 939-13-33</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Ichthyology</orgName>
+                                <orgName type="department" key="dep2">Biological Faculty</orgName>
+                                <orgName type="institution">Lomonosov Moscow State University</orgName>
+                                <address>
+                                    <addrLine>Leninskie Gory 1(12)</addrLine>
+                                    <postCode>119991</postCode>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andrey</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Stroganov</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Ichthyology</orgName>
+                                <orgName type="department" key="dep2">Biological Faculty</orgName>
+                                <orgName type="institution">Lomonosov Moscow State University</orgName>
+                                <address>
+                                    <addrLine>Leninskie Gory 1(12)</addrLine>
+                                    <postCode>119991</postCode>
+                                    <settlement>Moscow</settlement>
+                                    <country key="RU">Russia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Introgressive hybridization between the Atlantic and Pacific herring (Clupea harengus and C. pallasii) in the White Sea, Barents and Kara Seas evidenced by microsatellites</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Clupea harengus Clupea pallasii Introgressive hybridization Microsatellites Bayesian admixture analysis Introduction</keywords>
+            </textClass>
+            <abstract>
+                <p>In the North of Europe two sister species of herring—the Atlantic C. harengus and Pacific C. pallasii have post-glacially come into secondary contact. Although the breeding areas of the two species are thought to be separate, previous genetic studies based on allozyme and mitochondrial DNA data have supported the existence of introgression from the Atlantic herring to the Pacific herring. In this study, we employed microsatellite markers to explore the extent of introgressive hybridization between these fishes. Bayesian methods for assigning individuals to populations and identifying admixture proportions were applied to the genetic data based on 10 microsatellites. Results indicated that 18 out of 464 Pacific herring (3.88%) were likely admixed. Some of the hybrid individuals contained genotypes suggesting that introgressive hybridization is an ongoing process. Despite some admixture, the Atlantic and Pacific herring gene pools remain sharply distinct (the average proportions of membership to &quot; Atlantic &quot; and &quot; Pacific &quot; clusters were Q A = 0.998 and Q P = 0.974, respectively), suggesting that hybridization was not frequent. The discovery of introgression among herring species opens new questions about the mechanisms underlying the observed pattern of genetic population differentiation in the North European Pacific herring.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

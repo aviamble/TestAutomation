@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:06+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Applying incremental sampling methodology to soils containing heterogeneously distributed metallic residues to improve risk analysis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Clausen</surname>
+                            </persName>
+                            <contact>
+                                <email>jay.l.clausen@usace.army.mil</email>
+                                <phone>603-646-4597</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Engineer Research Development Center</orgName>
+                                <orgName type="department" key="dep2">Cold Regions Research and Engineering Laboratory</orgName>
+                                <orgName type="institution">U.S. Army Corps of Engineers</orgName>
+                                <address>
+                                    <addrLine>72 Lyme Road</addrLine>
+                                    <postCode>03755</postCode>
+                                    <settlement>Hanover</settlement>
+                                    <region>NH</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <surname>Georgian</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">U.S. Army Corps of Engineers</orgName>
+                                <address>
+                                    <addrLine>1616 Capitol Avenue</addrLine>
+									<settlement>Omaha</settlement>
+                                    <postCode>68102</postCode>
+                                    <region>NE</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Gardner</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Civil and Environmental Engineering</orgName>
+                                <orgName type="institution">University of New Hampshire</orgName>
+                                <address>
+									<settlement>Durham</settlement>
+                                    <postCode>03824</postCode>
+									<region>NH</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Douglas</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Engineer Research Development Center, Cold Regions Research and Engineering Laboratory</orgName>
+                                <orgName type="institution">U.S. Army Corps of Engineers</orgName>
+                                <address>
+									<addrLine>Building 4070</addrLine>
+                                    <postCode>99703</postCode>
+									<settlement>Fort Wainwringt</settlement>
+									<region>AK</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Applying incremental sampling methodology to soils containing heterogeneously distributed metallic residues to improve risk analysis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>soil sampling</term>
+                    <term>spatial statistical analysis</term>
+                    <term>heterogeneity</term>
+                    <term>metallic residue</term>
+                    <term>small-arms range</term>
+                    <term>upper confidence limit</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>This study compares conventional grab sampling to incremental sampling methodology (ISM) to characterize metal contamination at a military small-arms-range. Grab sample results had large variances, positively skewed non-normal distributions, extreme outliers, and poor agreement between duplicate samples even when samples were co-located within tens of centimeters of each other. The extreme outliers strongly influenced the grab sample means for the primary contaminants lead (Pb) and antinomy (Sb). In contrast, median and mean metal concentrations were similar for the ISM samples. ISM significantly reduced measurement uncertainty of estimates of the mean, increasing data quality (e.g., for environmental risk assessments) with fewer samples (e.g., decreasing total project costs). Based on Monte Carlo resampling simulations, grab sampling resulted in highly variable means and upper confidence limits of the mean relative to ISM. There have been no previous studies comparing conventional grab and incremental sampling methodology (ISM) for metal contaminants from the same military small-arms range (SAR) despite the increasing applicability of ISM to characterize environmental loading of contaminants at a variety of sites (Hadley and Mueller 2012; ITRC 2012; Brewer et al. 2016a,b; Wroble et al. 2017). Studies on sampling of military sites with heterogeneous distribution of energetics has shown the ISM approach yields higher quality data representative of site conditions (Jenkins et al. 2001, 2005a; Hewitt et al. 2005, 2009; Walsh et al. 2005). This manuscript addresses this data gap by applying both sampling procedures to surface soil sampling at a site where heterogeneous distributions of metallic residues are expected. Characterization of surface soils for environmental purposes typically uses conventional grab sampling conducted in a judgmental (e.g., biased) or random manner (USEPA 1995). Research has shown energetic residues released into the environment occur as particulates distributed in a heterogeneous manner (Jenkins et al. 2001, 2005a; Hewitt et</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

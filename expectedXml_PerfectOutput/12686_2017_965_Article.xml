@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T10:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Characterization and phylogenetic analysis of the chloroplast genome of Lupinus westianus, a endemic species to Florida, United States</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Xu</forename>
+                                <surname>Zhenggang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Hunan Research Center of Engineering Technology for Utilization of Environmental and Resources Plant</orgName>
+                                <orgName type="institution">Central South University of Forestry and Technology</orgName>
+                                <address>
+                                    <postCode>410004</postCode>
+                                    <settlement>Changsha</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Chemical and Material Engineering</orgName>
+                                <orgName type="institution">Hunan City University</orgName>
+                                <address>
+                                    <postCode>413000</postCode>
+                                    <settlement>Yiyang</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhao</forename>
+                                <surname>Yunlin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Hunan Research Center of Engineering Technology for Utilization of Environmental and Resources Plant</orgName>
+                                <orgName type="institution">Central South University of Forestry and Technology</orgName>
+                                <address>
+                                    <postCode>410004</postCode>
+                                    <settlement>Changsha</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dong</forename>
+                                <surname>Meng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Hunan Research Center of Engineering Technology for Utilization of Environmental and Resources Plant</orgName>
+                                <orgName type="institution">Central South University of Forestry and Technology</orgName>
+                                <address>
+                                    <postCode>410004</postCode>
+                                    <settlement>Changsha</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Chemical and Material Engineering</orgName>
+                                <orgName type="institution">Hunan City University</orgName>
+                                <address>
+                                    <postCode>413000</postCode>
+                                    <settlement>Yiyang</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dong</forename>
+                                <surname>Chaojie</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Chemical and Material Engineering</orgName>
+                                <orgName type="institution">Hunan City University</orgName>
+                                <address>
+                                    <postCode>413000</postCode>
+                                    <settlement>Yiyang</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xue</forename>
+                                <surname>Yun</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Chemical and Material Engineering</orgName>
+                                <orgName type="institution">Hunan City University</orgName>
+                                <address>
+                                    <postCode>413000</postCode>
+                                    <settlement>Yiyang</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yang</forename>
+                                <surname>Guiyan</surname>
+                            </persName>
+                            <contact>
+                                <email>yangguiyan@yahoo.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Hunan Research Center of Engineering Technology for Utilization of Environmental and Resources Plant</orgName>
+                                <orgName type="institution">Central South University of Forestry and Technology</orgName>
+                                <address>
+                                    <postCode>410004</postCode>
+                                    <settlement>Changsha</settlement>
+                                    <region>Hunan</region>
+                                    <country key="CN">P.R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Foresty</orgName>
+                                <orgName type="institution">Northwest A&amp;F University</orgName>
+                                <address>
+                                    <postCode>712100</postCode>
+                                    <settlement>Yangling</settlement>
+                                    <region>Shaanxi</region>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Characterization and phylogenetic analysis of the chloroplast genome of Lupinus westianus, a endemic species to Florida, United States</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Title page Word count: 608 words</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

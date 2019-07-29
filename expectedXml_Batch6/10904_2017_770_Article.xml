@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T10:42+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Water soluble Schiff base functinalized Fe 3 O 4 magnetic nano-particles as a novel adsorbent for removal of Pb(II) and Cu(II) metal ions from aqueous solutions</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Moslem</forename>
+                                <surname>Setoodehkhah</surname>
+                            </persName>
+                            <contact>
+                                <email>setoodehkhah@kashanu.ac.ir</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Inorganic Chemistry</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">University of Kashan</orgName>
+                                <address>
+                                    <settlement>Kashn</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Soroush</forename>
+                                <surname>Momeni</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Inorganic Chemistry</orgName>
+                                <orgName type="department" key="dep2">Faculty of Chemistry</orgName>
+                                <orgName type="institution">University of Kashan</orgName>
+                                <address>
+                                    <settlement>Kashn</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Water soluble Schiff base functinalized Fe 3 O 4 magnetic nano-particles as a novel adsorbent for removal of Pb(II) and Cu(II) metal ions from aqueous solutions</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Schiff base</term>
+                    <term>water soluble</term>
+                    <term>magnetic nano-adsorbent</term>
+                    <term>metal ions</term>
+                    <term>Magnetite nano-particles</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Acknowledgements The authors are grateful to University of Kashan for supporting this work by grant no. 592362. Abstract A novel magnetic core–shell nano-adsorbent, Fe 3 O 4 @SiO 2 /Schiff base, with Fe 3 O 4 spheres as the core and silica Schiff base as the shell, was prepared. Schiff base in this work is a water soluble Schiff base. The surfaces of magnetite nano-particles were successfully modified by the suitable deposition of silica onto the nano-particle surface. Next, nano-composite surface was functionalized with –NH 2 groups by 3-amino propyl triethoxy silane (APTES). In the next step, a water-soluble aldehyde (sodium salicylaldehyde-5-sulfonate) was synthesized and characterized. Water-soluble schiff-base supported on the coated magnetite was synthesized by the condensation reaction between the-NH 2 groups of functionalized MNPs and carbonyl group of aldehyde. Nano-composite was characterized by Fourier transform infrared (FT-IR) spectroscopy, X-ray diffraction (XRD), scanning electron microscopy (SEM), transmission electron microscopy (TEM), vibrating sample magnetometry (VSM) and Thermo-gravimetric analysis (TGA). This nano-composite showed a high adsorption capacity for the removal of Pb(II) and Cu(II) metal ions from the aqueous solutions. The experimental data for the adsorption of Pb (II) and Cu(II) were found to follow the Langmuir isotherm and the maximum adsorption capacity were obtained 142.86 mg g-1 (0.69 mmol g-1) and 55.56 mg g-1 (0.87 mmol g-1) for pb(II) and Cu(II) metal ions respectively at pH 5. Noticeably, because the surface of MNPs has been functionalized by a water-soluble Schiff base, the nano-adsorbent dispersed easily without using the shaker or ultrasonic.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

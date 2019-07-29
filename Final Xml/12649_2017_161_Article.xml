@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Use of Municipal Solid Waste (MSW)-derived Hydrogen in Ecuador: Potential Applications for Urban Transportation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">F.</forename>
+                                <surname>Posso</surname>
+                            </persName>
+							<contact>
+                              <phone>(57) 3016696647</phone>
+                            <email>directormgcti@udes.edu.co</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Universidad de Santander</orgName>
+                                <address>
+                                    <addrLine>Calle 70 N° 55-210</addrLine>
+                                    <settlement>Bucaramanga</settlement>
+                                    <country key="CO">Colombia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ricardo</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Narváez C.</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Instituto Nacional de Eficiencia Energética y Energías Renovables (INER)</orgName>
+                                <address>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Universidad de Cuenca</orgName>
+                                <address>
+                                    <addrLine>Av. 12 de Abril y Agustín Cueva.</addrLine>
+									<settlement>Cuenca</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <author>
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <surname>Siguencia</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Facultad de Ingeniería Química</orgName>
+                                <orgName type="institution">Universidad Central del Ecuador</orgName>
+                                <address>
+                                    <region>Quito</region>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <surname>Sánchez</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Facultad de Ingeniería Química</orgName>
+                                <orgName type="institution">Universidad Central del Ecuador</orgName>
+                                <address>
+                                    <region>Quito</region>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Use of Municipal Solid Waste (MSW)-derived Hydrogen in Ecuador: Potential Applications for Urban Transportation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Abbreviations MSW: Municipal Solid Waste H 2 : Hydrogen GHG: Green-House Gases WTE: Waste-To-Energy t/year: tons per year LPG: Liquefied Petroleum Gas kBOE: Equivalent Oil Barrel x 10 3 MMBOE: Millions of Equivalent Oil Barrels MW: Watts x 10 6 TJ: 10 12 Joule x 10 12 MMbbl: Barrels x 10 6 BBstdm 3 : Cubic decimeters standard x 10 6 Wh/m 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>municipal solid waste</term>
+                    <term>thermochemical conversion</term>
+                    <term>H 2 production</term>
+                    <term>sustainable transportation</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>This paper performs an assessment of the potential energy-purposed H 2 production in Ecuador from municipal solid waste (MSW). Thermochemical and electrochemical paths are considered for MSW conversion. Ecuadorian provincial MSW distribution (2016 data) provides the base information for assessing and constructing maps of the theoretical H 2 production yield and its density per unit area. Additionally, the use of H 2 in fuel cell-propelled urban public transportation is proposed as an end-use consumer. Results show that it is possible to fulfil urban public transportation energy demand in 91% of the country with MSW-derived H 2 ; in fact, the three provinces that together generate 57% of the available MSW (Guayas, Pichincha, and Azuay) could satisfy their public transportation diesel fuel demand with MSW-derived hydrogen. In the case of these three provinces, H 2 generation could replace by 2.57 times (on average) the local urban transportation diesel fuel demand. Finally, a possible scenario for a non-conventional H 2 production path is shown, which could also represent a suitable MSW final disposal alternative with benefits to urban mobility. day: Watt-hour per square meter, per day MWh/year: Watt-hour x 10 6 per year LHV: Low Heating Value HHV: High Heating Value MJ/t: Joule x 10 6 , per ton STE: Spilled Turbinable Energy GWSR: Gasification combined With Steam Reforming GWE: Gasification combined With Electrolysis PV solar: Photo-voltaic solar energy 1. Introduction The sustained growth in municipal solid waste (MSW) generation caused by urban populations is putting pressure on the current final disposal methods and increasing costs. The issue is also recognised as a pollution source, since dump yards, landfilling, and incineration (common disposal methods in developing countries) can affect nearby water and air quality, and contribute to greenhouse gas (GHG) emissions. These factors, in turn, can affect the health and quality of life of those populations and ecosystems located in the vicinity of MSW handling and disposal centres [1]. It is estimated that the current situation will continue to worsen, since the 4.3 billion urban inhabitants projected by 2025 could generate around 2.2 billion tons of MSW per year – double the 2012 output [2]. Now recognised as a global problem; sustainable MSW disposal has attracted considerable attention, as governments, research centres, and environmental and non-governmental organisations search for permanent and practical solutions. In this context, using MSW as a primary energy source is an attractive alternative based on the concept of Waste-to-Energy (WTE), as described [3, 4] below. Among possible energy vectors, hydrogen (H 2) stands out due to its advantageous energy properties and its suitability for application in various production sectors, and across a wide range of technologies [5]. To this end, the conversion of prime matter MSW into an H 2 energy vector could be achieved by thermochemical or biochemical processes. In the first case, gasification appears to be the most highly-developed process [6-11], especially considering the availability of commercial-scale technology able to effect this conversion in large volumes [12]. In the second case, anaerobic digestion [13-16] and dark fermentation [17-21] are attractive potential biochemical paths for H 2 generation. Indepent of the technological means of MSW-to-H 2 production, the evaluation of any potential project based on this energy vector requires information about the estimated amount of H 2 obtainable over a specific period within a given geographical area. Such information, even if only preliminary, is required to assess the feasibility of any WTE project, or any other initiative aimed at supplying H 2 for a chemical or petrochemical application on an industrial scale. Nevertheless, a literature review of this H 2 production path found no data related to its theoretical yield. One of the few published assessments estimates the potential H 2 production from renewable energy sources in the United States. This research considered various sources of residual biomass, landfill gas, and municipal wastewater, but did not include MSW [22]. It bears mentioning that MSW is partially formed by matter that can be considered residual biomass or &quot; bio-waste &quot; (for example, kitchen scraps, yard waste, and even wood) [23]. Another study also performed in the United States considers biogas obtained from industrial biomass waste and municipal wastewater as prime matter for H 2 production, with a projected potential of 300,000 t/year; however this paper also omits MSW [24]. With respect to the case of Ecuador, in particular, it should be noted that the country is currently implementing a significant shift in its energy mix; increasing the share of renewable energy over a medium-term time horizon. Residual biomass plays an important role of this process, due to its significant potential energy output and its transformability into multiple energy vectors. The energy and storage characteristics of H 2 also make it an attractive choice for transportation applications, among other possible end uses. Based on the literature review, it is evident that much work remains to be done on the subject of MSW-derived H 2 potential; a finding also noted in other studies reviewed [25-26]. The current paper aims to contribute to this research niche, estimating the theoretical amount of H 2 obtainable from Ecuador&apos;s MSW. This research also analyses the specific case of replacing diesel fuel in urban transportation, using data organized by internal political regions. It should be mentioned that MSW gasification and related H 2 use in transportation have been previously assessed and compared against other waste management alternatives in the United States, thus, the possibility of effectively combining this source and end use has already been established in the literature [10]. Although other proposals include the use of obtained H 2 to synthesize alternate fuels, [27-29], the direct use of H 2 in fuel cells offers advantages in terms of the energy yield of the entire conversion process [30]. As such, the current work analyses the use of H 2 as a transportation energy vector directly, instead of considering it as a part of a fuel synthesis supply chain. The authors hope that the results of this paper will contribute to the literature regarding MSW use in transportation, as well as serve as a starting point for further studies focused on the Ecuadorian</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

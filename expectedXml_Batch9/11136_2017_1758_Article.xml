@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T07:35+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Physical and Mental Health Status and their Correlations among Older Wheelchair Users with Dementia in Long-term Care Facilities</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Chu-Lin</forename>
+                                <surname>Chang</surname>
+                            </persName>
+                            <contact>
+                                <email>clairechang64@hotmail.com</email>
+                                <phone>886-7-6151100</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Nursing</orgName>
+                                <orgName type="institution">I-Shou University</orgName>
+                                <address>
+                                    <addrLine>8 Yida Rd., Yanchao District</addrLine>
+                                    <postCode>824</postCode>
+                                    <settlement>Kaohsiung</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kuei-Min</forename>
+                                <surname>Chen</surname>
+                            </persName>
+							<contact>
+							<email>kmc@kmu.edu.tw</email>
+							<phone>886-7-3136900</phone>
+							</contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">College of Nursing</orgName>
+                                <orgName type="department" key="dep2">Department of Medical Research</orgName>
+                                <orgName type="institution" key="instit1">Kaohsiung Medical University</orgName>
+                                <orgName type="institution" key="instit2">Kaohsiung Medical University Hospital</orgName>
+                                <address>
+                                    <addrLine>100 Shih-Chuan 1
+                                        <superscript>st</superscript>Rd., Sanmin District
+                                    </addrLine>
+                                    <postCode>80708</postCode>
+                                    <settlement>Kaohsiung</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Physical and Mental Health Status and their Correlations among Older Wheelchair Users with Dementia in Long-term Care Facilities</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Dementia</term>
+                    <term>Long-term care facility</term>
+                    <term>Mental health</term>
+                    <term>Older Adults</term>
+                    <term>Physical health</term>
+                    <term>Wheelchair user Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Purpose To investigate the physical health (daily functioning and functional fitness) and mental health (depression and behavioral dysfunction) of older wheelchair users with dementia in long-term care facilities, examine the correlations between physical and mental health, and identify the independent variables of their daily functioning. Methods A descriptive correlational method was adopted, which was conducted in six long-term care facilities in three cities, south Taiwan. Participants comprised 98 older wheelchair users with dementia. Data were collected using structured questionnaires (Mini-Mental State Examination, Barthel Index, Cornell Scale for Depression in Dementia, and Clifton Assessment Procedures for the Elderly-Behavior Rating Scale) and from functional fitness testing (cardiopulmonary functioning, body flexibility, joint mobility, and muscle strength and endurance). Results Older adults with dementia who had high depression scores were likely to have more behavioral dysfunctions, poorer performance in shoulder flexion and abduction, and lower upper limb muscle strength and endurance. More behavioral dysfunctions were associated with poorer daily functioning, lung capacity, body flexibility, shoulder flexion, and upper limb muscle strength and endurance. Those with better lung capacity, body flexibility, upper limb muscle strength and endurance were likely to have high daily functioning scores (all p &lt; .05). The key independent variables associated with daily functioning were behavioral dysfunction, lower body flexibility, and lung capacity, which together explained 59.3% of the total variance. Conclusions Further research should develop appropriate activity-based intervention programs for older wheelchair users with dementia to delay their deterioration and promote their physical and mental health.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:07+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Palladium-Catalyzed Heck Cross-Coupling Reactions in Water: A Comprehensive Review</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Fadri</forename>
+                                <surname>Christoffel</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution" key="instit1">University of Basel</orgName>
+                                <orgName type="institution" key="instit2"></orgName>
+                                <address>
+                                    <addrLine>BRP Rosental 1096, Mattenstrasse 24a</addrLine>
+                                    <postCode>CH-4058</postCode>
+                                    <settlement>Basel</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Thomas</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Ward</surname>
+                            </persName>
+                            <contact>
+                                <email>thomas.ward@unibas.ch</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution" key="instit1">University of Basel</orgName>
+                                <address>
+                                    <addrLine>BRP Rosental 1096, Mattenstrasse 24a</addrLine>
+                                    <postCode>CH-4058</postCode>
+                                    <settlement>Basel</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Palladium-Catalyzed Heck Cross-Coupling Reactions in Water: A Comprehensive Review</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note type="submission">Received: date / Accepted: date</note>
+                    <note>Catal Lett(2017) manuscript No. (will be inserted by the editor) Graphical Abstract The Heck cross-coupling reaction (HCR hereafter) was discovered independently by T. Mizoroki in 1971 and R. F. Heck in 1972 and is generally referred to as the palladium-</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Cross-coupling · Palladium · Aqueous catalysis · Green chemistry · Heck Mizoroki reaction</keywords>
+            </textClass>
+            <abstract>
+                <p>Palladium-catalyzed cross-coupling reactions have emerged as one of the most versatile tools in organic chemistry. Extensive efforts were made to adapt these reactions to aqueous media, not only for the purpose of environmental conservation but also to expand the scope, increase the efficiency and implement bio-compatible protocols. Among different palladium cross-coupling reactions, the Heck reaction turned out to be the most challenging in an aqueous environment. This led to various original developments in catalyst design. This review summarizes the different approaches pursued to perform Heck reactions in neat water as well as aqueous mixtures. Both, homogeneous and immobilized catalysts, including nanoparticles are presented herein.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

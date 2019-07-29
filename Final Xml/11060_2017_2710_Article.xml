@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:34+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The 2016 revision of the WHO Classification of Central Nervous System Tumours: Retrospective application to a cohort of diffuse gliomas</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Te</forename>
+                                <forename type="middle">Whiti</forename>
+                                <surname>Rogers</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomical Pathology</orgName>
+                                <orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gurvinder</forename>
+                                <surname>Toor</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Katharine</forename>
+                                <surname>Drummond</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">University of Melbourne</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Craig</forename>
+                                <surname>Love</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kathryn</forename>
+                                <surname>Field</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Medical Oncology</orgName>
+                                <orgName type="institution">Peter MacCallum Cancer Centre</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Department of Medicine</orgName>
+                                <orgName type="institution">University of Melbourne</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rebecca</forename>
+                                <surname>Asher</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Co-operative Trials Group for Neuro Oncology</orgName>
+                                <orgName type="institution">NHMRC Trials Centre</orgName>
+                                <address>
+                                    <postCode>2050</postCode>
+                                    <settlement>Camperdown</settlement>
+                                    <region>New South Wales</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alpha</forename>
+                                <surname>Tsui</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomical Pathology</orgName>
+                                <orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <surname>Buckland</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Neuropathology</orgName>
+                                <orgName type="institution">Royal Prince Alfred Hospital</orgName>
+                                <address>
+                                    <postCode>2050</postCode>
+                                    <settlement>Camperdown</settlement>
+                                    <region>New South Wales</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <surname>Gonzales</surname>
+                            </persName>
+                            <contact>
+                                <email>michael.gonzales@mh.org.au</email>
+								<phone>+61 3 9342 8000</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomical Pathology</orgName>
+                                <orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff8">
+                                <orgName type="department">Department of Anatomical Pathology</orgName>
+								<orgName type="institution">Royal Melbourne Hospital</orgName>
+                                <address>
+                                    <postCode>3050</postCode>
+									<settlement>Parkville</settlement>
+                                    <region>Victoria</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The 2016 revision of the WHO Classification of Central Nervous System Tumours: Retrospective application to a cohort of diffuse gliomas</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>glioma</term>
+                    <term>classification</term>
+                    <term>grading</term>
+                    <term>WHO</term>
+                    <term>IDH</term>
+                    <term>1p/19q co-deletion Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The classification of central nervous system tumours has more recently been shaped by a focus on molecular pathology rather than histopathology. We reclassified 82 glial tumours according to the molecular-genetic criteria of the 2016 revision of the World Health Organization (WHO) Classification of Tumours of the Central Nervous System. Initial diagnoses and grading were based on the morphological criteria of the 2007 WHO scheme. Because of the impression of an oligodendroglial component on initial histological assessment, each tumour was tested for co-deletion of chromosomes 1p and 19q and mutations of isocitrate dehydrogenase (IDH-1 and 2) genes. Additionally, expression of proteins encoded by alpha-thalassemia X-linked mental retardation (ATRX) and TP53 genes was assessed by immunohistochemistry. We found that all but two tumours could be assigned to a specific category in the 2016 revision. The most common change in diagnosis was from oligoastrocytoma to specifically astrocytoma or oligodendroglioma. Analysis of progression free survival (PFS) for WHO grade II and III tumours showed that the objective criteria of the 2016 revision separated diffuse gliomas into three distinct molecular categories: chromosome 1p/19q co-deleted/IDH mutant, intact 1p/19q/IDH mutant and IDH wild type. No significant difference in PFS was found when comparing IDH mutant grade II and III tumours suggesting that IDH status is more informative than tumour grade. The segregation into distinct molecular sub-types that is achieved by the 2016 revision provides an objective evidence base for managing patients with grade II and III diffuse gliomas based on prognosis.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

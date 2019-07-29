@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T07:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Enhancement of the thermoelectric performance of CuInTe 2 via SnO 2 in situ replacement</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Weixin</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">The State Key Laboratory of Refractories and Metallurgy</orgName>
+                                <orgName type="institution">Wuhan University of Science and Technology</orgName>
+                                <address>
+                                    <addrLine>No. 947 Heping Avenue</addrLine>
+                                    <postCode>430081</postCode>
+                                    <settlement>Wuhan</settlement>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yubo</forename>
+                                <surname>Luo</surname>
+                            </persName>
+                            <contact>
+                                <email>luoyubo@ntu.edu.sg</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Nanyang Technological University</orgName>
+                                <address>
+                                    <postCode>639798</postCode>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yun</forename>
+                                <surname>Zheng</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Nanyang Technological University</orgName>
+                                <address>
+                                    <postCode>639798</postCode>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chengfeng</forename>
+                                <surname>Du</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Nanyang Technological University</orgName>
+                                <address>
+                                    <postCode>639798</postCode>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qinghua</forename>
+                                <surname>Liang</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Nanyang Technological University</orgName>
+                                <address>
+                                    <postCode>639798</postCode>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Beibei</forename>
+                                <surname>Zhu</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Nanyang Technological University</orgName>
+                                <address>
+                                    <postCode>639798</postCode>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Lei</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <contact>
+                                <email>wustzhao@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">The State Key Laboratory of Refractories and Metallurgy</orgName>
+                                <orgName type="institution">Wuhan University of Science and Technology</orgName>
+                                <address>
+                                    <addrLine>No. 947 Heping Avenue</addrLine>
+                                    <postCode>430081</postCode>
+                                    <settlement>Wuhan</settlement>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Enhancement of the thermoelectric performance of CuInTe 2 via SnO 2 in situ replacement</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The in situ induced nanostructure is employed as an alternative way to enhance the thermoelectric performance of p-type CuInTe 2 based thermoelectric (TE) materials in this work. Dispersive In 2 O 3 nanoparticles are formed in the samples with SnO 2 by virtue of the in situ replacement between SnO 2 and CuInTe 2. As a result, an obvious reduction in the thermal conductivity has been achieved due to the intensive scattering of phonon by the in situ formed In 2 O 3 nanoparticles. In addition, the power factor of CuInTe 2 is less effected by SnO 2 additive. Eventually, an enhanced ZT of 1.1 at 823 K has been achieved for the CuInTe 2-0.5 % SnO 2 sample. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

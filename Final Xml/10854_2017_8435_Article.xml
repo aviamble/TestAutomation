@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T10:24+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Lead-free rare earth-modified (K 0.44 Na 0.52 Li 0.04 )(Nb 0.86 Ta 0.1 Sb 0.04 )O 3 ceramics: Phase structure, electrical and photoluminescence properties</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Yan</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Liaocheng University</orgName>
+                                <address>
+                                    <postCode>252059</postCode>
+                                    <settlement>Liaocheng</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Juan</forename>
+                                <surname>Du</surname>
+                            </persName>
+                            <contact>
+                                <email>dujuanceramics@163.com</email>
+                                <phone>+86 635 8230923.</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Liaocheng University</orgName>
+                                <address>
+                                    <postCode>252059</postCode>
+                                    <settlement>Liaocheng</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaokun</forename>
+                                <surname>Niu</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Editorial Office</orgName>
+                                <orgName type="institution">Shijiazhuang University</orgName>
+                                <address>
+                                    <postCode>050035</postCode>
+                                    <settlement>Shijiazhuang</settlement>
+                                    <region>Hebei</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jigong</forename>
+                                <surname>Hao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Liaocheng University</orgName>
+                                <address>
+                                    <postCode>252059</postCode>
+                                    <settlement>Liaocheng</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wei</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Liaocheng University</orgName>
+                                <address>
+                                    <postCode>252059</postCode>
+                                    <settlement>Liaocheng</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Peng</forename>
+                                <surname>Fu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Materials Science and Engineering</orgName>
+                                <orgName type="institution">Liaocheng University</orgName>
+                                <address>
+                                    <postCode>252059</postCode>
+                                    <settlement>Liaocheng</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Zhijun</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <contact>
+                                <email>zhjxu@sohu.com</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">School of Environmental and Materials Engineering</orgName>
+                                <orgName type="institution">Yantai University</orgName>
+                                <address>
+                                    <postCode>264005</postCode>
+                                    <settlement>Yantai</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <surname>Du</surname>
+                            </persName>
+                        </author>
+						<author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Z.</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                        </author>
+                        <title level="a" type="main">Lead-free rare earth-modified (K 0.44 Na 0.52 Li 0.04 )(Nb 0.86 Ta 0.1 Sb 0.04 )O 3 ceramics: Phase structure, electrical and photoluminescence properties</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>KNN-based</term>
+                    <term>Rare earth doping</term>
+                    <term>Electrical properties</term>
+                    <term>Photoluminescence 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Rare-earth element ions Pr 3+ and Nd 3+-doped (K 0.44 Na 0.52 Li 0.04)(Nb 0.86 Ta 0.1 Sb 0.04)O 3 (abbreviated as KNLNTS-xRE) ceramics were prepared by traditional solid-state sintering method. The phase structure, microstructure, electrical and photoluminescence properties of the samples were investigated. Results showed that both Pr 3+ and Nd 3+ modified ceramics can form the polymorphic phase transition (PPT) at room temperature (RT) at x = 0.3wt% with the optimal properties (P r = 26.1 µC/cm 2 , E C = 15.2 kV/cm, d 33 = 196 pC/N, d 33 * = 390 pm/V for KNLNTS-0.3Pr, and P r = 25 µC/cm 2 , E C = 13.8 kV/cm d 33 = 228 pC/N, d 33 * = 350 pm/V for KNLNTS-0.3Nd). In addition, a large strain of 0.12% and 0.10% at a driving field of 30 kV/cm for KNLNTS-0.3Pr and KNLNTS-0.3Nd were obtained, respectively. Besides the excellent strain properties, the KNLNTS-0.3RE samples exhibited a strong photoluminescence: a green emission (528 nm), an orange emission (602 nm), and a red emission (650 nm) for KNLNTS-0.3Pr; a strong near-infrared emission (909nm and 1058nm) for KNLNTS-0.3Nd. These results suggest that the KNLNTS-0.3RE system should be a promising lead-free material with multifunctional properties and significant technological potential in novel multifunctional devices.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

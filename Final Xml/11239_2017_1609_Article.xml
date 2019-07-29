@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T08:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Do telehealth interventions improve oral anticoagulation management? A systematic review and meta-analysis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Munil</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Bachelor Health Sciences Program</orgName>
+                                <orgName type="department" key="dep2">Faculty of Health Sciences</orgName>
+                                <orgName type="institution">McMaster University</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mei</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Division of Clinical Pharmacology and Toxicology</orgName>
+                                <orgName type="institution">St Joseph&apos;s Healthcare Hamilton</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Health Research Methods, Evidence, and Impact (HEI)</orgName>
+                                <orgName type="institution">McMaster University</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jiayu</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Division of Clinical Pharmacology and Toxicology</orgName>
+                                <orgName type="institution">St Joseph&apos;s Healthcare Hamilton</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Anne</forename>
+                                <surname>Holbrook</surname>
+								<prefix>Dr</prefix>
+                            </persName>
+                            <contact>
+                                <email>holbrook@mcmaster.ca</email>
+                                <phone>905.522.1155</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Division of Clinical Pharmacology and Toxicology</orgName>
+                                <orgName type="institution">St Joseph&apos;s Healthcare Hamilton</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Division of Clinical Pharmacology and Toxicology</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">McMaster University</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Health Research Methods, Evidence, and Impact (HEI)</orgName>
+                                <orgName type="institution">McMaster University</orgName>
+                                <address>
+                                    <settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                <orgName type="department">Director, Clinical Pharmacology &amp; Toxicology</orgName>
+                                <orgName type="institution">McMaster University</orgName>
+                                <address>
+                                    <addrLine>c/o SJHH G623 50 Charlton Avenue East</addrLine>
+                                    <postCode>L8N 4A6</postCode>
+									<settlement>Hamilton</settlement>
+                                    <region>ON</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Do telehealth interventions improve oral anticoagulation management? A systematic review and meta-analysis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

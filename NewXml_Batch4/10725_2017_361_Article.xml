@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Over-expressing a UDP-glucosyltransferase gene (Ta-UGT 3 ) enhances Fusarium Head Blight resistance of wheat</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Liping</forename>
+                                <surname>Xing</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Li</forename>
+                                <surname>Gao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qiguang</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Haiyan</forename>
+                                <surname>Pei</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhaocan</forename>
+                                <surname>Di</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jin</forename>
+                                <surname>Xiao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Haiyan</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lulin</forename>
+                                <surname>Ma</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Peidu</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aizhong</forename>
+                                <surname>Cao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Xiue</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <contact>
+                                <email>xiuew@njau.edu.cn</email>
+                                <phone>Telephone number,+86-25-8439-5344; Fax,+86-25-8439- 5344;</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University/JCIC-MCP</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2" role="corresp" sequence="1">
+                                <orgName type="department">The National Key Laboratory of Crop Genetics and Germplasm Enhancement</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <addrLine>Weigang 1 #</addrLine>
+                                    <settlement>Nanjing</settlement>
+                                    <region>Jiangsu</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Over-expressing a UDP-glucosyltransferase gene (Ta-UGT 3 ) enhances Fusarium Head Blight resistance of wheat</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Wheat UDP-glycosyltransferase (Ta-UGT 3 )</term>
+                    <term>Fusarium Head Hlight (FHB)</term>
+                    <term>Deoxynivalenol (DON)</term>
+                    <term>Enhanced resistance Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Wheat Fusarium Head Blight (FHB), mainly caused by Fusarium graminearum (F.g), is a destructive fungal disease worldwide. FHB can not only cause considerable reduction in yield, but more seriously, can contaminate grain by trichothecene toxins released by the fungus. Here, we report new insights into the function and underlying mechanisms of a UDP-glycosyltransferase gene, Ta-UGT 3 , that is involved in FHB resistance in wheat. In our previous study, Ta-UGT 3 was found to enhance host tolerance against deoxynivalenol (DON) in Arabidopsis. In this study, four transgenic lines over-expressing Ta-UGT 3 in a FHB highly susceptible wheat variety, Alondra's, were obtained and characterized. Three years of assays using single floret inoculation with F.g indicated that all four transgenic lines exhibited significantly enhanced type II resistance to FHB and less DON accumulation in the grains compared to the untransformed control. Histological observation using GFP labelled F.g was in agreement with the above test results since over-expression of Ta-UGT 3 dramatically inhibited expansion of F.g. To explore the putative mechanism of resistance mediated by Ta-UGT 3 , microarray analysis, qRT-PCR and hormone measurements were performed. Microarray analysis showed that DON up-regulated genes, such as TaNPR1, in the susceptible control, and down-regulated genes in F.g inoculated transgenic lines, while qRT-PCR showed that some defence related genes were up-regulated in F.g inoculated transgenic lines. Ta-UGT 3 over-expression also changed the contents of the endogenous hormones SA and JA in the spikes. These data suggest that Ta-UGT 3 positively regulates the defence responses to F.g, perhaps by regulating defence-related and DON-induced downstream genes.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

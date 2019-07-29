@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Synthesis, characterization, and morphological control of Cn 3 B 2 O 6 nanostructures by sol-gel process for azo dye degradation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Reza</forename>
+                                <surname>Rahmatolahzadeh</surname>
+                            </persName>
+                            <contact>
+                                <email>Rezarahmati_xy@yahoo.com</email>
+                                <url>http://www.google.de</url>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Young Researchers and Elites Club</orgName>
+                                <orgName key="dep2" type="department">Central Tehran Branch</orgName>
+                                <orgName type="institution">Islamic Azad University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seyed</forename>
+                                <forename type="middle">Amin</forename>
+                                <surname>Shobeiri</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Young Researchers and Elites Club</orgName>
+                                <orgName key="dep2" type="department">South Tehran Branch</orgName>
+                                <orgName type="institution">Islamic Azad University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kourosh</forename>
+                                <surname>Motevalli</surname>
+                            </persName>
+                            <contact>
+                                <email>k.motevalli@yahoo.com</email>
+                                <url>http://www.crest.com</url>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName key="dep1" type="department">Applied Chemistry Department</orgName>
+                                <orgName key="dep2" type="department">South Tehran Branch</orgName>
+                                <orgName type="institution">Islamic Azad University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <miscellaneous>
+                            <phone>Tel: +982164321122</phone>
+                        </miscellaneous>
+                        <title level="a" type="main">Synthesis, characterization, and morphological control of Cn 3 B 2 O 6 nanostructures by sol-gel process for azo dye degradation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding authors. URL: http://www.springer.com;</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Cu 3 B 2 O 6</term>
+                    <term>Nanosheet</term>
+                    <term>Sol-gel process</term>
+                    <term>Photocatalyst</term>
+                    <term>AV7 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Research highlights  Cu 3 B 2 O 6 nanosheets were synthesized via a simple sol-gel auto combustion method.  Copper nitrate, boric acid, glycine and ethylenediamine were used as novel starting reagents.  Effect of acid type, gelling agent, and acid-to-metal ratio on morphology was investigated.  Efficiency of Cu 3 B 2 O 6 nanostructures for the decolorization of AV7 was evaluated.  The effect of size and morphology on the photocatalytic efficiency was studied. Abstract The present investigation reports a simple sol-gel auto combustion process for synthesizing copper borate (Cu 3 B 2 O 6) nanostructures with different morphologies such as spherical nanoparticle and nanosheets using new reactive agents. Effect of amino acid type, gelling agent, and amino acid-to-metal ratio on morphology was well studied. Moreover, the efficiency of Cu 3 B 2 O 6 nanostructures as a photocatalyst for the decolorization of Acid Violet 7 (AV7) as an azo dye using ultraviolet and visible light irradiation was evaluated and more than 86 and 78% of AV7 was decolorized under them after 90 min, respectively. Also, the effect of particle size and morphology on the photocatalytic activity was evaluated.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

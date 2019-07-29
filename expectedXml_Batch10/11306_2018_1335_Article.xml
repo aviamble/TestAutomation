@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T09:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">From correlation to causation: analysis of metabolomics data using systems biology approaches</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Antonio</forename>
+                                <surname>Rosato</surname>
+                            </persName>
+                            <contact>
+                                <email>rosato@cerm.unifi.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Magnetic Resonance Center and Department of Chemistry &quot; Ugo Schiff &quot;</orgName>
+                                <orgName type="institution">University of Florence</orgName>
+                                <address>
+                                    <settlement>Florence</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Leonardo</forename>
+                                <surname>Tenori</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Experimental and Clinical Medicine</orgName>
+                                <orgName type="institution">University of Florence</orgName>
+                                <address>
+                                    <settlement>Florence</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Marta</forename>
+                                <surname>Cascante</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                                <orgName type="institution">University of Barcelona</orgName>
+                                <address>
+                                    <settlement>Barcelona</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pedro</forename>
+                                <forename type="middle">Ramon</forename>
+                                <surname>Atauri Carulla</surname>
+								<particle>De</particle>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                                <orgName type="institution">University of Barcelona</orgName>
+                                <address>
+                                    <settlement>Barcelona</settlement>
+                                    <country key="ES">Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vitor</forename>
+                                <forename type="middle">A.</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Martins dos Santos</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Laboratory of Systems and Synthetic Biology</orgName>
+                                <orgName type="institution">Wageningen University &amp; Research</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">LifeGlimmer GmbH</orgName>
+                                <address>
+                                    <settlement>Berlin</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Edoardo</forename>
+                                <surname>Saccenti</surname>
+                            </persName>
+                            <contact>
+                                <email>esaccenti@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department">Laboratory of Systems and Synthetic Biology</orgName>
+                                <orgName type="institution">Wageningen University &amp; Research</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">From correlation to causation: analysis of metabolomics data using systems biology approaches</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding authors:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

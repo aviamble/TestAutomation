@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">COSMIN risk of bias checklist for systematic reviews of patient-reported outcome measures</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">L</forename>
+                                <forename type="middle">B</forename>
+                                <surname>Mokkink</surname>
+                            </persName>
+                            <contact>
+                                <email>w.mokkink@vumc.nl</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Epidemiology and Biostatistics</orgName>
+                                <orgName type="institution" key="instit1">Amsterdam Public Health research institute</orgName>
+                                <orgName type="institution" key="instit2">VU University Medical Center</orgName>
+                                <address>
+                                    <postBox>P.O. Box 7057</postBox>
+                                    <postCode>1007 MB</postCode>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+								<forename type="first">H</forename>
+                                <forename type="middle">C</forename>
+                                <forename type="middle">W</forename>
+                                <surname>Vet</surname>
+                                <particle>de</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Epidemiology and Biostatistics</orgName>
+                                <orgName type="institution" key="instit1">Amsterdam Public Health research institute</orgName>
+                                <orgName type="institution" key="instit2">VU University Medical Center</orgName>
+                                <address>
+                                    <postBox>P.O. Box 7057</postBox>
+                                    <postCode>1007 MB</postCode>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">C</forename>
+                                <forename type="middle">A</forename>
+                                <forename type="middle">C</forename>
+                                <surname>Prinsen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Epidemiology and Biostatistics</orgName>
+                                <orgName type="institution" key="instit1">Amsterdam Public Health research institute</orgName>
+                                <orgName type="institution" key="instit2">VU University Medical Center</orgName>
+                                <address>
+                                    <postBox>P.O. Box 7057</postBox>
+                                    <postCode>1007 MB</postCode>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">D</forename>
+                                <forename type="middle">L</forename>
+                                <surname>Patrick</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Health Services</orgName>
+                                <orgName type="institution">University of Washington</orgName>
+                                <address>
+                                    <settlement>Seattle</settlement>
+                                    <region>WA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                           
+                        </author>
+                        <author>
+                            <persName>
+								<forename type="first">J</forename>
+                                <surname>Alonso</surname>
+                            </persName>
+							 <affiliation key="aff3">
+                                <orgName type="department">Health Services Research Unit</orgName>
+                                <orgName type="institution" key="instit1">Institut Municipal d’Investigacio Medica (IMIM-Hospital del Mar)</orgName>
+                                
+                                <address>
+                                    <settlement>Barcelona</settlement>
+                                    <country>Spain</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">L</forename>
+                                <forename type="middle">M</forename>
+                                <surname>Bouter</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Epidemiology and Biostatistics</orgName>
+                                <orgName type="institution" key="instit1">Amsterdam Public Health research institute</orgName>
+                                <orgName type="institution" key="instit2">VU University Medical Center</orgName>
+                                <address>
+                                    <postBox>P.O. Box 7057</postBox>
+                                    <postCode>1007 MB</postCode>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Philosophy, Faculty of Humanities</orgName>
+                                <orgName type="institution">Vrije Universiteit</orgName>
+                                <address>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">C</forename>
+                                <forename type="middle">B</forename>
+                                <surname>Terwee</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Epidemiology and Biostatistics</orgName>
+                                <orgName type="institution" key="instit1">Amsterdam Public Health research institute</orgName>
+                                <orgName type="institution" key="instit2">VU University Medical Center</orgName>
+                                <address>
+                                    <postBox>P.O. Box 7057</postBox>
+                                    <postCode>1007 MB</postCode>
+                                    <settlement>Amsterdam</settlement>
+                                    <country key="NL">the Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">COSMIN risk of bias checklist for systematic reviews of patient-reported outcome measures</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Background</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>quality assessment</term>
+                    <term>systematic review</term>
+                    <term>risk of bias</term>
+                    <term>measurement properties</term>
+                    <term>outcome measurement instruments</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Purpose: The original COSMIN checklist was developed to assess the methodological quality of single studies on measurement properties of Patient-Reported Outcome Measures (PROMs). Now it is our aim to adapt the COSMIN checklist and its four-point rating system into a version exclusively for use in systematic reviews of PROMs, aiming to assess risk of bias of studies on measurement properties. Methods: For each standard (i.e. a design requirement or preferred statistical method) it was discussed within the COSMIN steering committee if and how it should be adapted. The adapted checklist was pilot-tested to strengthen content validity in a systematic review on the quality of PROMs for patients with hand osteoarthritis. Results: Most important changes were the reordering of the measurement properties to be assessed in a systematic review of PROMs; the deletion of standards that concerned reporting issues and standards that not necessarily lead to biased results; the integration of standards on general requirements for studies on item response theory with standards for specific measurement properties; the recommendation to the review team to specify hypotheses for construct validity and responsiveness in advance, and subsequently the removal of the standards about formulating hypotheses; and the change in the labels of the four-point rating system. Conclusions: The COSMIN Risk of Bias checklist was developed exclusively for use in systematic reviews of PROMs to distinguish this application from other purposes of assessing the methodological quality of studies on measurement properties, such as guidance for designing or reporting a study on the measurement properties.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

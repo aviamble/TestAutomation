@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:24+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Characterization of the complete mitochondrial genome of the European adder (Vipera berus) using Illumina sequencing technology</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Dong</forename>
+                                <surname>Gao</surname>
+                            </persName>
+							<contact>
+                                 <email>624618874@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Ocean University of China</orgName>
+                                <address>
+                                    <region>Qinddao</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chunrong</forename>
+                                <surname>Liu</surname>
+                            </persName>
+							<contact>
+                              <email>lcrouc@163.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Ocean University of China</orgName>
+                                <address>
+                                    <region>Qinddao</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shixin</forename>
+                                <surname>Hao</surname>
+                            </persName>
+                            <contact>
+                                <email>shixin92827@163.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Shandong Province Institute of Marine Biology</orgName>
+                                <address>
+                                    <region>Qingdao</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Characterization of the complete mitochondrial genome of the European adder (Vipera berus) using Illumina sequencing technology</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Mitochondrial genome European adder Vipera berus Phylogenetic Introduction</keywords>
+            </textClass>
+            <abstract>
+                <p>The Common adder, Vipera berus, was listed as Least Concern (LC) on the IUCN Red List of Threatened Species, due to habitat destruction, invasive plants, insecticide application, and road mortality. Here, we presented the complete mitochondrial genome of V. berus. The circular genome is 16,370 bp in length and contains 13 protein-coding genes (PCGs), 22 transfer RNA (tRNA) genes and 2 ribosome RNA genes. The overall nucleotide composition is 32.2%A, 27.1%T, 28%C, 12.6%G, with a total G+C content of 40.6%. The phylogenetic tree was constructed to explore the taxonomic status of V. berus, which contributes to phylogenetic studies of Viperinae and futher conservation strategies for this species.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

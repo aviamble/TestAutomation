@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T10:16+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The Effects of Nitrogen on structure, morphology and electrical resistance of Tantalum by ion implantation method</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Amir</forename>
+                                <forename type="middle">Hoshang</forename>
+                                <surname>Ramezani</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Physics</orgName>
+                                <orgName type="department" key="dep2">West Tehran Branch</orgName>
+                                <orgName type="institution">Islamic Azad University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Siamak</forename>
+                                <surname>Hoseinzadeh</surname>
+                            </persName>
+                            <contact>
+                                <email>Hoseinzadeh.siamak@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Young Researchers and Elite Club</orgName>
+                                <orgName type="department" key="dep2">West Tehran Branch</orgName>
+                                <orgName type="institution">Islamic Azad University</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ali</forename>
+                                <surname>Bahari</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Faculty of Basic Sciences</orgName>
+                                <orgName type="department" key="dep2">Department of Physics</orgName>
+                                <orgName type="institution">University of Mazandaran</orgName>
+                                <address>
+                                    <settlement>Babolsar</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The Effects of Nitrogen on structure, morphology and electrical resistance of Tantalum by ion implantation method</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Tantalum, Ion implantation</term>
+                    <term>XRD</term>
+                    <term>AFM</term>
+                    <term>Electrical resistivity</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>In this paper, samples of tantalum with purities of 99.99% (0.58 mm thickness) were implanted by Nitrogen ions. The ions&apos; implantation process was performed at 30 keV and also at different portions which were in the range between 1×10 17-1×10 18 ions/cm 2. The electrical characteristics were investigated on Tantalum nitrides and Ta structures by current-voltage (I–V). The samples&apos; surface morphology was also studied through the atomic force microscopy (AFM). Through the application of the X-ray diffraction technique (XRD), the microstructure of the modified surfaces was obtained after ion implantation. Results of the experiments show the formation of hexagonal tantalum nitride (TaN 0.43), as well as the fact that ion dose increases, more interstitial spaces are occupied by nitrogen atoms in the target crystal. The electrical resistivity of the tantalum after nitrogen implantation is found to increase with ion doses. Experimental data demonstrated that different nitrogen dose in ion beam powerfully affects microstructure, phase formation, surface morphology and resistivity of the tantalum. The changes in nitrogen ions were found to be responsible for variation in the resistivity values. 1.Introduction It is well known that the nitrogen ion implantation can improve the surface properties of metals by changing their compositions and structures in the surface layers [1]. For this reason, the nitrogen Ion implantation has been studied for many years and many nitrogen-metal systems have been investigated in order to clarify the format ion mechanisms of various metal nitrides and their influences on surface properties. The effects of nitrogen ion implantation (NII) on structural, mechanical, tribological and even biological properties of different materials have been greatly investigated [2, 3]. The degree of surface modification by NII depends on the ion energy, current density, irradiation time and the substrate temperature. Metal nitride coatings</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

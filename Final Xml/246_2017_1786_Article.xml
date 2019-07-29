@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T05:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Exercise Performance in pediatric liver transplant recipients and its related cardiac function</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Seyed</forename>
+                                <forename type="middle">Mohsen</forename>
+                                <surname>Dehghani</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Transplant research center</orgName>
+                                <orgName type="institution">Shiraz University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Shiraz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mitra</forename>
+                                <surname>Moshref</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Pediatric Department</orgName>
+                                <orgName type="institution">Shiraz University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Shiraz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Hamid</forename>
+                                <surname>Amoozgar</surname>
+                            </persName>
+                            <contact>
+                                <email>amozgah@sums.ac.ir</email>
+                                <phone>+989173111877</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Neonatal research center and Cardiovascular research center</orgName>
+                                <orgName type="institution">Shiraz University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Shiraz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seyed</forename>
+                                <forename type="middle">Ali</forename>
+                                <forename type="middle">Malek</forename>
+                                <surname>Hoseini</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Transplant research center</orgName>
+                                <orgName type="institution">Shiraz University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Shiraz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Saman</forename>
+                                <surname>Nikeghbalian</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Transplant research center</orgName>
+                                <orgName type="institution">Shiraz University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Shiraz</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Exercise Performance in pediatric liver transplant recipients and its related cardiac function</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Exercise test</term>
+                    <term>Pediatric liver transplant</term>
+                    <term>Cardiac function</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The aim of this study was to evaluate exercise test in pediatric liver transplant recipients and its relation to their cardiac function. This cross-sectional study was conducted on 58 children who had successfully undergone orthotopicliver transplantation at least 6 months prior to the study, with the same age and gender-matched control group. M-Mode, Doppler, tissue Doppler echocardiography and exercise test was performed for all the participants.. The VO 2 values and METS in patients were less than the control (P = 0.001). Left ventricular posterior wall thickness in systole (LVPWs), left ventricular posterior wall thickness in diastole (LVPWd), interventricular septum diameter in diastole (IVSd), A T , pulmonary acceleration time (PAT), S T and Ea T , Aa M , and S S had a significant difference between patients and the control group (P value &lt; 0.05). Maximal oxygen consumption (Max VO 2) and metabolic equivalent task (METs) values had a significant correlation with tricuspid valve S parameter (P = 0.018, r = 0.310). Max VO 2 and METs values did not have a significant correlation with the diastolic dysfunction index such 2 as E/A and E/Ea. In this study, the exercise test showed decreased functional capacity in liver-transplanted children; however, the echocardiographic evaluation did not reveal any definite correlation with systolic or diastolic dysfunction. Introduction:</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

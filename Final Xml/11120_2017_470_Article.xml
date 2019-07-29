@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effects of photosynthetic photon flux density, frequency, duty ratio and their interactions on net photosynthetic rate of cos lettuce leaves under pulsed light: Explanation based on photosynthetic-intermediate pool dynamics</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Tomohiro</forename>
+                                <surname>Jishi</surname>
+                            </persName>
+							<contact>
+                            <email>ttj30287@osakafu-u.ac.jp</email>
+                            <phone>+81-3-5841-5356</phone>
+                        </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biological and Environmental Engineering</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Agricultural and Life Sciences</orgName>
+                                <orgName type="institution">The University of Tokyo</orgName>
+                                <address>
+                                    <addrLine>1-1-1 Yayoi, Bunkyo</addrLine>
+                                    <settlement>Tokyo</settlement>
+									<postCode>113-8657</postCode>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ryo</forename>
+                                <surname>Matsuda</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biological and Environmental Engineering</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Agricultural and Life Sciences</orgName>
+                                <orgName type="institution">The University of Tokyo</orgName>
+                                <address>
+                                    <addrLine>1-1-1 Yayoi, Bunkyo</addrLine>
+                                    <settlement>Tokyo</settlement>
+									<postCode>113-8657</postCode>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kazuhiro</forename>
+                                <surname>Fujiwara</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biological and Environmental Engineering</orgName>
+                                <orgName type="department" key="dep2">Graduate School of Agricultural and Life Sciences</orgName>
+                                <orgName type="institution">The University of Tokyo</orgName>
+                                <address>
+                                    <addrLine>1-1-1 Yayoi, Bunkyo</addrLine>
+                                    <settlement>Tokyo</settlement>
+									<postCode>113-8657</postCode>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Effects of photosynthetic photon flux density, frequency, duty ratio and their interactions on net photosynthetic rate of cos lettuce leaves under pulsed light: Explanation based on photosynthetic-intermediate pool dynamics</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author: Conflict of interest: The authors declare that they have no conflict of interest. Abbreviations LUE Light use efficiency for PI production P n Average net photosynthetic rate P ni Instantaneous net photosynthetic rate (time-averaged P ni = P n ) PI Photosynthetic intermediate PSII Photosystem II PPFD Photosynthetic photon flux density PPFD ave Average PPFD PPFD lp Light-period PPFD Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Intermittent light</term>
+                    <term>Fluctuating light</term>
+                    <term>Flushing light</term>
+                    <term>Pool size</term>
+                    <term>Pulse width modulation</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Square-wave pulsed light is characterized by three parameters, namely average photosynthetic photon flux density (PPFD), pulsed-light frequency, and duty ratio (the ratio of light-period duration to that of the light-dark cycle). In addition, the light-period PPFD is determined by the averaged PPFD and duty ratio. We investigated the effects of these parameters and their interactions on net photosynthetic rate (P n) of cos lettuce leaves for every combination of parameters. Averaged PPFD values were 0–500 µmol m -2 s -1. Frequency values were 0.1–1000 Hz. White LED arrays were used as the light source. Every parameter affected P n and interactions between parameters were observed for all combinations. The P n under pulsed light was lower than that measured under continuous light of the same averaged PPFD, and this difference was enhanced with decreasing frequency and increasing light-period PPFD. A mechanistic model was constructed to estimate the amount of stored photosynthetic intermediates over time under pulsed light. The results indicated that all effects of parameters and their interactions on P n were explainable by consideration of the dynamics of accumulation and consumption of photosynthetic intermediates.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

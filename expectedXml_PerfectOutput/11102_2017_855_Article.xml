@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">HISTOPATHOLOGICAL CLASSIFICATION OF NON-FUNCTIONING PITUITARY NEUROENDOCRINE TUMORS</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Emilija</forename>
+                                <surname>Manojlovic-Gacic</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute of Pathology</orgName>
+                                <orgName type="department" key="dep2">School of Medicine</orgName>
+                                <orgName type="institution">University of Belgrade</orgName>
+                                <address>
+                                    <settlement>Belgrade</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Britt</forename>
+                                <forename type="middle">Edén</forename>
+                                <surname>Engström</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Medical Sciences, Endocrinology and Metabolism</orgName>
+                                <orgName type="institution">Uppsala University Hospital</orgName>
+                                <address>
+                                    <settlement>Uppsala</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Olivera</forename>
+                                <surname>Casar-Borota</surname>
+                                <prefix>Associate Professor</prefix>
+                                <authordegree>M. D., Ph. D.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>olivera.casar-borota@igp.uu.se</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Immunology, Genetics and Pathology</orgName>
+                                <orgName type="institution">Uppsala University</orgName>
+                                <address>
+                                    <settlement>Uppsala</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Clinical Pathology</orgName>
+                                <orgName type="institution">Uppsala University Hospital</orgName>
+                                <address>
+                                    <settlement>Uppsala</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                       
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Immunology, Genetics and Pathology, Uppsala University and Department of Clinical Pathology</orgName>
+                                <orgName type="institution">Uppsala University Hospital</orgName>
+                                <address>
+                                    <settlement>Uppsala</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">HISTOPATHOLOGICAL CLASSIFICATION OF NON-FUNCTIONING PITUITARY NEUROENDOCRINE TUMORS</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Non-functioning pituitary neuroendocrine tumor</term>
+                    <term>pituitary adenoma</term>
+                    <term>immunohistochemistry</term>
+                    <term>transcription factors Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Non-functioning pituitary neuroendocrine tumors do not cause endocrine symptoms related to hypersecretion of adenohypophyseal hormones and are clinically characterized by symptoms due to growing sellar tumor mass. Histopathological classification of this tumor group has always been challenging due to their heterogeneity, limited knowledge on their biology, and diverse methodological problems. We have searched PubMed database for data related to the histopathological classification of non-functioning pituitary tumors and methods for its application. Principles of the classification and grading presented in the recently released 4th edition of the World Health Organization classification of endocrine tumors have been summarized. Based on the expression of anterior pituitary hormones and pituitary specific transcription factors, gonadotroph tumors dominate within the group of clinically non-functioning tumors, followed by corticotroph type; however, other less common types of the non-functioning tumors can be identified. Assessment of tumor cell proliferation is important to identify &quot; high-risk adenomas. &quot; A few subtypes of non-functioning tumors belong to the category of potentially aggressive tumors, independent of the cell proliferation rate. Here, we present up to date criteria for the classification of clinically non-functioning pituitary tumors, offer a diagnostic approach for the routine clinical use, and emphasize a need for inclusion of prognostic and predictive markers in the classification.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

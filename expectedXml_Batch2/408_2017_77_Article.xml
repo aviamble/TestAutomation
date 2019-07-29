@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title: Cigarette smoke induces activation of polymorphonuclear leukocytes</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Anita</forename>
+                                <surname>Somborac-Bacura</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                        <contact>
+                            <phone>+385 1 4612606</phone>
+                            <email>asomborac@pharma.hr</email>
+                        </contact>					
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Faculty of Pharmacy and Biochemistry</orgName>
+                                <orgName type="department" key="dep2">Department of Medical Biochemistry and Hematology</orgName>
+                                <orgName type="institution">University of Zagreb</orgName>
+                                <address>
+                                    <addrLine>Kneza Domagoja 2</addrLine>
+                                    <postCode>HR-10000</postCode>
+                                    <settlement>Zagreb</settlement>
+                                    <country key="HR">Croatia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sanja</forename>
+                                <surname>Popovic-Grle</surname>
+                            </persName>
+                            <contact>
+                                <email>sanja.popovic.grle@kbc-zagreb.hr</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Clinical Hospital for Lung Diseases &apos;&apos;Jordanovac&apos;&apos;</orgName>
+                                <orgName type="institution">University Hospital Centre Zagreb</orgName>
+                                <address>
+                                    <addrLine>Jordanovac 104</addrLine>
+                                    <postCode>HR-10000</postCode>
+                                    <settlement>Zagreb</settlement>
+                                    <country key="HR">Croatia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of Zagreb, School of Medicine</orgName>
+                                <address>
+                                    <addrLine>Šalata 3</addrLine>
+                                    <postCode>HR-10000</postCode>
+                                    <settlement>Zagreb</settlement>
+                                    <country key="HR">Croatia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vlasta</forename>
+                                <surname>Zovko</surname>
+                            </persName>
+                            <contact>
+                                <email>vlastaz@net.hr</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Clinical Hospital for Lung Diseases &apos;&apos;Jordanovac&apos;&apos;</orgName>
+                                <orgName type="institution">University Hospital Centre Zagreb</orgName>
+                                <address>
+                                    <addrLine>Jordanovac 104</addrLine>
+                                    <postCode>HR-10000</postCode>
+                                    <settlement>Zagreb</settlement>
+                                    <country key="HR">Croatia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tihana</forename>
+                                <surname>Žanic-Grubišic</surname>
+                            </persName>
+                            <contact>
+                                <email>tihana_zanic@yahoo.co.uk</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Faculty of Pharmacy and Biochemistry</orgName>
+                                <orgName type="department" key="dep2">Department of Medical Biochemistry and Hematology</orgName>
+                                <orgName type="institution">University of Zagreb</orgName>
+                                <address>
+                                    <addrLine>Kneza Domagoja 2</addrLine>
+                                    <postCode>HR-10000</postCode>
+                                    <settlement>Zagreb</settlement>
+                                    <country key="HR">Croatia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department">Faculty of Pharmacy and Biochemistry, Department of Medical Biochemistry and Hematology</orgName>
+								<orgName type="institution">University of Zagreb</orgName>
+                                <address>
+                                    <addrLine>Kneza Domagoja 2</addrLine>
+                                    <postCode>HR-10000</postCode>
+                                    <settlement>Zagreb</settlement>
+                                    <country key="HR">Croatia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Title: Cigarette smoke induces activation of polymorphonuclear leukocytes</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Affiliations: *Corresponding author: ORCID ID: 0000-0002-8573-4294 Acknowledgments: This work was financed by the Croatian Ministry of Science, Education and Sports (Grant No. 006-0061245-0977). 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Introduction: Cigarette smoking is a major risk factor for chronic obstructive pulmonary</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

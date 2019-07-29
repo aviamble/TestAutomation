@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:26+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A comparison of next-generation sequencing with clone sequencing in the diet analysis of Asian great bustard</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Minghao</forename>
+                                <surname>Gong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Wetland Research</orgName>
+                                <orgName type="institution">Chinese Academy of Forestry</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Beijing Key Laboratory of Wetland Services and Restoration</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yu</forename>
+                                <surname>Ning</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Wetland Research</orgName>
+                                <orgName type="institution">Chinese Academy of Forestry</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Beijing Key Laboratory of Wetland Services and Restoration</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Morigen</forename>
+                                <surname>Han</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution" key="instit1">Tumuji National Nature Reserve</orgName>
+                               <address>
+								 <region>Inner Mongolia Autonomous Region</region>
+                                    <postCode>137600</postCode>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chenyang</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Biology Department of Cangzhou Normal College</orgName>
+                                <address>
+                                    <postCode>061001</postCode>
+                                    <settlement>Hebei</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jingxing</forename>
+                                <surname>Tian</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Biology Department of Cangzhou Normal College</orgName>
+                                <address>
+                                    <postCode>061001</postCode>
+                                    <settlement>Hebei</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Linwei</forename>
+                                <surname>Li</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hong</forename>
+                                <forename type="middle">ye</forename>
+                                <surname>Xiao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Wetland Research</orgName>
+                                <orgName type="institution">Chinese Academy of Forestry</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Beijing Key Laboratory of Wetland Services and Restoration</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Gang</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <contact>
+                                <email>gangl@caf.ac.cn</email>
+                                <phone>+86-010-62888320</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Wetland Research</orgName>
+                                <orgName type="institution">Chinese Academy of Forestry</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Beijing Key Laboratory of Wetland Services and Restoration</orgName>
+                                <address>
+                                    <postCode>100091</postCode>
+                                    <settlement>Beijing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                +<orgName type="institution">Hebei Normal University</orgName>
+                                <address>
+                                    <postCode>050024</postCode>
+                                    <settlement>Hebei</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A comparison of next-generation sequencing with clone sequencing in the diet analysis of Asian great bustard</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Comparative studies of next-generation sequencing (NGS) and clone sequencing in diet analysis have not been conducted. This study compares the performance of NGS and clone sequencing to analyze the diet of Asian great bustard (Otis tarda dybowskii). Identification of known taxa using NGS method was significantly greater than by clone method (t = 8.12, df = 14, p&lt;0.01), which has highlighted the higher sensitivity of the NGS approach. The proportion of occurrence for NGS method and clone method was significantly correlated (r = 0.63, p = 0.01), suggesting the prey taxa present at low frequency could not be identified by clone method. The cost and time of NGS method was also low compared with the clone method. We recommend the NGS opens up for new possibilities in the diet study, and has wide applicability to other species whose faeces can be collected easily and non-invasively in the field. Keywords: diet analysis, non-invasive fecal DNA, next-generation sequencing, clone sequencing, Asian great bustard Diet analysis is important to understand the feeding ecology of the animals, as well as to protect and manage them (Oehm et al. 2011). Traditional dietary approaches include behavioral observation, and morphological classification of the fecal or stomach contents, however, such methods are invasive to the animal, labor consuming, more prone to the biases, and/or yield a low taxonomic resolution (Marucco et al. 2008; Valentini et al. 2009; Zeale et al. 2011). Stable isotope analysis of tissue or feathers cannot provide the fine-scale diet data often sought in foodweb studies (Deagle et al. 2007). The introduction of DNA-based techniques has substantially improved the diet reconstruction (Deagle et al. 2005), especially with the advent of next-generation</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T07:17+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Weight loss moderately affects the mixed meal challenge response of the plasma metabolome and transcriptome of peripheral blood mononuclear cells in abdominally obese subjects</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Parastoo</forename>
+                                <surname>Fazelzadeh</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Nutrition, Metabolism and Genomics group</orgName>
+                                <orgName type="department" key="dep2">Division of Human Nutrition</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Top Institute Food and Nutrition</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Roland</forename>
+                                <forename type="middle">W.</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Hangelbroek</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Nutrition, Metabolism and Genomics group</orgName>
+                                <orgName type="department" key="dep2">Division of Human Nutrition</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Top Institute Food and Nutrition</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Peter</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Joris</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Human Biology</orgName>
+                                <orgName type="department" key="dep2">NUTRIM School of Nutrition and Translational Research in Metabolism</orgName>
+                                <orgName type="institution">Maastricht University</orgName>
+                                <address>
+                                    <settlement>Maastricht</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Top Institute Food and Nutrition</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Casper</forename>
+                                <forename type="middle">G.</forename>
+                                <surname>Schalkwijk</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+                                <orgName type="department" key="dep2">CARIM School for Cardiovascular Diseases</orgName>
+                                <orgName type="institution">Maastricht University Medical Center</orgName>
+                                <address>
+                                    <settlement>Maastricht</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Diederik</forename>
+                                <surname>Esser</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Nutrition, Metabolism and Genomics group</orgName>
+                                <orgName type="department" key="dep2">Division of Human Nutrition</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lydia</forename>
+                                <surname>Afman</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Nutrition, Metabolism and Genomics group</orgName>
+                                <orgName type="department" key="dep2">Division of Human Nutrition</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Thomas</forename>
+                                <surname>Hankemeier</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="institution">Netherlands Metabolomics Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Doris</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Jacobs</surname>
+                            </persName>
+                             <affiliation key="aff6">
+                                <orgName type="institution">Netherlands Metabolomics Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="institution">Unilever R&amp;D</orgName>
+                                <address>
+                                    <settlement>Vlaardingen</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Velitchka</forename>
+                                <forename type="middle">V.</forename>
+                                <surname>Mihaleva</surname>
+                            </persName>
+                             <affiliation key="aff6">
+                                <orgName type="institution">Netherlands Metabolomics Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="institution">Unilever R&amp;D</orgName>
+                                <address>
+                                    <settlement>Vlaardingen</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sander</forename>
+                                <surname>Kersten</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Nutrition, Metabolism and Genomics group</orgName>
+                                <orgName type="department" key="dep2">Division of Human Nutrition</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">John</forename>
+                                <surname>Duynhoven</surname>
+                                <prefix>Prof. Dr.</prefix>
+                                <particle>van</particle>
+                            </persName>
+                            <contact>
+                                <email>john.vanduynhoven@wur.nl</email>
+                                <phone>+31(0)317 482044</phone>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department">Laboratory of Biophysics</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Top Institute Food and Nutrition</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="institution">Netherlands Metabolomics Centre</orgName>
+                                <address>
+                                    <settlement>Leiden</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="institution">Unilever R&amp;D</orgName>
+                                <address>
+                                    <settlement>Vlaardingen</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff8">
+                                <address>
+                                    <addrLine>Stippeneng 4</addrLine>
+                                    <postCode>6708WE</postCode>
+                                    <settlement>Wageningen</settlement>
+                                    <country>The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mark</forename>
+                                <forename type="middle">V</forename>
+                                <surname>Boekschoten</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Nutrition, Metabolism and Genomics group</orgName>
+                                <orgName type="department" key="dep2">Division of Human Nutrition</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Top Institute Food and Nutrition</orgName>
+                                <address>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Weight loss moderately affects the mixed meal challenge response of the plasma metabolome and transcriptome of peripheral blood mononuclear cells in abdominally obese subjects</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Metabolic health</term>
+                    <term>Mixed-meal challenge</term>
+                    <term>Phenotype shift</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Introduction: The response to dietary challenges has been proposed as a more accurate measure of metabolic health than static measurements performed in the fasted state. This has prompted many groups to explore the potential of dietary challenge tests for assessment of diet and lifestyle induced shifts in metabolic phenotype. Objectives: We examined whether the response to a mixed-meal challenge could provide a readout for a weight loss-induced phenotype shift in abdominally obese male subjects. The underlying assumption of a mixed meal challenge is that it triggers all aspects of phenotypic flexibility and provokes a more prolonged insulin response, possibly allowing for better differentiation between individuals. Methods: Abdominally obese men (n=29, BMI= 30.3±2.4 kg/m 2) received a mixed-meal challenge prior to and after an 8-week weight loss or no-weight loss control intervention. Lean subjects (n=15, BMI= 23.0±2.0kg/m 2) only received the mixed meal challenge at baseline to have a benchmark for weight loss-induced phenotype shifts. Results: Levels of several plasma metabolites were significantly different between lean and abdominally obese at baseline as well as during postprandial metabolic responses. Genes related to oxidative phosphorylation in peripheral blood mononuclear cells (PBMCs) were expressed at higher levels in abdominally obese subjects as compared to lean subjects at fasting, which was partially reverted after weight loss. The impact of weight loss on the postprandial response was modest, both at the metabolic and gene expression level in PBMCs. Conclusion: We conclude that mixed-meal challenges are not necessarily superior to measurements in the fasted state to assess metabolic health. Furthermore, the mechanisms accounting for the observed differences between lean and abdominally obese in the fasted state are different from those underlying the dissimilarity observed during the postprandial response.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

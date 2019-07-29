@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="com.sntps.acdc.post.ApacheMultipartTest">
+        <methods>
+          <include name="packageServiceRequest"/>
+        </methods>
+      </class> <!-- com.sntps.acdc.post.ApacheMultipartTest -->
+      <class name="com.sntps.acdc.post.CTTest">
+        <methods>
+          <include name="contentStructuringRequest"/>
+        </methods>
+      </class> <!-- com.sntps.acdc.post.CTTest -->
+      <class name="com.sntps.acdc.post.VASTest">
+        <methods>
+          <include name="vasRequest"/>
+        </methods>
+      </class> <!-- com.sntps.acdc.post.VASTest -->
+      <class name="com.sntps.acdc.post.XMLTest">
+        <methods>
+          <include name="xmlTransformationRequest"/>
+        </methods>
+      </class> <!-- com.sntps.acdc.post.XMLTest -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A Cyanide-based Coordination Polymer for Hydrogen Evolution Electrocatalysis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Elif</forename>
+                                <forename type="middle">Pinar</forename>
+                                <surname>Alsaç</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bilkent University</orgName>
+                                <address>
+                                    <postCode>06800</postCode>
+                                    <region>Ankara</region>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Emine</forename>
+                                <surname>Ulker</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Chemistry</orgName>
+                                <orgName type="department" key="dep2">Faculty of Arts &amp; Sciences</orgName>
+                                <orgName type="institution">Recep Tayyip Erdogan University</orgName>
+                                <address>
+                                    <postCode>53100</postCode>
+                                    <settlement>Rize</settlement>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Satya</forename>
+                                <forename type="middle">Vijaya</forename>
+								<forename type="middle">Kumar</forename>
+                                <surname>Nune</surname>
+                            </persName>
+						<affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bilkent University</orgName>
+                                <address>
+                                    <postCode>06800</postCode>
+                                    <region>Ankara</region>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ferdi</forename>
+                                <surname>Karadas</surname>
+                            </persName>
+                            <contact>
+                                <email>karadas@fen.bilkent.edu.tr</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bilkent University</orgName>
+                                <address>
+                                    <postCode>06800</postCode>
+                                    <region>Ankara</region>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                       
+                          
+                            <affiliation key="aff3">
+                                <orgName type="department">UNAM-Institute of Materials Science and Nanotechnology</orgName>
+                                <orgName type="institution" key="instit2">Bilkent University</orgName>
+                                <address>
+                                    <postCode>06800</postCode>
+                                    <region>Ankara</region>
+                                    <country key="TR">Turkey</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A Cyanide-based Coordination Polymer for Hydrogen Evolution Electrocatalysis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author Graphical Abstract 1 Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Prussian blue</term>
+                    <term>Cyanide</term>
+                    <term>Water Reduction</term>
+                    <term>Hydrogen Evolution</term>
+                    <term>Electrocatalysis</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Research on H 2 production has recently been directed to the development of cost-efficient and robust heterogeneous catalysts for hydrogen evolution reaction (HER). Given the promising catalytic activities of several cobalt-based systems and the robustness of Prussian blue analogues in harsh catalytic processes including water oxidation, a Co-Co Prussian blue analogue was investigated as a HER catalyst for the first time. Co-Co Prussian Blue modified fluorine doped tin oxide (FTO) electrode demonstrated a significant HER activity with an onset overpotential of 257 mV, a Tafel slope of 80 mV.dec-1 , and a turnover frequency of 0.090 s-1 at an overpotential of 250 mV. Comparative XPS, Infrared, and XRD studies performed on pristine and post-catalytic electrodes confirm the stability of the catalyst.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

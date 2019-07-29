@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T06:32+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">TITLE PAGE Title: Real-time detection of BRAF V600E mutation from archival hairy cell leukemia FFPE tissue by nanopore sequencing. Author names and affiliations</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Davide</forename>
+                                <surname>Vacca</surname>
+                            </persName>
+                            <contact>
+                                <email>davide.vacca@community.unipa.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Valeria</forename>
+                                <surname>Cancila</surname>
+                            </persName>
+                            <contact>
+                                <email>valeria.cancila@unipa.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alessandro</forename>
+                                <surname>Gulino</surname>
+                            </persName>
+                            <contact>
+                                <email>alessandro.gulino01@unipa.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">GiosuÃ¨</forename>
+                                <forename type="middle">Lo</forename>
+                                <surname>Bosco</surname>
+                            </persName>
+                            <contact>
+                                <email>giosue.lobosco@unipa.it</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Dipartimento di Matematica ed Informatica</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via Archirafi, 34</addrLine>
+                                    <postCode>90123</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Beatrice</forename>
+                                <surname>Belmonte</surname>
+                            </persName>
+                            <contact>
+                                <email>beatricebelmonte@vigilio.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Arianna</forename>
+                                <surname>Napoli</surname>
+								<particle>Di</particle>
+                            </persName>
+                            <contact>
+                                <email>arianna.dinapoli@uniroma1.it</email>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Dipartimento di Medicina Clinica e Molecolare</orgName>
+                                <orgName type="institution">University &quot; Sapienza &quot; of Rome</orgName>
+                                <address>
+                                    <addrLine>Viale Regina Elena 324</addrLine>
+                                    <postCode>00161</postCode>
+                                    <settlement>Roma</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ada</forename>
+                                <forename type="middle">Maria</forename>
+                                <surname>Florena</surname>
+                            </persName>
+                            <contact>
+                                <email>adamaria.floren@unipa.it</email>
+                            </contact>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Servizio di Anatomia Patologica</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Claudio</forename>
+                                <surname>Tripodo</surname>
+                            </persName>
+                            <contact>
+                                <email>claudio.tripodo@unipa.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Walter</forename>
+                                <surname>Arancio</surname>
+                            </persName>
+                            <contact>
+                                <email>walter.arancio@unipa.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+							    <orgName type="department" key="dep1">Tumor Immunology Unit</orgName>
+                                <orgName type="department" key="dep2">Dipartimento per la Promozione della Salute e Materno Infantile &quot; G. D&apos;Alessandro &quot;</orgName>
+                                <orgName type="institution">University of Palermo</orgName>
+                                <address>
+                                    <addrLine>Via del Vespro 129</addrLine>
+                                    <postCode>90127</postCode>
+                                    <settlement>Palermo</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">TITLE PAGE Title: Real-time detection of BRAF V600E mutation from archival hairy cell leukemia FFPE tissue by nanopore sequencing. Author names and affiliations</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author: Acknowledgments: This work was supported by AIRC (Italian Association for Cancer Research) [grant numbers 12162, 15999]</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>BACKGROUND: The MinION is a miniaturized high-throughput Next Generation Sequencing platform of novel conception. The use of nucleic acids derived from Formalin-Fixed Paraffin-Embedded samples is highly desirable, but their adoption for molecular assays is hurdled by the high degree of fragmentation and by the chemical-induced mutations stemming from the fixation protocols. METHODS and RESULTS: In order to investigate the suitability of MinION sequencing on Formalin-Fixed Paraffin-Embedded samples, the presence and frequency of BRAF c.1799T&gt;A mutation was investigated in two archival tissue specimens of Hairy cell leukemia and Hairy cell leukemia Variant. Despite the poor quality of the starting DNA, BRAF mutation was successfully detected in the Hairy cell leukemia sample with around 50% of the reads obtained within 2 hours of the sequencing start. Notably, the mutational burden of the Hairy cell leukemia sample as derived from nanopore sequencing proved to be comparable to a sensitive method for the detection of point mutations, namely the Digital PCR, using a validated assay. CONCLUSIONS: Nanopore sequencing can be adopted for targeted sequencing of genetic lesions on critical DNA samples such as those extracted from archival routine Formalin-Fixed Paraffin-Embedded samples. This result let speculating about the possibility that the nanopore sequencing could be trustably</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

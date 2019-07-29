@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:13+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Influence of processing parameters and wood properties on the edge gluing of green Eucalyptus grandis with a one-component PUR adhesive</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Marco</forename>
+                                <surname>Pröller</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forest and Wood Science</orgName>
+                                <orgName type="institution">Stellenbosch University</orgName>
+                                <address>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michela</forename>
+                                <surname>Nocetti</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">CNR -IVALSA</orgName>
+                                <orgName type="institution" key="instit2">Istituto per la Valorizzazione del Legno e delle Specie Arboree</orgName>
+                                <address>
+                                <settlement>Sesto Fiorentino</settlement>
+								<region>FI</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michele</forename>
+                                <surname>Brunetti</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">CNR -IVALSA</orgName>
+                                <orgName type="institution" key="instit2">Istituto per la Valorizzazione del Legno e delle Specie Arboree</orgName>
+                                <address>
+                                <settlement>Sesto Fiorentino</settlement>
+								<region>FI</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Marius-Catalin</forename>
+                                <surname>Barbu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forest and Wood Science</orgName>
+                                <orgName type="institution">Stellenbosch University</orgName>
+                                <address>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Salzburg University of Applied Sciences</orgName>
+                                <address>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Transilvania University of Brasov</orgName>
+                                <address>
+                                    <country key="RO">Romania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Melanie</forename>
+                                <surname>Blumentritt</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forest and Wood Science</orgName>
+                                <orgName type="institution">Stellenbosch University</orgName>
+                                <address>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">C.</forename>
+                                <forename type="middle">Brand</forename>
+                                <surname>Wessels</surname>
+                            </persName>
+                            <contact>
+                                <email>cbw@sun.ac.za</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Forest and Wood Science</orgName>
+                                <orgName type="institution">Stellenbosch University</orgName>
+                                <address>
+                                    <country key="ZA">South Africa</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Influence of processing parameters and wood properties on the edge gluing of green Eucalyptus grandis with a one-component PUR adhesive</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The predominant plantation hardwood species in South Africa Eucalyptus grandis is, despite relatively good strength and stiffness properties, seldom used for lumber production due to low dimensional stability, splitting, and cracking of the wood. As critical defects often develop or aggravate during the drying process, the edge gluing of Eucalyptus grandis lumber in its wet state, before kiln-drying, was considered a potential inhibiting factor for this behaviour. The objective of this study was to determine how certain material and processing variables influence the bond quality of unseasoned, edge-glued, Eucalyptus grandis, using a moisture-curing one-component polyurethane adhesive. The study considered the effect of four parameters, namely wood density, moisture content, adhesive spread rate and pressure, on the shear strength of bondlines. Micro computed tomography scanning was used to observe adhesive penetration behaviour. Overall, the bonding quality was satisfactory proving the feasibility of edge gluing of this wood in the wet state. Multiple ANOVA showed that generally better results were obtained for samples with a higher moisture content of 2 roughly 60% compared to specimens with lower moisture content around fibre saturation point. Results indicated that the lower spread rate tested (150 g m-2) should be preferred to the higher one (250 g m-2), since it will likely give more stable shear strength results and it would be preferable from an economic point of view. Increasing pressure did not increase the shear strength significantly.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

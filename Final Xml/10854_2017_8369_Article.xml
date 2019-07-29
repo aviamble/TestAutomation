@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T11:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Aegle marmelos assisted facile combustion synthesis of multifunctional ZnO nanoparticles: Study of their photoluminescence, photo catalytic and antimicrobial activities</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">C</forename>
+                                <surname>Anupama</surname>
+                            </persName>
+                            <contact>
+                                <email>anupama83@sit.ac.in</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">Siddaganga Institute of Technology</orgName>
+                                <address>
+                                    <postCode>572 103</postCode>
+                                    <settlement>Tumakuru</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Affiliated to Visvesvaraya Technological University</orgName>
+                                <address>
+                                    <region>Belagavi</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Anubhav</forename>
+                                <surname>Kaphle</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology</orgName>
+                                <orgName type="institution">Siddaganga Institute of Technology</orgName>
+                                <address>
+                                    <postCode>572 103</postCode>
+                                    <settlement>Tumakuru</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Affiliated to Visvesvaraya Technological University</orgName>
+                                <address>
+                                    <region>Belagavi</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>							
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Siddaganga Institute of Technology</orgName>
+                                <address>
+                                    <postCode>572 103</postCode>
+                                    <settlement>Tumakuru</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Affiliated to Visvesvaraya Technological University</orgName>
+                                <address>
+                                    <region>Belagavi</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <surname>Udayabhanu</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Siddaganga Institute of Technology</orgName>
+                                <address>
+                                    <postCode>572 103</postCode>
+                                    <settlement>Tumakuru</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Affiliated to Visvesvaraya Technological University</orgName>
+                                <address>
+                                    <region>Belagavi</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>												
+                        <author>
+                            <persName>
+                                <forename type="first">G</forename>
+                                <surname>Nagaraju</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Siddaganga Institute of Technology</orgName>
+                                <address>
+                                    <postCode>572 103</postCode>
+                                    <settlement>Tumakuru</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Affiliated to Visvesvaraya Technological University</orgName>
+                                <address>
+                                    <region>Belagavi</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Aegle marmelos assisted facile combustion synthesis of multifunctional ZnO nanoparticles: Study of their photoluminescence, photo catalytic and antimicrobial activities</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Aegle marmelos</term>
+                    <term>ZnO Nanoparticles</term>
+                    <term>Dye degradation</term>
+                    <term>Antimicrobial activity</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Solution combustion synthesis of multifunctional zinc oxide nanoparticles (ZnO NPs) were synthesized using fruit pulp of Indian bael (Aegle marmelos) as a novel fuel. Crystallite structure, morphology, surface charge and optical properties of the product was studied by employing powder X-ray diffraction, FTIR, UV-Visible, Photoluminescence spectroscopy, SEM and TEM. X-ray diffraction pattern confirms the formation of phase pure hexagonal wurtzite structure with average crystallite size of 20 nm. FTIR spectrum shows a significant Zn-O vibrational band at 440 cm-1. The UV-visible spectrum of the ZnO NPs shows maximum absorbance at around 372 nm. Photoluminescence spectrum shows the presence of defects in ZnO lattice when excited at 325 nm. Purity and surface morphology was confirmed by SEM with EDX. TEM images show the average size of the synthesized particle in the range of 30 nm. UV light-mediated photo catalytic degradation of Methylene blue (MB) dye was performed and shows good activity at pH 9. Antimicrobial assay of the ZnO NPs was examined against three bacterial and two fungal species. Appreciated activity was observed with Gram positive bacterial species. The surface charge of ZnO NPs was confirmed by Zeta sizer, showing the value of-36.9 mV. It supports inhibition of Gram positive bacteria. In general, the method employed here is a greener approach to synthesize multifunctional ZnO NPs with good photo catalytic activity and anti-microbial properties.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

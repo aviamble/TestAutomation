@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Salt tolerance of two perennial grass Brachypodium Sylvaticum accessions</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Nir</forename>
+                                <surname>Sade</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maria</forename>
+								<forename type="middle">Mar</forename>
+                                <forename type="middle">Rubio</forename>
+                                <surname>Wilhelmi</surname>
+                                <particle>del</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaojuan</forename>
+                                <surname>Ke</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yariv</forename>
+                                <surname>Brotman</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Life Sciences</orgName>
+                                <orgName type="institution">Ben Gurion University of the Negev</orgName>
+                                <address>
+                                    <settlement>Beersheva</settlement>
+                                    <country key="IL">Israel</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Matthew</forename>
+                                <surname>Wright</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Imran</forename>
+                                <surname>Khan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Agronomy</orgName>
+                                <orgName type="institution">University of Agriculture</orgName>
+                                <address>
+                                    <settlement>Faisalabad</settlement>
+                                    <country key="PK">Pakistan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wagner</forename>
+                                <surname>Souza</surname>
+                                <particle>De</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Elias</forename>
+                                <surname>Bassil</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Christian</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Tobias</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Western Regional Research Center</orgName>
+                                <orgName type="department" key="dep2">United States Department of Agriculture</orgName>
+                                <orgName type="institution">Agricultural Research Service</orgName>
+                                <address>
+                                    <settlement>Albany</settlement>
+                                    <region>California</region>
+                                    <country>United States of America</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Roger</forename>
+                                <surname>Thilmony</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Western Regional Research Center</orgName>
+                                <orgName type="department" key="dep2">United States Department of Agriculture</orgName>
+                                <orgName type="institution">Agricultural Research Service</orgName>
+                                <address>
+                                    <settlement>Albany</settlement>
+                                    <region>California</region>
+                                    <country>United States of America</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">John</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Vogel</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">DOE Joint Genome Institute</orgName>
+                                <address>
+                                    <addrLine>2800 Mitchell Dr</addrLine>
+                                    <postCode>94598</postCode>
+                                    <settlement>Walnut Creek</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Eduardo</forename>
+                                <surname>Blumwald</surname>
+                            </persName>
+                            <contact>
+                                <email>eblumwald@ucdavis.edu</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Plant Sciences</orgName>
+                                <orgName type="institution">University of California</orgName>
+                                <address>
+                                    <addrLine>1 Shields Ave, Mail Stop 5</addrLine>
+                                    <postCode>95616</postCode>
+                                    <settlement>Davis</settlement>
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Salt tolerance of two perennial grass Brachypodium Sylvaticum accessions</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Brachypodium</term>
+                    <term>salt tolerance</term>
+                    <term>ion homeostasis</term>
+                    <term>perennial grass</term>
+                    <term>biomass crops Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Perennial grasses are widely grown in different parts of the world as an important feedstock for renewable energy. Their perennial nature that reduces management practices and use of energy and agrochemicals give these biomass crops advantages when dealing with modern agriculture challenges such as soil erosion, increase in salinized marginal lands and the runoff of nutrients. Brachypodium sylvaticum is a perennial grass that was recently suggested as a suitable model for the study of biomass plant production and renewable energy. However, its plasticity to abiotic stress is not yet clear. We studied the salt stress tolerance of two accessions isolated from different areas of the world and characterized the mechanism(s) regulating salt stress in B. sylvaticum Osl1, originated from Oslo, Norway and Ain1, originated from Ain-Durham, Tunisia. Osl1 limited sodium transport from root to shoot, maintaining a better K/Na homeostasis and preventing toxicity damage in the shoot. This was accompanied by higher expression of HKT8 and SOS1 transporters in Osl1 as compared to Ain1. In addition, Osl1 salt tolerance was accompanied by higher abundance of the vacuolar proton pump pyrophosphatase and Na + /H + antiporters (NHXs) leading to a better vacuolar pH homeostasis, efficient compartmentation of Na + in the root vacuoles and salt tolerance. Although preliminary, our results further support previous results highlighting the role of Na + transport systems in plant salt tolerance. The identification of salt tolerant and sensitive B. sylvaticum accessions can provide an experimental system for the study of the mechanisms and regulatory networks associated with stress tolerance in perennials grass.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

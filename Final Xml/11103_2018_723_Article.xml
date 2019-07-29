@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T11:38+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A tandem array of UDP-glycosyltransferases from the UGT73C subfamily glycosylate sapogenins, forming a spectrum of mono-and bisdesmosidic saponins</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Pernille</forename>
+                                <forename type="middle">Østerbye</forename>
+                                <surname>Erthmann</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant and Environmental Sciences and Copenhagen Plant Science Center</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                                <address>
+                                    <addrLine>Thorvaldsensvej 40</addrLine>
+                                    <postCode>1871</postCode>
+                                    <settlement>Frederiksberg C</settlement>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Niels</forename>
+                                <surname>Agerbirk</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant and Environmental Sciences and Copenhagen Plant Science Center</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                                <address>
+                                    <addrLine>Thorvaldsensvej 40</addrLine>
+                                    <postCode>1871</postCode>
+                                    <settlement>Frederiksberg C</settlement>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Søren</forename>
+                                <surname>Bak</surname>
+                            </persName>
+                            <contact>
+                                <email>bak@plen.ku.dk</email>
+								<phone>(+45) 35 33 33 46</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Plant and Environmental Sciences and Copenhagen Plant Science Center</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                                <address>
+                                    <addrLine>Thorvaldsensvej 40</addrLine>
+                                    <postCode>1871</postCode>
+                                    <settlement>Frederiksberg C</settlement>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A tandem array of UDP-glycosyltransferases from the UGT73C subfamily glycosylate sapogenins, forming a spectrum of mono-and bisdesmosidic saponins</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*corresponding author: Author contributions Conceived research: PØE, SB. Planned experiments: All. Carried out research and analyzed data: PØE supervised by NA and SB. Wrote draft: PØE. Wrote paper: All. Acknowledgements</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

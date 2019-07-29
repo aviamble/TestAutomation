@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Genetically encoded amino acids with tert-butyl and trimethylsilyl groups for site-selective studies of proteins by NMR spectroscopy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Choy</forename>
+                                <forename type="middle">Theng</forename>
+                                <surname>Loh</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Research School of Chemistry</orgName>
+                                <orgName type="institution">Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <region>ACT</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Zhejiang Provincial Key Laboratory of Chemical and Biological Processing Technology of Farm Products</orgName>
+                                <orgName type="institution">Zhejiang University of Science and Technology</orgName>
+                                <address>
+                                    <postCode>310023</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Luke</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Adams</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName key="dep1" type="department">Medicinal Chemistry</orgName>
+                                <orgName key="dep2" type="department">Monash Institute of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Monash University</orgName>
+                                <address>
+                                    <postCode>3052</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>VIC</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bim</forename>
+                                <surname>Graham</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName key="dep1" type="department">Medicinal Chemistry</orgName>
+                                <orgName key="dep2" type="department">Monash Institute of Pharmaceutical Sciences</orgName>
+                                <orgName type="institution">Monash University</orgName>
+                                <address>
+                                    <postCode>3052</postCode>
+                                    <settlement>Parkville</settlement>
+                                    <region>VIC</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gottfried</forename>
+                                <surname>Otting</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Research School of Chemistry</orgName>
+                                <orgName type="institution">Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <region>ACT</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Genetically encoded amino acids with tert-butyl and trimethylsilyl groups for site-selective studies of proteins by NMR spectroscopy</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The amino acids 4-(tert-butyl)phenylalanine (Tbf) and 4-(trimethylsilyl)phenylalanine (TMSf), as well as a partially deuterated version of Tbf (dTbf), were chemically synthesized and site-specifically incorporated into different proteins, using an amber stop codon, suppressor tRNA and the broadband aminoacyl-tRNA synthetase originally evolved for the incorporation of p-cyano-phenylalanine. The 1 H-NMR signals of the tert-butyl and TMS groups were compared to the 1 H-NMR signal of tert-butyltyrosine (Tby) in protein systems with molecular weights ranging from 8 to 54 kDa. The 1 H-NMR resonance of the TMS group appeared near 0 ppm in a spectral region with few protein resonances, facilitating the observation of signal changes in response to ligand binding. In all proteins, the R 2 relaxation rate of the tert-butyl group of Tbf was only little greater than that of Tby (less than twofold). Deuteration of the phenyl ring of Tbf made only a relatively small difference. The effective T 2 relaxation time of the TMS signal was longer than 140 ms even in the 54 kDa system. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

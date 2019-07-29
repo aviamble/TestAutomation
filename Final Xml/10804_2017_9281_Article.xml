@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T09:06+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Leadership Developmental Level and Performance: An Investigation Of Gender Differences</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Karl</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Kuhnert</surname>
+                            </persName>
+                            <contact>
+                                <email>kkuhnert3@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Organization and Management</orgName>
+                                <orgName type="institution">Goizueta Business School Emory University</orgName>
+                                <address>
+                                    <postCode>30322</postCode>
+                                    <settlement>Atlanta</settlement>
+                                    <region>GA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Organization and Management</orgName>
+                                <orgName type="institution">Emory University</orgName>
+                                <address>
+                                    <postCode>30322</postCode>
+                                    <settlement>Atlanta</settlement>
+                                    <region>GA</region>
+                                </address>
+                            </affiliation>
+                        </author>						
+                        <title level="a" type="main">Leadership Developmental Level and Performance: An Investigation Of Gender Differences</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Running head: LEADERSHIP DEVELOPMENTAL LEVEL AND GENDER DIFFERENCES Correspondence should be for her assistance on an earlier draft of the manuscript. 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>This study investigates the predictive ability of Leadership Developmental Levels</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

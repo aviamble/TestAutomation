@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Expression of DHA-metabolizing enzyme Alox15 is regulated by selective histone acetylation in neuroblastoma cells</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Christabel</forename>
+                                <forename type="middle">Fung-Yih</forename>
+								<surname>Ho</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>119260</postCode>
+                                    <country>Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Claire</forename>
+                                <forename type="middle">Poh-Ee</forename>
+                                <surname>Bon</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>119260</postCode>
+                                    <country>Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yee-Kong</forename>
+                                <surname>Ng</surname>
+                            </persName>
+							 <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>119260</postCode>
+                                    <country>Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Deron</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Herr</surname>
+                            </persName>
+                            
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Pharmacology</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>119260</postCode>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jui-Sheng</forename>
+                                <surname>Wu</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Graduate Institute of Life Sciences</orgName>
+                                <orgName type="institution">National Defense Medical Center</orgName>
+                                <address>
+                                    <settlement>Taipei</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Teng-Nan</forename>
+                                <surname>Lin</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Graduate Institute of Life Sciences</orgName>
+                                <orgName type="institution">National Defense Medical Center</orgName>
+                                <address>
+                                    <settlement>Taipei</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Institute of Biomedical Sciences</orgName>
+                                <orgName type="institution">Academia Sinica</orgName>
+                                <address>
+                                    <settlement>Taipei</settlement>
+                                    <country key="TW">Taiwan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Wei-Yi</forename>
+                                <surname>Ong</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>wei_yi_ong@nuhs.edu.sg</email>
+                                <phone>(+65) 65163662</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>119260</postCode>
+                                    <country>Singapore</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Neurobiology and Ageing Research Programme</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>117456</postCode>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff6">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <postCode>117594</postCode>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						
+                        <title level="a" type="main">Expression of DHA-metabolizing enzyme Alox15 is regulated by selective histone acetylation in neuroblastoma cells</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Running title: Epigenetic regulation of Alox15 in SH-SY5Y Cells and Primary Neurons # Equal contribution * Correspondence to:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The omega-3 polyunsaturated fatty acid, docosahexaenoic acid (DHA) is enriched in neural membranes of CNS, and recent studies have shown a role of DHA metabolism by 15-lipoxygenase-1 (Alox15) in prefrontal cortical resolvin D1 formation, hippocampo-prefrontal cortical long-term-potentiation, spatial working memory, and anti-nociception / anxiety. In this study, we elucidated epigenetic regulation of Alox15 via histone modifications in neuron-like cells. Treatment of undifferentiated SH-SY5Y human neuroblastoma cells with the histone deacetylase (HDAC) inhibitors trichostatin A (TSA) and sodium butyrate significantly increased Alox15 mRNA expression. Alox15 expression was also increased by Class I HDAC inhibitors, MS-275 and depsipeptide. Co-treatment of undifferentiated SH-SY5Y cells with the p300 histone acetyltransferase (HAT) inhibitor C646 and TSA or sodium butyrate showed p300 HAT inhibition modulated in TSA or sodium butyrate-induced Alox15 upregulation. Differentiation of SH-SY5Y cells with retinoic acid resulted in increased Alox15 mRNA expression, while co-treatment with C646 p300 HAT inhibitor and retinoic acid modulated the increase, indicating a role of p300 HAT in differentiation-associated Alox15 upregulation. Increasing Alox15 expression was found in primary murine cortical neurons during development from 3 to 10 days-in-vitro, reaching high levels of expression by 10 days-in-vitro-when Alox15 was not further upregulated by HDAC inhibition. Together, results indicate regulation of Alox15 mRNA expression in neuroblastoma cells by histone modifications, and increasing Alox15 expression in differentiating neurons. We postulate that one of the environmental influences on the immature brain, that can affect cognition and memory, may take the form of epigenetic effects on Alox15 and metabolites of DHA. Keywords: Epigenetic effects; histone acetylation; Alox15, DHA, brain development Introduction There has been much recent interest in the omega-3 polyunsaturated fatty acid (PUFA) docosahexaenoic acid (DHA) due to its reported anti-inflammatory [1] and neuroprotective roles [2], as well as effects on cognition and behavior [3,4]. Many</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

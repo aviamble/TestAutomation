@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T06:11+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Study of Adenylyl Cyclase-GaS interactions and identification of novel AC ligands</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Appalaraju</forename>
+                                <surname>Jaggupilli</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                             <orgName type="institution">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Oral Biology</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+                                <address>
+                                    <postCode>R3E 0W4</postCode>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Premnath</forename>
+                                <surname>Dhanaraj</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Oral Biology</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+                                <address>
+                                    <postCode>R3E 0W4</postCode>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alexander</forename>
+                                <surname>Pritchard</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+                                <address>
+                                    <postCode>R3T 2N2</postCode>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">John</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Sorensen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+                                <address>
+                                    <postCode>R3T 2N2</postCode>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shyamala</forename>
+                                <surname>Dakshinamurti</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Departments of Pediatrics, Physiology</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+							</affiliation>
+                            <affiliation key="aff5">							
+								<orgName type="department">Biology of Breathing</orgName>
+                                <orgName type="institution">Children&apos;s Hospital Research Institute of Manitoba (CHRIM)</orgName>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Prashen</forename>
+                                <surname>Chelikani</surname>
+                            </persName>
+                            <contact>
+                                <email>Prashen.Chelikani@umanitoba.ca</email>
+								<phone>204-789-3539</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Oral Biology</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+                                <address>
+                                    <postCode>R3E 0W4</postCode>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">							
+								<orgName type="department">Biology of Breathing</orgName>
+                                <orgName type="institution">Children&apos;s Hospital Research Institute of Manitoba (CHRIM)</orgName>
+                            </affiliation>
+							<affiliation key="aff6">
+							<orgName type="department" key="dep1">Department of Oral Biology</orgName>
+							<orgName type="department" key="dep2">Manitoba Chemosensory Biology (MCSB) Research Group</orgName>
+							<orgName type="institution">University of Manitoba</orgName>
+							<address>
+                                    <postCode>R3E 0W4</postCode>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                            </address>
+							</affiliation>
+                        </author>
+                        <title level="a" type="main">Study of Adenylyl Cyclase-GaS interactions and identification of novel AC ligands</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Correspondent Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Adenylyl cyclases (ACs) are membrane bound enzymes that catalyze the production of cAMP from ATP in response to the activation by G-protein G?s. Different isoforms of ACs are ubiquitously expressed in different tissues involved in regulatory mechanisms in response to specific stimulants. There are 9 AC isoforms present in humans, with AC5 and AC6 proposed to play a vital role in cardiac functions. The activity of AC6 is sensitive to nitric oxide, such that nitrosylation of the protein might regulate its function. However, the information on structural determinants of nitrosylation in ACs and how they interact with G?s is limited. Here we used homology modeling to build a molecular model of human AC6 bound to G?s. Based on this 3D model, we predict the nitrosylation amenable cysteines, and identify potential novel ligands of AC6 using virtual ligand screening. Our model suggests, Cys1004 in AC6 (subunit C2) and Cys174 in G?s present at the AC-G?s interface as the possible residues that might undergo</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

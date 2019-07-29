@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T06:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">How to respond to resistiveness towards assistive technologies among persons with dementia Title: How to respond to resistiveness towards assistive technologies among persons with dementia</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Anders</forename>
+                                <surname>Nordgren</surname>
+                            </persName>
+                            <contact>
+                                <email>anders.nordgren@liu.se</email>
+                                <phone>+46 13 284721</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre for Applied Ethics</orgName>
+                                <orgName type="institution">Linköping University</orgName>
+                                <address>
+                                    <postCode>581 83</postCode>
+                                    <settlement>Linköping</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">How to respond to resistiveness towards assistive technologies among persons with dementia Title: How to respond to resistiveness towards assistive technologies among persons with dementia</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Address:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>assistive technologies</term>
+                    <term>autonomy</term>
+                    <term>best interest</term>
+                    <term>dementia</term>
+                    <term>nudging</term>
+                    <term>resistiveness Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>It is a common experience among care professionals that persons with dementia often say &apos;no&apos; to conventional caring measures such as taking medication, eating or having a shower. This tendency to say &apos;no&apos; may also concern the use of assistive technologies such as fall detectors, mobile safety alarms, Internet for social contact and robots. This paper provides practical recommendations for care professionals in home health care and social care about how to respond to such resistiveness towards assistive technologies. Apart from the option of accepting the &apos;no&apos;, it discusses a number of methods for influencing persons with dementia in order to overcome the &apos;no&apos;. These methods range from various non-coercive measures– including nudging–to coercion. It is argued that while conventional caring measures like those mentioned are essential for survival, health or hygiene, assistive technologies are commonly merely potentially beneficial supplements. With this in mind, it is concluded that care professionals should be more restrictive in using methods of influence involving some degree of pressure regarding assistive technologies than regarding conventional caring measures.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

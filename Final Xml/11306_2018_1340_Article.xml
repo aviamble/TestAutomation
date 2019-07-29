@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-05T08:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">NIST Lipidomics Workflow Questionnaire: An Assessment of Community-Wide Methodologies and Perspectives Metabolomics: Short Communication</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">John</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Bowden</surname>
+                            </persName>
+                            <contact>
+                                <email>john.bowden@nist.gov</email>
+                                <phone>843-725-4820</phone>
+                            </contact>
+                            <affiliation key="aff1">
+							    <orgName type="department">Hollings Marine Laboratory</orgName>
+                                <orgName type="institution" key="instit1">Marine Biochemical Sciences Group</orgName>
+                                <orgName type="institution" key="instit2">National Institute of Standards and Technology</orgName>
+                                <address>
+                                    <addrLine>331 Fort Johnson Road</addrLine>
+                                    <postCode>29412</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Candice</forename>
+                                <forename type="middle">Z.</forename>
+                                <surname>Ulmer</surname>
+                            </persName>
+                            <affiliation key="aff1">
+							    <orgName type="department">Hollings Marine Laboratory</orgName>
+                                <orgName type="institution" key="instit1">Marine Biochemical Sciences Group</orgName>
+                                <orgName type="institution" key="instit2">National Institute of Standards and Technology</orgName>
+                                <address>
+                                    <addrLine>331 Fort Johnson Road</addrLine>
+                                    <postCode>29412</postCode>
+                                    <settlement>Charleston</settlement>
+                                    <region>SC</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Christina</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Jones</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">National Institute of Standards and Technology</orgName>
+                                <orgName type="institution" key="instit2">Organic Chemical Measurement Science Group</orgName>
+                                <address>
+                                    <addrLine>100 Bureau Drive</addrLine>
+                                    <postCode>20899</postCode>
+                                    <settlement>Gaithersburg</settlement>
+                                    <region>MD</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jeremy</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Koelmel</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Florida</orgName>
+                                <address>
+                                    <addrLine>214 Leigh Hall</addrLine>
+                                    <postCode>32611</postCode>
+                                    <settlement>Gainesville</settlement>
+                                    <region>Florida</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Richard</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Yost</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Florida</orgName>
+                                <address>
+                                    <addrLine>214 Leigh Hall</addrLine>
+                                    <postCode>32611</postCode>
+                                    <settlement>Gainesville</settlement>
+                                    <region>Florida</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">NIST Lipidomics Workflow Questionnaire: An Assessment of Community-Wide Methodologies and Perspectives Metabolomics: Short Communication</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*To whom correspondence should be addressed:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Lipidomics</term>
+                    <term>Lipids</term>
+                    <term>Questionnaire</term>
+                    <term>Survey</term>
+                    <term>Quantitation</term>
+                    <term>Quality Control</term>
+                    <term>Methodology</term>
+                    <term>Harmonization</term>
+                    <term>NIST</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Introduction Efforts to harmonize lipidomic methodologies have been limited within the community. Here, we aimed to capitalize on the recent National Institute of Standards and Technology (NIST) lipidomics interlaboratory comparison exercise by implementing a questionnaire that assessed current methodologies, quantitation strategies, standard operating procedures (SOPs), and quality control activities employed by the lipidomics community. Objectives Lipidomics is a rapidly developing field with diverse applications. At present, there are no community-vetted methods to assess measurement comparability or data quality. Thus, a major impetus of this questionnaire was to profile current efforts, highlight areas of need, and establish future objectives in an effort to harmonize lipidomics workflows. Methods The 54-question survey inquired about laboratory demographics, lipidomic methodologies and SOPs, analytical platforms, quantitation, reference materials, quality control procedures, and opinions regarding challenges existing within the community. Results A total of 125 laboratories participated in the questionnaire. A broad overview of results highlighted a wide methodological diversity within current lipidomic workflows. The impact of this diversity on lipid measurement and quantitation is currently unknown and needs to be explored further. While some laboratories do incorporate SOPs and quality control activities, these concepts have not been fully embraced by the community. The top five perceived challenges within the lipidomics community were a lack of standardization amongst methods/protocols, lack of lipid standards, software/data handling and quantification, and over-reporting/false positives. Conclusion The questionnaire provided an overview of current lipidomics methodologies and further promoted the need for community-accepted guidelines and protocols. The questionnaire also served as a platform to help determine and prioritize metrological issues to be investigated. Introduction: Over the past decade, innovative lipidomic analyses have emerged as an increasingly beneficial strategy for a variety of applications, including those associated with clinical and health biomarker discovery. To date, there are no community-wide established guidelines, protocols, or best practices for lipidomics. A few efforts to harmonize methodologies have been initiated. For example, the 2011 LIPID Metabolites and Pathways Strategy (LIPID MAPS) consortium analysis of Standard Reference Material (SRM) 1950 Metabolites in Frozen Human Plasma (Quehenberger et al., 2010) and the 2017 National Institute of Standards and Technology (NIST) Lipidomics Interlaboratory Comparison Exercise (Bowden et al., 2017a, Bowden et al., 2017b) have provided benchmark lipid values to help improve community-wide harmonization efforts. The latter study also helped determine the extent of variability present in lipidomic measurement within the community. Other efforts include proposed lipid nomenclature (Fahy et al., 2005) and shorthand notation of lipids (Liebisch et al., 2013, Koelmel et al., 2017); however, all aspects of the lipidomics workflow warrant consideration for harmonization, including pre-analytical strategies, lipid extraction, analyte separation, mass spectrometric detection, data handling, quality control, quantitation, statistical analysis, biological interpretation, and data dissemination. We aimed to mirror recent efforts in the metabolomics community (Dunn et al., 2017) by implementing a questionnaire to 1) profile the methodological diversity within a large cohort of the lipidomics community, 2) assess metrological aspects and needs not fully covered in the NIST comparison exercise (e.g., quantitation and quality control), and 3) prioritize future metrological efforts needed in lipidomics. Method Information: Between May and August of 2017, NIST conducted a questionnaire within the lipidomics community. Survey invitations were sent to 322 laboratories and advertised at international conferences. In total, 39 % of invited laboratories participated (125 in total). The results from the survey are briefly described below, with a more detailed and visual description of all questions and responses provided in the supplemental materials. The data is either presented as a percentage (total number of responses divided by the total number of laboratories responding) or as a total count (number of laboratories that answered with a specific response). Note that for most questions, more than one answer could be selected by each respondent. The questionnaire information was collected under Office of Management and Budget (OMB) Control #0693-0033 – NIST Generic Clearance for Program Evaluation Data Collection and was executed using SurveyMonkey. The survey was comprised of 54 questions, targeting information about the laboratory cohort, lipidomic methodology, quantitation practices, and protocols related to quality control. Most of the questions provided were multiple choice, with the opportunity to select &apos;other&apos; and write-in a different response or explain further. Results and Discussion: A major step toward harmonization is the implementation of a workflow that the community can employ to ensure all laboratories achieve the same result (Plebani, 2016). Outlined by Tate et al. (Tate and Myers, 2016), the basic steps toward harmonization generally include 1) instilling community awareness of the need for harmonization, 2) defining the areas of the lipidomics workflow that need harmonization, and 3) engaging the community with activities focused on further defining or ameliorating issues with harmonization. In addition, continuous communication with the community at large during the harmonization process is important to ensure acceptance and implementation of the suggestions. The questionnaire and results described herein attempt to fulfill these steps and address the overall need for community-wide harmonization. More</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

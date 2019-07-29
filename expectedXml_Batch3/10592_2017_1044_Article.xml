@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T11:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Population genetic patterns in an irruptive species, the long-nosed bandicoot (Perameles nasuta)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Piggott</surname>
+                            </persName>
+                            <contact>
+                                <email>maxine.piggott@anu.edu.au</email>
+                            </contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department">Fenner School of Environment and Society</orgName>
+                                <orgName type="institution">The Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Banks</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Fenner School of Environment and Society</orgName>
+                                <orgName type="institution">The Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">C.</forename>
+                                <surname>MacGregor</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Fenner School of Environment and Society</orgName>
+                                <orgName type="institution">The Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">D.</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Lindenmayer</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Fenner School of Environment and Society</orgName>
+                                <orgName type="institution">The Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Long-term Ecological Research Network</orgName>
+                                <orgName type="department" key="dep2">Terrestrial Ecosystem Research Network</orgName>
+                                <orgName type="institution">The Australian National University</orgName>
+                                <address>
+                                    <postCode>2601</postCode>
+                                    <settlement>Canberra</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maxine</forename>
+                                <surname>Piggott</surname>
+                            </persName>					
+                        </author>													 
+                        <title level="a" type="main">Population genetic patterns in an irruptive species, the long-nosed bandicoot (Perameles nasuta)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Correspondence: Acknowledgements This project was supported by grants by the Australian Research Council. We thank the Wreck Bay Aboriginal Community for supporting this research. We also thank Parks Australia and Long Term Ecological Research Network for their support.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>genetic diversity</term>
+                    <term>Perameles nasuta</term>
+                    <term>bandicoot</term>
+                    <term>population structure</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Understanding the genetic diversity of a population is important for understanding population persistence and extinction risk. The long-nosed bandicoot (Perameles nasuta) was once regarded as common throughout its range, but it is unknown whether it is at risk of decline and the genetic diversity in this species has not been assessed. We evaluated the genetic structure and diversity of a P. nasuta population from samples collected during a six-year demographic study that encompassed a cyclical fluctuation in abundance. Genetic diversity was higher compared to other studies on bandicoot species suggesting the population is not genetically impoverished.. We detected significant temporal genetic differentiation suggesting turnover of genotypes. There was no strong evidence for population structuring, indicating a panmictic population. Individual-based spatial autocorrelation analysis generated a similar pattern of relatedness across geographical distances for both sexes suggesting no or limited sex-biased dispersal. This study provides useful baseline genetic data for a large P. nasuta population that is not significantly impacted by introduced predators or habitat destruction. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

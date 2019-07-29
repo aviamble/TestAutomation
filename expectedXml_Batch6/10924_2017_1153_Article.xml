@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T07:29+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Preparation and determination of antimicrobial property of cation-exchanged Ecuadorian natural zeolite to be used as filler for polyethylene and polypropylene matrices</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Haci</forename>
+                                <surname>Baykara</surname>
+                            </persName>
+                            <contact>
+                                <email>hacibaykara@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ingeniería Mecánica y Ciencias de la Producción</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Center of Nanotechnology Research and Development (CIDNA)</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mauricio</forename>
+                                <forename type="middle">Cornejo</forename>
+                                <surname>Martinez</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ingeniería Mecánica y Ciencias de la Producción</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Center of Nanotechnology Research and Development (CIDNA)</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Denis</forename>
+                                <forename type="middle">Viera</forename>
+                                <surname>Rey</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Center of Nanotechnology Research and Development (CIDNA)</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Diego</forename>
+                                <forename type="middle">Sánchez</forename>
+                                <surname>Urbina</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Center of Nanotechnology Research and Development (CIDNA)</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Cecilia</forename>
+                                <surname>Paredes</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ingeniería Mecánica y Ciencias de la Producción</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andres</forename>
+                                <surname>Rigail</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ingeniería Mecánica y Ciencias de la Producción</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maria</forename>
+                                <forename type="middle">Olivia</forename>
+                                <surname>Aviles</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Facultad de Ingeniería Mecánica y Ciencias de la Producción</orgName>
+                                <orgName type="institution">Escuela Superior Politécnica del Litoral</orgName>
+                                <address>
+                                    <addrLine>ESPOL, Campus Gustavo Galindo km. 30.5 Vía Perimetral</addrLine>
+                                    <postBox>P.O. Box 09-01-5863</postBox>
+                                    <settlement>Guayaquil</settlement>
+                                    <country key="EC">Ecuador</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Preparation and determination of antimicrobial property of cation-exchanged Ecuadorian natural zeolite to be used as filler for polyethylene and polypropylene matrices</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Zeolites are crystalline aluminosilicates with nanoporous structure, tasteless and non-toxic materials. In this study, silver ion-exchanged zeolite, which was prepared from the natural Ecuadorian zeolites was used as reinforcement material in low-density polyethylene (LDPE) and polypropylene (PP). Polymers were filled with 1%, 2% and 3 w.t% concentrations of natural zeolite (Z) and silver ion exchanged zeolite (ZA). Zeolites and composites were characterized by X-ray diffractometry (XRD), Fourier Transform Infrared Spectroscopy (FTIR), scanning electron microscope (SEM), thermogravimetric analysis (TGA) and mechanical analysis techniques. Microbiological analysis of silver ion exchanged zeolite showed effective antibacterial property against Escherichia coli bacteria. PP/ZA composite showed large increase in Young modulus and tensile strength in all mixes comparing to pure PP. ZAPE2 and</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+	<text xml:lang="en"></text>
+</TEI>

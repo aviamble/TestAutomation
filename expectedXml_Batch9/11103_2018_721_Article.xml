@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T11:16+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Proteomic and physiological analyses reveal the role of exogenous spermidine on cucumber roots in response to Ca(NO 3 ) 2 stress Running title: Proteomic analysis with Ca(NO 3 ) 2 and/or spermidine</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jing</forename>
+                                <surname>Du</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution" key="instit1">Taizhou Research Institute</orgName>
+                                <orgName type="institution" key="instit2">Jiangsu Academy Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>225300</postCode>
+                                    <settlement>Taizhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">College of Horticulture</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Southern Vegetable Crop Genetic Improvement</orgName>
+                                <orgName type="department" key="dep3">Ministry of Agriculture</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Shirong</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <contact>
+                                <email>srguo@njau.edu.cn</email>
+								<phone>+86 02584395267</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">College of Horticulture</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Southern Vegetable Crop Genetic Improvement</orgName>
+                                <orgName type="department" key="dep3">Ministry of Agriculture</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jin</forename>
+                                <surname>Sun</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">College of Horticulture</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Southern Vegetable Crop Genetic Improvement</orgName>
+                                <orgName type="department" key="dep3">Ministry of Agriculture</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sheng</forename>
+                                <surname>Shu</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">College of Horticulture</orgName>
+                                <orgName type="department" key="dep2">Key Laboratory of Southern Vegetable Crop Genetic Improvement</orgName>
+                                <orgName type="department" key="dep3">Ministry of Agriculture</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <postCode>210095</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Horticulture</orgName>
+                                <orgName type="institution">Nanjing Agricultural University</orgName>
+                                <address>
+                                    <addrLine>210095</addrLine>
+                                    <settlement>Nanjing</settlement>									
+                                    <country key="CN">P.R.China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Proteomic and physiological analyses reveal the role of exogenous spermidine on cucumber roots in response to Ca(NO 3 ) 2 stress Running title: Proteomic analysis with Ca(NO 3 ) 2 and/or spermidine</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author: Abbreviations 2-DE, two-dimensional electrophoresis; AKR4C9, Aldo-keto reductase family 4 member C9-like; APX, ascorbate peroxidase; AsA, ascorbate; AXS, UDP-D-apiose/UDP-D-xylose synthase; CyP, cysteine proteinase RD21a; DapF, diaminopimelate epimerase; EIF, eukaryotic translation initiation factor 3 subunit protein; HSP70, heat shock 70kDa protein; LC-MS/MS, liquid chromatography coupled to tandem mass spectrometry; MDA, malondialdehyde; MDHAR, monodehydroascorbate reductase; MG, methylglyoxal; PAs, polyamines; PDI, protein disulfide-isomerase-like; POD, peroxidase; Prx2F, peroxiredoxin-2F; Put, putrescine; RNAP II, RNA polymerase II transcription subunit 37e-like proteins; SAH, S-adenosyl-L-homo-Cys; SAM, S-adenosyl-L-Met; Spd, spermidine; Spm, spermine;</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Highlights ? The mechanism of exogenous Spd-induced Ca(NO 3) 2 stress tolerance in cucumber was studied by proteomics and physiological analyses. ? Protein-protein interaction network revealed 13 key proteins involved in Spd-induced Ca(NO 3) 2 stress resistance.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

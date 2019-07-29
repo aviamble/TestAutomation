@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effect of rod-to-grain angle on capacity and stiffness of axially and laterally loaded long threaded rods in timber joints</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Martin</forename>
+                                <surname>Cepelka</surname>
+                            </persName>
+                            <contact>
+                                <email>martin.cepelka@ntnu.no</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Structural Engineering</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <addrLine>Rich. Birkelandsvei 1A</addrLine>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Kjell</forename>
+                                <forename type="middle">Arne</forename>
+                                <surname>Malo</surname>
+                            </persName>
+                            <contact>
+                                <email>kjell.malo@ntnu.no</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Structural Engineering</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <addrLine>Rich. Birkelandsvei 1A</addrLine>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="3">
+                            <persName>
+                                <forename type="first">Haris</forename>
+                                <surname>Stamatopoulos</surname>
+                            </persName>
+                            <contact>
+                                <email>haris.stamatopoulos@ntnu.no</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Structural Engineering</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <addrLine>Rich. Birkelandsvei 1A</addrLine>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effect of rod-to-grain angle on capacity and stiffness of axially and laterally loaded long threaded rods in timber joints</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Long threaded rods have recently been widely used as a reinforcement of glued laminated timber in perpendicular to the grain direction. The recent research has thus focused mainly on the withdrawal properties of the threaded rods in the axial direction. Utilizing their large withdrawal stiffness and strength, the threaded rods can also effectively be used as connectors in moment resisting timber joints. Yet, in joints, the threaded rods are often imposed to a non-axial loading, due to inclination of the rod axis to the grain as well as loading direction different from the rod axis. No design models are currently available for the combined axial and lateral loading of the threaded rods. In the present work, the effects of the rod-to-grain and load-to-rod angles on capacity and stiffness of the threaded rods are investigated by use of experiments and finite element models. Based on those, analytical expressions for determining stiffness and capacity of axially and laterally loaded threaded rods are proposed, intended as a basis for practical joint design. Furthermore, effect of various boundary conditions applied at the rod-ends is studied. 1. Introduction The recently erected 14-storey timber building in Bergen in Norway – Treet, demonstrates new possibilities in the modern timber engineering design (Malo et al. 2016). The load-bearing structure consists of glulam column-beam trusses with slotted-in steel plates and dowels used in joints. The stability of the structure is ensured by diagonal components in the trusses. Alternatively, the horizontal stiffness of buildings can be enhanced by increased rotational stiffness in joints that also enables larger spans between columns. Compared to buildings made of massive cross-laminated panels (CLT), the glulam frames provide an open interior and thus more flexibility for architects and building owners. Joints with large rotational stiffness can be obtained by use of long threaded rods (Malo and Stamatopoulos 2016). The rods are often inclined with respect to grains, as illustrated in Fig. 1. This allows accommodating longer rods in columns, and decreases risk for loss of capacity in beams, due to longitudinal shrinkage cracks in close proximity to the rods. The long threaded rods feature high withdrawal stiffness and capacity in the axial direction. However, the inclination of the rods, as well as simultaneous bending and shear actions in the joints, results in combined axial and lateral loading of the rods, which decreases their capacity and stiffness. Therefore, the designer must choose an optimal inclination of the rods. Currently, there are no available models for long threaded rods accounting for combined axial and lateral loading. The withdrawal properties of long threaded rods for pure axial load were studied by Blaß and Krüger (2010) and Stamatopoulos and Malo (2015; 2016). Several studies were conducted for timber-to-timber joints with inclined self-tapping screws (see e.g. Bejtka and Blaß 2002; Tomasi et al. 2010; Jockwer et al. 2014). In addition, few design guidelines generally valid for screws are given by Eurocode 5 (CEN 2004).</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

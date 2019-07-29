@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:07+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effect of storage on oxidation stability of essential oils derived from culinary herbs and spices</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ayeza</forename>
+                                <surname>Naeem</surname>
+                            </persName>
+                            <contact>
+                                <email>ayeza.naeem@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Microbiology</orgName>
+                                <orgName type="institution">University of Karachi</orgName>
+                                <address>
+                                    <postCode>75270</postCode>
+                                    <settlement>Karachi</settlement>
+                                    <country key="PK">Pakistan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tanveer</forename>
+                                <surname>Abbas</surname>
+                            </persName>
+                            <contact>
+                                <email>taabbas@uok.edu.pk</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Microbiology</orgName>
+                                <orgName type="institution">University of Karachi</orgName>
+                                <address>
+                                    <postCode>75270</postCode>
+                                    <settlement>Karachi</settlement>
+                                    <country key="PK">Pakistan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tahira</forename>
+                                <forename type="middle">Mohsin</forename>
+                                <surname>Ali</surname>
+                            </persName>
+                            <contact>
+                                <email>tahira.mohsin@uok.edu.pk</email>
+                            </contact>
+                            
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Food Science and Technology</orgName>
+                                <orgName type="institution">University of Karachi</orgName>
+                                <address>
+                                    <postCode>75270</postCode>
+                                    <settlement>Karachi</settlement>
+                                    <country key="PK">Pakistan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Abid</forename>
+                                <surname>Hasnain</surname>
+                            </persName>
+                            <contact>
+                                <email>abidhasnain@hotmail.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Food Science and Technology</orgName>
+                                <orgName type="institution">University of Karachi</orgName>
+                                <address>
+                                    <postCode>75270</postCode>
+                                    <settlement>Karachi</settlement>
+                                    <country key="PK">Pakistan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effect of storage on oxidation stability of essential oils derived from culinary herbs and spices</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author: Acknowledgments</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Essential oils · Peroxide value · TBARS value · p-anisidine value · Correlation</keywords>
+            </textClass>
+            <abstract>
+                <p>Oxidation stability of essential oils isolated from different herbs and spices was observed during 10 weeks at 10°C. The progression in hydroperoxides which was exhibited by the increase in peroxide values (PV) (p?0.05) was observed in all essential oils with the increase in shelf life. Amongst all tested essential oils, EC showed the highest preventive capacity against lipid oxidation. Similarly, elevated levels of thiobarbituric acid reactive substances (TBARS) and p-anisidine (AnV) of essential oils were observed when shelf duration progressed (p?0.05). The essential oil of EC also showed the highest antioxidative potential during the study and a negative correlation with the lipid oxidation studies was observed. Practical applications Lipid-based foods are vulnerable to oxidation which leaves them off-odour and simultaneously decrease in nutritional attributes. Therefore, the application of natural antioxidants such as essential oils can be a potent substitute to reduce the rate of lipid oxidation and rancidity of food items during prolonged shelf life. Prior to addition of these antioxidant rich essential oils, it is necessary to assess the oxidation behavior of these essences to determine their anti-peroxidative mechanism when incorporated in food matrices.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

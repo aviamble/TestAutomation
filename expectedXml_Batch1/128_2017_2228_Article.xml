@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:40+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Photoenhanced Toxicity of Weathered Crude Oil in Sediment and Water to Larval Zebrafish</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mace</forename>
+                                <forename type="middle">G</forename>
+                                <surname>Barron</surname>
+                            </persName>
+                           
+                            <affiliation key="aff1">
+                                <orgName type="department">Gulf Ecology Division</orgName>
+                                <orgName type="institution">U.S. Environmental Protection Agency</orgName>
+                                <address>
+                                    <addrLine>1 Sabine Island Drive</addrLine>
+                                    <postCode>32561</postCode>
+                                    <settlement>Gulf Breeze</settlement>
+                                    <region>FL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Julie</forename>
+                                <surname>Krzykwa</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Gulf Ecology Division</orgName>
+                                <orgName type="institution">U.S. Environmental Protection Agency</orgName>
+                                <address>
+                                    <addrLine>1 Sabine Island Drive</addrLine>
+                                    <postCode>32561</postCode>
+                                    <settlement>Gulf Breeze</settlement>
+                                    <region>FL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Crystal</forename>
+                                <forename type="middle">R</forename>
+                                <surname>Lilavois</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Gulf Ecology Division</orgName>
+                                <orgName type="institution">U.S. Environmental Protection Agency</orgName>
+                                <address>
+                                    <addrLine>1 Sabine Island Drive</addrLine>
+                                    <postCode>32561</postCode>
+                                    <settlement>Gulf Breeze</settlement>
+                                    <region>FL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sandy</forename>
+                                <surname>Raimondo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Gulf Ecology Division</orgName>
+                                <orgName type="institution">U.S. Environmental Protection Agency</orgName>
+                                <address>
+                                    <addrLine>1 Sabine Island Drive</addrLine>
+                                    <postCode>32561</postCode>
+                                    <settlement>Gulf Breeze</settlement>
+                                    <region>FL</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">M</forename>
+                                <forename type="middle">G</forename>
+                                <surname>Barron</surname>
+                            </persName>
+							 <contact>
+                                <email>barron.mace@epa.gov</email>
+                            </contact>
+							
+                           
+                        </author>
+                        <title level="a" type="main">Photoenhanced Toxicity of Weathered Crude Oil in Sediment and Water to Larval Zebrafish</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Correspondence to:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Oil</term>
+                    <term>Zebrafish</term>
+                    <term>Photoenhanced Toxicity</term>
+                    <term>Sediment Ultraviolet radiation (UV) can</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Solar radiation exposure can increase the toxicity of bioaccumulated oil compounds in a diversity of aquatic species. We investigated the photoenhanced toxicity of weathered South Louisiana crude oil in sediment and water accommodated fractions (WAF) to larval zebrafish. Larvae were first exposed for 24 hours to one of six treatments: no oil (sediment or water), 7.5 g oil/kg sediment, oil-only WAF, oil WAF plus the dispersant Corexit 9500A, or dispersant alone. Larvae were then exposed to high or low levels of sunlight in control water for 3 or 3.5 hours. Hydrocarbon concentrations were measured in exposure media, including alkanes, polycyclic aromatic compounds and total petroleum hydrocarbons. Significant phototoxicity was observed in larvae exposed to oiled sediment, oil-only WAF, and oil plus dispersant WAF. The results indicated that petroleum from the northern Gulf of Mexico can be phototoxic to larval fish exposed to oil in either the water column or sediment.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Lathe check development and properties: effect of log soaking temperature, compression rate, cutting radius and cutting speed during peeling process of European beech (Fagus sylvatica L.) veneer</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Anti</forename>
+                                <surname>Rohumaa</surname>
+                            </persName>
+                            <contact>
+                                <email>anti.rohumaa@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">LaBoMaP</orgName>
+                                <orgName type="institution">École Nationale Supérieure d'Arts et Métiers (ENSAM)</orgName>
+                                <address>
+                                    <postCode>71250</postCode>
+                                    <settlement>Cluny</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">FiberLaboratory, South-Eastern Finland University of Applied Sciences</orgName>
+                                <address>
+                                    <postCode>57200</postCode>
+                                    <settlement>Savonlinna</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3" role="corresp" sequence="1">
+                                <orgName type="institution">École Nationale Supérieure d'Arts et Métiers (ENSAM)</orgName>
+                                <address>
+                                    <postCode>71250</postCode>
+                                    <settlement>Cluny</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Joffrey</forename>
+                                <surname>Viguier</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">LaBoMaP</orgName>
+                                <orgName type="institution">École Nationale Supérieure d'Arts et Métiers (ENSAM)</orgName>
+                                <address>
+                                    <postCode>71250</postCode>
+                                    <settlement>Cluny</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Stéphane</forename>
+                                <surname>Girardon</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">LaBoMaP</orgName>
+                                <orgName type="institution">École Nationale Supérieure d'Arts et Métiers (ENSAM)</orgName>
+                                <address>
+                                    <postCode>71250</postCode>
+                                    <settlement>Cluny</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <surname>Krebs</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">LaBoMaP</orgName>
+                                <orgName type="institution">École Nationale Supérieure d'Arts et Métiers (ENSAM)</orgName>
+                                <address>
+                                    <postCode>71250</postCode>
+                                    <settlement>Cluny</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Louis</forename>
+                                <surname>Denaud</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">LaBoMaP</orgName>
+                                <orgName type="institution">École Nationale Supérieure d'Arts et Métiers (ENSAM)</orgName>
+                                <address>
+                                    <postCode>71250</postCode>
+                                    <settlement>Cluny</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Lathe check development and properties: effect of log soaking temperature, compression rate, cutting radius and cutting speed during peeling process of European beech (Fagus sylvatica L.) veneer</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The depth of lathe checks and integrity of veneer have been shown to be critical factors affecting the bonding process but also affecting the mechanical properties of veneer-based products. This study shows how beech (Fagus sylvatica L.) veneer lathe checks interval and depths are affected by soaking temperature, compression rate, cutting radius and cutting speed during the peeling process in well-controlled conditions. Freshly felled European beech logs were soaked in a water tank at 50, 60, 70 or 80°C. Following soaking, the logs were immediately peeled with laboratory scale lathe (SEM S500) to 3.5 mm thick veneer at a cutting speed of 1, 2 or 3 m s-1 and pressure rates of 0, 5, 10 or 15%. The correlation between lathe check depth and frequency was validated using " Système de Mesure d'Ouverture des Fissures " (SMOF) device, which enables to measure check properties reliably on veneer ribbons. In a well-controlled peeling process, the strong correlation between check depth and interval was shown. At higher temperature, shallower and more frequent checks are created compared to lower temperature. However, the effect of soaking temperature (between 50-80°C) on veneer checking is much smaller than the effect of compression rate during peeling process, where the higher compression rate produced veneer with shallower and more frequent checks. The results of the study also show that the direction of lathe check propagation could be affected by the rays in beech veneer. Rays resist crack growth in tangential direction, but act as weak planes in radial direction. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

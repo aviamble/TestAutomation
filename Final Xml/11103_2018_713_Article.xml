@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T06:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The wheat TabZIP2 transcription factor is activated by the nutrient starvation-2 responsive SnRK3/CIPK protein kinase</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Sukanya</forename>
+                                <surname>Luang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry, Faculty of Medicine</orgName>
+                                <orgName type="institution">Khon Kaen University</orgName>
+								<postCode>40002</postCode>
+								<settlement>Khon Kaen</settlement>						
+								<country key="TH">Thailand</country>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pradeep</forename>
+                                <surname>Sornaraj</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Natalia</forename>
+                                <surname>Bazanova</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Commonwealth Scientific and Industrial Research Organisation</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>								
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wei</forename>
+                                <surname>Jia</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Omid</forename>
+                                <surname>Eini</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Plant Protection, School of Agriculture</orgName>
+                                <orgName type="institution">University of Zanjan</orgName>
+                                <address>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Syed</forename>							
+                                <forename type="middle">Sarfraz</forename>
+                                <surname>Hussain</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nataliya</forename>
+                                <surname>Kovalchuk</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pradeep</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Agarwal</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">CSIR-Central Salt and Marine Chemicals Research Institute</orgName>
+                                <address>
+                                    <addrLine>Gijubhai Badheka Marg</addrLine>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Maria</forename>
+                                <surname>Hrmova</surname>
+                            </persName>
+                            <contact>
+                                <email>maria.hrmova@adelaide.edu.au</email>
+                                <phone>+61 8 8313 7160</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sergiy</forename>
+                                <surname>Lopato</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Agriculture, Food and Wine</orgName>
+                                <orgName type="institution">University of Adelaide</orgName>
+                                <address>
+                                    <postCode>5064</postCode>
+									<settlement>Glen Osmond</settlement>
+                                    <region>South Australia</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The wheat TabZIP2 transcription factor is activated by the nutrient starvation-2 responsive SnRK3/CIPK protein kinase</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 1 † These authors contributed equally. 8 9 12 13 Current addresses: 14 18 19 20 *To whom correspondence should be addressed; 22 23 S This article contains Figures 1-8, Supporting Figures S1-S8, Supporting Tables S1-S5, and 24 Supporting Materials and Methods, Supporting Results, and Supporting References. The total 25 word count in the manuscript is 8,041, including legend descriptions and excluding abstract and 26 references. 27 28 Abbreviations: 3D, three-dimensional; ABA, abscisic acid; COR, cold responsive; DOPE, 29 discrete optimised protein energy; DHN, dehydrin; GFP, green fluorescent protein; HD-Zip I, 30 homeodomain-leucine zipper class I; IWGSC, International Wheat Genome Sequencing 31 Consortium; LEA, late embryogenesis abundant; MOF, modeller objective function; Q-PCR, 32 quantitative RT-PCR; Ta, Triticum aestivum; TF(s), transcription factor(s); Y1H, yeast-1-hybrid; 33 Y2H, yeast-2-hybrid. 34 35</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>14-3-3 protein</term>
+                    <term>3D protein molecular modelling</term>
+                    <term>drought</term>
+                    <term>homo-and hetero-36 dimerisation</term>
+                    <term>SnRK3/CIPK protein kinase</term>
+                    <term>wheat</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

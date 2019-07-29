@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T10:03+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Running title: a CRL3 substrate receptor that functions as a negative regulator in ABA signaling BPH1, a novel substrate receptor of CRL3, plays a repressive role in ABA signal transduction</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Og-Geum</forename>
+                                <surname>Woo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biology Education</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Integrated Biological Science</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Soon-Hee</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biology Education</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seok</forename>
+                                <forename type="middle">Keun</forename>
+                                <surname>Cho</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Systems Biology</orgName>
+                                <orgName type="department" key="dep2">College of Life Science and Biotechnology</orgName>
+                                <orgName type="institution">Yonsei University</orgName>
+                                <address>
+                                    <postCode>03722</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sang-Hoon</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biology Education</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="0">
+                            <persName>
+                                <forename type="first">Han</forename>
+                                <forename type="middle">Nim</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Biological Sciences</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Taijoon</forename>
+                                <surname>Chung</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Biological Sciences</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seong</forename>
+                                <forename type="middle">Wook</forename>
+                                <surname>Yang</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Systems Biology</orgName>
+                                <orgName type="department" key="dep2">College of Life Science and Biotechnology</orgName>
+                                <orgName type="institution">Yonsei University</orgName>
+                                <address>
+                                    <postCode>03722</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department" key="dep1">Section of Plant Biochemistry</orgName>
+                                <orgName type="department" key="dep2">Department of Plant and Environmental Sciences</orgName>
+                                <orgName type="department" key="dep3">Faculty of Sciences</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                                <address>
+                                    <postCode>DK-1871</postCode>
+                                    <settlement>Frederiksberg C</settlement>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jae-Hoon</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <contact>
+                                <email>jhlee72@pusan.ac.kr</email>
+                                <phone>+82-51-5102700</phone>
+                            </contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biology Education</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Biology Education</orgName>
+                                <orgName type="institution">Pusan National University</orgName>
+                                <address>
+                                    <postCode>46241</postCode>
+                                    <settlement>Busan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Running title: a CRL3 substrate receptor that functions as a negative regulator in ABA signaling BPH1, a novel substrate receptor of CRL3, plays a repressive role in ABA signal transduction</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding authors:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Abscisic acid (ABA) plays a crucial role in a variety of cellular processes, including seed dormancy, inhibition of seedling growth, and drought resistance in plants. Cullin3-RING E3 ligase (CRL3) complex is a type of multi-subunit E3 ligase, and BTB/POZ protein, a component of CRL3 complex, functions as a receptor to determine a specific substrate. To elucidate the CRL3 complex that participates in ABA-mediated cellular processes, we first investigated ABA-inducible BTB/POZ genes based on data from the AtGenExpress</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

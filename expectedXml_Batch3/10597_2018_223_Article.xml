@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T11:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Lifestyles of patients with functional psychosis compared to those of a sample of the regional general population: findings from a study in a community mental health service of the Veneto region, Italy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Loretta</forename>
+                                <surname>Berti</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Neurosciences, Biomedicine and Movement Sciences</orgName>
+                                <orgName type="department" key="dep2">Section of Psychiatry</orgName>
+                                <orgName type="institution">University of Verona</orgName>
+                                <address>
+                                    <addrLine>Policlinico G. B. Rossi, Piazzale L. A. Scuro 10</addrLine>
+                                    <postCode>37134</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Elena</forename>
+                                <surname>Bonfioli</surname>
+                            </persName>
+                            <contact>
+                                <email>elena.bonfioli@univr.it</email>
+                                <phone>+39-045-812-7442</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Neurosciences, Biomedicine and Movement Sciences</orgName>
+                                <orgName type="department" key="dep2">Section of Psychiatry</orgName>
+                                <orgName type="institution">University of Verona</orgName>
+                                <address>
+                                    <addrLine>Policlinico G. B. Rossi, Piazzale L. A. Scuro 10</addrLine>
+                                    <postCode>37134</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Linda</forename>
+                                <surname>Chioffi</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Prevention</orgName>
+                                <orgName type="department" key="dep2">Food Safety and Nutrition Service in the Local Health Authority -S.I.A.N</orgName>
+								<orgName type="institution">ULSS 20</orgName>
+                                <address>
+                                    <addrLine>via S. D&apos;Acquisto 7</addrLine>
+                                    <postCode>37122</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Susanna</forename>
+                                <surname>Morgante</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Prevention</orgName>
+                                <orgName type="department" key="dep2">Health Promotion Service</orgName>
+                                <orgName type="department" key="dep3">Veneto Regional Program &quot;MuoverSì&quot; for Physical Activity Promotion</orgName>
+                                <orgName type="institution">ULSS 20</orgName>
+                                <address>
+                                    <addrLine>via S. D&apos;Acquisto 7</addrLine>
+                                    <postCode>37122</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maria</forename>
+                                <forename type="middle">Angela</forename>
+                                <surname>Mazzi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Neurosciences, Biomedicine and Movement Sciences</orgName>
+                                <orgName type="department" key="dep2">Section of Psychiatry</orgName>
+                                <orgName type="institution">University of Verona</orgName>
+                                <address>
+                                    <addrLine>Policlinico G. B. Rossi, Piazzale L. A. Scuro 10</addrLine>
+                                    <postCode>37134</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lorenzo</forename>
+                                <surname>Burti</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Neurosciences, Biomedicine and Movement Sciences</orgName>
+                                <orgName type="department" key="dep2">Section of Psychiatry</orgName>
+                                <orgName type="institution">University of Verona</orgName>
+                                <address>
+                                    <addrLine>Policlinico G. B. Rossi, Piazzale L. A. Scuro 10</addrLine>
+                                    <postCode>37134</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Neurosciences, Biomedicine and Movement Sciences</orgName>
+                                <orgName type="institution">University of Verona</orgName>
+                                <address>
+                                    <addrLine>Policlinico G. B. Rossi, Piazzale L. A. Scuro 10</addrLine>
+                                    <postCode>37134</postCode>
+                                    <settlement>Verona</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Lifestyles of patients with functional psychosis compared to those of a sample of the regional general population: findings from a study in a community mental health service of the Veneto region, Italy</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Correspondence to</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Lifestyles Psychosis Health promotion Health behaviours INTRODUCTION</keywords>
+            </textClass>
+            <abstract>
+                <p>Unhealthy lifestyles contribute, with other risk factors, to the high prevalence of mortality and physical comorbidity among mental patients compared to the general population. We collected data on the lifestyles of 193 subjects with psychosis in contact with a Community Mental Health Service in northeastern Italy and compared them with a representative sample (total: 3219 subjects) of the general population of the same region. Diet, exercise, smoking and alcohol consumption were worse in mental patients. A higher percentage of patients was overweight or obese. The associations between socio-demographic and lifestyles variables showed that older patients exercise less, female patients tend to smoke and use alcohol less, while more educated patients tend to have higher alcohol consumption levels. Mental patients have unhealthier lifestyles and they appear to be more refractory to recommendations than the general population, indicating the necessity of specific health promotion programmes in this population.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

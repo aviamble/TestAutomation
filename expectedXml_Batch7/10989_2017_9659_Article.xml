@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-23T10:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Substarte Specificty and Immobilization Studies of Purified Solanain from the Latex of Vallaris solanacea</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Silpa</forename>
+                                <surname>Somavarapu</surname>
+                            </persName>
+                            <contact>
+                                <email>silpasomavarapu.1981@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Food Technology</orgName>
+                                <orgName type="institution">Vikrama Simhapuri University</orgName>
+                                <address>
+                                    <postCode>524003</postCode>
+                                    <settlement>SPSR, Nellore</settlement>
+                                    <region>Andhra Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sandeep</forename>
+                                <surname>Vemula</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Biotechnology, Centre for Bioprocess Technology</orgName>
+                                <orgName type="institution">K L E F University</orgName>
+                                <address>
+                                    <settlement>Guntur</settlement>
+                                    <region>Andhra Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">I</forename>
+                                <surname>Bhaskar Reddy</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry</orgName>
+                                <orgName type="institution">Gitam University</orgName>
+                                <address>
+                                    <settlement>Visakhapatnam</settlement>
+                                    <region>Andhra Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Substarte Specificty and Immobilization Studies of Purified Solanain from the Latex of Vallaris solanacea</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A novel cysteine protease has been purified to electrophoretic homogeneity from apocyanacean member Vallaris solanacea. Molecular weight of the solanain was determined as 28.5KDa using sodium dodecyl sulphate polyacrylamide gel electrophoresis. Purified protease was named solanain and it was further characterized. An internal tryptic fragment was identified by MALDI TOF, and this peptide showed a homology (66% sequence identity) with the target sequence found as cysteine endopeptidase from Ricinus communis. The purpose of the present work is to examine the specificity towards synthetic peptide and ester substrates and also to compare with other cysteine proteases. In the present work protease solanain from Vallaris solanacea was immobilized using various matrices such as calcium alginate, polyacrylamide, ?-carrageenan, chitosan and amberlite MB-150 employing entrapment and adsorption techniques. The purified solanain from the latex of Vallaris solanacea exhibited broad specificity. Like other cysteine proteases it showed peptidase and amidase activity. However considerable difference was noticed in the rate of hydrolysis and also exhibited difference in specificity towards simple peptide substrates. Immobilization of solanain on amberlite MB-150 beads enhanced the enzyme stability against changes of pH and temperature. The immobilized enzyme</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

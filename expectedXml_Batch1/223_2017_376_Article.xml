@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T04:20+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Analysis of Circulating Mediators of Bone Remodelling in Prader-Willi Syndrome</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">G</forename>
+                                <surname>Brunetti</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Basic Medical Sciences, Neuroscience and Sense Organs</orgName>
+                                <orgName type="department" key="dep2">Section of Human Anatomy and Histology</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <settlement>Bari</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">G</forename>
+                                <surname>Grugni</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Division of Auxology</orgName>
+                                <orgName type="institution">Istituto Auxologico Italiano, Research Institute</orgName>
+                                <address>
+                                    <region>Verbania</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">L</forename>
+                                <surname>Piacente</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Biomedical Sciences and Human Oncology</orgName>
+                                <orgName type="department" key="dep2">Section of Pediatrics</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <addrLine>Piazza G. Cesare,11</addrLine>
+                                    <postCode>70124</postCode>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M</forename>
+                                <surname>Delvecchio</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Biomedical Sciences and Human Oncology</orgName>
+                                <orgName type="department" key="dep2">Section of Pediatrics</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <addrLine>Piazza G. Cesare,11</addrLine>
+                                    <postCode>70124</postCode>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A</forename>
+                                <surname>Ventura</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Biomedical Sciences and Human Oncology</orgName>
+                                <orgName type="department" key="dep2">Section of Pediatrics</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <addrLine>Piazza G. Cesare,11</addrLine>
+                                    <postCode>70124</postCode>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">P</forename>
+                                <surname>Giordano</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Biomedical Sciences and Human Oncology</orgName>
+                                <orgName type="department" key="dep2">Section of Pediatrics</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <addrLine>Piazza G. Cesare,11</addrLine>
+                                    <postCode>70124</postCode>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M</forename>
+                                <surname>Grano</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Emergency and Organ Transplantation</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">G</forename>
+                                <surname>D &apos;Amato</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Neonatal Intensive Care Unit</orgName>
+                                <orgName type="institution">Di Venere Hospital</orgName>
+                                <address>
+                                    <settlement>Bari</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">D</forename>
+                                <surname>Laforgia</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Biomedical Sciences and Human Oncology</orgName>
+                                <orgName type="department" key="dep2">Section of Pediatrics</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <addrLine>Piazza G. Cesare,11</addrLine>
+                                    <postCode>70124</postCode>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A</forename>
+                                <surname>Crinò</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department">Autoimmune Endocrine Diseases Unit</orgName>
+                                <orgName type="institution">Bambino Gesù Hospital, Research Institute</orgName>
+                                <address>
+                                    <settlement>Palidoro (Rome)</settlement>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">M</forename>
+                                <forename type="middle">F</forename>
+                                <surname>Faienza</surname>
+                            </persName>
+                            <contact>
+                                <email>mariafelicia.faienza@uniba.it</email>
+                                <phone>+39805593075</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Biomedical Sciences and Human Oncology</orgName>
+                                <orgName type="department" key="dep2">Section of Pediatrics</orgName>
+                                <orgName type="institution">University of Bari &apos;A. Moro&apos;</orgName>
+                                <address>
+                                    <addrLine>Piazza G. Cesare,11</addrLine>
+                                    <postCode>70124</postCode>
+                                    <region>Bari</region>
+                                    <country key="IT">Italy</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Analysis of Circulating Mediators of Bone Remodelling in Prader-Willi Syndrome</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Prader-Willi syndrome</term>
+                    <term>RANKL</term>
+                    <term>OPG</term>
+                    <term>Sclerostin</term>
+                    <term>DKK-1</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>We tested the hypothesis that the levels of bone remodeling mediators may be altered in Prader Willi syndrome (PWS). We assessed RANKL, OPG, sclerostin, DKK-1 serum levels and bone metabolism markers in 12 PWS children (7.8 ± 4.3 years), 14 PWS adults (29.5 ± 7.2 years) and 31 healthy controls matched for sex and age. Instrumental parameters of bone mineral density (BMD) were also evaluated. Lumbar spine BMD Z-scores were reduced in PWS children (P&lt;0.01), reaching osteopenic levels in PWS adults. PWS patients showed lower 25(OH)-Vitamin D serum levels than controls (P&lt;0.001). Osteocalcin was increased in PWS children but reduced in adults respect to controls (P&lt;0.005 and P&lt;0.01, respectively). RANKL levels were higher in both pediatric and PWS adults than controls (P&lt;0.004), while OPG levels were significantly reduced (P&lt;0.004 and P&lt;0.006, respectively). Sclerostin levels were increased in children (P&lt;0.04) but reduced in adults compared to controls (P&lt;0.01). DKK-1 levels did not show significant difference between patients and controls. In PWS patients RANKL, OPG and sclerostin significantly correlated with metabolic and bone instrumental parameters. Consistently, with adjustment for age, multiple linear regression analysis showed that BMD and osteocalcin were the most important predictors for RANKL, OPG and sclerostin in children, and GH and sex steroid replacement treatment in PWS adults. We demonstrated the involvement of RANKL, OPG and sclerostin in the altered bone 2 turnover of PWS subjects suggesting these molecules as markers of bone disease and new potential pharmacological targets to improve bone health in PWS.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

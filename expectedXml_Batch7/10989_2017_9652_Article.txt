@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T07:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Therapeutic cationic antimicrobial peptide (CAP) derived from fish aspartic proteinase cathepsin D and its antimicrobial mechanism</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Akila</forename>
+                                <surname>Sathyamoorthi</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Venkatesh</forename>
+                                <surname>Kumaresan</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Abdullah</forename>
+                                <surname>Naif</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kasi</forename>
+                                <surname>Al-Dhabi</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jesu</forename>
+                                <surname>Marimuthu</surname>
+                            </persName>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Akila</forename>
+                                <surname>Arockiaraj</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Venkatesh</forename>
+                                <surname>Sathyamoorthi</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rajesh</forename>
+                                <surname>Kumaresan</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jesu</forename>
+                                <surname>Palanisamy</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mukesh</forename>
+                                <surname>Pasupuleti</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mariadhas</forename>
+                                <surname>Valan</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Arasu.</forename>
+                                <surname>Naif</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Abdullah</forename>
+                                <surname>Al-Dhabi</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kasi</forename>
+                                <surname>Marimuthu</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Nurul</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Amin.</forename>
+                                <forename type="middle">Aziz</forename>
+                                <surname>Arshad</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fatimah</forename>
+                                <forename type="middle">Md.</forename>
+                                <surname>Yusoff</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aziz</forename>
+                                <surname>Arshad</surname>
+                            </persName>
+                        </author>
+                        <author role="corresp" sequence="0">
+                            <persName>
+                                <forename type="first">Jesu</forename>
+                                <surname>Arockiaraj</surname>
+                            </persName>
+                            <contact>
+                                <email>jesuaraj@hotmail.com</email>
+                            </contact>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <surname>Arockiaraj</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Fisheries Biotechnology &amp; Molecular Biology</orgName>
+                                <orgName type="department" key="dep2">Department of Biotechnology</orgName>
+                                <orgName type="department" key="dep3">Faculty of Science and Humanities</orgName>
+                                <orgName type="institution">SRM University</orgName>
+                                <address>
+                                    <postCode>603 203</postCode>
+                                    <settlement>Kattankulathur, Chennai</settlement>
+                                    <region>Tamil Nadu</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Biotechnology, SRM Arts &amp; Science College</orgName>
+                                <address>
+                                    <postCode>603 203</postCode>
+                                    <settlement>Kattankulathur, Chennai</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="institution">CSIR-Central Drug Research Institute</orgName>
+                                <address>
+                                    <addrLine>B.S. 10/1, Sector 10, Jankipuram Extension, Sitapur Road</addrLine>
+                                    <postCode>226 031</postCode>
+                                    <settlement>Lucknow</settlement>
+                                    <region>Uttar Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Botany and Microbiology, Addiriyah Chair for Environmental Studies, College of Science</orgName>
+                                <orgName type="institution">King Saud University</orgName>
+                                <address>
+                                    <postBox>P. O. Box 2455</postBox>
+                                    <postCode>11451</postCode>
+                                    <settlement>Riyadh</settlement>
+                                    <country key="SA">Saudi Arabia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Biotechnology, Faculty of Applied Sciences</orgName>
+                                <orgName type="institution">AIMST University</orgName>
+                                <address>
+                                    <postCode>08100</postCode>
+                                    <settlement>Bedong</settlement>
+                                    <country key="MY">Malaysia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff6">
+                                <orgName type="department">Department of Aquaculture, Faculty of Agriculture</orgName>
+                                <orgName type="institution">Universiti Putra Malaysia</orgName>
+                                <address>
+                                    <postCode>43400 UPM</postCode>
+                                    <settlement>Serdang</settlement>
+                                    <region>Selangor</region>
+                                    <country key="MY">Malaysia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff7">
+                                <orgName type="department">Laboratory of Marine Biotechnology, Institute of Bioscience</orgName>
+                                <orgName type="institution">Universiti Putra Malaysia</orgName>
+                                <address>
+                                    <postCode>43400</postCode>
+                                    <country key="MY">Malaysia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Therapeutic cationic antimicrobial peptide (CAP) derived from fish aspartic proteinase cathepsin D and its antimicrobial mechanism</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author: Abbreviations: Cath D, cathepsin D; Cs, Channa striatus; ORF, open reading frame; CAP, cationic antimicrobial peptides; AMP, antimicrobial peptides; EUS, epizootic ulcerative syndrome; MIC, minimum inhibitory concentration; RBC, red blood cells; qRT PCR, quantitative real time polymerase chain reaction; ATCC, American Type Culture Collection; MTCC, Microbial Type Culture Collection Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Cationic anti-microbial peptide Fish Gene expression Cell membrane disruption Flow cytometry</keywords>
+            </textClass>
+            <abstract>
+                <p>Aquatic organisms are rich in antimicrobial peptides which play key role against pathogens during infections. Cathepsin is one of immune proteases which have been proven with multiple functions including antimicrobial activity, but their role as antimicrobial peptides has not been elucidated so far in aquatic organisms. This study reports the identification and characterization of antimicrobial peptides (AMPs) from fish cathepsin D. Channa striatus (Cs) cathepsin D (Cath D) was identified from its established cDNA library. Multiple sequence alignment was performed to analyze the homology of CsCathD with other cathepsin. Based on the amino acid propensity scale, two putative antimicrobial regions were identified, synthesized and analyzed for their antimicrobial potency. Gene expression of CsCath D and its mRNA pattern upon pathogenic infection was also observed using real time PCR. All the bioinformatics analysis indicated the gene specific characteristic features of CsCath D. CsCathD mRNA expression was highly expressed at 24 h for bacteria (Aeromonas hydrophila) and 48 h for fungus (Aphanomyces invadans). The CsCath D derived CAPs namely, PL12 and NM12 showed their commendable inhibition towards Bacillus mycoides of the tested bacteria. The cell membrane disruption was observed with PL12 against B. mycoides in flow cytometer. With all proceedings, it is possible to conclude that CsCathD might be a potent immuno modulator and the reported CAPs could be developed as therapeutic agents to treat bacterial pathogenic infections.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

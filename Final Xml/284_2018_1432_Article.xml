@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T06:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Halorubrum depositum sp. nov., a novel halophilic archaeon isolated from a salt deposit</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Shaoxing</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <contact>
+                                <email>chensx@ahnu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Anhui Normal University</orgName>
+                                <address>
+                                    <addrLine>No.1 Beijing East Road</addrLine>
+                                    <postCode>241000</postCode>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Honghe University</orgName>
+                                <address>
+                                    <addrLine>No.1 Xuefu Road, Mengzi</addrLine>
+                                    <postCode>661100</postCode>
+                                    <settlement>Yunnan</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Siqi</forename>
+                                <surname>Sun</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Anhui Normal University</orgName>
+                                <address>
+                                    <addrLine>No.1 Beijing East Road</addrLine>
+                                    <postCode>241000</postCode>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yao</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Anhui Normal University</orgName>
+                                <address>
+                                    <addrLine>No.1 Beijing East Road</addrLine>
+                                    <postCode>241000</postCode>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jinting</forename>
+                                <surname>Lv</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Anhui Normal University</orgName>
+                                <address>
+                                    <addrLine>No.1 Beijing East Road</addrLine>
+                                    <postCode>241000</postCode>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Linan</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Anhui Normal University</orgName>
+                                <address>
+                                    <addrLine>No.1 Beijing East Road</addrLine>
+                                    <postCode>241000</postCode>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Liu</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Anhui Normal University</orgName>
+                                <address>
+                                    <addrLine>No.1 Beijing East Road</addrLine>
+                                    <postCode>241000</postCode>
+                                    <settlement>Wuhu</settlement>
+                                    <region>Anhui</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Halorubrum depositum sp. nov., a novel halophilic archaeon isolated from a salt deposit</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A non-motile, pleomorphic rod-shaped or oval, red-pigmented (nearly scarlet), extremely halophilic archaeon, strain Y78 T , was isolated from a salt deposit of Yunnan salt mine, China. Analysis of the 16S rRNA gene sequence showed that it was phylogenetically related to species of the genus Halorubrum, with a close relationship to Halorubrum rutilum YJ-18-S1 T (98.6%), Halorubrum yunnanense Q85 T (98.3%) and Halorubrum lipolyticum 9-3 T (98.1%). The temperature, NaCl and pH ranges for growth were 25–50 °C, 12–30% (w/v) and 6.5–9.0, respectively. Mg 2+ was required for growth. The polar lipids of strain Y78 T were phosphatidylglycerol, phosphatidylglycerol phosphate methyl ester, phosphatidylglycerol sulfate and a sulfated diglycosyl-diether. The DNA G+C content was 66.6 mol%. DNA–DNA hybridization values between strain Y78 T and two closely related species of the genus Halorubrum were far below 70%. Based on the data presented in this study, strain Y78 T represents a novel species for which the name Halorubrum depositum sp. nov. is proposed; the type strain is Y78 T (=CGMCC 1.15456 T =JCM 31272 T). The GenBank/EMBL/DDBJ accession numbers of the 16S rRNA, rpoB' and ef-2 sequences of strain Y78 T are KX376712, KX530069 and KX530068, respectively. The protologue has been submitted to the Digital Protologue database</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

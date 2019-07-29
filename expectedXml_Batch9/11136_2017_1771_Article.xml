@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T10:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Quality of life among parents of preterm infants: A scoping review</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mariana</forename>
+                                <surname>Amorim</surname>
+                            </persName>
+                            <contact>
+                                <email>mariana.amorim@ispup.up.pt</email>
+                                <phone>+351222061820</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="instit1">EPIUnit -Instituto de Saúde Pública</orgName>
+                                <orgName type="institution" key="instit2">Universidade do Porto</orgName>
+                                <address>
+                                    <addrLine>Rua das Taipas nº135</addrLine>
+                                    <postCode>4050-600</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculdade de Medicina</orgName>
+                                <orgName type="institution">Universidade do Porto</orgName>
+                                <address>
+                                    <addrLine>Al. Prof. Hernâni Monteiro</addrLine>
+                                    <postCode>4200-319</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">Global Public Health Doctoral Programme</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Susana</forename>
+                                <surname>Silva</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="instit1">EPIUnit -Instituto de Saúde Pública</orgName>
+                                <orgName type="institution" key="instit2">Universidade do Porto</orgName>
+                                <address>
+                                    <addrLine>Rua das Taipas nº135</addrLine>
+                                    <postCode>4050-600</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculdade de Medicina</orgName>
+                                <orgName type="institution">Universidade do Porto</orgName>
+                                <address>
+                                    <addrLine>Al. Prof. Hernâni Monteiro</addrLine>
+                                    <postCode>4200-319</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michelle</forename>
+                                <surname>Kelly-Irving</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">INSERM UMR1027</orgName>
+                                <address>
+                                    <postCode>F-31000</postCode>
+                                    <settlement>Toulouse</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">UMR1027</orgName>
+                                <orgName type="institution">Université Toulouse III Paul Sabatier</orgName>
+                                <address>
+                                    <postCode>F-31000</postCode>
+                                    <settlement>Toulouse</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Elisabete</forename>
+                                <surname>Alves</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="instit1">EPIUnit -Instituto de Saúde Pública</orgName>
+                                <orgName type="institution" key="instit2">Universidade do Porto</orgName>
+                                <address>
+                                    <addrLine>Rua das Taipas nº135</addrLine>
+                                    <postCode>4050-600</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Faculdade de Medicina</orgName>
+                                <orgName type="institution">Universidade do Porto</orgName>
+                                <address>
+                                    <addrLine>Al. Prof. Hernâni Monteiro</addrLine>
+                                    <postCode>4200-319</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff6">
+                                <orgName type="department">Instituto de Saúde Pública</orgName>
+                                <orgName type="institution">Universidade do Porto (ISPUP)</orgName>
+                                <address>
+                                    <addrLine>Rua das Taipas nº 135</addrLine>
+                                    <postCode>4050-600</postCode>
+                                    <settlement>Porto</settlement>
+                                    <country key="PT">Portugal</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Quality of life among parents of preterm infants: A scoping review</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Address correspondence:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

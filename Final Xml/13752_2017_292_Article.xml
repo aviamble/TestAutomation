@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:22+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Life as Adaptive Capacity: Bringing New Life to an Old Debate</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Kelly</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Smith</surname>
+                            </persName>
+                            <contact>
+                                <email>kcs@clemson.edu</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Philosophy and Religion</orgName>
+                                <orgName type="institution">Clemson University</orgName>
+                                <address>
+                                    <settlement>Clemson</settlement>
+                                    <region>SC</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Life as Adaptive Capacity: Bringing New Life to an Old Debate</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note type="submission">Received: 1 October 2017 / Accepted: 4 November 2017</note>
+                    <note>[BTHE Astrobiology: 14,757 words; 30 notes; references] THEMATIC ISSUE ARTICLE: ASTROBIOLOGY</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords></keywords>
+            </textClass>
+            <abstract>
+                <p>Whatever we take &quot; life &quot; to mean, it must involve an attempt to describe the objective reality beyond scientists&apos; biases. Traditionally, this is thought to involve comparing our scientific categories to &quot; natural kinds. &quot; But this approach has been tainted with an implicit metaphysics, inherited from Aristotle, that does not fit biological reality. In particular, we must accept that biological categories will never be specifiable in terms of necessary and sufficient conditions or shared underlying physical structures that produce clean boundaries. Biology blurs all lines and failure to embrace this unique feature has blocked attempts to reach consensus on the meaning of &quot; life. &quot; Thus, while the three classical accounts (thermodynamic, metabolic, and evolutionary) all fall short of offering a complete definition, their advocates fail to realize that they share the same view of life&apos;s ultimate, functional, hallmark: its uniquely rich adaptive capacity. I develop an account of life as adaptive capacity that sidesteps debates about the relative importance of specific mechanisms and the precise location of boundaries to bring the three classical accounts together under a shared conceptual framework.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T09:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Children&apos;s Exposure to Intimate Partner Violence: A Qualitative Interpretive Meta-synthesis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kristen</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Ravi</surname>
+                            </persName>
+                            <contact>
+                                <email>Kristen.ravi@mavs.uta.edu</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Social Work</orgName>
+                                <orgName type="institution">University of Texas at Arlington</orgName>
+                                <address>
+                                    <postCode>76019</postCode>
+                                    <settlement>Arlington</settlement>
+                                    <region>TX</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Thomas</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Casolaro</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Social Work</orgName>
+                                <orgName type="institution">University of Texas at Arlington</orgName>
+                                <address>
+                                    <postCode>76019</postCode>
+                                    <settlement>Arlington</settlement>
+                                    <region>TX</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Children&apos;s Exposure to Intimate Partner Violence: A Qualitative Interpretive Meta-synthesis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Qualitative interpretive meta synthesis (QIMS)</term>
+                    <term>children</term>
+                    <term>adolescents</term>
+                    <term>exposure to intimate partner violence</term>
+                    <term>domestic violence Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The negative consequences of children&apos;s exposure to parental intimate partner violence (IPV) are well documented in the literature; however, few studies examine the experience from the child&apos;s perspective. This qualitative interpretive meta-synthesis (QIMS) explores the lived experience of children&apos;s exposure to parental IPV. We conducted a QIMS of nine studies from the United States and Europe. The QIMS method was developed specifically for social work and involves synthesizing the results of multiple qualitative studies on a specific topic into a new synergetic understanding. We identified four themes: context of the abuse, immediate reactions to the abuse, sequelae reactions, and coping. Further reduction indicated that coping with exposure to parental intimate partner violence exists on a spectrum ranging from integration to distancing. Social workers are critical in helping children learn strategies for managing their emotions. The results of this study inform social workers about the context and purposes of the behaviors that children exposed to parental intimate partner violence may display.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

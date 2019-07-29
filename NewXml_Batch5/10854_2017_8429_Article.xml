@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Structural and ferroelectric properties of microwave heated lead cobalt titanate nanoparticles synthesized by sol-gel technique</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">N.</forename>
+                                <forename type="middle">Suresh</forename>
+                                <surname>Kumar</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Departmentof Physics</orgName>
+                                <orgName type="institution">JNTUA</orgName>
+                                <address>
+                                    <settlement>Anantapuramu</settlement>
+                                    <region>Andhra Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">R.</forename>
+                                <forename type="middle">Padma</forename>
+                                <surname>Suvarna</surname>
+                            </persName>
+                            <contact>
+                                <email>padmajntua@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Departmentof Physics</orgName>
+                                <orgName type="institution">JNTUA</orgName>
+                                <address>
+                                    <settlement>Anantapuramu</settlement>
+                                    <region>Andhra Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">Chandra</forename>
+                                <forename type="middle">Babu</forename>
+                                <surname>Naidu</surname>
+                            </persName>
+                            <contact>
+                                <email>chandrababu954@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Humanities and Sciences</orgName>
+                                <orgName type="institution">Srinivasa Ramanujan Institute of Technology</orgName>
+                                <address>
+                                    <settlement>Anantapuramu</settlement>
+                                    <region>Andhra Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Structural and ferroelectric properties of microwave heated lead cobalt titanate nanoparticles synthesized by sol-gel technique</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The lead cobalt titanate (PCT) nanoparticles were prepared by sol-gel method and further microwave heated at 1023 K for ¾ hr. The X-ray diffraction pattern revealed the formation of PCT phases. The average crystallite-size was acquired to be 26.3 nm. The surface morphology of specimen was analyzed using transmission electron microscope. The ferroelectric property was elucidated by means of polarization versus electric field loop as a function of temperature. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

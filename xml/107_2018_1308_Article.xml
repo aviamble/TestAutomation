@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Brief Original Macroporous films from acetylated lignin and cellulose as precursors for Smart Coatings based on Regenerated Wood</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Shadan</forename>
+                                <surname>Musa</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Hochschule Mannheim</orgName>
+                                <orgName key="dep2" type="department">Faculty of Biotechnology</orgName>
+                                <address>
+                                    <addrLine>Paul-Wittsack-Straße 10</addrLine>
+                                    <postCode>68163</postCode>
+                                    <settlement>Mannheim</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Oliver</forename>
+                                <surname>Richter</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Applied Natural Sciences</orgName>
+                                <orgName type="institution">Technische Hochschule Köln</orgName>
+                                <address>
+                                    <addrLine>Chempark Leverkusen, E39</addrLine>
+                                    <postCode>51368</postCode>
+                                    <settlement>Leverkusen</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Hochschule Niederrhein</orgName>
+                                <address>
+                                    <addrLine>Adlerstr. 32</addrLine>
+                                    <postCode>47798</postCode>
+                                    <settlement>Krefeld</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Matthias</forename>
+                                <surname>Balsam</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Metabolon Center</orgName>
+                                <orgName type="institution">Technische Hochschule Köln</orgName>
+                                <address>
+                                    <addrLine>Am Berkebach 1</addrLine>
+                                    <postCode>51789</postCode>
+                                    <settlement>Lindlar</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Aron</forename>
+                                <surname>Kneer</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="institution">TinniT Technologies GmbH</orgName>
+                                <address>
+                                    <addrLine>Essenweinstr. 25</addrLine>
+                                    <postCode>76131</postCode>
+                                    <settlement>Karlsruhe</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Stéphan</forename>
+                                <surname>Barbe</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Applied Natural Sciences</orgName>
+                                <orgName type="institution">Technische Hochschule Köln</orgName>
+                                <address>
+                                    <addrLine>Chempark Leverkusen, E39</addrLine>
+                                    <postCode>51368</postCode>
+                                    <settlement>Leverkusen</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Brief Original Macroporous films from acetylated lignin and cellulose as precursors for Smart Coatings based on Regenerated Wood</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>A straightforward method for the preparation of macroporous films from acetylated lignin and cellulose as precursors for smart coatings based on regenerated wood via dry cast was developed. Series of coatings with different casting solutions were performed, and coating surfaces were analyzed by Laser Scanning Microscopy. The necessity to achieve simultaneous polymer demixing during dry cast operations was demonstrated, and the crucial role played by the solvent/non-solvent ratio was highlighted. The successfully prepared coatings exhibit a well-formed macroporous structure and wood-like appearance. Introduction Smart coatings belong to the new trend in advanced coating technology. They are capable of sensing and reacting to environmental and external stimuli (Feng et al. 2007) and may have self-repairing properties making them able to protect materials from corrosion, biological or other physical attacks. They may also act as biosensors (Wang et al. 2013) or surface improvers. Wood itself can be regarded as a smart material (Ugolev 2014), it is able to sense humidity and react to humidity variations by changing its shape and its porosity (shrinking and swelling). The shape memory effect of wood strongly relies on this phenomenon. The opening of pine cones to release seeds at low humidity and its closing at higher humidity is a well-known example of this effect (Studart and Randall 2014). Lignin absorbs UV-light and undergoes photochemical reactions with oxygen leading to the formation of colored compounds called chromophores. This in turn confers wood the ability to sense UV light or more generally sunlight. Wood usually exhibits a complex porous network which allows for transporting and storing sap within the tree. It results from the tree growth and is characterized by a wide pore size distribution ranging from micropores (&lt; 2 nm), mesopores (2-50 nm) up to macropores (50 nm – 200,000 nm). From a technical point of view, the heterogeneous and anisotropic nature of its porous structure is not appropriate for the accurate control of mass transfer through thin wood layers. The authors currently work on the development of a new material called regenerated wood-a simplified form of wood with new functional and technical features-as a new type of bio-based and biodegradable smart coatings with the following properties: ; Homogeneous macroporous structure with specified average pore size ; Shape memory effect (for bioinspired devices, biosensors for humidity, self-repairing coatings and structures) ; Ability to close their porous network when humidity increases and to control water transport (for advanced biodegradable and bio-based packaging for food protection and preservation) ; Ability to sense and absorb UV light (for advanced biodegradable and bio-based packaging for food protection and preservation) ; Resilient to physical and biological attacks allowing for protecting wood with wood, for example, with high lignin content wood and small scale pore size For this purpose, wood has to be regenerated from two of its main polymers, cellulose and lignin. Furthermore, a homogeneous macroporous structure has to evolve during the regeneration process. Macroporosity in polymeric materials is usually achieved by inducing liquid-liquid demixing in a homogeneous polymer solution (Metze et al. 2017). In this regard, dry cast belongs to the most established industrial techniques and typical casting solutions consist of a polymer, a volatile solvent (e.g. acetone) and a less volatile non-solvent (e.g. water). A thin film of casting solution is coated on a substrate and dried. The preferential evaporation of the more volatile solvent leads to liquid-liquid demixing (phase separation) and the formation of an emulsion. A polymer-rich phase builds the dispersed phase (drops) and a polymer-lean phase builds the continuous phase. The drops of polymer-rich phase undergo coalescence and slowly build the target macroporous network. Finally, the pores are filled with the polymer-lean phase which is evaporated at the end of the drying process. One of the severest problems regarding this technique is the poor solubility of cellulose in acetone which is intended to act as a solvent. Lignin itself is well soluble in acetone but adding water to a lignin-acetone solution enhances the solubility of lignin and it cannot be used as a non-solvent (Domínguez-Robles et al. 2017). The use of acetone as a solvent and water as a non-solvent works well with acetylated lignin and cellulose. The present approach involves the dry cast manufacture of macroporous films from acetylated lignin and cellulose and the subsequent wood regeneration via saponification (removal of acetyl groups). In this study, a method for the preparation of macroporous films from lignin acetate (LA) and cellulose acetate (CA) via dry cast was developed. For this purpose, softwood organosolv lignin was acetylated and commercial cellulose acetate was purchased. The complexity of generating a proper porous network by blending two different polymers was highlighted. The different demixing behaviors of LA and CA were investigated by Laser Scanning Microscopy. Finally the solvent/non-solvent ratio was identified as a key parameter for the control of microstructure during the dry cast process. Materials and methods Softwood organosolv lignin from beechwood (average Mn  1,200 by GPC) was kindly supplied by the Fraunhofer Institute für Chemische Technologie (Pfinztal, Germany) and cellulose triacetate (CA, average Mn  30,000 by GPC) was purchased from Carl Roth GmbH. Synthesis of lignin acetate (LA) (Jeong et al. 2011): 250 mL acetic anhydride (98.00%, Merck) and 50.0 g of organosolv lignin were added to a batch reactor and stirred at 80°C under reflux for 24 h. The reaction mixture was then poured in 380 mL ice cold water. After phase separation, the aqueous supernatant was removed and 450 mL of acetone (98.00%, Bernd Kraft GmbH) was added. Acetone and acetic acid was removed in a rotary evaporator. The solid remaining was then dried at 90°C for 5 days in a drying chamber, subsequently washed with water and recovered by centrifugation. LA was finally dried in air at room temperature. Preparation of coatings from acetylated lignin and cellulose: casting solutions used in this work were quaternary polymer solutions consisting of CA, LA, acetone and water. The required amount of CA was first fully dissolved in acetone in a batch reactor under vigorous stirring. Subsequently, the required amount of LA was added. Once the full dissolution of LA was achieved, water was slowly added in order to avoid local liquid-liquid-demixing. The first objective of this study was to investigate the different demixing behaviors of LA and CA in the acetone/water system. For this purpose, a first series of five casting solutions (7.5 % w/w CA , solvent/non-solvent ratio S/NS = 3) with different LA contents (0.0, 2.5, 5.0, 10.0 and 15.0 % w/w) were prepared, coated (wet thickness approx. 1 mm) and dried overnight in air at ambient temperature. In order to evaluate the impact of the solvent/non-solvent ratio on the coating structure, a second series of five casting solutions (7.5 % w/w CA, 10 % w/w LA) with different S/NS (7.250, 4.500, 3.125, 2.300 and 1.757) were prepared, coated (wet thickness approx. 1 mm) and dried overnight in air at room temperature. Finally, the structures of the prepared coatings were analyzed by Laser Scanning Microscopy (OLS 4100, Olympus Germany). Results and Discussion Figure 1 A shows the structure of a macroporous coating with a casting solution containing 7.5 %w/w CA (0.0% LA) and characterized by a solvent/non-solvent ratio S/NS = 3. A well-formed white porous network with an average pore size of approx. 10 µm was observed. The addition of LA at constant CA content and S/NS (Figure 1 B, C, D and E) led to a progressive closing of the coating surface up to the formation of a smooth surface. White and brown domains can be clearly seen on photographs B, C and D (Figure 1) suggesting a heterogeneous distribution of LA (black colored polymer) over the surface. The coating obtained with the highest LA (15 % w/w) content had a deep black color, a glossy surface and seemed to be fully covered with pure LA. These findings can be explained by the different demixing behaviors of LA and CA. The simultaneous demixing of both polymers is decisive for the successful generation of an open porosity. Ideally a polymer rich phase with high LA and CA contents has to be dispersed in a continuous polymer-lean phase with low LA and CA contents immediately after liquid-liquid-demixing. These results suggest that LA did not undergo proper liquid-liquid demixing and mostly remained in the continuous phase, while CA was subject to phase separation. Finally, the pores of the evolving porous network were filled and obstructed</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

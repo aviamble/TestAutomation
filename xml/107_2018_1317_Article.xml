@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Determining the predictive accuracy of whole tree modulus of elasticity (MOE) of 14 – year old loblolly pine using density and dynamic MOEs estimated by three different acoustic tools</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Charles</forename>
+                                <surname>Essien</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Products Development Center</orgName>
+                                <orgName key="instit1" type="institution">SFWS</orgName>
+                                <orgName key="instit2" type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>520 Devall Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Brian</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Via</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Products Development Center</orgName>
+                                <orgName key="instit1" type="institution">SFWS</orgName>
+                                <orgName key="instit2" type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>520 Devall Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qingzheng</forename>
+                                <surname>Cheng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Forest Products Development Center</orgName>
+                                <orgName key="instit1" type="institution">SFWS</orgName>
+                                <orgName key="instit2" type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>520 Devall Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Thomas</forename>
+                                <surname>Gallagher</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Forestry &amp; Wildlife Sciences</orgName>
+                                <orgName type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>602 Duncan Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Timothy</forename>
+                                <surname>McDonald</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Biosystems Engineering Department</orgName>
+                                <orgName type="institution">Auburn University Auburn</orgName>
+                                <address>
+                                    <postCode>36849</postCode>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lori</forename>
+                                <surname>Eckhardt</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Forestry &amp; Wildlife Sciences</orgName>
+                                <orgName type="institution">Auburn University</orgName>
+                                <address>
+                                    <addrLine>602 Duncan Drive</addrLine>
+                                    <postCode>36849</postCode>
+                                    <settlement>Auburn</settlement>
+                                    <region>AL</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Determining the predictive accuracy of whole tree modulus of elasticity (MOE) of 14 – year old loblolly pine using density and dynamic MOEs estimated by three different acoustic tools</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Resonance based acoustic tools for evaluating wood properties have been reported to be more accurate in estimating the expected log MOE than time-of-flight (ToF) ones. However, there is no published study on the variations within different brands on these two major classes of acoustic tools. In this study, models were developed to predict the whole tree static MOE (WMOET) and rupture (WMORT) using log dynamic MOEs estimated by two resonance tools (Director HM200 (EHM200) and FAKOPP resonance log grader (ERLG)), ToF (FAKOPP Microsecond Timer (EFMT)), and density (green density, air-dry density) for a 14-year-old loblolly pine stand from two sites in the southern USA. The log velocity estimated by ToF was 33% and 30% more as compared to the resonance-based tools (Director HM200 and FAKOPP RLG respectively); translating into whole log static MOE (WMOEL) been 11% and 20% lower than those estimated by the resonance (HM200 and RLG respectively) , and 90% lower than that estimated by the ToF tools (EFMT). Although the dynamic MOE estimated by ToF tool (EFMT) was higher, its WMOET predictive performance (R2=51%) lies between the 39% and 74% for the resonance based tools (HM200 and RGL respectively). This result supports the theory that ToF tools generate dilatational wave, and hence their velocity will be generally higher than resonance tools. The presence of predictive variation within the resonance suggests the need for within tools calibration. The linear relationship between the WMOET vs Etree was stronger than that of WMOET vs EHM200 suggesting that the ToF acoustic tool measurements are not restricted to the outer wood zone for small diameter logs. Introduction In the southeastern United States of America, southern yellow pines (SYP) are the most important group of timber species driving the wood industry. However, loblolly pine (Pinus taeda) is the single most dominant tree species in the landscape due to its excellent adaptation and productivity on varying soil types, utilization and genetic improvement (McKeand et al. 2003). The dimension lumber, mainly for structural applications continues to be one of the dominant valuable commodities derived from loblolly pine. For structural applications, SYP is classified based on the MOE either through the visual or the machine stressed grading platform. However, due to the inherent inaccuracies and subjective nature of the visual grading method, and the initial capital intensity associated with the machinery for the machine stress rating method, researcher investigated cheaper options of grading lumber. For this purpose, several nondestructive instruments have been developed that can directly and/or indirectly measure the intrinsic wood quality of small wood samples, logs or trees (Wang et al. 2001, 2004; Mora et al. 2009). Among these instruments are acoustic – based nondestructive tools which are simple, compact, and easy to operate on small wood samples, logs and standing trees (Dickson et al. 2004). Several researchers have found a strong linear relationship between the estimated MOE of logs and trees against small clear samples derived from same trees or logs for different species (Wang et al. 2001, 2004, Vikram et al. 2008, Raymond et al. 2008, Lachenbruch et al. 2010, Essien at al. 2016, 2017c) although the tree velocity is usually slightly higher (Bertoldo and Gonçalves 2015). Currently, the most popular acoustic techniques used are ''time-of-flight'' and ''resonance'' for standing tree and logs respectively (Wang et al. 2001; Raymond et al. 2008). The time – of – flight (ToF) method measures the time it takes for an introduced stress wave to travel from point to point and currently is the only practical acoustic method for measuring MOE in standing trees (Lasserre et al. 2007; Wang 2013; Essien et al. 2016). However, since the standing tree is a continuous system, the signals are introduced to it from sides leading to a formation of dilatational waves (Wang et al. 2007). They explained further that Poisson's ratio, MOE and bulk density of the wood materials are required to accurately estimate the velocity of the ToF acoustic tools designed purposely for the standing trees (Eqn. 1). Poisson's ratio is the ratio of transverse deformation to axial deformation. Wood is characterized by six different Poisson's ratios due to its orthotropic nature. Poisson's ratio varies within and between species, and also with specific gravity, moisture content, and sources of the material (Bodig and Jayne 1982; FPL 2010). Though Poisson's ratio varies with moisture content, the variation is not statistically significant hence one value can be used for both green and dry wood materials (Bodig and Jayne 1982) and they went further to propose 0.37 for both hardwood and softwood. Therefore, given the Poisson's ratio of dried wood is 0.37 (Bodig and Jayne 1982), the ToF velocity will be theoretically 33% higher than that determined using the one-dimensional wave equation used by the resonance based tools (Eqn. 1). On the other hand, the resonance – based tool is considered to be a destructive method to the Forester because it requires the transverse section of the log to append the tool and generate the waves. Since the logs have two cut ends, they resemble the long slender material upon which the one – dimensional wave equation was developed (Meyers 1994), even though, wood is neither isotropic nor homogeneous (Eqn. 2). However, beside these fundamental differences, the one-dimensional wave equation is still adequate to estimate the velocity of the resonance based acoustic tools (Wang et al. 2001).</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

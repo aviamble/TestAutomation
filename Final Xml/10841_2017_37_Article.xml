@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T09:30+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The influence of wild boar (Sus scrofa) on microhabitat quality for the endangered butterfly Pyrgus malvae in the Netherlands</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Frédéric</forename>
+                                <surname>Schaetzen</surname>
+                                <particle>de</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Resource Ecology Group</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <postBox>P.O. Box 47</postBox>
+                                    <postCode>6700 AA</postCode>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Institute of Environmental Engineering</orgName>
+                                <orgName type="department" key="dep2">Department of Civil, Environmental and Geomatic Engineering</orgName>
+                                <orgName type="institution">ETH Zurich</orgName>
+                                <address>
+                                    <addrLine>Stefano-Franscini-Platz 5</addrLine>
+                                    <postCode>8093</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Frank</forename>
+                                <surname>Langevelde</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Resource Ecology Group</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <postBox>P.O. Box 47</postBox>
+                                    <postCode>6700 AA</postCode>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Michiel</forename>
+                                <forename type="middle">F.</forename>
+                                <surname>WallisDeVries</surname>
+                            </persName>
+                            <contact>
+                                <email>michiel.wallisdevries@devlinderstichting.nl</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Plant Ecology and Nature Conservation Group</orgName>
+                                <orgName type="institution">Wageningen University</orgName>
+                                <address>
+                                    <postBox>P.O. Box 47</postBox>
+                                    <postCode>6700 AA</postCode>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="institution">De Vlinderstichting/Dutch Butterfly Conservation</orgName>
+                                <address>
+                                    <postBox>P.O. Box 506</postBox>
+                                    <postCode>6700 AM</postCode>
+                                    <settlement>Wageningen</settlement>
+                                    <country key="NL">The Netherlands</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The influence of wild boar (Sus scrofa) on microhabitat quality for the endangered butterfly Pyrgus malvae in the Netherlands</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>conservation ecology</term>
+                    <term>ecosystem engineering</term>
+                    <term>herbivore impact</term>
+                    <term>heathland</term>
+                    <term>habitat quality</term>
+                    <term>butterflies Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The decline of open habitats in Europe, such as semi-natural grasslands and heathlands, has caused a general decline in biodiversity, which has been well documented for butterflies. Current conservation practices often involve grazing by domestic livestock to maintain suitable butterfly habitats. The extent to which wild ungulates may play a similar role remains largely unknown. Through their rooting activity, wild boar, could be effective to reduce grass encroachment and restore pioneer microhabitats that are vital to many grassland insects in temperate climates. Here, we assessed the microhabitat requirements of Pyrgus malvae, an endangered butterfly of heathland and grassland habitats in the Netherlands, with special attention for the influence of wild boar rooting. To date, oviposition site selection of this species has concentrated on calcareous grasslands, whereas we also include heathlands. Overall, larval occupancy was higher in warm, open and sparsely vegetated microhabitats, which supports earlier findings. In heathland, microhabitat occupancy was positively affected by bryophyte and litter cover. In heath-grassland mosaic, microhabitat occupancy was also influenced by bryophyte and litter cover, but in addition low grass cover increased occupancy by favouring host plants. In grassland, only low grass cover and host plant cover determined microhabitat quality. Across all habitats, occupied microhabitats were characterized by lower vegetation as well as higher average daytime temperatures than unoccupied microhabitats. We discovered that wild boar play an important role in reducing grass cover by shallow rooting in grass patches, thereby increasing host plant availability. Hence, wild boar may have an added value in maintaining and restoring P. malvae microhabitats in grassland habitats in addition to grazing by domestic livestock.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

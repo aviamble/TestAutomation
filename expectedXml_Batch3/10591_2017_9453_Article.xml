@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:36+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Implementing Family-Based Musical Interventions in Family Therapy: A Mixed-Methods Research</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Siegel</publisher>
+                <availability status="unknown">
+                    <p>Copyright Siegel</p>
+                </availability>
+                <date type="published" when="2003">2003 . 2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Beth</forename>
+                                <surname>Nemesh</surname>
+                            </persName>
+                            <contact>
+                                <email>bethnemesh@gmail.com</email>
+                                <phone>+972-544-515615</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Doctoral Program in Expressive Therapies -Lesley University</orgName>
+                                <address>
+                                    <addrLine>29 Everett St</addrLine>
+                                    <postCode>02138</postCode>
+                                    <settlement>Cambridge</settlement>
+                                    <region>MA</region>
+                                    <country code="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <address>
+                                    <addrLine>37 Haemek st.</addrLine>
+                                    <settlement>Givat Elah</settlement>
+                                    <country code="IS">Israel</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <title level="a" type="main">Implementing Family-Based Musical Interventions in Family Therapy: A Mixed-Methods Research</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <publisher>Siegel</publisher>
+                            <date type="published" when="2003">2003 . 2012</date>
+                        </imprint>
+                    </monogr>
+                    <note>Like other family-based creative arts interventions, musical interventions provide playful experiences that promote mutual family pleasure and cooperation and provide opportunities to express emotions and conflicts creatively (Kerr, Hoshini, Sutherland, Parashak, &amp; McCarley, 2008; Miller, 1994). Creative arts are compatible with most schools of family therapy (Armstrong &amp; Simpson, 2002; Lantz &amp; Ritz, 2003; Malchiodi,</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Family therapy</term>
+                    <term>music</term>
+                    <term>family-based music therapy</term>
+                    <term>technique</term>
+                    <term>training</term>
+                    <term>children Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Although rarely used by family therapists, musical interventions have the potential to become a more common technique in family therapy. Music&apos;s unique therapeutic properties engage families, including young children and adolescents, in a meaningful, therapeutic, &quot;here-and-now&quot; creative process. Musical interventions act as catalysts, enable direct communication, and augment authentic communication patterns in a playful atmosphere. The purpose of this explanatory mixed-methods research was to obtain a greater understanding of the clinical applicability, therapeutic value and future implementation of a musical intervention carried out by family therapists in a family therapy context. The study explored the outcomes of 35 participating family therapists who attended a designated workshop on a structured family-based musical intervention, 18 of whom then applied 38 family-based musical sessions focused on family roles in their clinical work. The results illustrate the family-based musical intervention is a noteworthy tool for family clinical assessment and treatment, easily applicable in a variety of private and public settings with diverse populations. Musical instruments used as intermediary objects are potent vehicles for growing family awareness, functioning, and congruence, as well as inducing opportunities for change. The family-based musical intervention manifests the potential of an interdisciplinary, holistic, biopsychosocial approach to promoting individual and family wellbeing. The article also addresses ethical considerations and implications for family therapy training and education programs.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

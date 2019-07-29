@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T11:20+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Legislative and Policy Developments and Imperatives for Advancing the PCBH Model</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Dennis</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Freeman</surname>
+                            </persName>
+                            <contact>
+                                <email>dennis.freeman@cherokeehealth.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Cherokee Health Systems</orgName>
+                                <address>
+                                    <addrLine>2018 Western Avenue</addrLine>
+                                    <postCode>37921</postCode>
+                                    <settlement>Knoxville</settlement>
+                                    <region>Tennessee</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Cathy</forename>
+                                <surname>Hudgins</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Foundation for Health Leadership and Innovation</orgName>
+                                <address>
+								<settlement>Cary</settlement>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Joel</forename>
+                                <surname>Hornberger</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Cherokee Health Systems</orgName>
+                                <address>
+                                    <addrLine>2018 Western Avenue</addrLine>
+                                    <postCode>37921</postCode>
+                                    <settlement>Knoxville</settlement>
+                                    <region>Tennessee</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Legislative and Policy Developments and Imperatives for Advancing the PCBH Model</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>managed care</term>
+                    <term>behavioral healthcare policy</term>
+                    <term>primary care integration</term>
+                    <term>patient-centered medical home Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The PCBH practice model continues to gain converts among primary care and behavioral health professionals as the evidence and support continues to accumulate. Despite a growing number of practices and organizations utilizing the model effectively, widespread implementation has been hampered by outmoded policies and regulatory barriers. As policymakers and legislators begin to recognize the contributions PCBH integration makes to the care of complex patients and the expansion of access to those in need of behavioral health interventions, some encouraging policy initiatives are emerging and the policy environment is becoming more favorable to PCBH practice. This article outlines the necessity for policy change, exposing the policy issues and barriers that serve to limit the practice of PCBH, highlights innovative approaches some states are taking to foster integrated practice, and discusses the compatibility of PCBH with the nation&apos;s health care reform agenda. Psychologists have emerged as leaders in the design and implementation of PCBH integration and are encouraged to continue to advance the model through the demonstration of efficient and effective clinical practice, participation in the expansion of an appropriately trained workforce, and advocacy for the inclusion of this practice model in emerging healthcare systems and value-based payment methodologies.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

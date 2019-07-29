@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T08:18+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Peri-procedural antithrombotic management: time to burn the bridge?</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jessica</forename>
+                                <surname>Marquez</surname>
+                            </persName>
+                            <contact>
+                                <email>jlmarquez@salud.unm.edu</email>
+								<phone>505-238-5657</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">University of New Mexico Hospital</orgName>
+                                <address>
+                                    <addrLine>2211 Lomas Blvd. NE</addrLine>
+                                    <postCode>87106</postCode>
+									<settlement>Albuquerque</settlement>
+                                    <region>NM</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Allison</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Burnett</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">University of New Mexico Hospital Inpatient Antithrombosis Service</orgName>
+                                <address>
+                                    <addrLine>2211 Lomas Blvd. NE</addrLine>
+                                    <postCode>87106</postCode>
+									<settlement>Albuquerque</settlement>									
+                                    <region>NM</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">John</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Togami</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of New Mexico Hospital Anticoagulation Clinic</orgName>
+                                <address>
+                                    <addrLine>2211 Lomas Blvd. NE</addrLine>
+                                    <postCode>87106</postCode>
+									<settlement>Albuquerque</settlement>									
+                                    <region>NM</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Patricia</forename>
+                                <surname>Marshik</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution" key="inst1">University of New Mexico College of Pharmacy</orgName>
+								<orgName type="institution" key="inst2">University of New Mexico</orgName>
+                                <address>
+                                    <postCode>87131</postCode>
+									<postCode>MSC09 5360</postCode>
+									<settlement>Albuquerque</settlement>									
+                                    <region>NM</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Peri-procedural antithrombotic management: time to burn the bridge?</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Contact information:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

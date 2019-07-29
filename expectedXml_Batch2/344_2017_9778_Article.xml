@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T08:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Plant Growth Promoting Rhizobacteria Protect Wheat Plants Against Temperature Stress Through Antioxidant Signalling and Reducing Chloroplast and Membrane Injury</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jayanwita</forename>
+                                <surname>Sarkar</surname>
+                            </persName>
+                            <contact>
+                                <email>sarkar.jayanwita@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Plant Biochemistry Laboratory</orgName>
+                                <orgName type="department" key="dep2">Department of Botany</orgName>
+                                <orgName type="institution">University of North Bengal</orgName>
+                                <address>
+                                    <postCode>734013</postCode>
+									<settlement>Siliguri</settlement>
+                                    <region>West Bengal</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bishwanath</forename>
+                                <surname>Chakraborty</surname>
+                            </persName>
+							<contact>
+                            <email>bncnbu@gmail.com</email>
+							</contact>							
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Immunophypathology Laboratory</orgName>
+                                <orgName type="department" key="dep2">Department of Botany</orgName>
+                                <orgName type="institution">University of North Bengal</orgName>
+                                <address>
+                                    <postCode>734013</postCode>
+									<settlement>Siliguri</settlement>
+                                    <region>West Bengal</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Usha</forename>
+                                <surname>Chakraborty</surname>
+                            </persName>
+							<contact>
+                            <email>ucnbu2012@gmail.com</email>
+							<phone>+913532776337</phone>
+							</contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Plant Biochemistry Laboratory</orgName>
+                                <orgName type="department" key="dep2">Department of Botany</orgName>
+                                <orgName type="institution">University of North Bengal</orgName>
+                                <address>
+                                    <postCode>734013</postCode>
+									<settlement>Siliguri</settlement>
+                                    <region>West Bengal</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Plant Growth Promoting Rhizobacteria Protect Wheat Plants Against Temperature Stress Through Antioxidant Signalling and Reducing Chloroplast and Membrane Injury</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note type="submission">RECEIVED 7 AUGUST 2017; ACCEPTED 11 DECEMBER 2017</note>
+                    <note>1 * Corresponding author: Mailing address:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>High temperature stress Wheat Bacillus safensis Ochrobactrum pseudogrignonense Priming Stress amelioration Thermo tolerance Introduction</keywords>
+            </textClass>
+            <abstract>
+                <p>Short title High temperature stress alleviation by PGPR Abstract In India and other tropics, wheat plants suffer from exposure to high temperature with heat increases above 35 0 C causing stress-like conditions. Hence, the present study was aimed to determine a means of suitable eco-friendly temperature stress alleviation for growth of wheat. Seeds of two wheat (Triticum aestivum L.) cultivars were primed with two potential plant growth promoting rhizobacteria (PGPR), Bacillus safensis and Ochrobactrum pseudogrignonense, and one-month-old young seedlings were subjected to heat treatment for different time periods. PGPR priming improved the heat stress tolerance level of wheat seedlings. Among the two, Bacillus safensis was more effective for improving thermo tolerance. High temperature induced the accumulation of ROS and was responsible for membrane injury and chloroplast ultrastructure damage. As a defense reaction plants in turn activated antioxidant signalling which increased redox enzyme activity and accumulated osmolytes like proline and glycine betaine. However, PGPR priming, especially Bacillus safensis, not only maintained cell viability and restored chloroplast structure thus reducing photosynthetic damage but also improved the antioxidative response significantly which was quite low in uninoculated plants after heat challenge. PGPR-mediated amelioration of heat stress seems to be associated with less ROS production, membrane damage, 2 maintenance of chloroplast structure and enhanced chlorophyll content, increased expression of an array of redox enzymes and accumulation of osmolytes which improved overall thermo tolerance. This study revealed a future prospective of eco-friendly and low-cost seed priming technique for amelioration of abiotic stresses.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

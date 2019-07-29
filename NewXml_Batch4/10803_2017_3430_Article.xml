@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Development of Emotion Self-Regulation among Young Children with Autism Spectrum Disorders: The Role of Parents Development of Emotion Self-Regulation among Young Children with Autism Spectrum Disorders: The Role of Parents Emotion self-regulation (ESR) refers to a developmental capacity of individuals to monitor</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Amy</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Laurent</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>Alaurent@uri.edu</email>
+                                <phone>Phone: 401-219-0201 Fax: 401-874-2920</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">University of Rhode Island</orgName>
+                                <address>
+                                    <addrLine>201 Tyler Hall</addrLine>
+                                    <postCode>02881</postCode>
+                                    <settlement>Kingston</settlement>
+                                    <region>RI</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kathleen</forename>
+                                <surname>Gorman</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">University of Rhode Island</orgName>
+                                <address>
+                                    <addrLine>201 Tyler Hall</addrLine>
+                                    <settlement>Kingston</settlement>
+                                    <region>RI</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Development of Emotion Self-Regulation among Young Children with Autism Spectrum Disorders: The Role of Parents Development of Emotion Self-Regulation among Young Children with Autism Spectrum Disorders: The Role of Parents Emotion self-regulation (ESR) refers to a developmental capacity of individuals to monitor</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Acknowledgements: This manuscript was prepared from the first author's doctoral dissertation research. Corresponding author contact information:, evaluate, and modify their emotional state and arousal level to maintain engagement and accomplish objectives (Cole, Martin, &amp; Dennis, 2004; Fox, 1994; Gulsrud, Jahromi, &amp; Kasari, 2010). ESR has been linked to positive social-emotional development in early childhood and to pro-social engagement, social competence, and desirable academic outcomes in later childhood (Eisenberg, Spinrad, &amp; Eggum, 2010; McClelland &amp; Cameron, 2012; Spinrad et al., 2006; Trentacosta &amp; Shaw, 2009). Deficits in ESR (e.g., difficulties resulting in heightened physiological reactivity, unmodulated emotion, and poor impulse control) are associated with reactive aggression and externalizing behaviors throughout childhood (White, Jarrett, &amp; Ollendick, 2012). In typical development, ESR abilities become increasingly complex as children's cognitive, language, and attentional skills develop, and as children experience responsive interactions with parents (Kochanska, Murray, &amp; Harlan, 2000; National Research Council and Institute of Medicine, 2000; Tronick, 2002). Children diagnosed with Autism Spectrum Disorders (ASD) have significant challenges in ESR. For example, they demonstrate difficulties managing emotions, inhibiting reactions, delaying gratification, and tolerating transitions (American Psychiatric Association, 2013; Baron, Groden, Groden, &amp; Lipsitt, 2006; DeGangi, 2000; National Research Council, 2001). Specifically, as compared to age-matched typically developing controls and/or to other developmentally disabled populations, children with ASD have been found to employ less effortful control during frustrating tasks and to engage in more inefficient ESR strategies</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>emotional self-regulation</term>
+                    <term>parent behaviors</term>
+                    <term>autism</term>
+                    <term>social communication</term>
+                    <term>sensory processing</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Emotional self-regulation (ESR) challenges are well-documented in the diagnostic profiles of children with Autism; however, less is known about the development of ESR and the role of parents in ESR development for this population. Thirty-seven young children with autism and one of their parents participated in a home-based, observational study exploring the associations between the children's social communication and sensory processing characteristics and their parents' behaviors associated with ESR development. Findings revealed that parent use of physical and language behaviors were associated with child social communication abilities. No associations between child sensory processing and parent behaviors were found. Understanding the interactive processes between parents and children with ASD has implications for the development of parent-based interventions that increase child ESR.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

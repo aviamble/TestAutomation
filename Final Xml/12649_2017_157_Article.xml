@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:19+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Total biorefinery process of lignocellulosic waste using steam explosion followed by water and acetone extractions</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">C.</forename>
+                                <surname>Asada</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Bioscience and Bioindustry</orgName>
+                                <orgName type="institution">Tokushima University</orgName>
+                                <address>
+                                    <addrLine>2-1 Minamijosanjima-cho</addrLine>
+                                    <postCode>770-8513</postCode>
+                                    <settlement>Tokushima</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">C.</forename>
+                                <surname>Sasaki</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Bioscience and Bioindustry</orgName>
+                                <orgName type="institution">Tokushima University</orgName>
+                                <address>
+                                    <addrLine>2-1 Minamijosanjima-cho</addrLine>
+                                    <postCode>770-8513</postCode>
+                                    <settlement>Tokushima</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">A.</forename>
+                                <surname>Suzuki</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Biological Science and Technology</orgName>
+                                <orgName type="institution">Tokushima University</orgName>
+                                <address>
+                                    <addrLine>2-1 Minamijosanjima-cho</addrLine>
+                                    <postCode>770-8506</postCode>
+                                    <settlement>Tokushima</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Y.</forename>
+                                <surname>Nakamura</surname>
+                            </persName>
+							<contact>
+                            <phone>+81-88-656-7518</phone>
+                            <email>ynakamu@tokushima-u.ac.jp</email>
+                        </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Bioscience and Bioindustry</orgName>
+                                <orgName type="institution">Tokushima University</orgName>
+                                <address>
+                                    <addrLine>2-1 Minamijosanjima-cho</addrLine>
+                                    <postCode>770-8513</postCode>
+                                    <settlement>Tokushima</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yoshitoshi</forename>
+                                <surname>Nakamura</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Bioscience and Bioindustry</orgName>
+                                <orgName type="institution">Tokushima University</orgName>
+                                <address>
+                                    <addrLine>2-1 Minamijosanjima-cho</addrLine>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Total biorefinery process of lignocellulosic waste using steam explosion followed by water and acetone extractions</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Author for correspondence:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Lignocellulosic waste</term>
+                    <term>Cellulose nanofiber</term>
+                    <term>Lignin epoxy resin</term>
+                    <term>Steam explosion</term>
+                    <term>White poplar Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Lignocellulosic waste, i.e. wood, straw, and bamboo, represents abundant carbon-neutral renewable resources that are used to produce biofuels and biomaterials. Increased use of these resources would lower environmental impacts such as the emission of greenhouse gases (e.g. carbon dioxide) and fossil fuel depletion, helping to create a sustainable environment. Advances in technologies such as genetics, biotechnology, process chemistry, and engineering are leading to the concept of biorefining. In order to develop a method for the total biorefinery processing of lignocellulosic waste, this study focused on the efficient separation and utilization of woody structural components from white poplar chopstick waste by using a steam explosion pretreatment followed by water and acetone extractions. The cellulose component was converted into cellulose nanofiber (CNF) and the lignin component was used as a raw material for the synthesis of epoxy resin. The components of the steam-exploded product were extracted and separated into water extract, acetone extract, and holocellulose. The water extract had a high catechin equivalent and the cured epoxy resin was synthesized from acetone extracted as a raw material. Furthermore, the study confirmed the significant reinforcement effect of CNF, obtained from the holocellulose, on polylactic acid. The steam explosion, extraction, and separation methods, along with various conversion processes proposed in this study, appear to be some of the most efficient and environmentally friendly (i.e. generating few pollutants) conversion methods of lignocellulosic waste into eco-materials, i.e. CNF, cured lignin epoxy resin, etc.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

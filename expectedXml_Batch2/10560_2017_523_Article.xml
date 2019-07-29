@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T09:22+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Ideals and Reality: Perceptions of Healthy and Unhealthy Relationships among Foster Youth</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Brad</forename>
+                                <surname>Forenza</surname>
+                            </persName>
+                            <contact>
+                                <email>forenzab@mail.montclair.edu</email>
+                                <phone>973-655-4188</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Montclair State University</orgName>
+                                <address>
+                                    <settlement>Montclair</settlement>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Social Work and Child Advocacy</orgName>
+								<orgName type="institution">Montclair State University</orgName>
+                                <address>
+									<addrLine>372 Dickson Hall, 1 Normal Avenue</addrLine>
+                                    <postCode>07043</postCode>
+									<settlement>Montclair</settlement>
+                                    <region>N.J</region>
+                                    <country key="US">USA</country>									
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Autumn</forename>
+                                <surname>Bermea</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Montclair State University</orgName>
+                                <address>
+                                    <settlement>Montclair</settlement>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Briana</forename>
+                                <surname>Rogers</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Montclair State University</orgName>
+                                <address>
+                                    <settlement>Montclair</settlement>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Ideals and Reality: Perceptions of Healthy and Unhealthy Relationships among Foster Youth</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Foster care</term>
+                    <term>positive youth development</term>
+                    <term>risk behaviors</term>
+                    <term>romantic relationships</term>
+                    <term>social development</term>
+                    <term>intimacy Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Exploring romantic relationships is a hallmark of adolescence. As dating relationships are often new during this development trajectory, learning how to be in a relationship (e.g., learning healthy communication skills, etc.) is necessary to facilitate positive partnerships during the transition to adulthood. However, foster youth are a group routinely overlooked within the literature on developing positive and healthy relationships. This formative, exploratory study utilizes focus groups and in-depth interviews to understand foster youth perceptions of healthy and unhealthy dating relationships through a social learning theory lens. Findings explore foster youth perceptions of ideal relationships, the realities of their lived relational experiences, as well as the lessons learned that they would like to impart on future generations of foster youth. Implications for research, practice, and policy (e.g., the need for communication skill building, comprehensive sex and relationship education, as well as screenings for dating violence) are also explored.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T12:12+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Negative Regulators of Cell Death Pathways in Cancer: Perspective on Biomarkers and Targeted Therapies</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ali</forename>
+                                <surname>Razaghi</surname>
+                            </persName>
+                            <contact>
+                                <email>ali.razaghi@my.jcu.edu.au</email>
+                                <phone>+61 (0) 403203740</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre for Biodiscovery and Molecular Development of Therapeutics</orgName>
+                                <orgName type="institution">James Cook University</orgName>
+                                <address>
+                                    <postCode>4811</postCode>
+                                    <settlement>Townsville</settlement>
+                                    <region>QLD</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kirsten</forename>
+                                <surname>Heimann</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre for Biodiscovery and Molecular Development of Therapeutics</orgName>
+                                <orgName type="institution">James Cook University</orgName>
+                                <address>
+                                    <postCode>4811</postCode>
+                                    <settlement>Townsville</settlement>
+                                    <region>QLD</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Patrick</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Schaeffer</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centre for Biodiscovery and Molecular Development of Therapeutics</orgName>
+                                <orgName type="institution">James Cook University</orgName>
+                                <address>
+                                    <postCode>4811</postCode>
+                                    <settlement>Townsville</settlement>
+                                    <region>QLD</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Spencer</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Gibson</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Research Institute in Oncology and Hematology</orgName>
+                                <address>
+                                    <addrLine>CancerCare Manitoba</addrLine>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Departments of Biochemistry and Medical Genetics and Immunology</orgName>
+                                <orgName type="institution">University of Manitoba</orgName>
+                                <address>
+                                    <settlement>Winnipeg</settlement>
+                                    <region>MB</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Negative Regulators of Cell Death Pathways in Cancer: Perspective on Biomarkers and Targeted Therapies</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>cancer targeted therapy</term>
+                    <term>drug resistance</term>
+                    <term>cell death pathway</term>
+                    <term>negative regulator</term>
+                    <term>biomarker</term>
+                    <term>immunotherapy</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Cancer is a primary cause of human fatality and conventional cancer therapies, e.g., chemotherapy, are often associated with adverse side-effects, tumor drug-resistance, and recurrence. Molecularly targeted therapy, composed of small-molecule inhibitors (SMIs) and immunotherapy (e.g., monoclonal antibody and cancer vaccines), is a less harmful alternative being more effective against cancer cells whilst preserving healthy tissues. Drug-resistance, however, caused by negative regulation of cell death signaling pathways, is still a challenge. Circumvention of negative regulators of cell death pathways or development of predictive and response biomarkers is, therefore, quintessential. This review critically discusses the current state of knowledge on targeting negative regulators of cell death signaling pathways including apoptosis, ferroptosis, necroptosis, autophagy, and anoikis and evaluates the recent advances in clinical and preclinical research on biomarkers of negative regulators. It aims to provide a comprehensive platform for designing efficacious polytherapies including novel agents for restoring cell death signaling pathways or targeting alternative resistance pathways to improve the chances for antitumor responses. Overall, it is concluded that nonapoptotic cell death pathways are a potential research arena for drug discovery, development of novel biomarkers and targeted therapies.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

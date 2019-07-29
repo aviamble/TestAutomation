@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T11:36+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Rethinking moral distress: conceptual demands for a troubling phenomenon affecting health care professionals</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Daniel</forename>
+                                <forename type="middle">W.</forename>
+                                <surname>Tigard</surname>
+                            </persName>
+                            <contact>
+                                <email>dwtigard@gmail.com</email>
+                                <email>dtigard@tulane.edu</email>
+                                <phone>(253) 222-4532</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Philosophy</orgName>
+                                <orgName type="institution">Tulane University</orgName>
+                                <address>
+                                    <addrLine>105 Newcomb Hall, 1229 Broadway Street</addrLine>
+									<postCode>70118</postCode>
+									<settlement>New Orleans</settlement>
+                                    <region>LA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Rethinking moral distress: conceptual demands for a troubling phenomenon affecting health care professionals</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>moral distress</term>
+                    <term>nursing ethics</term>
+                    <term>emotions</term>
+                    <term>moral psychology Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Recent medical and bioethics literature shows a growing concern for practitioners&apos; emotional experience and the ethical environment in the workplace. Moral distress, in particular, is often said to result from the difficult decisions made and the troubling situations regularly encountered in health care contexts. It has been identified as a leading cause of professional dissatisfaction and burnout, which, in turn, contribute to inadequate attention and increased pain for patients. Given the natural desire to avoid these negative effects, it seems to most authors that systematic efforts should be made to drastically reduce moral distress, if not altogether eliminate it from the lives of vulnerable practitioners. Such efforts, however, may be problematic, as moral distress is not adequately understood, nor is there agreement among the leading accounts regarding how to conceptualize the experience. With this article I make clear what a robust account of moral distress should be able to explain and how the most common notions in the existing literature leave significant explanatory gaps. I present several cases of interest and, with careful reflection upon their distinguishing features, I establish important desiderata for an explanatorily satisfying account. With these fundamental demands left unsatisfied by the leading accounts, we see the persisting need for a conception of moral distress that can capture and delimit the range of cases of interest.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:07+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Pt/Ferric hydroxyphosphate: An Effective catalyst for the selective hydrogenation of a, ß-unsaturated aldehydes (ketones) into a, ß-unsaturated alcohols</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Cheng</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Chemistry and Materials Science</orgName>
+                                <orgName type="institution">Nanjing Normal University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wei</forename>
+                                <surname>Luo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Chemistry and Materials Science</orgName>
+                                <orgName type="institution">Nanjing Normal University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Junhua</forename>
+                                <surname>Liu</surname>
+                            </persName>
+						 <affiliation key="aff1">
+                                <orgName type="department">College of Chemistry and Materials Science</orgName>
+                                <orgName type="institution">Nanjing Normal University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lei</forename>
+                                <surname>Sun</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Chemistry and Materials Science</orgName>
+                                <orgName type="institution">Nanjing Normal University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yue</forename>
+                                <surname>Yang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">College of Chemistry and Materials Science</orgName>
+                                <orgName type="institution">Nanjing Normal University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gui</forename>
+                                <surname>Liu</surname>
+                            </persName>
+						 <affiliation key="aff1">
+                                <orgName type="department">College of Chemistry and Materials Science</orgName>
+                                <orgName type="institution">Nanjing Normal University</orgName>
+                                <address>
+                                    <postCode>210023</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Fang</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                         
+                            <affiliation key="aff2">
+                                <orgName type="department">College of Chemistry and Molecular Engineering</orgName>
+                                <orgName type="institution">Nanjing Tech University</orgName>
+                                <address>
+                                    <postCode>211816</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wei</forename>
+                                <surname>Zhong</surname>
+                            </persName>
+							<affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Connecticut</orgName>
+                                <address>
+                                    <postCode>06269</postCode>
+                                    <settlement>Storrs</settlement>
+                                    <region>Connecticut</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Curtis</forename>
+                                <surname>Guild</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Connecticut</orgName>
+                                <address>
+                                    <postCode>06269</postCode>
+                                    <settlement>Storrs</settlement>
+                                    <region>Connecticut</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Steven</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Suib</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">University of Connecticut</orgName>
+                                <address>
+                                    <postCode>06269</postCode>
+                                    <settlement>Storrs</settlement>
+                                    <region>Connecticut</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Pt/Ferric hydroxyphosphate: An Effective catalyst for the selective hydrogenation of a, ß-unsaturated aldehydes (ketones) into a, ß-unsaturated alcohols</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>a, ß-unsaturated aldehydes (ketones)</term>
+                    <term>Ferric hydroxyphosphates</term>
+                    <term>Lewis acid</term>
+                    <term>Pt nanoparticles</term>
+                    <term>Selective hydrogenation</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Four micro (nano)-sized mesoporous ferric hydroxyphosphates (FHP) are synthesized by a reverse microemulsion-solvothermal method, and then are used as supports to prepare supported Pt catalysts. The mean particle diameter of Pt nanoparticles (NPs) was 4.5-4.6 nm. When the four different Pt/FHP catalysts were used into the hydrogenation of a, ß-unsaturated aldehydes (ketones) to their corresponding unsaturated alcohols, Pt/FHP (c) catalyst showed better catalytic performance than the other three partners. Under the optimal experimental conditions, several tested a, ß-unsaturated aldehydes could be effectively transformed into corresponding unsaturated alcohols over Pt/FHP (c) catalyst. The catalyst could be recycled and reused several times without activity loss. We propose the stronger interaction between the Pt NPs and ferric ions of the FHP (c) are responsible for its good catalytic performance, and this stronger interaction should be rooted in its enhanced Lewis acid strength.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T12:12+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Traditional and Psychological Factors Associated with Academic Success: Investigating Best Predictors of College Retention</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+                <date type="published" when="2017-11-19">Submission Date: November 19, 2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <surname>Saunders-Scott</surname>
+                            </persName>
+                            <contact>
+                                <email>dpsaundersscott@viterbo.edu</email>
+								<phone>(608) 796-3719</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Viterbo University</orgName>
+                                <address>
+                                    <settlement>La Crosse</settlement>
+                                    <postCode>54601</postCode>
+                                    <region>WI</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Matthew</forename>
+                                <forename type="middle">Bersagel</forename>
+                                <surname>Braley</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Viterbo University</orgName>
+                                <address>
+                                    <settlement>La Crosse</settlement>
+                                    <postCode>54601</postCode>
+                                    <region>WI</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Naomi</forename>
+                                <surname>Stennes-Spidahl</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Viterbo University</orgName>
+                                <address>
+                                    <settlement>La Crosse</settlement>
+                                    <postCode>54601</postCode>
+                                    <region>WI</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Traditional and Psychological Factors Associated with Academic Success: Investigating Best Predictors of College Retention</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date type="published" when="2017-11-19">Submission Date: November 19, 2017</date>
+                        </imprint>
+                    </monogr>
+                    <note>(Corresponding Author)</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Introduction In thinking about retention at our small Midwestern university, we were curious about the relationship between grit, stress, and academic success. We know that students who work diligently, persevere in the face of setbacks, and are passionate about their long-term goals often academically outperform their peers of similar abilities who exert less effort, are less perseverant, and are less passionate. Duckworth and Quinn (2009) refer to this sort of perseverance and passion for long-term goals as &quot; Grit. &quot; Based on a review of the literature, we found relevant evidence to support potential connections among grit, stress, and academic performance. First, research has found that students who are conscientious, as measured by the Big Five Inventory (BFI; John &amp; Srivastava, 1999), academically outperform their less conscientious peers of similar, and even slightly higher, intelligence (Duckworth &amp; Quinn, 2009). Grit and conscientiousness are thus strongly associated (i.e., r = .77; Duckworth, Peterson, Matthews, &amp; Kelly, 2007). We are interested in learning whether grit is a useful measure of academic success for undergraduate college students at our university and a useful predictor of college retention. We define college retention as continued enrollment in our undergraduate program, or graduation from our undergraduate program after continued enrollment in the program. We have decided to investigate grit instead of conscientiousness because of the ease with which we can measure grit, with high reliability and validity, using the Short Grit Scale (Duckworth &amp; Quinn, 2009). In addition, when researchers controlled for conscientiousness, they found that grittier individuals attained more education than their peers, suggesting that grit is able to predict academic achievement above and beyond conscientiousness (Duckworth &amp; Quinn, 2009).</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

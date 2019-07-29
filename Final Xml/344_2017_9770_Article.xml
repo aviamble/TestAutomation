@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Increasing Rice Allelopathy by Induction of Barnyard Grass (Echinochloa crus-galli) Root Exudates</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Qi</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Li</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jiayu</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Biopesticide and Chemical Biology</orgName>
+								<orgName type="department" key="dep2">Ministry of Education</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Haibin</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Longyan University</orgName>
+                                <address>
+                                    <postCode>364012</postCode>
+                                    <settlement>Longyan</settlement>
+                                    <country>China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Changxun</forename>
+                                <surname>Fang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Biopesticide and Chemical Biology</orgName>
+								<orgName type="department" key="dep2">Ministry of Education</orgName>							
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiaoyan</forename>
+                                <surname>Yang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Haibin</forename>
+                                <surname>He</surname>
+                            </persName>
+                        <contact>
+                            <phone>+86 59183789367</phone>
+                            <email>alexhhb@163.com</email>
+                        </contact>													
+                            <affiliation key="aff1">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture and Forestry University)</orgName>
+                                <orgName type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Key Laboratory of Biopesticide and Chemical Biology</orgName>
+                                <orgName type="institution">Ministry of Education. Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+						<author>
+                            <affiliation>                                
+                                <address>
+								<addrLine>Cangshan District Shangxiadian Road No. 15</addrLine>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>                        					
+						</author>
+                        <title level="a" type="main">Increasing Rice Allelopathy by Induction of Barnyard Grass (Echinochloa crus-galli) Root Exudates</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note type="submission">RECEIVED 17 MAY 2017; ACCEPTED 8 NOVEMBER 2017</note>
+                    <note>1 * Corresponding Author.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>An allelopathic rice PI312777 and a non-allelopathic rice Lemont were hydroponically cultured and treated with extracts of seeds and tissues, and root exudates of barnyard grass (Echinochloa crus-galli, BYG) to induce an allelopathic response. The results of bioassays showed that the % inhibition of two rice leaf extracts was significantly (p&lt;0.05) increased by treatment with BYG root exudates. This induced trait was dosage-and time-dependent. The highest % inhibition for both PI312777 and Lemont was obtained following treatment with 15 mL of BYG root exudates for 2 days. Under these conditions, total allelopathy (TA) of PI312777 on root length, plant height, and plant dry weight of</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

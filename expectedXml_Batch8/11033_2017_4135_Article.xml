@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T08:28+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Comparative Transcriptomics Uncovers Differences in Photoautotrophic versus Photoheterotrophic Modes of Nutrition in relation to Secondary Metabolites Biosynthesis in Swertia chirayita</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Tarun</forename>
+                                <surname>Pal</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology and Bioinformatics</orgName>
+                                <orgName type="institution">Jaypee University of Information Technology</orgName>
+                                <address>
+                                    <addrLine>Waknaghat</addrLine>
+									<postCode>173234</postCode>
+                                    <region>Himachal Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jibesh</forename>
+                                <forename type="middle">Kumar</forename>
+                                <surname>Padhan</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology and Bioinformatics</orgName>
+                                <orgName type="institution">Jaypee University of Information Technology</orgName>
+                                <address>
+                                    <addrLine>Waknaghat</addrLine>
+									<postCode>173234</postCode>
+                                    <region>Himachal Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pawan</forename>
+                                <surname>Kumar</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology and Bioinformatics</orgName>
+                                <orgName type="institution">Jaypee University of Information Technology</orgName>
+                                <address>
+                                    <addrLine>Waknaghat</addrLine>
+									<postCode>173234</postCode>
+                                    <region>Himachal Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hemant</forename>
+                                <surname>Sood</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology and Bioinformatics</orgName>
+                                <orgName type="institution">Jaypee University of Information Technology</orgName>
+                                <address>
+                                    <addrLine>Waknaghat</addrLine>
+									<postCode>173234</postCode>
+                                    <region>Himachal Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Rajinder</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Chauhan</surname>
+                                <prefix>Dr.</prefix>
+                            </persName>
+                            <contact>
+                                <email>rajinder.chauhan@juit.ac.in</email>
+								<phone>+91-1792-239231</phone>
+                            </contact>
+							<affiliation key="aff1">
+                                <orgName type="department">Department of Biotechnology and Bioinformatics</orgName>
+                                <orgName type="institution">Jaypee University of Information Technology</orgName>
+                                <address>
+                                    <addrLine>Waknaghat</addrLine>
+									<postCode>173234</postCode>
+                                    <region>Himachal Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="department">Department of Biotechnology and Bioinformatics</orgName>
+                                <orgName type="institution">Jaypee University of Information Technology</orgName>
+                                <address>
+                                    <addrLine>Waknaghat</addrLine>
+									<postCode>173234</postCode>
+									<settlement>Solan</settlement>
+                                    <region>Himachal Pradesh</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Comparative Transcriptomics Uncovers Differences in Photoautotrophic versus Photoheterotrophic Modes of Nutrition in relation to Secondary Metabolites Biosynthesis in Swertia chirayita</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>contributed equally to this work. **Corresponding author Contact Number:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Purpose: Swertia chirayita is a high-value medicinal herb exhibiting antidiabetic, hepatoprotective, anticancer, antiediematogenic and antipyretic properties. Scarcity of its plant material has necessitated in vitro production of therapeutic metabolites; however, their yields were low compared to field grown plants. Possible reasons for this could be differences in physiological and biochemical processes between plants grown in photoautotrophic versus photoheterotrophic modes of nutrition. Materials and Methods: Comparative transcriptomes of S. chirayita were generated to decipher the crucial molecular components associated with the secondary metabolites biosynthesis. Results and Discussion: Illumina HiSeq sequencing yielded 57,460 and 43,702 transcripts for green house grown (SCFG) and tissue cultured (SCTC) plants, respectively. Biological role analysis (GO and COG assignments) revealed major differences in SCFG and SCTC transcriptomes. KEGG orthology (KO) mapped 351 and 341 transcripts onto secondary metabolites biosynthesis pathways for SCFG and SCTC transcriptomes, respectively. Nineteen out of 30 genes from primary metabolism showed higher in silico expression (FPKM) in SCFG versus SCTC, possibly indicating their involvement in regulating the central carbon pool. In silico data were validated by RT-qPCR using a set of 16 genes, wherein 10 genes showed similar expression pattern across both the methods. Comparative transcriptomes identified differentially expressed transcription factors and ABC-type transporters putatively associated with secondary metabolism in S. chirayita. Additionally, functional classification was performed using NCBI Biosystems database.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

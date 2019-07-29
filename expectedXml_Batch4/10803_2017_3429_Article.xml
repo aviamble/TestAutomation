@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T06:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Letter to the Editor Title: Broadening the Scope of Peer-Mediated Intervention for Individuals with Autism Spectrum Disorders</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mateusz</forename>
+                                <surname>Platos</surname>
+                            </persName>
+                            <contact>
+                                <email>mateusz.platos@psych.uw.edu.pl</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Faculty of Psychology</orgName>
+                                <orgName type="department" key="dep2">Association for Social Innovation &apos;Mary and Max&apos;</orgName>
+								<orgName type="institution">University of Warsaw</orgName>								
+                                <address>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Kinga</forename>
+                                <surname>Wojaczek</surname>
+                            </persName>
+                            <contact>
+                                <email>kinga.wojaczek@psych.uw.edu.pl</email>
+								<phone>+48 501 980 111</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Faculty of Psychology</orgName>
+                                <orgName type="department" key="dep2">Association for Social Innovation &apos;Mary and Max&apos;</orgName>
+								<orgName type="institution">University of Warsaw</orgName>								
+                                <address>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department" key="dep1">Faculty of Psychology</orgName>
+								<orgName type="institution">University of Warsaw</orgName>								
+                                <address>
+									<addrLine>Stawki Str. 5/7</addrLine>
+									<postcode>00-183</postcode>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Faculty of Psychology</orgName>
+								<orgName type="institution">University of Warsaw</orgName>
+                                <address>
+									<addrLine>Stawki Str. 5/7</addrLine>
+									<postcode>00-183</postcode>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>												
+                        <title level="a" type="main">Letter to the Editor Title: Broadening the Scope of Peer-Mediated Intervention for Individuals with Autism Spectrum Disorders</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>AUTHOR NOTE Correspondence concerning this article should be addressed to:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Peer-mediated intervention (PMI) is most commonly defined as a treatment approach that engages typically developing peers to teach children with autism spectrum disorders (ASD) social skills and increase their social interactions, mainly in a school setting. In this letter, we address the limitations of such understanding of PMI and review the arguments for broadening its scope. In particular, we argue that there is a critical need for research on PMI that focuses on friendship, social participation, and well-being of adolescents and adults with ASD, as well as engages peers in the community settings. In conclusion, we provide a</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

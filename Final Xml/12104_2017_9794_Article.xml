@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Assignment of 1 H, 13 C and 15 N resonances and secondary structure of the Rgd1-RhoGAP domain</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Denis</forename>
+                                <surname>Martinez</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Chimie et Biologie des Membranes et des Nano-objets</orgName>
+                                <orgName type="institution" key="instit1">Université de Bordeaux</orgName>
+								<orgName type="institution" key="instit2">CNRS UMR 5248</orgName>
+                                <address>
+									<addrLine>Allée Geoffroy Saint Hilaire</addrLine>
+                                    <postCode>33600</postCode>
+                                    <settlement>Pessac Cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Valérie</forename>
+                                <surname>Prouzet-Mauléon</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Laboratoire d&apos;Hématopoïèse Leucémique et Cibles Thérapeutiques</orgName>
+                                <orgName type="institution" key="instit1">Université de Bordeaux</orgName>
+								<orgName type="institution" key="instit2">INSERM 1035</orgName>
+                                <address>
+                                    <addrLine>146 rue Léo Saignat</addrLine>
+                                    <postCode>33076</postCode>
+                                    <settlement>Bordeaux Cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michel</forename>
+                                <surname>Hugues</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Chimie et Biologie des Membranes et des Nano-objets</orgName>
+                                <orgName type="institution" key="instit1">Université de Bordeaux</orgName>
+								<orgName type="institution" key="instit2">CNRS UMR 5248</orgName>
+                                <address>
+									<addrLine>Allée Geoffroy Saint Hilaire</addrLine>
+                                    <postCode>33600</postCode>
+                                    <settlement>Pessac Cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">François</forename>
+                                <surname>Doignon</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Laboratoire de Biogenèse Membranaire</orgName>
+                                <orgName type="institution" key="instit1">Université de Bordeaux</orgName>
+                                <orgName type="institution" key="instit2">CNRS UMR 5200</orgName>
+                                <address>
+                                    <addrLine>71 Avenue Edouard Bourlaux</addrLine>
+                                    <postCode>33883</postCode>
+                                    <settlement>Villenave d&apos;Ornon Cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Benoît</forename>
+                                <surname>Odaert</surname>
+                            </persName>
+                            <contact>
+                                <email>b.odaert@cbmn.u-bordeaux.fr</email>
+                                <phone>+33-5-40-00-68-35</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Chimie et Biologie des Membranes et des Nano-objets</orgName>
+                                <orgName type="institution" key="instit1">Université de Bordeaux</orgName>
+								<orgName type="institution" key="instit2">CNRS UMR 5248</orgName>
+                                <address>
+									<addrLine>Allée Geoffroy Saint Hilaire</addrLine>
+                                    <postCode>33600</postCode>
+                                    <settlement>Pessac Cedex</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Assignment of 1 H, 13 C and 15 N resonances and secondary structure of the Rgd1-RhoGAP domain</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>PAGE 1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

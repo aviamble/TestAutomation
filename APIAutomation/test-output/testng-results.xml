@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52515" started-at="2019-02-05T10:14:14Z" finished-at="2019-02-05T10:15:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52515" started-at="2019-02-05T10:14:14Z" finished-at="2019-02-05T10:15:06Z">
+      <class name="com.sntps.acdc.post.ApacheMultipartTest">
+        <test-method status="PASS" signature="packageServiceRequest()[pri:0, instance:com.sntps.acdc.post.ApacheMultipartTest@731a74c]" name="packageServiceRequest" duration-ms="45752" started-at="2019-02-05T15:44:14Z" finished-at="2019-02-05T15:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- packageServiceRequest -->
+      </class> <!-- com.sntps.acdc.post.ApacheMultipartTest -->
+      <class name="com.sntps.acdc.post.VASTest">
+        <test-method status="PASS" signature="vasRequest()[pri:0, instance:com.sntps.acdc.post.VASTest@7791a895]" name="vasRequest" duration-ms="1593" started-at="2019-02-05T15:45:03Z" finished-at="2019-02-05T15:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vasRequest -->
+      </class> <!-- com.sntps.acdc.post.VASTest -->
+      <class name="com.sntps.acdc.post.XMLTest">
+        <test-method status="PASS" signature="xmlTransformationRequest()[pri:0, instance:com.sntps.acdc.post.XMLTest@3a5ed7a6]" name="xmlTransformationRequest" duration-ms="1524" started-at="2019-02-05T15:45:05Z" finished-at="2019-02-05T15:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlTransformationRequest -->
+      </class> <!-- com.sntps.acdc.post.XMLTest -->
+      <class name="com.sntps.acdc.post.CTTest">
+        <test-method status="PASS" signature="contentStructuringRequest()[pri:0, instance:com.sntps.acdc.post.CTTest@7d907bac]" name="contentStructuringRequest" duration-ms="3590" started-at="2019-02-05T15:44:59Z" finished-at="2019-02-05T15:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contentStructuringRequest -->
+      </class> <!-- com.sntps.acdc.post.CTTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

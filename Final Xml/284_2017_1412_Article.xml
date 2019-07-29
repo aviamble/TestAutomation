@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T10:39+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Quercetin protects yeast Saccharomyces cerevisiae pep4 mutant from oxidative and apoptotic stress and extends chronological lifespan Quercetin protects yeast pep4 mutant from oxidative and apoptotic stress and extends chronological lifespan</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Phaniendra</forename>
+                                <surname>Alugoju</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sudharshan</forename>
+                                <forename type="middle">Setra</forename>
+                                <surname>Janardhanshetty</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">DBT-IPLS program</orgName>
+                                <orgName type="department" key="dep2">School of Life Sciences</orgName>
+                                <orgName type="institution">Pondicherry University</orgName>
+                                <address>
+                                    <postCode>605 014</postCode>
+                                    <region>Pondicherry</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Subasri</forename>
+                                <surname>Subaramanian</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Latha</forename>
+                                <surname>Periyasamy</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">DBT-IPLS program</orgName>
+                                <orgName type="department" key="dep2">School of Life Sciences</orgName>
+                                <orgName type="institution">Pondicherry University</orgName>
+                                <address>
+                                    <postCode>605 014</postCode>
+                                    <region>Pondicherry</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Madhu</forename>
+                                <surname>Dyavaiah</surname>
+                                <authordegree>PhD.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>madhud14@yahoo.co.in</email>
+                                <phone>+917708027294</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">DBT-IPLS program</orgName>
+                                <orgName type="department" key="dep2">School of Life Sciences</orgName>
+                                <orgName type="institution">Pondicherry University</orgName>
+                                <address>
+                                    <postCode>605 014</postCode>
+                                    <region>Pondicherry</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biochemistry and Molecular Biology</orgName>
+                                <orgName type="institution">Pondicherry University</orgName>
+                                <address>
+                                    <postCode>605 014</postCode>
+                                    <region>Pondicherry</region>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Quercetin protects yeast Saccharomyces cerevisiae pep4 mutant from oxidative and apoptotic stress and extends chronological lifespan Quercetin protects yeast pep4 mutant from oxidative and apoptotic stress and extends chronological lifespan</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Yeast pep4∆</term>
+                    <term>Cathepsin D</term>
+                    <term>Quercetin</term>
+                    <term>oxidative stress</term>
+                    <term>apoptosis and chronological lifespan Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The yeast Saccharomyces cerevisiae PEP4 gene encodes vacuolar endopeptidase proteinase A (Pep4p), which is a homolog of the human CTSD gene that encodes cathepsin D (Cat D). Mutation of CTSD gene in human resulted in a number of neurodegenerative diseases. In this study, we have shown that yeast pep4 mutant cells are highly sensitive to oxidative and apoptotic stress induced by hydrogen peroxide and acetic acid respectively. pep4∆ cells also showed accumulation of reactive oxygen species (ROS), apoptotic markers and reduced chronological lifespan. In contrast, quercetin pretreatment protected the pep4 mutant from oxidative and apoptotic stress induced sensitivity by scavenging ROS and reducing apoptotic markers. The percentage viability of quercetin treated pep4∆ cells was more pronounced and increased stress resistance against oxidant, apoptotic and heat stress during chronological aging. From our experimental results, we concluded that quercetin protects yeast pep4 mutant cells from oxidative stress and apoptosis, thereby increasing viability during chronological aging.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

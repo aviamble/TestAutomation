@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-23T06:11+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Revisiting Traumatic Cardiac Arrest: Should CPR be Initiated?</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Katie</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Konesky</surname>
+                            </persName>
+                            <contact>
+                                <email>konesky@buffalo.edu</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">SUNY, ECMC</orgName>
+                                <address>
+                                    <addrLine>D.K. Miller Building, 462 Grider St</addrLine>
+                                    <postCode>14215</postCode>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">W.</forename>
+                                <forename type="middle">Alan</forename>
+                                <surname>Guo</surname>
+                            </persName>
+                            <contact>
+                                <email>waguo@buffalo.edu</email>
+                                <phone>716-898-5283</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Surgery</orgName>
+                                <orgName type="institution">SUNY, ECMC</orgName>
+                                <address>
+                                    <addrLine>D.K. Miller Building, 462 Grider St</addrLine>
+                                    <postCode>14215</postCode>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Revisiting Traumatic Cardiac Arrest: Should CPR be Initiated?</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Objectives: Traumatic cardiac arrest (TCA) represents a unique problem, and poses difficult challenges in the care of trauma patients. Although literature has suggested that attempted resuscitation from TCA in trauma is futile and consumptive of medical and human resources, studies have recently demonstrated that the outcome of TCA is comparable cardiac arrest secondary to non-traumatic events. The objective of this study was to determine the incidence, predictors, and outcomes following TCA. Methods: We retrospectively reviewed 124 adult patients with TCA over a period of 5 years (July 2010 to June 2014). Cardiopulmonary resuscitation (CPR) occurred either in the field, en route, or in the emergency department at our Level I Trauma Center. Patients&apos; demographics, clinical data, CPR–related variables, and outcomes were extracted from both the electronic and paper medical records. Results: The median age of the group was 37 (IQR 38,) and the median ISS was 37 (IQR 50.) The most common cardiac rhythm observed was pulseless electrical activity (PEA, 55%). While 31.4% of patients achieved a return of spontaneous circulation (ROSC,) only 7.3% survived with a complete neurological recovery (CNR). In blunt injury patients, the mortality rate after CPR was higher in motor vehicle-related injuries than falls from heights (93.1% vs 72.3%, OR 5.06, 95% CI 0.95-27.0, p&lt;0.05.) In penetrating injuries, the mortality rate after CPR was higher in patients with trauma to the torsos than those suffering injuries to the head, neck, face and extremities combined (100% vs 81.3%, OR 0.049, 95% CI 0.0024</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T10:00+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Exploration of Mn 0.5 Ti 2 (PO 4 ) 3 @rGO Composite as Anode Electrode for Na-Ion battery</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Renming</forename>
+                                <surname>Zhan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute for Clean Energy and Advanced Materials</orgName>
+                                <orgName type="department" key="dep2">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Chongqing Key Laboratory for Advanced Materials and Technologies of Clean Energies</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Linyu</forename>
+                                <surname>Hu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute for Clean Energy and Advanced Materials</orgName>
+                                <orgName type="department" key="dep2">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Chongqing Key Laboratory for Advanced Materials and Technologies of Clean Energies</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jin</forename>
+                                <surname>Han</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute for Clean Energy and Advanced Materials</orgName>
+                                <orgName type="department" key="dep2">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+							 <affiliation key="aff2">
+                                <orgName type="department">Chongqing Key Laboratory for Advanced Materials and Technologies of Clean Energies</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                   <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chunlong</forename>
+                                <surname>Dai</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute for Clean Energy and Advanced Materials</orgName>
+                                <orgName type="department" key="dep2">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Chongqing Key Laboratory for Advanced Materials and Technologies of Clean Energies</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jian</forename>
+                                <surname>Jiang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute for Clean Energy and Advanced Materials</orgName>
+                                <orgName type="department" key="dep2">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Maowen</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <contact>
+                                <email>xumaowen@swu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Institute for Clean Energy and Advanced Materials</orgName>
+                                <orgName type="department" key="dep2">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+							 <affiliation key="aff2">
+                                <orgName type="department">Chongqing Key Laboratory for Advanced Materials and Technologies of Clean Energies</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <settlement>Chongqing</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Exploration of Mn 0.5 Ti 2 (PO 4 ) 3 @rGO Composite as Anode Electrode for Na-Ion battery</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Mn 05 Ti 2 (PO 4 ) 3</term>
+                    <term>anode</term>
+                    <term>capacity</term>
+                    <term>Na-ion battery 1 Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Exploring suitable anode electrode materials possess excellent rate performance, long cycle stability and high specific capacity are challenging targets for the development of sodium-ion batteries. Herein, we report a NASICON-structure Mn 0.5 Ti 2 (PO 4) 3 , which was synthesized by simple sol-gel means and applied as an anode material for sodium-ion battery for the first time. The electrode is found to enable fast Na + diffusion owing to the rich crystallographic vacancies, performing a initial discharge specific capacity of 201.7 mA h g-1 at the voltage range of 2.0 and 0.01 V. In particular, the hybrid Mn 0.5 Ti 2 (PO 4) 3 @reduction oxide graphene exhibits remarkable rate performance, retaining discharge specific capacity of nearly 60 mA h g-1 while the current density increased to 2 A g-1. The excellent electrochemical properties could be attributed to the reasonable porous structure of Mn 0.5 Ti 2 (PO 4) 3 @reduction oxide graphene brought about by the high conductivity, this structure observably increased diffusion coefficient of the electrode material.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

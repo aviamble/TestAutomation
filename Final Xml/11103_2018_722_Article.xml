@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T11:27+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Functionally redundant LNG3 and LNG4 genes regulate turgor-driven polar cell elongation through activation of XTH17 and XTH24</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Young</forename>
+                                <forename type="middle">Koung</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <contact>
+                                <email>leeyk@cshl.edu</email>
+								<phone>82-63-850-6096</phone>								
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biological Sciences</orgName>
+                                <orgName type="institution">KAIST</orgName>
+                                <address>
+                                    <postCode>34141</postCode>
+                                    <settlement>Daejeon</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Division of Biological Sciences and Institute for Basic Science/ Division of Biological Sciences and Research Institute for Glycoscience</orgName>
+                                <orgName type="institution">Wonkwang University</orgName>
+                                <address>
+                                    <postCode>54538</postCode>
+                                    <settlement>Iksan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ji</forename>
+                                <forename type="middle">Ye</forename>
+                                <surname>Rhee</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Agricultural Plant Stress Research Center</orgName>
+                                <orgName type="department" key="dep2">Department of Plant Biotechnology</orgName>
+                                <orgName type="department" key="dep3">College of Agriculture and Life Sciences</orgName>
+                                <orgName type="institution">Chonnam National University</orgName>
+                                <address>
+                                    <postCode>61186</postCode>
+                                    <settlement>Gwangju</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seong</forename>
+                                <forename type="middle">Hee</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Renewable Resources</orgName>
+                                <orgName type="institution">University of Alberta</orgName>
+                                <address>
+                                    <postCode>T6G 2E3</postCode>
+                                    <settlement>Edmonton</settlement>
+                                    <region>Alberta</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gap</forename>
+                                <forename type="middle">Chae</forename>
+                                <surname>Chung</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Agricultural Plant Stress Research Center</orgName>
+                                <orgName type="department" key="dep2">Department of Plant Biotechnology</orgName>
+                                <orgName type="department" key="dep3">College of Agriculture and Life Sciences</orgName>
+                                <orgName type="institution">Chonnam National University</orgName>
+                                <address>
+                                    <postCode>61186</postCode>
+                                    <settlement>Gwangju</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Soon</forename>
+                                <forename type="middle">Ju</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Division of Biological Sciences and Institute for Basic Science/ Division of Biological Sciences and Research Institute for Glycoscience</orgName>
+                                <orgName type="institution">Wonkwang University</orgName>
+                                <address>
+                                    <postCode>54538</postCode>
+                                    <settlement>Iksan</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shoji</forename>
+                                <surname>Segami</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Graduate School of Bioagricultural Sciences</orgName>
+                                <orgName type="institution">Nagoya University</orgName>
+                                <address>
+                                    <postCode>464-8601</postCode>
+                                    <settlement>Nagoya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Masayohi</forename>
+                                <surname>Maeshima</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Graduate School of Bioagricultural Sciences</orgName>
+                                <orgName type="institution">Nagoya University</orgName>
+                                <address>
+                                    <postCode>464-8601</postCode>
+                                    <settlement>Nagoya</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Giltsu</forename>
+                                <surname>Choi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Biological Sciences</orgName>
+                                <orgName type="institution">KAIST</orgName>
+                                <address>
+                                    <postCode>34141</postCode>
+                                    <settlement>Daejeon</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Functionally redundant LNG3 and LNG4 genes regulate turgor-driven polar cell elongation through activation of XTH17 and XTH24</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>6 Corresponding Author Short title: LNG3 and LNG4 regulate polar cell elongation via turgor pressure</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Polar cell elongation</term>
+                    <term>LONGIFOLIA</term>
+                    <term>turgor pressure</term>
+                    <term>XTH</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Plant vegetative architecture is related to important traits that later influence the floral architecture involved in seed production. Leaf morphology is the primary key trait to compose plant vegetative architecture. However, molecular mechanism on leaf shape determination is not fully understood even in the model plant Arabidopsis thaliana. We previously showed that LONGIFOLIA (LNG1) and LONGIFOLIA2 (LNG2) genes regulate leaf morphology by promoting longitudinal cell elongation in</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

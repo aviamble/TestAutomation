@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T03:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Inadequacy of conventional grab sampling for remediation decision-making for metal contamination at small-arms ranges</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+								<forename type="first">J.</forename>
+                                <forename type="middle">L.</forename>
+								<surname>Clausen</surname>
+                            </persName>
+                            <contact>
+                                <email>jay.l.clausen@usace.army.mil</email>
+                                <phone>603-646-4597</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Engineer Research and Development Center</orgName>
+                                <orgName type="department" key="dep2">Cold Regions Research and Engineering Laboratory</orgName>
+                                <orgName type="institution">U.S. Army Corps of Engineers</orgName>
+                                <address>
+                                    <addrLine>72 Lyme Road</addrLine>
+                                    <postCode>03755</postCode>
+                                    <settlement>Hanover</settlement>
+                                    <region>NH</region>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <surname>Georgian</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">U.S. Army Corps of Engineers</orgName>
+                                <address>
+                                    <addrLine>1616 Capitol Avenue</addrLine>
+                                    <postCode>68102</postCode>
+									<settlement>Omaha</settlement>
+                                    <region>NE</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Gardner</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Civil and Environmental Engineering</orgName>
+                                <orgName type="institution">University of New Hampshire</orgName>
+                                <address>
+                                    <postCode>03824</postCode>
+									<settlement>Durham</settlement>
+                                    <region>NH</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Douglas</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Engineer Research and Development Center, Cold Regions Research and Engineering Laboratory</orgName>
+                                <orgName type="institution">U.S. Army Corps of Engineers</orgName>
+                                <address>
+								<addrLine>Building 4070</addrLine>
+								<postCode>99703</postCode>
+								<settlement>Fort Wainwright</settlement>
+								<region>AK</region>                                 
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Inadequacy of conventional grab sampling for remediation decision-making for metal contamination at small-arms ranges</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 1 corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>grab sampling</term>
+                    <term>heterogeneity</term>
+                    <term>metals</term>
+                    <term>residue</term>
+                    <term>small-arms range</term>
+                    <term>soil</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Research shows grab sampling is inadequate for evaluating military ranges contaminated with energetics because of their highly heterogeneous distribution. Similar studies assessing the heterogeneous distribution of metals at small-arms ranges (SAR) are lacking. To address this we evaluated whether grab sampling provides appropriate data for performing risk analysis at metal-contaminated SARs characterized with 30 to 48 grab samples. We evaluated the extractable metal content of Cu, Pb, Sb, and Zn of the field data using a Monte Carlo random resampling with replacement (bootstrapping) simulation approach. Results indicate the 95% confidence interval of the mean for Pb (432 mg/kg) at one site was 200 to 700 mg/kg with a data range of 5 to 4500 mg/kg. Considering the U.S. Environmental Protection Agency screening level for lead is 400 mg/kg, the necessity of cleanup at this site is unclear. Resampling based on populations of 7 and 15 samples, a sample size more realistic for the area yielded high false negative rates. Introduction Grab sampling results from small-arms ranges (SAR) are typically used to describe the spatial and temporal deposition of metal contamination. Grab samples, sometimes referred to as discrete samples; involve the collection of small mass of soil from a single point within the investigation area. Grab sampling has been used to support a variety of Data Quality Objectives. In particular, grab sampling is often used to estimate mean study area contaminant concentrations (e.g., to support &quot; baseline &quot; risk assessments during Remedial Investigations). However, the small sample sizes routinely used in environmental assessments yield highly variable estimates of the mean (ITRC 2012; Clausen and Korte 2009). Work by the USEPA (1995) and Van Ee (1990) suggest the number of grab samples required to yield an accurate representation of the conditions in the field is often several times larger than what environmental practitioners typically collect; though the required number of samples varies depending on the project objectives and available resources.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

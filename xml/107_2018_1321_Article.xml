@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Swelling restraint of thermally modified ash wood perpendicular to the grain</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jerzy</forename>
+                                <surname>MAJKA</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Engineering Mechanics and Thermal Techniques</orgName>
+                                <orgName key="dep2" type="department">Faculty of Wood Technology</orgName>
+                                <orgName type="institution">Poznań University of Life Sciences</orgName>
+                                <address>
+                                    <settlement>Poznań</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Edward</forename>
+                                <surname>ROSZYK</surname>
+                            </persName>
+                            <contact>
+                                <email>eroszyk@up.poznan.pl</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Department of Wood Science</orgName>
+                                <orgName key="dep2" type="department">Faculty of Wood Technology</orgName>
+                                <orgName type="institution">Poznań University of Life Sciences</orgName>
+                                <address>
+                                    <settlement>Poznań</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Swelling restraint of thermally modified ash wood perpendicular to the grain</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Correspondence:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The paper reports on creep of ash wood (Fraxinus excelsior L.) thermally modified at 180C and 200C, and subsequently subjected to compression in tangential and radial directions and simultaneously wetted, from the moisture content (MC) of 6% to above the fibre saturation point (FSP). The compressing load made 0.00, 0.25, 0.50 and 0.75 of impact stress at the proportional limit (Rc). The compression stress needed to restrain the swelling of wood, the so-called swelling pressure, was indirectly determined from isochrones of mechano-sorptive creep. The most important finding was that thermal modification reduces the strain of ash wood subjected to compression perpendicular to the grain to a degree proportional to the mass loss. The compression stress needed to restrain the swelling of thermally modified wood is ca. 10 and 20% smaller in the tangential and radial directions, respectively. This effect leads to a reduction in the anisotropy of swelling pressure of thermally modified wood perpendicular to the grain. Moreover, although upon thermal modification the mass loss of wood takes place, at the MC of 6% it shows practically the same modulus of elasticity (MOE) and Rc as the unmodified wood. After wetting to MC higher than the FSP, the thermally modified wood at 200C shows significantly higher MOE and Rc than the wood modified at 180C and untreated wood. Reduction of wood hygroscopicity, an inevitable effect of thermal modification, also reduces the range of changes in mechanical properties of wood caused by the increase in its MC to the FSP. 1. Introduction The effects of thermal modification of wood on its chemical structure and properties have been extensively studied. It has been established that the effects, depending on the process parameters (i.e. temperature and duration of treatment) and wood species, lead to changes in wood colour (Icel et al. 2015; Candelier et al. 2016), and a decrease in durability (Mazela et al. 2004; Sivrikaya et al. 2015) and hygroscopicity (Olek et al. 2013; Icel et al. 2015). Although thermal modification always leads to a reduction in wood density, sometimes an increase in its compression strength parallel and perpendicular to the grain or an increase in bending strength, modulus of elasticity (MOE) and hardness is observed. It depends on the wood species and parameters of modification (Boonstra et al. 2007; Shi et al. 2007; Gündüz et al. 2008, 2009; Korkut and Hiziroglu 2009; Icel et al. 2015; Korkut and Aytin 2015; Moliński et al. 2016). Other wood properties including tensile strength parallel and perpendicular to the grain, shearing strength, dynamic bending strength and impact strength always deteriorate upon thermal modification (ThermoWood Handbook 2003; Windeisen et al. 2009). Thermal modification of wood has also been found to result in a decrease in fracture toughness (Murata et al. 2013). Some divergence in the evaluation of the effect of thermal modification on mechanical strength of wood follows from the fact that many authors compare mechanical properties of modified wood with the reference data</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

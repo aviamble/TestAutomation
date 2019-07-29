@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Quality of life in a broader perspective; does ASCOT reflect the Capability Approach?</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Loon</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <contact>
+                                <email>m.loon@vumc.nl</email>
+                                <phone>+316 497 260 92</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Medical Humanities</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU Medical Center Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Free University Amsterdam</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">K.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Leeuwen</surname>
+                                <particle>van</particle>
+                            </persName>
+                          
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">R.</forename>
+                                <forename type="middle">W.</forename>
+                                <forename type="middle">J.</forename>
+                                <forename type="middle">G.</forename>
+                                <surname>Ostelo</surname>
+                            </persName>
+                            
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Bosmans</surname>
+                            </persName>
+                          
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">G.</forename>
+                                <forename type="middle">A.</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Widdershoven</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Medical Humanities</orgName>
+                                <orgName type="department" key="dep2">Faculty of Earth and Life Sciences</orgName>
+                                <orgName type="institution" key="instit1">VU Medical Center Amsterdam</orgName>
+                                <orgName type="institution" key="instit2">Free University Amsterdam</orgName>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Quality of life in a broader perspective; does ASCOT reflect the Capability Approach?</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>a http://orcid.org/0000-0002-6801-712X Abstract Economic evaluation of services and interventions in care services tends to focus on quality of life(QoL) based on health-related measures such as EQ5D, with a major focus on health and functioning. The Capability Approach (CA) provides an alternative framework for measuring QoL and challenges some of the conventional issues in the current practice of measurement of QoL. The Capability Approach (CA) puts three issues on the agenda regarding QoL. First, the focus of evaluation should not be on functioning, but on freedom of choice. Second, evaluation should be critical about adaptive preferences, which entail that people lower expectations in situations of limited possibilities. Third, evaluation should not only address health, but also other domains of life. The Adult Social Care Outcomes Toolkit (ASCOT) aims to measure social-care related QoL in a broad sense. This article investigates whether and, if so, how the three issues put on the agenda by the CA are addressed by and operationalized in the ASCOT. Our analysis shows that freedom of choice is reflected in the response option &apos;as I want&apos; in the ASCOT questionnaire. The problem of adaptive preferences is countered in the ASCOT by developing a standard based on preferences of the general population. Third, the ASCOT contains several domains of life. In the discussion, we will reflect on the findings and mention some topics that need further consideration. We conclude that the CA and the ASCOT contribute to the discussion on QoL by raising awareness of the importance of these topics Keywords: Quality of Life, ASCOT, Capability Approach, Economic evaluation 1. Introduction Societies are aging and the number of people living with a chronic disease is rising, resulting in a growing need for care services for older adults [1]. This increase in the demand for healthcare has led to an enormous increase in (health)care costs while the resources available are limited. Therefore, (health)care decision-makers (e.g. policymakers and service providers) need to decide on how to spend these scarce resources best, for example in decisions for national reimbursement and local commissioning. By doing so, decision makers aim to maximize the health benefits within their allocated budget[2]. Information to inform these decisions is often obtained from economic evaluations in which the costs and effects of two or more interventions are being compared. Such allocation decisions are generally taken using information from scientific studies in which the costs and effects of two or more interventions are being compared. Such studies are referred to as economic evaluations. Currently, economic evaluations focus on Quality Adjusted Life Years (QALYs) as the primary outcome [3,4] in which both Quality of Life (QoL) and life gains are included. The QALY measures length and quality of life based on a health-related quality of life measure such as the EuroQol-5D (EQ-5D). Yet, many interventions, treatments, or health care services lead to an improvement in outcomes other than health alone [3 p.1194, 2,5,6]. For example, increasing mobility by providing a walker can influence someone&apos;s ability to go outdoors, increasing a person&apos;s feeling of being in control and autonomous, and enabling her to have a social life. In this way, many aspects of quality of life can be influenced by an intervention aimed, not at changing health, but at supporting physical, psychological and social functioning.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

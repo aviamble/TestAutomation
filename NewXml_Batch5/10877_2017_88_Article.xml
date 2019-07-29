@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">In Vitro Performance of Prefilled CO 2 Absorbers with the Zeus ®</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mohab</forename>
+                                <surname>Omer</surname>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Anesthesiology</orgName>
+                                <orgName key="dep2" type="department">Intensive Care and Pain Therapy</orgName>
+                                <orgName type="institution">OLV Hospital</orgName>
+                                <address>
+                                    <settlement>Aalst</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jan</forename>
+                                <forename type="middle">F.</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Hendrickx</surname>
+                                <authordegree>M. D., Ph. D.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>jcnwahendrickx@yahoo.com</email>
+                                <phone>Tel: +32-53-724708</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Staff Anesthesiologist</orgName>
+                                <orgName key="dep2" type="department">Department of Anesthesiology</orgName>
+                                <orgName key="dep3" type="department">Intensive Care and Pain Therapy</orgName>
+                                <orgName type="institution">OLV Hospital</orgName>
+                                <address>
+                                    <settlement>Aalst</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Simon</forename>
+                                <surname>Ridder</surname>
+                                <particle>De</particle>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Anesthesiology</orgName>
+                                <orgName key="dep2" type="department">Intensive Care and Pain Therapy</orgName>
+                                <orgName type="institution">OLV Hospital</orgName>
+                                <address>
+                                    <settlement>Aalst</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alexander</forename>
+                                <surname>Houwer</surname>
+                                <particle>De</particle>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Anesthesiology</orgName>
+                                <orgName key="dep2" type="department">Intensive Care and Pain Therapy</orgName>
+                                <orgName type="institution">OLV Hospital</orgName>
+                                <address>
+                                    <settlement>Aalst</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rik</forename>
+                                <surname>Carette</surname>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Staff Anesthesiologist</orgName>
+                                <orgName key="dep2" type="department">Department of Anesthesiology</orgName>
+                                <orgName key="dep3" type="department">Intensive Care and Pain Therapy</orgName>
+                                <orgName type="institution">OLV Hospital</orgName>
+                                <address>
+                                    <settlement>Aalst</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sofie</forename>
+                                <surname>Cooman</surname>
+                                <particle>De</particle>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName key="dep1" type="department">Staff Anesthesiologist</orgName>
+                                <orgName key="dep2" type="department">Department of Anesthesiology</orgName>
+                                <orgName type="institution">Sint-Jan Kliniek</orgName>
+                                <address>
+                                    <settlement>Brussels</settlement>
+                                    <country key="BE">Belgium</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Andre</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Wolf</surname>
+                                <particle>De</particle>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName key="dep1" type="department">Department of Anesthesiology</orgName>
+                                <orgName key="dep2" type="department">Feinberg School of Medicine</orgName>
+                                <orgName type="institution">Northwestern University</orgName>
+                                <address>
+                                    <settlement>Chicago</settlement>
+                                    <region>Illinois</region>
+                                    <country key="US">U.S.A</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">In Vitro Performance of Prefilled CO 2 Absorbers with the Zeus ®</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Introduction: Low fresh gas flows (FGFs) decrease the use of anesthetic gases, but increase</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

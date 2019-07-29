@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">GENETIC CHARACTERIZATION OF GREY WOLVES (CANIS LUPUS L. 1758) FROM BOSNIA AND HERZEGOVINA: IMPLICATIONS FOR CONSERVATION</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Dragana</forename>
+                                <surname>Šnjegota</surname>
+                            </persName>
+                            <contact>
+                                <email>snjegotadragana@gmail.com</email>
+                                <phone>0038751319142</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Sciences</orgName>
+                                <orgName type="institution">University of Banja Luka</orgName>
+                                <address>
+                                    <addrLine>Mladena Stojanovica 2</addrLine>
+                                    <settlement>Banja Luka</settlement>
+									<region>Republika Srpska</region>
+                                    <country key="BA">Bosnia and Herzegovina</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Milomir</forename>
+                                <surname>Stefanovic</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Faculty of Sciences</orgName>
+                                <orgName type="department" key="dep2">Department of Biology and Ecology</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                    <addrLine>Trg Dositeja Obradovica 2</addrLine>
+                                    <postCode>21000</postCode>
+                                    <settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nevena</forename>
+                                <surname>Velickovic</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Faculty of Sciences</orgName>
+                                <orgName type="department" key="dep2">Department of Biology and Ecology</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                    <addrLine>Trg Dositeja Obradovica 2</addrLine>
+                                    <postCode>21000</postCode>
+                                    <settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Duško</forename>
+                                <surname>Cirovic</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Faculty of Biology</orgName>
+                                <orgName type="institution">University of Belgrade</orgName>
+                                <address>
+                                    <addrLine>Studentski trg 3</addrLine>
+                                    <postCode>11000</postCode>
+                                    <settlement>Belgrade</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mihajla</forename>
+                                <surname>Djan</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Faculty of Sciences</orgName>
+                                <orgName type="department" key="dep2">Department of Biology and Ecology</orgName>
+                                <orgName type="institution">University of Novi Sad</orgName>
+                                <address>
+                                    <addrLine>Trg Dositeja Obradovica 2</addrLine>
+                                    <postCode>21000</postCode>
+                                    <settlement>Novi Sad</settlement>
+                                    <country key="RS">Serbia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+                                <orgName type="department">Faculty of Sciences</orgName>
+                                <orgName type="institution">University of Banja Luka</orgName>
+                                <address>
+                                    <addrLine>Mladena Stojanovica 2</addrLine>
+                                    <settlement>Banja Luka</settlement>
+									<region>Republika Srpska</region>
+                                    <country key="BA">Bosnia and Herzegovina</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">GENETIC CHARACTERIZATION OF GREY WOLVES (CANIS LUPUS L. 1758) FROM BOSNIA AND HERZEGOVINA: IMPLICATIONS FOR CONSERVATION</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>grey wolf</term>
+                    <term>Bosnia and Herzegovina</term>
+                    <term>microsatellites</term>
+                    <term>conservation Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The grey wolves of Bosnia and Herzegovina form a subpopulation of the Dinaric-Balkan wolf population and represent one of Europe&apos;s least studied wolf populations. Since the Dinaric-Balkan population is a valuable source of genetic diversity for neighboring populations, comprehensive assessments are warranted. We aimed to determine the genetic variability and structure of the grey wolf population from Bosnia and Herzegovina, as well as estimate levels of gene flow and inbreeding and evaluate genetic signals of a bottleneck. To do this, we analyzed the variability of eighteen microsatellite loci. We found moderately high genetic heterozygosity for wolves from Bosnia and Herzegovina, as described for other Dinaric-Balkan wolf populations. We reveal weak genetic structuring with two genetic clusters identified. Wolves from the eastern part of the region formed a relatively distinct cluster, whereas individuals in the second cluster overlapped quite considerably with admixed individuals. Despite the signal of genetic structure being weak, clustering of individuals from the eastern part of the country extended through all analyses. Thus, this cluster could be considered a separate management unit, perhaps requiring specific conservation attention.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

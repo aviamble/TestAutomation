@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T09:39+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Running Title: Tea plant SWEET transporters Title: Tea Plant SWEET Transporters: Expression Profiling, Sugar Transport, and the Involvement of CsSWEET16 in Modifying Cold Tolerance in Arabidopsis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Lu</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Tea Biology and Resources Utilization</orgName>
+                                <orgName type="department" key="dep2">Ministry of Agriculture</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lina</forename>
+                                <surname>Yao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xinyuan</forename>
+                                <surname>Hao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Tea Biology and Resources Utilization</orgName>
+                                <orgName type="department" key="dep2">Ministry of Agriculture</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nana</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wenjun</forename>
+                                <surname>Qian</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chuan</forename>
+                                <surname>Yue</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Changqing</forename>
+                                <surname>Ding</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jianming</forename>
+                                <surname>Zeng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Tea Biology and Resources Utilization</orgName>
+                                <orgName type="department" key="dep2">Ministry of Agriculture</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yajun</forename>
+                                <surname>Yang</surname>
+                            </persName>
+                        <contact>
+                            <email>yjyang@tricaas.com</email>
+							<phone>+86-571-86650226</phone>
+                        </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Tea Biology and Resources Utilization</orgName>
+                                <orgName type="department" key="dep2">Ministry of Agriculture</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xinchao</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                        <contact>
+                            <email>xcw75@tricaas.com</email>
+							<phone>+86-571-86653162</phone>
+                        </contact>																					
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">National Center for Tea Plant Improvement</orgName>
+                                <orgName type="department" key="dep2">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Tea Biology and Resources Utilization</orgName>
+                                <orgName type="department" key="dep2">Ministry of Agriculture</orgName>
+                                <address>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Y.</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Yang</surname>
+                                <prefix>Prof</prefix>
+                            </persName							
+                            <affiliation key="aff3">
+                                <orgName type="institution" key="instit1">Tea Research Institute</orgName>
+                                <orgName type="institution" key="instit2">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <addrLine>9<superscript>th</superscript>South of Meiling Road</addrLine>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>									
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">X.</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Wang</surname>
+                                <prefix>Dr</prefix>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Tea Research Institute</orgName>
+                                <orgName type="institution">Chinese Academy of Agricultural Sciences</orgName>
+                                <address>
+                                    <addrLine>9<superscript>th</superscript>South of Meiling Road</addrLine>
+                                    <postCode>310008</postCode>
+                                    <settlement>Hangzhou</settlement>									
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Running Title: Tea plant SWEET transporters Title: Tea Plant SWEET Transporters: Expression Profiling, Sugar Transport, and the Involvement of CsSWEET16 in Modifying Cold Tolerance in Arabidopsis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*These authors contributed equally to this work. Corresponding authors:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The SWEET (Sugars Will Eventually be Exported Transporters) family of sugar transporters in plants is a recently identified protein family of sugar uniporters that contain seven transmembrane helices harbouring two MtN3 motifs. SWEETs play important roles in various biological processes, including plant responses to environmental stimuli. In this study, 13 SWEET transporters were identified in Camellia sinensis and were divided into four clades. Transcript abundances of CsSWEET genes were detected in various tissues. CsSWEET1a/1b/2a/2b/2c/3/9b/16/17 were expressed in all of the selected tissues, whereas the expression of CsSWEET5/7/9a/15 was not detected in some tissues, including those of mature leaves. Expression analysis of nine CsSWEET genes in leaves in response to abiotic stresses, natural cold acclimation and Colletotrichum camelliae infection revealed that eight CsSWEET genes responded to abiotic stress, while CsSWEET3 responded to C. camelliae infection. Functional analysis of 13 CsSWEET activities in yeast revealed that CsSWEET1a/1b/7/17 exhibit transport activity for glucose analogues and other types of hexose molecules. Further characterization of the</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

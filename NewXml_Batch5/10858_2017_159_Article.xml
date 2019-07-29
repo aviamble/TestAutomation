@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-26T07:56+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Interaction study between HCV NS5A-D2 and NS5B using 19 F NMR</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Marie</forename>
+                                <surname>Dujardin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="instit1" type="institution">Univ. Lille</orgName>
+                                <orgName key="instit2" type="institution">CNRS</orgName>
+                                <orgName key="instit3" type="institution">UMR 8576 – UGSF</orgName>
+                                <address>
+                                    <postCode>F-59000</postCode>
+                                    <settlement>Lille</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">François-Xavier</forename>
+                                <surname>Cantrelle</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="instit1" type="institution">Univ. Lille</orgName>
+                                <orgName key="instit2" type="institution">CNRS</orgName>
+                                <orgName key="instit3" type="institution">UMR 8576 – UGSF</orgName>
+                                <address>
+                                    <postCode>F-59000</postCode>
+                                    <settlement>Lille</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Guy</forename>
+                                <surname>Lippens</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">LISBP</orgName>
+                                <orgName key="instit1" type="institution">Université de Toulouse</orgName>
+                                <orgName key="instit2" type="institution">CNRS</orgName>
+                                <orgName key="instit3" type="institution">INRA</orgName>
+                                <orgName key="instit4" type="institution">INSA</orgName>
+                                <address>
+                                    <addrLine>UPS 135 avenue de Rangueil</addrLine>
+                                    <postCode>31077</postCode>
+                                    <settlement>Toulouse</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Xavier</forename>
+                                <surname>Hanoulle</surname>
+                            </persName>
+                            <contact>
+                                <email>Xavier.hanoulle@univ-lille1.fr</email>
+                                <phone>phone: +33(0)362531716</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="instit1" type="institution">Univ. Lille</orgName>
+                                <orgName key="instit2" type="institution">CNRS</orgName>
+                                <orgName key="instit3" type="institution">UMR 8576 – UGSF</orgName>
+                                <address>
+                                    <postCode>F-59000</postCode>
+                                    <settlement>Lille</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Interaction study between HCV NS5A-D2 and NS5B using 19 F NMR</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*To whom correspondence should be addressed.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The non structural protein 5A (NS5A) regulates the replication of the hepatitis C viral RNA through a direct molecular interaction of its domain 2 (NS5A-D2) with the RNA dependent RNA polymerase NS5B. Because of conflicting data in the literature, we study here this molecular interaction using fluorinated versions of the NS5A-D2 protein derived from the JFH1 Hepatitis C Virus strain. Two methods to prepare fluorine-labelled NS5A-D2 involving the biosynthetic incorporation of a 19 F-tryptophan using 5-fluoroindole and the posttranslational introduction of fluorine by chemical conjugation of 2-iodo-N-(trifluoromethyl)acetamide with the NS5A-D2 cysteine side chains are presented. The dissociation constants (K D) between NS5A-D2 and NS5B obtained with these two methods are in good agreement, and yield values comparable to those derived previously from a surface plasmon resonance study. We compare benefits and limitations of both labeling methods to study the interaction between an intrinsically disordered protein and a large molecular target by 19 F NMR. Keywords 19 F NMR spectroscopy; 19 F protein labelling; HCV NS5A-D2; HCV NS5B; Protein-protein interaction. Introduction NMR spectroscopy is ideally suited to measure the interaction between (bio)molecules in solution. 1 Besides evidencing a molecular interaction, it can detail the interaction sites on both partners, but equally the thermodynamic and kinetic parameters of the complex. 2–4 The dissociation constant K D can thereby be deduced from a titration experiment, whereby the resonance shift or broadening is observed as a function of the added concentration of the partner. 4 A prerequisite for such studies, though, is the capacity at all to observe the NMR spectrum. Whereas size limits of the molecules that can be studied have been alleviated by recent progress in deuteration schemes combined with enhanced NMR methods, 5,6 the exchange rate also has a significant impact on the spectral quality. For many biological systems with K D values in the 1-100µM range, exchange between the free and bound states on a time scale comparable to the frequency difference leads to excessive line broadening, and one loses the resonances of interest sometimes as early as the first titration points. 7 Such was the case when we studied the molecular interaction between the RNA dependent RNA polymerase NS5B of the Hepatitis C virus (HCV) with its NS5A protein, whereby the interaction site on the latter is localized in its D2 domain. 8 In this mainly intrinsically disordered domain, 9 we recently identified a short structural motif, that we called the PW-turn. 10 Conserved across all HCV genotypes, it seems essential for HCV RNA replication. NS5A-D2 and NS5B are linked to the host protein Cyclophilin A (CypA), as resistance mutations appear in these two viral proteins under low doses of Cyclosporine A (CsA), the well-known CypA inhibitor with anti-HCV properties 11,12. NS5B and CypA share a common binding site on NS5A-D2 located in the region 306-323 that includes this 310 P 312 W turn. 8,13,14 Traditional 1 H, 15 N solution state NMR proved limited to determine the affinity of the interaction between NS5B and NS5A-D2 because of rapid spectrum broadening when NS5B was added. As this prevented a titration study, we used surface plasmon resonance to deduce a K D value of 21µM. 8 Recently, however, another study suggested nanomolar affinity for the same complex 13. In view of this thousand-fold discrepancy, we use here 1D 19 F NMR spectroscopy to investigate the interaction between NS5A-D2 and NS5B Δ21. 19 F NMR spectroscopy 15 has gained impact because the Fluorine-19 nucleus is a spin-1/2 NMR isotope with high sensitivity and large chemical shift dispersion. The fluorine chemical shift is known to be sensitive to its local environment, making it attractive to study conformational changes and/or protein/ligand interactions. 16–18 Fluorine labeling of amino acids by biosynthetic means or by chemical modification generates valuable probes for investigating protein-protein interactions 15 , and various fluorinated amino acids 19 or fluoromethyl tags 20 have been described. For our NS5A-D2/NS5B complex, we adopt two strategies: first, a 19 F nucleus is incorporated in the side chains of the two tryptophan residues of NS5A-D2 by using a minimal growth M9 medium supplemented with 5-fluoroindole for the recombinant expression of NS5A-D2, and secondly, 2-iodo-N-(trifluoromethyl)acetamide is used to label the two natural cysteines in NS5A-D2 or a single cysteine residue in three NS5A-D2 mutants (C298S, C338S and 2CS M254S). Beyond an independent characterization of the NS5B/NS5A interaction, our study equally highlights (dis)advantages of both strategies to incorporate a fluorine nucleus, and might hence be of interest for other 19 F-based NMR interaction studies that involve IDPs and large protein partners. Results Labelling of NS5A-D2 with a 19 Fluorine nucleus NS5A-D2 JFH1 (248-341) contains two tryptophan residues in position 312 and 325 (Fig. 1a). Biosynthetic incorporation of 19 F-tryptophan in NS5A-D2 WT was done following the strategy proposed by Crowley et al., by introducing the 5-fluoroindole (Fig. 1c) in the minimal medium culture with 15 NH 4 Cl as sole nitrogen source, allowing Escherichia coli to produce NS5A-D2 containing 19 F-tryptophan (5F-W NS5A-D2). 21 The side chains of the resulting 19 F-tryptophan residues thereby are not 15 N labelled, whereas their backbone amide nitrogen are labelled. The 1 H-15 N HSQC spectra of 15 N NS5A-D2 and 5F-W 15 N NS5A-D2 overlap very well (Fig. 1b, c), confirming the minimal perturbation caused by the insertion of a fluorine atom at the 5 position of the indole ring. 22,23 In the NS5A-D2 protein carrying the fluoro-indoles, the W312 backbone amide proton resonance remains at its outlying value of 7.2ppm (Figure 1c) that previously allowed identification of the PW turn, 10 thereby confirming that this small structural element is conserved when the indole ring is fluorinated. The degree of fluorination was evaluated to 80% by comparing the relative ratio of the indole NH peaks in the 1 H-15 N HSQC spectra of 15 N NS5A-D2 and 5F-W 15 N NS5A-D2 (Fig. 1c). The native NS5A-D2 JFH1 sequence contains two cysteine residues (C298 and C338) (Fig. 1a). Site-directed mutagenesis of the one or the other was employed to obtain two single cysteine mutants. A third mutant devoid of both natural cysteines but with a novel cysteine in the N-terminus of the domain was engineered to explore the previously determined N-terminal interaction zone. 8 We introduced 19 Fluorine nuclei post-translationally in the WT NS5A-D2 protein and the three single cysteine mutants (NS5A-D2 C298S, NS5A-D2 C338S and NS5A-D2 2CS M254C) (Fig. 1a) by chemical conjugation of 2-iodo-N-(trifluoromethyl)acetamide (Fig. 1d) with the cysteine side chain. The efficiency of 19 F nuclei incorporation on the C298 and C338 side chains in the WT domain or on the single cysteine mutants is close to 100%, as evaluated on the 1 H, 15 N-HSQC spectra of the samples before or after conjugation (Fig. 1d). NMR characterization of the 19 Fluorine spectrum In order to prepare for the titration experiments, we evaluated the NMR characteristics of both 19 F molecular probes. Evidently, incorporation of a single 19 F nucleus in the Trp side chain is expected to yield a weaker NMR signal than the 3 indistinguishable 19 F nuclei in the CF 3 fluoromethyl group. To improve sensitivity, 24 we replaced the 300mM NaPi buffer we previously used 8 by two buffers of</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

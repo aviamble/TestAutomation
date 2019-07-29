@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Letter to the Editor Title: Broadening the Scope of Peer-Mediated Intervention for Individuals with Autism Spectrum Disorders AUTHOR NOTE</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mateusz</forename>
+                                <surname>Płatos</surname>
+                            </persName>
+                            <contact>
+                                <email>mateusz.platos@psych.uw.edu.pl</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Faculty of Psychology</orgName>
+                                <orgName key="dep2" type="department">Association for Social Innovation 'Mary and Max'</orgName>
+                                <orgName type="institution">University of Warsaw</orgName>
+                                <address>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2" role="corresp" sequence="1">
+                                <orgName type="department">Faculty of Psychology</orgName>
+                                <orgName type="institution">University of Warsaw</orgName>
+                                <address>
+                                    <addrLine>Stawki Str. 5/7</addrLine>
+                                    <postCode>00-183</postCode>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Kinga</forename>
+                                <surname>Wojaczek</surname>
+                            </persName>
+                            <contact>
+                                <email>kinga.wojaczek@psych.uw.edu.pl</email>
+                                <phone>+48501980111</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Faculty of Psychology</orgName>
+                                <orgName key="dep2" type="department">Association for Social Innovation 'Mary and Max'</orgName>
+                                <orgName type="institution">University of Warsaw</orgName>
+                                <address>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2" role="corresp" sequence="1">
+                                <orgName type="department">Faculty of Psychology</orgName>
+                                <orgName type="institution">University of Warsaw</orgName>
+                                <address>
+                                    <addrLine>Stawki Str. 5/7</addrLine>
+                                    <postCode>00-183</postCode>
+                                    <settlement>Warsaw</settlement>
+                                    <country key="PL">Poland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Letter to the Editor Title: Broadening the Scope of Peer-Mediated Intervention for Individuals with Autism Spectrum Disorders AUTHOR NOTE</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Correspondence concerning this article should be addressed to:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Autism spectrum disorders</term>
+                    <term>Peer-mediated intervention</term>
+                    <term>Befriending</term>
+                    <term>Adolescent</term>
+                    <term>Adult</term>
+                    <term>Friendship</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Peer-mediated intervention (PMI) is most commonly defined as a treatment approach that engages typically developing peers to teach children with autism spectrum disorders (ASD) social skills and increase their social interactions, mainly in a school setting. In this letter, we address the limitations of such understanding of PMI and review the arguments for broadening its scope. In particular, we argue that there is a critical need for research on PMI that focuses on friendship, social participation, and well-being of adolescents and adults with ASD, as well as engages peers in the community settings. In conclusion, we provide a description of a befriending scheme for individuals with ASD to inspire future research and guidelines on peer-mediated intervention. Peer-mediated intervention (PMI) is a set of practices in which typically developing peers are selected, trained, and supervised to teach or support individuals with autism spectrum disorders (ASD). With over 60 experimental studies published to date (Chan et al., 2009; Chang &amp; Locke, 2016; Watkins et al., 2015), PMI is considered one of the most supported and recommended evidence-based practices (EBPs) for children with ASD (Reichow &amp; Volkmar, 2010; Wang, Cui, &amp; Parrila, 2011; Wong et al., 2015). Yet, in this letter we would like to draw attention to significant gaps in research on PMI and propose three extensions of its scope to include: (a) out-of-school interventions that broaden social environments in which PMI can be provided, (b) adolescents and adults with ASD as a target group of PMI, and (c) befriending schemes involving procedures and outcomes related to friendship, social participation, and well-being. As we argue, those additions to PMI are well-matched with current findings on limitations of available treatments and unmet needs of individuals with ASD. These propositions are exemplified by a description of a befriending scheme for adolescents and adults with ASD – Peer Volunteers 'Mary and Max' – that has been developed in Poland. Extensions of Peer-Mediated Intervention Since the first studies on PMI in the late 1970s (Strain, Kerr, &amp; Ragland, 1979), schools and preschools have been a natural setting to provide peer-mediated intervention, ranging from settings in general education classes (Katz &amp; Girolametto, 2013) to schoolyards (Kasari, Rotheram-Fuller, Locke, &amp; Gulsrud, 2012) and secluded school facilities (Ganz et al., 2012). Given that school is a primary context for children to socialize with peers, schools seem a good place to implement peer-mediated intervention. The question remains, however, if effects of PMI generalize also to different settings, namely, out-of-school environments, such as extracurricular activities, playground, or hanging out with peers. Considering difficulties of individuals with ASD in adapting to novel and unstructured situations (Hauck, Fein, Waterhouse, &amp; Feinstein, 1995), narrow range of interests (APA, 2013) and deficits in executive functions (Rosenthal et al., 2013), informal social and leisure activities may be particularly hard for them to participate. Research suggests that out-of-school participation of children with ASD is limited in a range of activities, social partners, and locations, compared to typically developing children, but differences are more pronounced in informal activities than formal ones (Hilton, Crouch, &amp; Israel, 2008). A study by Shattuck, Orsmond, Wagner, &amp; Cooper, (2011) showed that about half of adolescents with ASD never see friends after school, are never called by friends, or invited to social activities, and the rates of social participation in their case are substantially lower than in other disability groups. Hence, peer-mediated intervention should encompass out-of-school activities, both organized and unorganized that would provide individuals with ASD environment-specific skills and experiences (e.g. going to the cinema with friends) that cannot be replicated in the school environment.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T07:10+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Fumarase is involved in DNA double-strand break resection through a functional interaction with Sae2</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <surname>Leshets</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Microbiology and Molecular Genetics, IMRIC</orgName>
+                                <orgName type="department" key="dep2">Faculty of Medicine</orgName>
+                                <orgName type="institution">Hebrew University of Jerusalem</orgName>
+                                <address>
+                                    <settlement>Jerusalem</settlement>
+                                    <country key="IL">Israel</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dharanidharan</forename>
+                                <surname>Ramamurthy</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">CREATE-NUS-HUJ Program and the Department of Microbiology, Yong Loo Lin School of Medicine</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Michael</forename>
+                                <surname>Lisby</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Biology</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                                <address>
+                                    <addrLine>Ole Maaløes Vej 5</addrLine>
+									<postCode>2200</postCode>
+									<settlement>Copenhagen N</settlement>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Norbert</forename>
+                                <surname>Lehming</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">CREATE-NUS-HUJ Program and the Department of Microbiology, Yong Loo Lin School of Medicine</orgName>
+                                <orgName type="institution">National University of Singapore</orgName>
+                                <address>
+                                    <settlement>Singapore</settlement>
+                                    <country key="SG">Singapore</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ophry</forename>
+                                <surname>Pines</surname>
+                            </persName>
+                            <contact>
+                                <email>ophryp@ekmd.huji.ac.il</email>
+                                <phone>+972-2-6757203</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Microbiology and Molecular Genetics, IMRIC</orgName>
+                                <orgName type="department" key="dep2">Faculty of Medicine</orgName>
+                                <orgName type="institution">Hebrew University of Jerusalem</orgName>
+                                <address>
+                                    <settlement>Jerusalem</settlement>
+                                    <country key="IL">Israel</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Fumarase is involved in DNA double-strand break resection through a functional interaction with Sae2</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>One of the most severe forms of DNA damage is the double-strand break (DSB). Failure to properly repair the damage can cause mutation, gross chromosomal rearrangements and lead to the development of cancer. In eukaryotes, homologous recombination (HR) and non-homologous end joining (NHEJ) are the main DSB repair pathways. Fumarase is a mitochondrial enzyme which functions in the tricarboxylic acid cycle. Intriguingly, the enzyme can be readily detected in the cytosolic compartment of all organisms examined, and we have shown that cytosolic fumarase participates in the DNA damage response towards DSBs. In human cells fumarase was shown to be involved in NHEJ, but it is still unclear whether fumarase is also important for the HR pathway. Here we show that the depletion of cytosolic fumarase in yeast prolongs the presence of Mre11 at the DSBs, and decreases the kinetics of repair by the HR pathway. Overexpression of Sae2 endonuclease reduced the DSB sensitivity of the cytosolic fumarase depleted yeast, suggesting that Sae2 and fumarase functionally interact. Our results also suggest that</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T05:46+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effects of fish and grape seed oils as core of haloperidol-loaded nanocapsules on oral dyskinesia in rats</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Dalila</forename>
+                                <forename type="middle">Moter</forename>
+                                <surname>Benvegnú</surname>
+                            </persName>
+                            <contact>
+                                <email>dalilabenvegnu@yahoo.com.br</email>
+								<phone>+055-46 3543-8313</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Curso de Nutrição</orgName>
+                                <orgName type="institution">Universidade Federal da Fronteira Sul</orgName>
+                                <address>
+                                    <addrLine>Campus Realeza</addrLine>
+                                    <postCode>85770-000</postCode>
+                                    <settlement>Realeza</settlement>
+                                    <region>PR</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Katiane</forename>
+                                <surname>Roversi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Raquel</forename>
+                                <forename type="middle">Cristine</forename>
+                                <forename type="middle">Silva</forename>
+                                <surname>Barcelos</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fabiola</forename>
+                                <surname>Trevizol</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Camila</forename>
+                                <forename type="middle">Simonetti</forename>
+                                <surname>Pase</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hecson</forename>
+                                <forename type="middle">Jesser</forename>
+                                <surname>Segat</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Programa de Pós-Graduação em Bioquímica Toxicológica</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Verônica</forename>
+                                <forename type="middle">Tironi</forename>
+                                <surname>Dias</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ana</forename>
+                                <forename type="middle">Luiza</forename>
+                                <surname>Savian</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Programa de Pós-Graduação em Ciências Farmacêuticas</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bruna</forename>
+                                <forename type="middle">Lopes</forename>
+                                <surname>Piccoli</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department" key="dep1">Instituto de Ciências Básicas da Saúde</orgName>
+                                <orgName type="department" key="dep2">Departamento de Bioquímica</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande do Sul</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jaqueline</forename>
+                                <surname>Piccolo</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Carlos</forename>
+                                <forename type="middle">Severo</forename>
+                                <surname>Dutra-Filho</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department" key="dep1">Instituto de Ciências Básicas da Saúde</orgName>
+                                <orgName type="department" key="dep2">Departamento de Bioquímica</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande do Sul</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tatiana</forename>
+                                <surname>Emanuelli</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Cristiane</forename>
+								<forename type="middle">de Bona</forename>
+                                <surname>Silva</surname>
+								<particle>da</particle>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Programa de Pós-Graduação em Ciências Farmacêuticas</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ruy</forename>
+                                <forename type="middle">Carlos</forename>
+                                <forename type="middle">Ruver</forename>
+                                <surname>Beck</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department" key="dep1">Programa de Pós-Graduação em Ciências Farmacêuticas</orgName>
+                                <orgName type="department" key="dep2">Faculdade de Farmácia</orgName>
+                                <orgName type="institution">Universidade Federal do Rio Grande do Sul</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country>Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Marilise</forename>
+                                <forename type="middle">Escobar</forename>
+                                <surname>Bürger</surname>
+                            </persName>
+                            <contact>
+                                <email>marilise.burger@ufsm.br</email>
+                                <phone>+055-55 3220-7686</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Programa de Pós-Graduação em Farmacologia</orgName>
+                                <orgName type="institution">Universidade Federal de Santa Maria</orgName>
+                                <address>
+                                    <region>RS</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff7">
+                              <orgName type="department">Departamento de Fisiologia e Farmacologia / Centro de Ciências da Saúde</orgName>
+                              <orgName type="institution">Universidade Federal de Santa Maria (UFSM)</orgName>
+                                <address>
+                                    <postCode>97105-900</postCode>
+									<settlement>Santa Maria</settlement>
+                                    <region>RS</region>
+                                    <country>Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effects of fish and grape seed oils as core of haloperidol-loaded nanocapsules on oral dyskinesia in rats</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Haloperidol is a widely used antipsychotic, despite the severe motor side effects associated with its chronic use. This study was carried out to compare oral dyskinesia</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T12:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Deformation patterns in the southwestern part of the Mediterranean Ridge (South Matapan Trench, Western Greece)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Nikolaos</forename>
+                                <surname>Andronikidis</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Mineral Resources Engineering</orgName>
+                                <orgName type="institution">Technical University of Crete</orgName>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Eleni</forename>
+                                <surname>Kokinou</surname>
+                            </persName>
+							<contact>
+							<email>ekokinou@staff.teicrete.gr</email>
+							</contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Laboratory of Applied Geology and Hydrogeology</orgName>
+                                <orgName type="department" key="dep2">Department of Environmental &amp; Natural Resources Engineering</orgName>
+                                <orgName type="institution">Technological Educational Institute Crete</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Antonios</forename>
+                                <surname>Vafidis</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Mineral Resources Engineering</orgName>
+                                <orgName type="institution">Technical University of Crete</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Evangelos</forename>
+                                <surname>Kamberis</surname>
+                            </persName>
+							<affiliation key="aff3">
+                               <orgName type="institution">Hellenic Petroleum (Exploration and Exploitation of Hydrocarbons Division)</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Emmanouil</forename>
+                                <surname>Manoutsoglou</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Mineral Resources Engineering</orgName>
+                                <orgName type="institution">Technical University of Crete</orgName>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Deformation patterns in the southwestern part of the Mediterranean Ridge (South Matapan Trench, Western Greece)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Inner Mediterranean Ridge</term>
+                    <term>seafloor</term>
+                    <term>deformation patterns</term>
+                    <term>seismic structure</term>
+                    <term>tectonics</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Seismic reflection data and bathymetry analyses, together with geological information, are combined in the present work to identify seabed structural deformation and crustal structure in the Western Mediterranean Ridge (the backstop and the South Matapan Trench). As a first step, we apply bathymetric data and state of art methods of pattern recognition to automatically detect seabed lineaments, which are possibly related to the presence of tectonic structures (faults). The resulting pattern is tied to seismic reflection data, further assisting in the construction of a stratigraphic and structural model for this part of the Mediterranean Ridge. Structural elements and stratigraphic units in the final model are estimated based on: a) the detected lineaments on the seabed, b) the distribution of the interval velocities and the presence of velocity inversions, c) the continuity and the amplitudes of the seismic reflections, the seismic structure of the units and d) well and stratigraphic data as well as the main tectonic structures from the nearest onshore areas. Seabed morphology in the study area is probably related with the past and recent tectonics movements that result from African and European plates&apos; convergence. Backthrusts and reverse faults, flower structures and deep normal faults are among the most important extensional/compressional structures interpreted in the study area.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

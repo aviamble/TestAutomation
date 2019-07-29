@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T12:18+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Haplotype analysis suggest that the MLH1 c.2059C&gt;T mutation is a Swedish founder mutation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Jenny</forename>
+                                <surname>Salomé</surname>
+                                <particle>von</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Molecular Medicine and Surgery, Karolinska Institutet, and Clinical Genetics</orgName>
+                                <orgName type="institution">Karolinska University Hospital</orgName>
+                                <address>
+                                    <settlement>Solna, Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tao</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Molecular Medicine and Surgery</orgName>
+                                <orgName type="institution">Karolinska Institutet</orgName>
+                                <address>
+                                    <settlement>Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Markku</forename>
+                                <surname>Keihäs</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Molecular Medicine and Surgery</orgName>
+                                <orgName type="institution">Karolinska Institutet</orgName>
+                                <address>
+                                    <settlement>Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Moni</forename>
+                                <surname>Morak</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Medizinische Klinik und Poliklinik IV</orgName>
+                                <orgName type="institution">Klinikum der Universität München</orgName>
+                                <address>
+                                    <addrLine>Campus Innenstadt</addrLine>
+                                    <settlement>Munich</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">MGZ – Medizinisch Genetisches Zentrum</orgName>
+                                <address>
+                                    <settlement>Munich</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Elke</forename>
+                                <surname>Holinski-Feder</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Medizinische Klinik und Poliklinik IV</orgName>
+                                <orgName type="institution">Klinikum der Universität München</orgName>
+                                <address>
+                                    <addrLine>Campus Innenstadt</addrLine>
+                                    <settlement>Munich</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution">MGZ – Medizinisch Genetisches Zentrum</orgName>
+                                <address>
+                                    <settlement>Munich</settlement>
+                                    <country key="DE">Germany</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ian</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Berry</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Leeds Genetics Laboratory</orgName>
+                                <address>
+                                    <settlement>Leeds</settlement>
+                                    <country key="GB">UK</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jukka</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Moilanen</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department">PEDEGO Research Unit and Medical Research Center Oulu</orgName>
+                                <orgName type="institution">University of Oulu</orgName>
+                                <address>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Department of Clinical Genetics</orgName>
+                                <orgName type="institution">Oulu University Hospital</orgName>
+                                <address>
+                                    <settlement>Oulu</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Stéphanie</forename>
+                                <surname>Baert-Desurmont</surname>
+                            </persName>
+                            <affiliation key="aff8">
+                                <orgName type="department" key="dep1">Inserm U1079, IRIB</orgName>
+                                <orgName type="department" key="dep2">Department of Genetics</orgName>
+                                <orgName type="institution" key="instit1">University of Rouen</orgName>
+                                <orgName type="institution" key="instit2">Normandy University</orgName>
+                                <orgName type="institution" key="instit3">Rouen University Hospital</orgName>
+                                <orgName type="institution" key="instit4">Normandy Centre for Genomic and Personalized Medicine</orgName>
+                                <address>
+                                    <postCode>76183</postCode>
+                                    <settlement>Rouen</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Annika</forename>
+                                <surname>Lindblom</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Molecular Medicine and Surgery, Karolinska Institutet, and Clinical Genetics</orgName>
+                                <orgName type="institution">Karolinska University Hospital</orgName>
+                                <address>
+                                    <settlement>Solna, Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kristina</forename>
+                                <surname>Lagerstedt-Robinson</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Molecular Medicine and Surgery, Karolinska Institutet, and Clinical Genetics</orgName>
+                                <orgName type="institution">Karolinska University Hospital</orgName>
+                                <address>
+                                    <settlement>Solna, Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Haplotype analysis suggest that the MLH1 c.2059C&gt;T mutation is a Swedish founder mutation</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Lynch syndrome</term>
+                    <term>MLH1</term>
+                    <term>missense mutation</term>
+                    <term>founder mutation</term>
+                    <term>haplotype</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Lynch Syndrome (LS) predisposes to a spectrum of cancers and increases the lifetime risk of developing colorectal-or endometrial cancer to over 50%. Lynch Syndrome is dominantly inherited and is caused by defects in DNA mismatch-repair genes MLH1, MSH2, MSH6 or PMS2, with the vast majority detected in MLH1 and MSH2. Recurrent LS-associated variants observed in apparently unrelated individuals, have either arisen de novo in different families due to mutation hotspots, or are inherited from a founder (a common ancestor) that lived several generations back. There are variants that recur in some populations while also acting as founders in other ethnic groups. Testing for founder mutations can facilitate molecular diagnosis of Lynch Syndrome more efficiently and more cost effective than screening for all possible mutations. Here we report a study of the missense mutation MLH1 c.2059C&gt;T, (p.Arg687Trp), a potential founder mutation identified in eight Swedish families and one Finnish family with Swedish ancestors. Haplotype analysis confirmed that the Finnish and Swedish families shared a haplotype of between 0.9-2.8 Mb. While MLH1 c.2059C&gt;T exists worldwide, the Swedish haplotype was not found among mutation carriers from Germany or France, which indicates a common founder in the Swedish population. The geographic distribution of MLH1 c.2059C&gt;T in Sweden suggests a single, ancient mutational event in the northern part of Sweden. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

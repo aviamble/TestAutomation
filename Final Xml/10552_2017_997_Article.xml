@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T06:36+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Anthropometric characteristics and ovarian cancer risk and survival</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Albina</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Minlikeeva</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Cancer Prevention &amp; Control</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kirsten</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Moysich</surname>
+                            </persName>
+                            <contact>
+                                <email>kirsten.moysich@roswellpark.org</email>
+                                <phone>1-716-845-8004</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Cancer Prevention &amp; Control</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Paul</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Mayor</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Gynecological Oncology</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">John</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Etter</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Cancer Prevention &amp; Control</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rikki</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Cannioto</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Cancer Prevention &amp; Control</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Roberta</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Ness</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">The University of Texas School of Public Health</orgName>
+                                <address>
+                                    <settlement>Houston</settlement>
+                                    <region>TX</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kristen</forename>
+                                <surname>Starbuck</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Gynecological Oncology</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Robert</forename>
+                                <forename type="middle">P.</forename>
+                                <surname>Edwards</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Ovarian Cancer Center of Excellence</orgName>
+                                <orgName type="institution" key="instit1">Womens Cancer Research Program</orgName>
+                                <orgName type="institution" key="instit2">Magee-Womens Research Institute and University of Pittsburgh Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Pittsburgh</settlement>
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Brahm</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Segal</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Medicine and Immunology</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sashikant</forename>
+                                <surname>Lele</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Gynecological Oncology</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kunle</forename>
+                                <surname>Odunsi</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Gynecological Oncology</orgName>
+                                <orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Brenda</forename>
+                                <surname>Diergaarde</surname>
+                            </persName>
+                            <affiliation key="aff6">
+                                <orgName type="department" key="dep1">Department of Human Genetics</orgName>
+                                <orgName type="institution" key="instit1">University of Pittsburgh Graduate School of Public Health</orgName>
+                                <orgName type="institution" key="instit2">University of Pittsburgh Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Pittsburgh</settlement>
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Francesmary</forename>
+                                <surname>Modugno</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Ovarian Cancer Center of Excellence</orgName>
+                                <orgName type="institution" key="instit1">Womens Cancer Research Program</orgName>
+                                <orgName type="institution" key="instit2">Magee-Womens Research Institute and University of Pittsburgh Cancer Institute</orgName>
+                                <address>
+                                    <settlement>Pittsburgh</settlement>
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department" key="dep1">Division of Gynecologic Oncology</orgName>
+                                <orgName type="department" key="dep2">Department of Obstetrics, Gynecology and Reproductive Sciences</orgName>
+                                <orgName type="institution">University of Pittsburgh School of Medicine</orgName>
+                                <address>
+                                    <settlement>Pittsburgh</settlement>
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff8">
+                                <orgName type="department">Department of Epidemiology</orgName>
+                                <orgName type="institution">University of Pittsburgh Graduate School of Public Health</orgName>
+                                <address>
+                                    <settlement>Pittsburgh</settlement>
+                                    <region>PA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff9">
+							<orgName type="institution">Roswell Park Cancer Institute</orgName>
+                                <address>
+								<addrLine>A-352 Carlton House</addrLine>
+								<addrLine>Elm and Carlton Streets</addrLine>
+                                    <postCode>14263</postCode>
+                                    <settlement>Buffalo</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Anthropometric characteristics and ovarian cancer risk and survival</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>+ These authors contributed equally Corresponding author: Running title: Anthropometry and ovarian cancer Conflict of interest: The authors declare that they have no conflict of interest. Financial support: A.N.Minlikeeva was supported by NIH/NCI 4R25CA113951 and NIH/NCI P50CA159981; K.B.Moysich was supported by NIH/NCI P50CA159981, NIH/NCI 5R01CA188900, and the Roswell Park Alliance; B.H.Segal, J.L.Etter were supported by NIH/NCI 5R01CA188900, NIH/NCI P50CA159981; B. Diergaarde, F. Modugno, and R. Ness were supported by NIH/NCI R01CA095023, NIH/NCI R01CA126841, and NIH/NCI P50CA159981;</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>height</term>
+                    <term>weight</term>
+                    <term>height change</term>
+                    <term>ovarian cancer risk</term>
+                    <term>ovarian cancer survival</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

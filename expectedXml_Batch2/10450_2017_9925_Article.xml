@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T05:58+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Chromium adsorption into a macroporous resin based on vinylpyridine-divinylbenzene copolymers: thermodynamics, kinetics, and process dynamic in a fixed bed column</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">José</forename>
+                                <forename type="middle">Antonio</forename>
+                                <surname>Arcos-Casarrubias</surname>
+                            </persName>
+                            <contact>
+                                <email>jaacasarrubias@hotmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">División de Ingeniería Química y Bioquímica</orgName>
+                                <orgName type="institution">Tecnológico de Estudios Superiores de Ecatepec</orgName>
+                                <address>
+                                    <addrLine>Av. Tecnológico s/n</addrLine>
+                                    <postCode>55210</postCode>
+                                    <settlement>Ecatepec</settlement>
+                                    <region>Edo. de México</region>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Martín</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Cruz-Díaz</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">División de Ingeniería Química y Bioquímica</orgName>
+                                <orgName type="institution">Tecnológico de Estudios Superiores de Ecatepec</orgName>
+                                <address>
+                                    <addrLine>Av. Tecnológico s/n</addrLine>
+                                    <postCode>55210</postCode>
+                                    <settlement>Ecatepec</settlement>
+                                    <region>Edo. de México</region>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Departamento de Ingeniería y Tecnología</orgName>
+                                <orgName type="institution">Universidad Nacional Autónoma de México</orgName>
+                                <address>
+                                    <addrLine>Facultad de Estudios Superiores Cuautitlán Campo Uno, Av. Primero de Mayo</addrLine>
+                                    <postCode>C.P. 54740</postCode>
+									<settlement>Cuautitlán Izcalli</settlement>
+                                    <region>Edo. de México</region>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Judith</forename>
+                                <surname>Cardoso-Martínez</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Departamento de Física</orgName>
+                                <orgName type="institution">Universidad Autónoma Metropolitana-Iztapalapa</orgName>
+                                <address>
+                                    <addrLine>av. San Rafael Atlixco No. 186</addrLine>
+                                    <postCode>C. P. 09340</postCode>
+                                    <settlement>México, D.F.</settlement>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jorge</forename>
+                                <surname>Vázquez-Arenas</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Centro Mexicano para la Producción más Limpia, Instituto Politécnico Nacional</orgName>
+                                <address>
+                                    <addrLine>Av. Acueducto s/n, Col. La Laguna Ticomán</addrLine>
+                                    <postCode>07340</postCode>
+									<settlement>Ciudad de México</settlement>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Francisco</forename>
+                                <forename type="middle">Vidal</forename>
+                                <surname>Caballero-Domínguez</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">División de Ingeniería Química y Bioquímica</orgName>
+                                <orgName type="institution">Tecnológico de Estudios Superiores de Ecatepec</orgName>
+                                <address>
+                                    <addrLine>Av. Tecnológico s/n</addrLine>
+                                    <postCode>55210</postCode>
+                                    <settlement>Ecatepec</settlement>
+                                    <region>Edo. de México</region>
+                                    <country key="MX">México</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Chromium adsorption into a macroporous resin based on vinylpyridine-divinylbenzene copolymers: thermodynamics, kinetics, and process dynamic in a fixed bed column</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Abbreviations: : area of transversal section of the column (cm 2 ) s A : mass transfer specific area (cm -1 ) e a : the equilibrium molar concentrations in the liquid phase (mg Cr/L) e C</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>vinylpyridine-divinylbenzene copolymer</term>
+                    <term>Chromium adsorption</term>
+                    <term>mathematical modelling</term>
+                    <term>fixed bed column</term>
+                    <term>Density Functional Theory</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The synthesis of the poly(4-vinylpyridine-co-ethylvinylbenzene) resin is investigated and its performance to remove Cr(VI) from aqueous solutions is evaluated as a function of pH using batch and fixed bed column adsorptions. The rate of Cr(VI) removal is observed to increase as the pH solution shifts to acidic conditions due to an enhanced protonation of the 4-vinylpyridine group in the polymer, which favors its electrostatic attraction with Cr(VI) oxyanions. This finding is supported with Density Functional Theory (DFT) calculations, revealing that the interaction between CrO 4 2-(predominant species at pH &lt; 6) and protonated 4VP is more favorable than a bond formed with HCrO 4-species (pH &gt; 6) due to a higher charge delocalization arising in the O atoms. Experimental isotherms are approximated with the Langmuir and Radke-Prausnitz adsorption models. This former approach generates the best fitting to the data, whereby it was incorporated into a nonlinear transient model to account for the Cr(VI) adsorption in a fixed bed, and evaluating its capacity to predict experimental adsorption data. The model enables to infer that the resin presents a fast kinetic for Cr(VI) sorption, and the Cr(VI) intra-particle diffusion across the adsorbent pores is the rate-determining step for sorption.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:53+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Comparative assessment of chloroplast transcriptional responses highlights conserved and unique patterns across Triticeae members under salt stress</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Saeid</forename>
+                                <surname>Mirzaei</surname>
+                                <prefix>Assistant Professor</prefix>
+                            </persName>
+                            <contact>
+                                <email>s.mirzaei@kgut.ac.ir</email>
+                                <phone>+98 3433778018</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biotechnology, Institute of Science</orgName>
+                                <orgName type="department" key="dep2">High technology and Environmental Sciences</orgName>
+                                <orgName type="institution">Graduate University of Advanced Technology</orgName>
+                                <address>
+                                    <settlement>Kerman</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff6">
+                                <orgName type="department">Department of Biotechnology, Institute of Science, High technology and Environmental Sciences Graduate</orgName>
+                                <orgName type="institution">University of Advanced Technology</orgName>
+                                <address>
+                                    <postCode>7631818356</postCode>
+                                    <settlement>Kerman</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mehdi</forename>
+                                <surname>Mansouri</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Agricultural Biotechnology</orgName>
+                                <orgName type="department" key="dep2">Faculty of Agriculture</orgName>
+                                <orgName type="institution">Shahid Bahonar University of Kerman</orgName>
+                                <address>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Research and Technology Institute of Plant Production</orgName>
+                                <orgName type="institution">Shahid Bahonar University of Kerman</orgName>
+                                <address>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ghasem</forename>
+                                <surname>Mohammadi-Nejad</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Research and Technology Institute of Plant Production</orgName>
+                                <orgName type="institution">Shahid Bahonar University of Kerman</orgName>
+                                <address>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gaurav</forename>
+                                <surname>Sablok</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="institution">Finnish Museum of Natural History (Botany)</orgName>
+                                <address>
+                                    <postBox>PO Box 7</postBox>
+                                    <postCode>FIN-00014</postCode>
+                                    <settlement>Helsinki</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Bioscience</orgName>
+                                <orgName type="institution">Viikki Plant Science Center</orgName>
+                                <address>
+                                    <postBox>PO Box 7</postBox>
+                                    <postCode>FIN-00014</postCode>
+                                    <settlement>Helsinki</settlement>
+                                    <country key="FI">Finland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                       
+                        <title level="a" type="main">Comparative assessment of chloroplast transcriptional responses highlights conserved and unique patterns across Triticeae members under salt stress</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding authors:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Chloroplast</term>
+                    <term>expression profiling</term>
+                    <term>photosynthesis</term>
+                    <term>RNA editing</term>
+                    <term>salt stress</term>
+                    <term>Triticeae members †These authors have contributed equally to this work</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Chloroplast functional genomics, in particular understanding the chloroplast transcriptional response is of immense importance mainly due to its role in oxygenic photosynthesis. As a photosynthetic unit, its efficiency and transcriptional activity is directly regulated by reactive oxygen species (ROS) during abiotic and biotic stress and subsequently affects carbon assimilation, and plant biomass. In crops, understanding photosynthesis is crucial for crop domestication by identifying the traits that could be exploited for crop improvement. Transcriptionally and translationally active chloroplast plays a key role by regulating the PSI and PSII photo reactions centres, which ubiquitously affects the light harvesting. Using a comparative transcriptomics mapping approach, we identified differential regulation of key chloroplast genes during salt stress across Triticeae members with potential genes involved in photosynthesis and electron transport system such as CytB6f. Apart from differentially regulated genes involved in PSI and PSII, we found widespread evidence of intron splicing events, specifically uniquely spliced petB and petD in Triticum aestivum and high proportion of RNA editing in ndh genes across the Triticeae members during salt stress. We also highlight the role and differential regulation of ATP synthase as member of CF 0 CF 1 and also revelaed the effect of salt stress on the water-splitting complex under salt stress. It is worthwhile to mention that the observed conserved down-regulation of psbJ across the Triticeae is limiting the assembly of water-splitting complexes and thus making the BEP clade Triticeae members more vulnuerable to high light during the salt stress. Comparative understanding of the chloroplast transcriptional dynamics and photosynthetic regulation will improve the approaches for improved crop domestication. Introduction: Chloroplast as a photosynthetic power-house plays an important role in ATP harvesting and energy sequestration from light (Leister et</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

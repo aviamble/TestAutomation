@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:50+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Interaction Studies of Ammonia Gas Molecules on Borophene Nanosheet and Nanotubes: A Density Functional Study</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">V.</forename>
+                                <surname>Nagarajan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Electrical and Electronics Engineering</orgName>
+                                <orgName type="institution">SASTRA University</orgName>
+                                <address>
+								    <addrLine>Tirumalaisamudram</addrLine>
+                                    <postCode>613 401</postCode>
+                                    <settlement>Thanjavur</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">R.</forename>
+                                <surname>Chandiramouli</surname>
+                            </persName>
+							<contact>
+                            <email>rcmoulii@gmail.com</email>
+							<phone>+919489566466</phone>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Electrical and Electronics Engineering</orgName>
+                                <orgName type="institution">SASTRA University</orgName>
+                                <address>
+								    <addrLine>Tirumalaisamudram</addrLine>
+                                    <postCode>613 401</postCode>
+                                    <settlement>Thanjavur</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Interaction Studies of Ammonia Gas Molecules on Borophene Nanosheet and Nanotubes: A Density Functional Study</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>borophene</term>
+                    <term>adsorption</term>
+                    <term>nanosheet</term>
+                    <term>nanotube</term>
+                    <term>ammonia</term>
+                    <term>stability</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>The structural stability of borophene nanosheet and nanotubes, including electronic properties was explored using the Density-Functional-Theory technique. Moreover, the stability of isolated pristine borophene nanosheet and nanotube is substantiated with the help of formation energy. The energy band gap of pristine borophene material is found to be semi-metallic. The interaction of NH 3 molecules on borophene material is analyzed using Bader charge transfer, adsorption energy, density-of-states spectrum, energy band gap and percentage of average-energy-gap variation. The interaction of hazardous NH 3 gas molecules on borophene nanosheet and nanotubes is studied at an atomistic level. The interaction of nitrogen atom in ammonia molecules on borophene material is observed to be the prominent adsorption site. The findings suggest that borophene nanosheets as well as nanotubes can be used as a chemi-resistor for the detection of ammonia molecules present in the atmosphere. 1. Introduction Graphene and carbon nanotubes (CNTs) are the low-dimensional nanostructures of elemental carbon, which exhibits fascinating properties [1]. The functional materials with tunable properties are in search among research community. Owing to their unique physical properties, carbon allotropes are a good choice for potential application in nanoscale devices. Nevertheless,</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+</TEI>

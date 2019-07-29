@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T05:19+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">PL and ESR of Gd 3+ in LaMgAl 11 O 19 phosphors</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Vijay</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <contact>
+                                <email>vijayjiin2006@yahoo.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemical Engineering</orgName>
+                                <orgName type="institution">Konkuk University</orgName>
+                                <address>
+                                    <postCode>05029</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">N.</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemical Engineering</orgName>
+                                <orgName type="institution">Konkuk University</orgName>
+                                <address>
+                                    <postCode>05029</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">M.</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Pathak</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemical Engineering</orgName>
+                                <orgName type="institution">Konkuk University</orgName>
+                                <address>
+                                    <postCode>05029</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">S.</forename>
+                                <surname>Watanabe</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Physics</orgName>
+                                <orgName type="institution">University of Sao Paulo</orgName>
+                                <address>
+                                    <postCode>05508-090</postCode>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">T.</forename>
+                                <forename type="middle">K.</forename>
+                               <forename type="middle">Gundu</forename> 
+								 <surname>Rao</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Institute of Physics</orgName>
+                                <orgName type="institution">University of Sao Paulo</orgName>
+                                <address>
+                                    <postCode>05508-090</postCode>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pramod</forename>
+                                <forename type="middle">K.</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Materials Research Laboratory</orgName>
+                                <orgName type="institution">Sharda University</orgName>
+                                <address>
+                                    <postCode>201310</postCode>
+                                    <settlement>Greater Noida</settlement>
+                                    <country key="IN">India</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Young-Wan</forename>
+                                <surname>Kwon</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Graduate School of Converging Science and Technology</orgName>
+                                <orgName type="institution">Korea University</orgName>
+                                <address>
+                                    <postCode>02841</postCode>
+                                    <settlement>Seoul</settlement>
+                                    <country key="KR">Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">V.</forename>
+                                <surname>Singh</surname>
+                            </persName>
+                        </author>
+                        <title level="a" type="main">PL and ESR of Gd 3+ in LaMgAl 11 O 19 phosphors</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>combustion</term>
+                    <term>EPR</term>
+                    <term>Gd 3+</term>
+                    <term>LaMgAl 11 O 19</term>
+                    <term>phosphor</term>
+                    <term>luminescence</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>LaMgAl 11 O 19 doped with different concentrations of gadolinium phosphors were synthesized by combustion and characterized using X-Ray diffraction to identify the crystalline phase. Photoluminescence (PL) studies on the sample showed emission peaks at 313 and 306 nm with ? exi = 273 nm corresponding to the 6 P J ? 8 S 7/2 transitions of Gd 3+ ions. In phosphors with low dopant concentrations, dominant electron spin resonance (ESR) lines are observed with g eff ~ 1.96, 1.98, 4.2, and 6.0. With increasing concentrations, the spectrum appears to be U-shaped, and main lines are seen at g eff ~ 1.98, 2.04, 2.8, 4.1 and 6.2. Distortions in the immediate environment of Gd 3+ ions lead to relatively strong crystal fields and the appearance of lines in the low field region of the spectrum.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

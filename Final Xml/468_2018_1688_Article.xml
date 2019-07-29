@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-05T09:28+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Dark chlorophyll synthesis may provide a potential for shade tolerance as shown by a comparative study with seedlings of European larch (Larix decidua) and Norway spruce (Picea abies)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Tibor</forename>
+                                <surname>Stolárik</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biophysics</orgName>
+                                <orgName type="department" key="dep2">Centre of Region Haná for Biotechnological and Agricultural Research</orgName>
+                                <orgName type="department" key="dep3">Faculty of Science</orgName>
+                                <orgName type="institution">Palacký University in Olomouc</orgName>
+                                <address>
+                                    <addrLine>Šlechtitelu 27</addrLine>
+                                    <postCode>CZ-783 71</postCode>
+                                    <settlement>Olomouc</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vladimíra</forename>
+                                <surname>Nožková</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biophysics</orgName>
+                                <orgName type="department" key="dep2">Centre of Region Haná for Biotechnological and Agricultural Research</orgName>
+                                <orgName type="department" key="dep3">Faculty of Science</orgName>
+                                <orgName type="institution">Palacký University in Olomouc</orgName>
+                                <address>
+                                    <addrLine>Šlechtitelu 27</addrLine>
+                                    <postCode>CZ-783 71</postCode>
+                                    <settlement>Olomouc</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lukáš</forename>
+                                <surname>Nosek</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biophysics</orgName>
+                                <orgName type="department" key="dep2">Centre of Region Haná for Biotechnological and Agricultural Research</orgName>
+                                <orgName type="department" key="dep3">Faculty of Science</orgName>
+                                <orgName type="institution">Palacký University in Olomouc</orgName>
+                                <address>
+                                    <addrLine>Šlechtitelu 27</addrLine>
+                                    <postCode>CZ-783 71</postCode>
+                                    <settlement>Olomouc</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="0">
+                            <persName>
+                                <forename type="first">Andrej</forename>
+                                <surname>Pavlovic</surname>
+                            </persName>
+                            <contact>
+                                <email>andrej.pavlovic@upol.cz</email>
+                                <phone>+420 585 634 831</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biophysics</orgName>
+                                <orgName type="department" key="dep2">Centre of Region Haná for Biotechnological and Agricultural Research</orgName>
+                                <orgName type="department" key="dep3">Faculty of Science</orgName>
+                                <orgName type="institution">Palacký University in Olomouc</orgName>
+                                <address>
+                                    <addrLine>Šlechtitelu 27</addrLine>
+                                    <postCode>CZ-783 71</postCode>
+                                    <settlement>Olomouc</settlement>
+                                    <country key="CZ">Czech Republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Dark chlorophyll synthesis may provide a potential for shade tolerance as shown by a comparative study with seedlings of European larch (Larix decidua) and Norway spruce (Picea abies)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author: Key message The ability to green in the dark represents a trait providing shade tolerance in seedlings of Norway spruce Conflict of interest The authors declare that they have no conflict of interest. Author Contribution: Conceived and designed the experiments: TS and AP Conducted the experiments: TS, VN, LN and AP Analysed the data: TS, VN and AP Contributed reagents/materials/analysis tools: AP Wrote the manuscript: TS, AP</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>In contrast to angiosperm plants, gymnosperms possess two different enzymes for the reduction of protochlorophyllide to chlorophyllide: dark-operative, light-independent protochlorophyllide oxidoreductase (DPOR), consisting of three subunits: ChlL, ChlN and ChlB, and light-dependent protochlorophyllide oxidoreductase (LPOR). European larch seedlings (Larix decidua Mill.), in contrast to Norway spruce (Picea abies Karst.), accumulate only very low amounts of chlorophylls in the dark due to an inactive DPOR enzyme. In this study, we used these two species to investigate the advantage of the coexistence of two protochlorophyllide oxidoreductases on chlorophyll synthesis under different light conditions. We found that under deep shade conditions, the larch seedlings are partially etiolated with a low quantum yield of photosystem II photochemistry caused by inefficient LPOR function under that subliminal irradiance concomitant with an inactive DPOR enzyme. In contrast, spruce accumulated a significant amount of chlorophylls under deep shade conditions due to the coexistence of active DPOR and LPOR enzymes. Moreover, although PSII developed in the dark had an inactive oxygen-evolving complex, even very low irradiance is sufficient for photoactivation of PSII, as proved by the high quantum yield of photosystem II (F v /F m) and</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

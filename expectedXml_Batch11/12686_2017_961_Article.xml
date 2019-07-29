@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:12+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">The complete chloroplast genome sequence of Ostrya chisosensis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Ying</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Grassland Agro-Ecosystem</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Biyao</forename>
+                                <surname>Yan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Grassland Agro-Ecosystem</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Gaini</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Grassland Agro-Ecosystem</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhiqiang</forename>
+                                <surname>Lu</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Tropical Forest Ecology</orgName>
+                                <orgName type="department" key="dep2">Xishuangbanna Tropical Botanical Garden</orgName>
+                                <orgName type="institution">Chinese Academy of Sciences</orgName>
+                                <address>
+                                    <settlement>Mengla</settlement>
+                                    <region>Yunnan</region>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Yongzhi</forename>
+                                <surname>Yang</surname>
+                            </persName>
+                            <contact>
+                                <email>yangyongzhi2008@gmail.com</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">State Key Laboratory of Grassland Agro-Ecosystem</orgName>
+                                <orgName type="department" key="dep2">College of Life Science</orgName>
+                                <orgName type="institution">Lanzhou University</orgName>
+                                <address>
+                                    <settlement>Lanzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">The complete chloroplast genome sequence of Ostrya chisosensis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Correspondence should be addressed to</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Ostrya chisosensis</term>
+                    <term>Chloroplast genome</term>
+                    <term>Phylogenetic analysis</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Ostrya chisosensis (Betulaceae) is a critically endangered species endemic to Texas. In this study, the complete chloroplast (cp) genome of O. chisosensis was assembled based on next generation sequencing. The cp genome was 159,107 bp in length, including a large single copy (LSC) region of 88,458 bp, a small single copy (SSC) region of 18,792 bp and a pair of inverted repeats (IRs) of 51,857 bp. The genome contained 124 genes, including 85 protein-coding genes, 30 tRNA genes and 8 ribosomal RNA genes. The majority of these gene species occurred as a single copy and 13 gene species occurred in two copies. The overall GC content of the chloroplast genome was 36.5%, whereas the corresponding values of the LSC, SSC, and IR regions were 34.3%, 30.1% and 42.5%, respectively. A phylogenetic analysis demonstrated a close relationship between O. chisosensis and O. rehderiana.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

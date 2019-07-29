@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:51+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Subtype specification of cerebral cortical neurons in their immature stages</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Koji</forename>
+                                <surname>Oishi</surname>
+                            </persName>
+                            <contact>
+                                <email>k-oishi@keio.jp</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Keio University School of Medicine</orgName>
+                                <address>
+                                    <postCode>160-8582</postCode>
+                                    <settlement>Tokyo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Keio University School of Medicine</orgName>
+                                <address>
+                                    <addrLine>35 Shinanomachi, Shinjuku-ku</addrLine>
+                                    <postCode>160-8582</postCode>
+                                    <settlement>Tokyo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kazunori</forename>
+                                <surname>Nakajima</surname>
+                            </persName>
+                            <contact>
+                                <email>kazunori@keio.jp</email>
+                                <phone>+81-3-5363-3743.</phone>
+                            </contact>
+							<affiliation key="aff1">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Keio University School of Medicine</orgName>
+                                <address>
+                                    <postCode>160-8582</postCode>
+                                    <settlement>Tokyo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Anatomy</orgName>
+                                <orgName type="institution">Keio University School of Medicine</orgName>
+                                <address>
+                                    <addrLine>35 Shinanomachi, Shinjuku-ku</addrLine>
+                                    <postCode>160-8582</postCode>
+                                    <settlement>Tokyo</settlement>
+                                    <country key="JP">Japan</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Subtype specification of cerebral cortical neurons in their immature stages</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Address correspondence to: Acknowledgements</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

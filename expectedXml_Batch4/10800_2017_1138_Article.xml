@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:45+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Fabrication of Co-Doped CdSe Quantum Dot-Sensitized TiO 2 Nanotubes by Ultrasound-Assisted Method and Their Photoelectrochemical Properties</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhou</forename>
+                                <surname>Mao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <country>P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Hua</forename>
+                                <surname>Lin</surname>
+                            </persName>
+							<contact>
+                            <phone>+86-23+68253204</phone>
+                            <email>lh2004@swu.edu.cn</email>
+                        </contact>
+                             <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <country>P. R. China</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <addrLine>No.2 Tiansheng Road, Beibei District</addrLine>
+                                    <postCode>400715</postCode>
+									<settlement>Chongqing</settlement>
+                                    <country>China</country>
+                                </address>
+                            </affiliation>
+							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Meng</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <country>P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jie</forename>
+                                <surname>Miao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <country>P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Shijie</forename>
+                                <surname>He</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <country>P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qing</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Faculty of Materials and Energy</orgName>
+                                <orgName type="institution">Southwest University</orgName>
+                                <address>
+                                    <postCode>400715</postCode>
+                                    <country>P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Fabrication of Co-Doped CdSe Quantum Dot-Sensitized TiO 2 Nanotubes by Ultrasound-Assisted Method and Their Photoelectrochemical Properties</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Nanostructures</term>
+                    <term>Sensitizer</term>
+                    <term>Photoresponse</term>
+                    <term>Ultrasonic assisted</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>TiO 2 nanotubes (TiO 2 NTs) sensitized with Co-doped CdSe quantum dots (Co-CdSe QDs) were synthesized through an ultrasound-assisted hydrothermal method. Crystallinity and morphology of the prepared samples were characterized by X-ray diffraction and field-emission scanning electron microscopy. Atomic composition was investigated using an energy dispersive spectrometer. Vibration features and phonon modes were confirmed with a Raman spectrometer. Chemical composition and electronic structure were analyzed through X-ray photoelectron spectroscopy. Photoelectrochemical behavior was measured with an electrochemical workstation under 300 W Xe lamp irradiation at room temperature. Results indicated the excellent stability and photoelectrochemical performance of the prepared samples. Compared with TiO 2 NTs (0.06 mA cm-2), CdSe QD-sensitized TiO 2 NTs (CdSe/TiO 2 NTs) exhibited higher photoresponse (0.305 mA cm-2), whereas Co 10at%-CdSe QD-sensitized TiO 2 NTs (Co 10at%-CdSe/TiO 2 NTs) showed the highest photoresponse with a stable photocurrent density up to 0.47 mA cm-2 .</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

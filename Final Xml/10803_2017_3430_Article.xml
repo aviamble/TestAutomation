@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T08:02+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Development of Emotion Self-Regulation among Young Children with Autism Spectrum Disorders: The Role of Parents</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Amy</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Laurent</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+							<contact>
+								<email>Alaurent@uri.edu</email>
+								<phone>401-219-0201</phone>
+							</contact>								
+                            <affiliation key="aff1">
+                                <orgName type="institution">University of Rhode Island</orgName>
+                                <address>
+                                    <addrLine>201 Tyler Hall</addrLine>
+                                    <postCode>02881</postCode>
+									<settlement>Kingston</settlement>
+                                    <region>RI</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kathleen</forename>
+                                <surname>Gorman</surname>
+                                <authordegree>PhD</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+								<orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">University of Rhode Island</orgName>
+                                <address>
+                                    <addrLine>201 Tyler Hall</addrLine>
+                                    <postCode>02881</postCode>
+									<settlement>Kingston</settlement>
+                                    <region>RI</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Development of Emotion Self-Regulation among Young Children with Autism Spectrum Disorders: The Role of Parents</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Authors: Acknowledgements: This manuscript was prepared from the first author&apos;s doctoral dissertation research. Corresponding author contact information:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>emotional self-regulation</term>
+                    <term>parent behaviors</term>
+                    <term>autism</term>
+                    <term>social communication</term>
+                    <term>sensory processing</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Emotional self-regulation (ESR) challenges are well-documented in the diagnostic profiles of children with Autism; however, less is known about the development of ESR and the role of parents in ESR development for this population. Thirty-seven young children with autism and one of their parents participated in a home-based, observational study exploring the associations between the children&apos;s social communication and sensory processing characteristics and their parents&apos; behaviors associated with ESR development. Findings revealed that parent use of physical and language behaviors were associated with child social communication abilities. No associations between child sensory processing and parent behaviors were found. Understanding the interactive processes between parents and children with ASD has implications for the development of parent-based interventions that increase child ESR.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

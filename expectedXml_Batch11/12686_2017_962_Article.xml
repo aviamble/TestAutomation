@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-22T11:15+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Development of quantitative PCR primers and probes for environmental DNA detection of amphibians in Ontario</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Kaela</forename>
+                                <surname>Beauclerc</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Wildlife Research and Monitoring Section, Ontario Ministry of Natural Resources and Forestry</orgName>
+                                <orgName type="institution">Trent University</orgName>
+                                <address>
+                                    <addrLine>2140 East Bank Drive</addrLine>
+                                    <postCode>K9L 0G2</postCode>
+                                    <settlement>Peterborough</settlement>
+                                    <region>Ontario</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kristyne</forename>
+                                <surname>Wozney</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Aquatic Research and Monitoring Section, Ontario Ministry of Natural Resources and Forestry</orgName>
+                                <orgName type="institution">Trent University</orgName>
+                                <address>
+                                    <addrLine>2140 East Bank Drive</addrLine>
+                                    <postCode>K9L 0G2</postCode>
+                                    <settlement>Peterborough</settlement>
+                                    <region>Ontario</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Caleigh</forename>
+                                <surname>Smith</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Aquatic Research and Monitoring Section, Ontario Ministry of Natural Resources and Forestry</orgName>
+                                <orgName type="institution">Trent University</orgName>
+                                <address>
+                                    <addrLine>2140 East Bank Drive</addrLine>
+                                    <postCode>K9L 0G2</postCode>
+                                    <settlement>Peterborough</settlement>
+                                    <region>Ontario</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chris</forename>
+                                <surname>Wilson</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Aquatic Research and Monitoring Section, Ontario Ministry of Natural Resources and Forestry</orgName>
+                                <orgName type="institution">Trent University</orgName>
+                                <address>
+                                    <addrLine>2140 East Bank Drive</addrLine>
+                                    <postCode>K9L 0G2</postCode>
+                                    <settlement>Peterborough</settlement>
+                                    <region>Ontario</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Development of quantitative PCR primers and probes for environmental DNA detection of amphibians in Ontario</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Word Count: 1044</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>DNA from environmental samples (eDNA) is increasingly being used to detect and monitor elusive species. We developed species-specific eDNA primers and probes for qPCR detection of 24 amphibian species native to Ontario, Canada. Cross-species testing confirmed their high specificity and low cross-species amplification, as well as their ability to detect DNA from target species at low concentrations. These detection tools should prove useful for monitoring at-risk amphibian species throughout their native ranges. Full text Lack of accurate data on amphibian distributions can hinder effective conservation and management. Traditionally, amphibian surveys involve capture of organisms via nets or traps, call surveys, visual encounter surveys or a combination of these (Vonesh et al. 2009). Intensive capture-based surveys risk injuring specimens and/or disrupting habitats, and survey success is often dependent on the skill of field crews in identifying species by call or appearance (Vonesh et al. 2009). Environmental DNA (eDNA) surveys have been established as sensitive, non-invasive and cost-effective tools for monitoring aquatic species including invasive and endangered amphibians (Biggs et al. 2015; Goldberg et al. 2011; Rees et al. 2014), and eDNA has been shown to be more sensitive than traditional sampling to document habitat occupancy by</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

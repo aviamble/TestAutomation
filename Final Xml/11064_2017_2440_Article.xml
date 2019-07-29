@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T12:37+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Inhibitory effects of honokiol on the voltage-gated potassium channels in freshly isolated mouse dorsal root ganglion neurons</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Anqi</forename>
+                                <surname>Sheng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Clinical Pharmacy</orgName>
+                                <orgName type="institution">China Pharmaceutical University</orgName>
+                                <address>
+                                    <postCode>210009</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yan</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Clinical Pharmacy</orgName>
+                                <orgName type="institution">China Pharmaceutical University</orgName>
+                                <address>
+                                    <postCode>210009</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Guang</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Medical Electrophysiology,Ministry of Education</orgName>
+                                <orgName type="department" key="dep2">Institute of Cardiovascular Research</orgName>
+                                <orgName type="institution">Southwest Medical University</orgName>
+                                <address>
+                                    <postCode>646000</postCode>
+                                    <settlement>Luzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                         <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Guangqin</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+							 <contact>
+                                <email>njzhanggq@163.com</email>
+                                <phone>+8625 83360221</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Clinical Pharmacy</orgName>
+                                <orgName type="institution">China Pharmaceutical University</orgName>
+                                <address>
+                                    <postCode>210009</postCode>
+                                    <settlement>Nanjing</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Inhibitory effects of honokiol on the voltage-gated potassium channels in freshly isolated mouse dorsal root ganglion neurons</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>ORIGINAL PAPER Corresponding author: ORCID iD: 0000-0002-0282-3807</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>Honokiol· Dorsal root ganglion neurons· Patch clamp· Voltage-gated potassium channels Introduction</keywords>
+            </textClass>
+            <abstract>
+                <p>Voltage-gated potassium (K V) currents, subdivided into rapidly inactivating A-type currents (I A) and slowly inactivating delayed rectifier currents (I K), play a fundamental role in modulating pain by controlling neuronal excitability. The effects of Honokiol (Hon), a natural biphenolic compound derived from Magnolia officinalis, on K V currents were investigated in freshly isolated mouse dorsal root ganglion (DRG) neurons using the whole-cell patch clamp technique. Results showed that Hon inhibited I A and I K in concentration-dependent manner. The IC 50 values for block of I A and I K were 30.5 ?M and 25.7 ?M, respectively. Hon (30 ?M) shifted the steady-state activation curves of I A and I K to positive potentials by 17.6 mV and 16.7 mV, whereas inactivation and recovery from the inactivated state of I A were unaffected. These results suggest that Hon preferentially interacts with the active states of the I A and I K channels, and has no effect on the resting state and inactivated state of the I A channel. Blockade on K + channels by Hon may contribute to its antinociceptive effect, especially anti-inflammatory pain.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

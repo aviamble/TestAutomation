@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:59+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">SCLEROSING EPITHELIOID FIBROSARCOMA OF THE JAW: LATE RECURRENCE FROM A LOW GRADE FIBROMYXOID SARCOMA</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Catherine</forename>
+                                <surname>Laliberte</surname>
+                                <authordegree>DDS</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Pathology and Laboratory Medicine</orgName>
+                                <orgName type="department" key="dep2">Faculty of Dentistry</orgName>
+                                <orgName type="institution" key="instit1">Mount Sinai Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Iona</forename>
+                                <forename type="middle">T.</forename>
+                                <surname>Leong</surname>
+                                <authordegree>BDS, MSc, FRCD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Pathology and Laboratory Medicine</orgName>
+                                <orgName type="department" key="dep2">Faculty of Dentistry</orgName>
+                                <orgName type="institution" key="instit1">Mount Sinai Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Howard</forename>
+                                <surname>Holmes</surname>
+                                <authordegree>DDS, FACD, FICD, FPFA</authordegree>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Pathology and Laboratory Medicine</orgName>
+                                <orgName type="department" key="dep2">Faculty of Dentistry</orgName>
+                                <orgName type="institution" key="instit1">Mount Sinai Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Eric</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Monteiro</surname>
+                                <authordegree>MD, MSc, FRCSC</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Otolaryngology</orgName>
+                                <orgName type="department" key="dep2">Department of Otolaryngology-Head &amp; Neck Surgery</orgName>
+                                <orgName type="institution" key="instit1">Mount Sinai Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Toronto</orgName>
+                                <address>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Brian</forename>
+                                <surname>O &apos;Sullivan</surname>
+                                <authordegree>MB, FRCPC</authordegree>
+                            </persName>
+							<affiliation key="aff3">
+                                <orgName type="department" key="dep1">Department of Radiation Oncology</orgName>
+                                <orgName type="department" key="dep2">Department of Radiation Oncology</orgName>
+                                <orgName type="institution" key="instit1">Princess Margaret Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+							
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Brendan</forename>
+                                <forename type="middle">C.</forename>
+                                <surname>Dickson</surname>
+                                <prefix>Dr.</prefix>
+                                <authordegree>MD, MSc, FCAP, FRCPC</authordegree>
+                            </persName>
+                            <contact>
+                                <email>Brendan.Dickson@sinaihealthsystem.ca</email>
+								<phone>416.586.4800 (x7405)</phone>
+                            </contact>
+                            
+                            <affiliation key="aff4">
+                                <orgName type="department" key="dep1">Department of Pathology and Laboratory Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Laboratory Medicine and Pathobiology</orgName>
+                                <orgName type="institution" key="instit1">Mount Sinai Hospital</orgName>
+                                <orgName type="institution" key="instit2">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="department">Department of Pathology and Laboratory Medicine</orgName>
+                                <address>
+                                    <addrLine>600 University Ave, Suite 6.500.12.5</addrLine>
+                                    <postCode>M5G 1X5</postCode>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                       
+                        <title level="a" type="main">SCLEROSING EPITHELIOID FIBROSARCOMA OF THE JAW: LATE RECURRENCE FROM A LOW GRADE FIBROMYXOID SARCOMA</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding Author: Total number: Text Pages (10), Tables (0), Figures (2) Funding: No funding obtained Disclosure: No conflict of interest to disclose Precis: Herein we report the case of a molecular confirmed low-grade fibromyxoid tumor of mandible that recurred twenty years later as high-grade sclerosing epithelioid fibrosarcoma. While an extremely rare location, an awareness of this entity, and its potential for high-grade transformation, is warranted. Acknowledgments: The authors are extremely grateful for exemplary technologic support provided by Mr. Anthony Wing and Ms. Jasmine Wong (Immunohistochemistry), Ms. Martha Wood (molecular cytogenetics), and Mr. David Swanson (next generation sequencing).</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>EWSR1-CREB3L1</term>
+                    <term>sclerosing epithelioid fibrosarcoma</term>
+                    <term>low-grade fibromyxoid sarcoma</term>
+                    <term>jaw</term>
+                    <term>mandible</term>
+                    <term>sarcoma</term>
+                    <term>case report Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Sclerosing epithelioid fibrosarcoma (SEF) is an uncommon variant of fibrosarcoma that is characterized by a distinct morphology. It most frequently presents in the deep soft tissues of the lower extremities, often in intimate association with fascia and periosteum, although reports of the head and neck involvement have been reported. A minority of cases show morphological, immunohistochemical and molecular overlap with low grade fibromyxoid sarcoma (LG-FMS). Herein, we describe a case of a bland spindle cell neoplasm presenting in the jaw that was initially incompletely excised. Over the course of 20 years the tumour subsequently recurred with a SEF morphology. Molecular testing performed on both specimens subsequently confirmed the presence of an EWSR1-CREB3L1 gene fusion. This report highlights the diagnostic difficulty with LG-FMS, particularly in unusual anatomic locations; reiterates the potential for the uncommon EWSR1-CREB3L1 fusion product in LG-FMS; and, reaffirms the potential for progression and/or overlap between LG-FMS to SEF over time.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T06:17+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Characterization of mercury(II)-induced inhibition of photochemistry in the reaction center of photosynthetic bacteria</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Gábor</forename>
+                                <surname>Sipka</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Medical Physics</orgName>
+                                <orgName type="institution">University of Szeged</orgName>
+                                <address>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Plant Biology</orgName>
+                                <orgName type="institution" key="instit1">Hungarian Academy of Science</orgName>
+                                <orgName type="institution" key="instit2">Biological Research Centre</orgName>
+                                <address>
+                                    <settlement>Szeged</settlement>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mariann</forename>
+                                <surname>Kis</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Medical Physics</orgName>
+                                <orgName type="institution">University of Szeged</orgName>
+                                <address>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Péter</forename>
+                                <surname>Maróti</surname>
+                            </persName>
+                            <contact>
+                                <email>pmaroti@sol.cc.u-szeged.hu</email>
+                                <phone>36-62-544-120</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Medical Physics</orgName>
+                                <orgName type="institution">University of Szeged</orgName>
+                                <address>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation>
+                                <address>
+									<addrLine>Rerrich Béla tér 1</addrLine>
+									<postCode>6720</postCode>
+									<settlement>Szeged</settlement>
+                                    <country key="HU">Hungary</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Characterization of mercury(II)-induced inhibition of photochemistry in the reaction center of photosynthetic bacteria</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 + Corresponding author Abbreviations BChl bacteriochlorophyll; BPhe bacteriopheophytin; cyt c 2+ reduced cytochrome c; DF delayed fluorescence; LDAO lauryl dimethylamine N-oxide; NEM N-Ethylmaleimide; P bacteriochlorophyll dimer; pCMB p-Chloromercuribenzoate; PF prompt fluorescence; Q A primary acceptor (ubiquinone); Q B secondary acceptor; Rba. Rhodobacter; RC reaction center.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Bacterial photosynthesis</term>
+                    <term>bacteriochlorophyll absorption spectroscopy</term>
+                    <term>bacteriochlorophyll fluorescence spectroscopy</term>
+                    <term>bioenergetics</term>
+                    <term>mercury(II) contamination</term>
+                    <term>quinones</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Mercuric contamination of aqueous cultures results in impairment of viability of photosynthetic bacteria primarily by inhibition of the photochemistry of the reaction center (RC) protein. Isolated reaction centers (RCs) from Rhodobacter (Rba.) sphaeroides were exposed to Hg 2+ ions up to saturation concentration (~10 3 [Hg 2+ ]/[RC]) and the gradual time and concentration-dependent loss of the photochemical activity was monitored. The vast majority of Hg 2+ ions (about 500 [Hg 2+ ]/[RC]) had low affinity for the RC (binding constant K b ~5 (mM)-1) and only a few (~ 1 [Hg 2+ ]/[RC]) exhibited strong binding (K b ~50 (µM)-1). Neither type of binding site had specific and harmful effects on the photochemistry of the RC. The primary charge separation was preserved even at saturation mercury(II) concentration, but essential further steps of stabilization and utilization were blocked already in the 5 &lt; [Hg 2+ ]/[RC] &lt;50 range whose locations were revealed. 1) The proton gate at the cytoplasmic site had the highest affinity for Hg 2+ binding (K b ~0.2 (µM)-1) and blocked the proton uptake. 2) Reduced affinity (K b ~0.05 (µM)-1) was measured for the mercury(II) binding site close to the secondary quinone that resulted in inhibition of the interquinone electron transfer. 3) A similar affinity was observed close to the bacteriochlorophyll dimer causing slight energetic changes as evidenced by a ~30 nm blue shift of the red absorption band, a 47 meV increase in the redox midpoint potential and a ~20 meV drop of in free energy gap of the primary charge pair. The primary quinone was not perturbed upon mercury(II) treatment. Although the Hg 2+ ions attack the RC in large number, the exertion of the harmful effect on photochemistry is not through mass-action but rather a couple of well-defined targets. Bound to these sites, the Hg 2+ ions can destroy H-bond structures, inhibit protein dynamics, block conformational gating mechanisms and modify electrostatic profiles essential for electron and proton transfer.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

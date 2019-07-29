@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T11:59+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">DVT Prophylaxis Patterns 1 PATTERNS AND OUTCOMES OF PRESCRIBING VENOUS THROMBOEMBOLISM PROPHYLAXIS IN HOSPITALIZED OLDER ADULTS: A RETROSPECTIVE COHORT STUDY</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mark</forename>
+                                <surname>Goldin</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Hospital Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">Donald and Barbara Zucker School of Medicine at Hofstra/Northwell</orgName>
+                                <orgName type="institution" key="instit2">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Jessica</forename>
+                                <surname>Cohen</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>jcohen11@northwell.edu</email>
+                                <phone>516-562-2945.</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Hospital Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">Donald and Barbara Zucker School of Medicine at Hofstra/Northwell</orgName>
+                                <orgName type="institution" key="instit2">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Alex</forename>
+                                <surname>Makhnevich</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Hospital Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">Donald and Barbara Zucker School of Medicine at Hofstra/Northwell</orgName>
+                                <orgName type="institution" key="instit2">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Colm</forename>
+                                <surname>Mulvany</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Hospital Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Feinstein Institute for Medical Research</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Meredith</forename>
+                                <surname>Akerman</surname>
+                                <authordegree>MS</authordegree>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Feinstein Institute for Medical Research</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Liron</forename>
+                                <surname>Sinvani</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Division of Hospital Medicine</orgName>
+                                <orgName type="department" key="dep2">Department of Medicine</orgName>
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">Donald and Barbara Zucker School of Medicine at Hofstra/Northwell</orgName>
+                                <orgName type="institution" key="instit2">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff4">
+								<orgName type="department" key="dep1">Donald and Barbara Zucker School of Medicine at Hofstra/Northwell</orgName>
+								<orgName type="department" key="dep2">Division of Hospital Medicine</orgName>
+								<orgName type="department" key="dep3">Department of Medicine</orgName> 
+                                <orgName type="institution">Northwell Health</orgName>
+                                <address>
+                                    <postCode>11030</postCode>
+                                    <settlement>Manhasset</settlement>
+                                    <region>NY</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">DVT Prophylaxis Patterns 1 PATTERNS AND OUTCOMES OF PRESCRIBING VENOUS THROMBOEMBOLISM PROPHYLAXIS IN HOSPITALIZED OLDER ADULTS: A RETROSPECTIVE COHORT STUDY</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>The authors have no disclosures. Correspondence DVT Prophylaxis Patterns 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Background Venous thromboembolism (VTE) is a major cause of morbidity and mortality in the United</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

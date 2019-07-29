@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T12:00+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Stabilization of oxidized copper nanoclusters in confined spaces</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Nusnin</forename>
+                                <surname>Akter</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Functional Nanomaterials</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Materials Science and Chemical Engineering Department</orgName>
+                                <orgName type="institution">Stony Brook University</orgName>
+                                <address>
+                                    <postCode>11794</postCode>
+                                    <settlement>Stony Brook</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mengen</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Functional Nanomaterials</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Materials Science and Chemical Engineering Department</orgName>
+                                <orgName type="institution">Stony Brook University</orgName>
+                                <address>
+                                    <postCode>11794</postCode>
+                                    <settlement>Stony Brook</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jian-Qiang</forename>
+                                <surname>Zhong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Functional Nanomaterials</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zongyuan</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Chemistry Department</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Taejin</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Materials Science and Chemical Engineering Department</orgName>
+                                <orgName type="institution">Stony Brook University</orgName>
+                                <address>
+                                    <postCode>11794</postCode>
+                                    <settlement>Stony Brook</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Deyu</forename>
+                                <surname>Lu</surname>
+                            </persName>
+                            <contact>
+                                <email>dlu@bnl.gov</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Functional Nanomaterials</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">J.</forename>
+                                <forename type="middle">Anibal</forename>
+                                <surname>Boscoboinik</surname>
+                            </persName>
+                            <contact>
+                                <email>jboscoboinik@bnl.gov</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Functional Nanomaterials</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="3">
+                            <persName>
+                                <forename type="first">Dario</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Stacchiola</surname>
+                            </persName>
+                            <contact>
+                                <email>djs@bnl.gov</email>
+                            </contact>							
+                            <affiliation key="aff1">
+                                <orgName type="department">Center for Functional Nanomaterials</orgName>
+                                <orgName type="institution">Brookhaven National Laboratory</orgName>
+                                <address>
+                                    <postCode>11973</postCode>
+                                    <settlement>Upton</settlement>
+                                    <region>NY</region>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Stabilization of oxidized copper nanoclusters in confined spaces</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>copper</term>
+                    <term>nanocluster</term>
+                    <term>silica</term>
+                    <term>in situ Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Copper is an important industrial catalyst. The ability to manipulate the oxidation state of copper clusters in a controlled way is critical to understanding structure-reactivity relations of copper catalysts at the molecular level. Experimentally, cupric oxide (CuO) surfaces or even small domains can only be stabilized at elevated temperatures and in the presence of oxygen, as copper can be easily reduced under reaction conditions. Herein bilayer silica films grown on a metallic substrate are used to trap diluted copper oxide clusters. By combining in situ experiments with first principles calculations, it is found that the confined space created by the silica film leads to an increase in the energy barrier for Cu diffusion. Dispersed copper atoms trapped by the silica film can be easily oxidized by surface oxygen chemisorbed on the metallic substrate, which results in the formation and stabilization of Cu 2+ cations.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

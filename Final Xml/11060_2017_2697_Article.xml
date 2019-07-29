@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T11:49+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Stereotactic Radiosurgery for Central Nervous System Hemangioblastoma: Systematic Review and Meta-Analysis</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">James</forename>
+                                <surname>Pan</surname>
+                                <authordegree>BS</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Stanford University School of Medicine</orgName>
+                                <address>
+                                    <postCode>94305</postCode>
+                                    <settlement>Stanford</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Rashad</forename>
+                                <forename type="middle">Jabarkheel</forename>
+                                <surname>BS</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Stanford University School of Medicine</orgName>
+                                <address>
+                                    <postCode>94305</postCode>
+                                    <settlement>Stanford</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuhao</forename>
+                                <forename type="middle">Huang</forename>
+                                <surname>BS</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Stanford University School of Medicine</orgName>
+                                <address>
+                                    <postCode>94305</postCode>
+                                    <settlement>Stanford</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Allen</forename>
+                                <surname>Ho</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Stanford University School of Medicine</orgName>
+                                <address>
+                                    <postCode>94305</postCode>
+                                    <settlement>Stanford</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Steven</forename>
+                                <forename type="middle">D.</forename>
+                                <surname>Chang</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>sdchang@stanford.edu</email>
+								<phone>(650) 723-6469</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Neurosurgery</orgName>
+                                <orgName type="institution">Stanford University School of Medicine</orgName>
+                                <address>
+                                    <postCode>94305</postCode>
+                                    <settlement>Stanford</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff2">
+                                <orgName type="institution">Stanford University School of Medicine</orgName>
+                                <address>
+                                    <addrLine>300 Pasteur Drive</addrLine>
+                                    <postCode>94305</postCode>
+                                    <settlement>Stanford</settlement>
+                                    <region>CA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Stereotactic Radiosurgery for Central Nervous System Hemangioblastoma: Systematic Review and Meta-Analysis</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author: RUNNING TITLE: Stereotactic Radiosurgery for Central Nervous System Hemangioblastomas FINANCIAL SUPPORT: None</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>stereotactic radiosurgery</term>
+                    <term>hemangioblastoma</term>
+                    <term>von-hippel lindau disease</term>
+                    <term>cyberknife</term>
+                    <term>gamma knife</term>
+                    <term>LINAC</term>
+                    <term>systematic review</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Background: Hemangioblastomas are rare, benign, vascular tumors of the central nervous system (CNS), often associated with von-hippel lindau (VHL) disease. Current therapeutic options include microsurgical resection or stereotactic radiosurgery. With no randomized controlled studies and minimal data beyond single-institution reviews, the optimal management approach for patients with CNS hemangioblastomas is unclear. Objective: To perform a systematic review and meta-analysis to summarize the literature on stereotactic radiosurgery for CNS hemangioblastomas. Methods: We completed a Pubmed/SCOPUS literature search from January 1990 to January 2017 for eligible studies on SRS for CNS hemangioblastomas. Relevant articles were identified and reviewed in accordance to the PRISMA (Preferred Reporting Items for Systematic Review and Meta-Analysis) guidelines. Results: 26 studies met eligibility criteria for qualitative synthesis, representing 596 subjects and 1,535 tumors. The Gamma Knife (GK) was the most published SRS method for CNS hemangioblastomas. After critical study appraisal for intra-study bias, 14 studies were used for quantitative meta-analysis of 5-year progression free survival (PFS). The pooled 5-year PFS across all eligible studies was 88.4%. No difference was observed between spine versus intracranial studies. Individual patient data (IPD) was extracted from 14 studies, representing 322 tumors. Univariate analysis of IPD revealed that VHL patients were younger, and had smaller tumors compared to those with sporadic disease. Adverse events were associated with increasing marginal dose, independent of tumor volume. VHL status, sex, radiosurgical method, tumor location, and tumor volume were not found to be significantly associated with tumor progression.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

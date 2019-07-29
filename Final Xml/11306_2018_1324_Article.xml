@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T06:44+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Predicting ovarian cancer recurrence by plasma metabolic profiles before and after surgery Predicting ovarian cancer recurrence by plasma metabolic profiles before and after surgery</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Fan</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuanyuan</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chaofu</forename>
+                                <surname>Ke</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Epidemiology and Biostatistics</orgName>
+                                <orgName type="department" key="dep2">School of Public Health</orgName>
+                                <orgName type="institution">Medical College of Soochow University</orgName>
+                                <address>
+                                    <settlement>Suzhou</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ang</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wenjie</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kai</forename>
+                                <surname>Yang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Huijuan</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                           <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hongyu</forename>
+                                <surname>Xie</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kui</forename>
+                                <surname>Deng</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Weiwei</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Chunyan</forename>
+                                <surname>Yang</surname>
+                            </persName>
+							<affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="3">
+                            <persName>
+                                <forename type="first">Ge</forename>
+                                <surname>Lou</surname>
+                            </persName>
+                            <contact>
+                                <email>louge@ems.hrbmu.edu.cn</email>
+                                <phone>86-451-8629-8303</phone>
+                            </contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Gynecology Oncology</orgName>
+                                <orgName type="institution">The Affiliated Tumor Hospital of Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Yan</forename>
+                                <surname>Hou</surname>
+                            </persName>
+                            <contact>
+                                <email>houyan@ems.hrbmu.edu.cn</email>
+                                <phone>86-451-87502645</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Kang</forename>
+                                <surname>Li</surname>
+                            </persName>
+							 <contact>
+                                <email>likang@ems.hrbmu.edu.cn</email>
+								<phone>86-451-87502939</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Biostatistics</orgName>
+                                <orgName type="department" key="dep2">Public Health School</orgName>
+                                <orgName type="institution">Harbin Medical University</orgName>
+                                <address>
+                                    <settlement>Harbin</settlement>
+                                    <country key="CN">China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Predicting ovarian cancer recurrence by plasma metabolic profiles before and after surgery Predicting ovarian cancer recurrence by plasma metabolic profiles before and after surgery</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>is the third corresponding author. Abbreviations EOC Epithelial ovarian cancer AUC Area under the receiver operating characteristic RRLC/MS Rapid resolution liquid chromatography mass spectrometry ESI+/- Electrospray ionization positive / negative QC Quality control PCA Principal component analysis PLS-DA Partial least-squares discriminant analysis VIP Variable importance in the projection SVM Support vector machine 1 Introduction</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>metabolomics</term>
+                    <term>epithelial ovarian cancer (EOC)</term>
+                    <term>recurrence</term>
+                    <term>biomarkers</term>
+                    <term>pathway</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Background Previous metabolomic studies have revealed that plasma metabolic signatures may predict epithelial ovarian cancer (EOC) recurrence. However, few studies have performed metabolic profiling of pre-and post-operative specimens to investigate EOC prognostic biomarkers. Objective The aims of our study were to compare the predictive performance of pre-and post-operative specimens and to create a better model for recurrence by combining biomarkers from both metabolic signatures. Methods Thirty-five paired plasma samples were collected from 35 EOC patients before and after surgery. The patients were followed-up until December, 2016 to obtain recurrence information. Metabolomics using rapid resolution liquid chromatography mass spectrometry was performed to identify metabolic signatures related to EOC recurrence. The support vector machine model was employed to predict EOC recurrence using identified biomarkers. Results Global metabolomic profiles distinguished recurrent from non-recurrent EOC using both pre-and post-operative plasma. Ten common significant biomarkers, hydroxyphenyllactic acid, uric acid, creatinine, lysine, 3-(3,5-diiodo-4-hydroxyphenyl) lactate, phosphohydroxypyruvic acid, carnitine, coproporphyrinogen, L-beta-aspartyl-L-glutamic acid and 24,25-hydroxyvitamin D3, were identified as predictive biomarkers for EOC recurrence. The area under the receiver operating characteristic (AUC) values in pre-and post-operative plasma were 0.815 and 0.909, respectively; the AUC value after combining the two sets reached 0.964. The biomarkers from pre-and post-operative plasma were mapped into 20 and 29 pathways, respectively. Conclusion Plasma metabolomic analysis could be used to predict EOC recurrence. While post-operative biomarkers have a predictive advantage over pre-operative biomarkers, combining pre-and post-operative biomarkers showed the best predictive performance and has great potential for predicting recurrent EOC.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

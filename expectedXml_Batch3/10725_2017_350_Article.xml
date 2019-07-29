@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:42+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Identification and characterization of the BZR transcription factor family and its expression in response to abiotic stresses in Zea mays L</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Alessandro</forename>
+                                <surname>Manoli</surname>
+                            </persName>
+                            <contact>
+                                <email>alessandro.manoli@hotmail.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Agriculture, Food, Natural resources, Animals and Environment (DAFNAE)</orgName>
+                                <orgName type="institution">University of Padua</orgName>
+                                <address>
+                                    <addrLine>Agripolis, Viale dell&apos;Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country>Italy</country> Authors
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sara</forename>
+                                <surname>Trevisan</surname>
+                            </persName>
+                            <contact>
+                                <email>sara.trevisan@unipd.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Agriculture, Food, Natural resources, Animals and Environment (DAFNAE)</orgName>
+                                <orgName type="institution">University of Padua</orgName>
+                                <address>
+                                    <addrLine>Agripolis, Viale dell&apos;Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country>Italy</country> Authors
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Silvia</forename>
+                                <surname>Quaggiotti</surname>
+                            </persName>
+                            <contact>
+                                <email>silvia.quaggiotti@unipd.it</email>
+                                <phone>+39 049 827 2913</phone>)
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Agriculture, Food, Natural resources, Animals and Environment (DAFNAE)</orgName>
+                                <orgName type="institution">University of Padua</orgName>
+                                <address>
+                                    <addrLine>Agripolis, Viale dell&apos;Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country>Italy</country> Authors
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Serena</forename>
+                                <surname>Varotto</surname>
+                            </persName>
+                            <contact>
+                                <email>serena.varotto@unipd.it</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Agriculture, Food, Natural resources, Animals and Environment (DAFNAE)</orgName>
+                                <orgName type="institution">University of Padua</orgName>
+                                <address>
+                                    <addrLine>Agripolis, Viale dell&apos;Università 16</addrLine>
+                                    <postCode>35020</postCode>
+                                    <settlement>Legnaro</settlement>
+                                    <region>PD</region>
+                                    <country>Italy</country> Authors
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Identification and characterization of the BZR transcription factor family and its expression in response to abiotic stresses in Zea mays L</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>abiotic stress · brassinosteroids · BZR · gene expression · TFs · Zea mays L Abbreviations: BRs · brassinosteroids</term>
+                    <term>TFs, transcription factors</term>
+                    <term>BES, BRASSINOSTEROID-INSENSITIVE 1-EMS-SUPPRESSOR</term>
+                    <term>BZR, BRASSINAZOLE-RESISTANT</term>
+                    <term>Zm, Zea mays L</term>
+                    <term>RT-qPCR, reverse transcription quantitative real-time PCR</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Brassinosteroids (BRs) are plant specific steroidal hormones that play diverse roles in regulating a broad spectrum of plant growth and developmental processes, as well as, in responding to various biotic and abiotic stresses. Extensive research over the years has established stress-impact-mitigating role of BRs and associated compounds in different plants exposed to various abiotic and biotic stresses, suggesting the idea that they may act as immunomodulators, thus opening new approaches for plant resistance against hazardous environmental conditions. In this research the characterization of the transcriptional response of 11 transcription factors (TFs) belonging to BRASSINAZOLE-RESISTANT 1 (BZR1) TF family of Zea mays L. was analyzed in seedlings subjected to different stress conditions. Being important regulators of the BR synthesis, BZR TFs might have stress resistance related activities. However, no stress resistance related functional study of BZR TFs has been reported in maize so far. In silico analyses of the selected 11 TFs validated the features of their protein domains, where a highest degree of similarity observed with recognized BZR TFs of rice and Sorghum bicolor. Additionally, we investigated the organ-specific expression of 11 ZmBZR in maize seedlings. Five of them did not show any transcript accumulation, suggesting that ZmBZR expression might be regulated in a manner dependent on plant developmental stage. For the remaining six ZmBZR, their ubiquitous expression in the whole plant indicates they could function as growth regulators during maize development. More importantly, in response to various stress conditions, the spatial transcript accumulation of all ZmBZR varies along the plant. All six ZmBZR showed up-regulation against N starvation, hypoxia and salt stress. On the contrary, heat stress clearly down-regulated gene expression of all ZmBZR analysed. Consistently with the expression results, the distribution of stress-related cis-acting elements in the promoter of these genes inferred that the maize BZR TFs might play some roles in regulating the expression of the corresponding genes in response to multifarious stresses. In conclusion, these data reveal that BZR TFs have stress signaling activity in maize, in addition to their confirmed role in regulating plant physiology and morphology. Introduction Brassinosteroids (BRs) are plant specific steroidal hormones that play diverse roles in regulating a broad spectrum of plant growth and developmental processes. They regulate multiple physiological functions including seed germination, cell elongation and division, senescence, vascular-differentiation, reproduction, root development, photomorphogenesis and respond to various biotic</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T11:00+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Tracking the elusive 5&apos; exonuclease activity of Chlamydomonas reinhartdii RNase J</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Anna</forename>
+                                <surname>Liponska</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CNRS UMR8261 -Université Paris Diderot, Sorbonne Paris Cité</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>								
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ailar</forename>
+                                <surname>Jamalli</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CNRS UMR8261 -Université Paris Diderot, Sorbonne Paris Cité</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>								
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Laboratory Science Research Center</orgName>
+                                <orgName type="institution">Golestan University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Gorgan</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Richard</forename>
+                                <surname>Kuras</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">CNRS UMR7141 (Associated with Université Pierre et Marie Curie)</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Loreto</forename>
+                                <surname>Suay</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">CNRS UMR7141 (Associated with Université Pierre et Marie Curie)</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Enrico</forename>
+                                <surname>Garbe</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CNRS UMR8261 -Université Paris Diderot, Sorbonne Paris Cité</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>								
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Francis-André</forename>
+                                <surname>Wollman</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution" key="instit1">CNRS UMR7141 (Associated with Université Pierre et Marie Curie)</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Soumaya</forename>
+                                <surname>Laalami</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">CNRS UMR8261 -Université Paris Diderot, Sorbonne Paris Cité</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>								
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Harald</forename>
+                                <surname>Putzer</surname>
+                            </persName>
+                            <contact>
+                                <email>putzer@ibpc.fr</email>
+                                <phone>+33 1 58 41 51 27</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">CNRS UMR8261 -Université Paris Diderot, Sorbonne Paris Cité</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>								
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                <orgName type="institution" key="instit1">CNRS UMR8261</orgName>
+                                <orgName type="institution" key="instit2">Institut de Biologie Physico-Chimique</orgName>
+                                <address>
+                                    <addrLine>13 rue Pierre et Marie Curie</addrLine>
+                                    <postCode>75005</postCode>
+                                    <settlement>Paris</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Tracking the elusive 5&apos; exonuclease activity of Chlamydomonas reinhartdii RNase J</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>RNase J</term>
+                    <term>Chlamydomonas reinhartdii</term>
+                    <term>Endoribonuclease</term>
+                    <term>Exoribonuclease</term>
+                    <term>RNA metabolism</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>RNA maturation and stability in the chloroplast are controlled by nuclear-encoded ribonucleases and RNA binding proteins. Notably, mRNA 5&apos; end maturation is thought to be achieved by the combined action of a 5&apos; exoribonuclease and specific pentatricopeptide repeat proteins (PPR) that block the progression of the nuclease. In Arabidopsis the 5&apos; exo-and endoribonuclease RNase J has been implicated in this process. Here, we verified the chloroplast localization of the orthologous Chlamydomonas (Cr) RNase J and studied its activity, both in vitro and in vivo in a heterologous B. subtilis system. Our data show that Cr RNase J has endo-but no significant intrinsic 5&apos; exonuclease activity that would be compatible with its proposed role in mRNA maturation. This is the first example of an RNase J ortholog that does not possess a 5&apos; exonuclease activity. A yeast two-hybrid screen revealed a number of potential interaction partners but three of the most promising candidates tested, failed to induce the latent exonuclease activity of Cr RNase J. We still favor the hypothesis that Cr RNase J plays an important role in RNA metabolism, but our findings suggest that it rather acts as an endoribonuclease in the chloroplast. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

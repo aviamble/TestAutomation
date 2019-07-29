@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T11:55+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Ethics and Confidentiality for Psychologists in Academic Health Centers</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Kathleen</forename>
+                                <surname>Ashton</surname>
+                                <authordegree>Ph. D., ABPP-CHP</authordegree>
+                            </persName>
+                            <contact>
+                                <email>ashtonk@ccf.org</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cleveland Clinic Lerner College of Medicine Cleveland Clinic Breast Center</orgName>
+                                <orgName type="institution">Digestive Disease Institute</orgName>
+                                <address>
+                                    <addrLine>9500 Euclid Avenue/A80</addrLine>
+                                    <postCode>44195</postCode>
+                                    <settlement>Cleveland</settlement>
+                                    <region>OH</region>
+                                    <country>United States of America</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Amy</forename>
+                                <surname>Sullivan</surname>
+                                <authordegree>Psy. D., ABPP-CHP</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Cleveland Clinic Lerner College of Medicine</orgName>
+                                <orgName type="institution" key="instit2">Cleveland Clinic Mellen Center</orgName>
+                                <address>
+                                    <addrLine>9500 Euclid Avenue/U</addrLine>
+                                    <postCode>44195</postCode>
+									 <settlement>Cleveland</settlement>
+                                    <region>OH</region>
+                                    <country>United States of America</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Ethics and Confidentiality for Psychologists in Academic Health Centers</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Author Note: The authors do not have any disclosures or conflicts of interests to state. The cases used in this article are fictional composites to protect confidentiality. Contact:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Psychologists in academic health centers (AHC) face important ethical issues including confidentiality when working with a multidisciplinary team, sharing of information through the electronic health record, obtaining informed consent in a fast-paced healthcare environment, cultural competency in the medical setting, and issues related to supervision and training. The goal of this paper is to describe ethical issues for psychologists in AHCs in the context of case examples, and to consider ethical decision making tools to enhance clinical care. Considerations</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

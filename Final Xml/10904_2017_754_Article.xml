@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T04:08+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A Cd-Coordination Polymer Based on a Bis-pyridyl-bis-amide Ligand: Synthesis, Structure and Its Application in Removal Organic Dyes</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Xiuli</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <contact>
+                                <email>wangxiuli@bhu.edu.cn</email>
+                                <phone>+86-416-3400158</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution" key="instit1">Bohai University</orgName>
+                                <orgName type="institution" key="instit2">Liaoning Province Silicon Materials Engineering Technology Research Centre</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jing</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mao</forename>
+                                <surname>Le</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hongyan</forename>
+                                <surname>Lin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Juan</forename>
+                                <surname>Luan</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Guocheng</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xiang</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Chemistry</orgName>
+                                <orgName type="institution">Bohai University</orgName>
+                                <address>
+                                    <postCode>121000</postCode>
+                                    <settlement>Jinzhou</settlement>
+                                    <country key="CN">P. R. China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A Cd-Coordination Polymer Based on a Bis-pyridyl-bis-amide Ligand: Synthesis, Structure and Its Application in Removal Organic Dyes</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Metal-organic coordination polymer</term>
+                    <term>bis-pyridyl-bis-amide ligand</term>
+                    <term>removal dye Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>A cadmium(II) coordination polymer, namely, [Cd 2 (3-bpcb)(1,2-pda) 2 (H 2 O) 2 ] (1), was prepared by hydrothermal reaction of cadmium(II) chloride with 1,2-H 2 pda (H 2 pda = 1,2-phenylenediacetic acid) and a bis-pyridyl-bis-amide ligand (3-bpcb = N,N'-bis(3-pyridinecarboxamide)-1,4-benzene). Complex 1 was structurally characterized by single crystal X-ray diffraction, which shows a 2D layer structure with (4 2 ·6)(4 2 ·6 3 .8) topology. Complex 1 was further characterized by elemental analysis, infrared spectroscopy (IR) and thermogravimetric analysis (TGA). The application in removal organic dyes of complex 1 has been investigated.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

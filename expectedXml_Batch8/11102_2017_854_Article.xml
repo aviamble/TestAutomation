@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Management of Non-Functioning Pituitary Adenomas: Surgery</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">David</forename>
+                                <forename type="middle">L.</forename>
+                                <surname>Penn</surname>
+                                <authordegree>M. D., M. S.</authordegree>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Neurological Surgery</orgName>
+                                <orgName type="department" key="dep2">Brigham and Women&apos;s Hospital</orgName>
+                                <orgName type="institution">Harvard Medical School</orgName>
+                                <address>
+                                    <settlement>Boston</settlement>
+                                    <region>MA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">William</forename>
+                                <forename type="middle">T.</forename>
+                                <surname>Burke</surname>
+                                <authordegree>B. S.</authordegree>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">School of Medicine</orgName>
+                                <orgName type="institution">University of Louisville</orgName>
+                                <address>
+                                    <settlement>Louisville</settlement>
+                                    <region>KY</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Edward</forename>
+                                <forename type="middle">R.</forename>
+                                <surname>Laws</surname>
+                                <suffix>Jr.</suffix>
+                                <authordegree>M. D.</authordegree>
+                            </persName>
+                            <contact>
+                                <email>elaws@bwh.harvard.edu</email>
+                                <phone>(617) 525-8371</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Neurological Surgery</orgName>
+                                <orgName type="department" key="dep2">Brigham and Women&apos;s Hospital</orgName>
+                                <orgName type="institution">Harvard Medical School</orgName>
+                                <address>
+                                    <settlement>Boston</settlement>
+                                    <region>MA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff3">
+                                <orgName type="department" key="dep1">Brigham and Women&apos;s Hospital</orgName>
+								<orgName type="department" key="dep2">Department of Neurological Surgery</orgName>
+                                <address>
+                                    <addrLine>60 Fenwood Road BTM, 4
+                                        <superscript>th</superscript>Floor 
+                                    </addrLine>
+                                    <postCode>02115</postCode>
+									<settlement>Boston</settlement>
+                                    <region>MA</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Management of Non-Functioning Pituitary Adenomas: Surgery</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Non-functioning pituitary adenomas</term>
+                    <term>Transsphenoidal surgery</term>
+                    <term>Perioperative management</term>
+                    <term>Postoperative outcomes</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Non-functional pituitary adenomas (NFPAs) are benign tumors of the pituitary gland that do not over-secrete hormonal products, therefore, they are generally detected through symptoms of mass effect, including headache, vision loss, or hypopituitarism. There are multiple pathological subtypes of NFPAs, such as null cell adenomas, silent gonadotrophs, silent somatotrophs, silent corticotrophs, and silent subtype 3, all of which can be classified based on immunohistochemical studies and electron microscopy. Despite these numerous pathological subtypes, surgical resection remains the first-line treatment for NFPAs. Diagnosis is best made using high resolution MRI brain with and without gadolinium contrast, which is also helpful in determining the extent of invasion of the tumor and recognizing necessary sinonasal anatomy prior to surgery. Additional pre-operative work-up should include full laboratory endocrine evaluation with replacement of hormone deficiencies, and ideally, full neuro-ophthalmologic exam. Although transcranial surgical approaches to the pituitary gland can be performed, the most common approach used is the transnasal transsphenoidal approach with endoscopic or microscopic visualization. This approach avoids retraction of the brain and cranial nerves during tumor removal. Surgery for symptoms caused by mass effect, including headaches and visual loss, are successfully treated with surgical resection, resulting in improvement in pre-operative symptoms as high as 90% in some reports. Although the risk of complications is low, major and minor events, such as permanent hypopituitarism, persistent CSF leak, and carotid artery injury can occur at rates ranging from zero to about 9%. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

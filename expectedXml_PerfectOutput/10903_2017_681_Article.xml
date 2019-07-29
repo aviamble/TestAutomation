@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T11:50+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Co-morbid non-communicable diseases and associated health service use in African and Caribbean immigrants with HIV</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Khatundi-Irene</forename>
+                                <surname>Masindi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Family and Community Medicine</orgName>
+                                <orgName type="institution">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <addrLine>410 Sherbourne Street</addrLine>
+                                    <postCode>M4X 1K2</postCode>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nathaniel</forename>
+                                <surname>Jembere</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Claire</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Kendall</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Family Medicine</orgName>
+                                <orgName type="institution">University of Ottawa</orgName>
+                                <address>
+                                    <settlement>Ottawa</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="institution" key="instit1">CT Lamont Primary Health Care Research Centre</orgName>
+                                <orgName type="institution" key="instit2">Bruyere Research Institute</orgName>
+                                <address>
+                                    <settlement>Ottawa</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff5">
+                                <orgName type="institution">Ottawa Hospital Research Institute</orgName>
+                                <address>
+                                    <settlement>Ottawa</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ann</forename>
+                                <forename type="middle">N.</forename>
+                                <surname>Burchell</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Family and Community Medicine</orgName>
+                                <orgName type="institution">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <addrLine>410 Sherbourne Street</addrLine>
+                                    <postCode>M4X 1K2</postCode>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="department">Dalla Lana School of Public Health</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Toronto General Hospital Research Institute</orgName>
+                                <orgName type="institution">University Health Network</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ahmed</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Bayoumi</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Toronto General Hospital Research Institute</orgName>
+                                <orgName type="institution">University Health Network</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff8">
+                                <orgName type="institution" key="instit1">Li Ka Shing Knowledge Institute</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff9">
+                                <orgName type="institution" key="instit1">Centre for Urban Health Solutions</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff10">
+                                <orgName type="department">Institute of Health Policy, Management and Evaluation</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mona</forename>
+                                <surname>Loutfy</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff9">
+                                <orgName type="institution" key="instit1">Centre for Urban Health Solutions</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff10">
+                                <orgName type="department">Institute of Health Policy, Management and Evaluation</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff11">
+                                <orgName type="department">Department of Medicine</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Janet</forename>
+                                <surname>Raboud</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff6">
+                                <orgName type="department">Dalla Lana School of Public Health</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff7">
+                                <orgName type="department">Toronto General Hospital Research Institute</orgName>
+                                <orgName type="institution">University Health Network</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sean</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Rourke</surname>
+                            </persName>
+                            <affiliation key="aff8">
+                                <orgName type="institution" key="instit1">Li Ka Shing Knowledge Institute</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff9">
+                                <orgName type="institution" key="instit1">Centre for Urban Health Solutions</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff13">
+                                <orgName type="institution">Ontario HIV Treatment Network</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff14">
+                                <orgName type="department">Department of Psychiatry</orgName>
+                                <orgName type="institution">University of Toronto</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Henry</forename>
+                                <surname>Luyombya</surname>
+                            </persName>
+                            <affiliation key="aff13">
+                                <orgName type="institution">Ontario HIV Treatment Network</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Tony</forename>
+                                <surname>Antoniou</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Family and Community Medicine</orgName>
+                                <orgName type="institution">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <addrLine>410 Sherbourne Street</addrLine>
+                                    <postCode>M4X 1K2</postCode>
+                                    <settlement>Toronto</settlement>
+                                    <region>ON</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Institute for Clinical Evaluative Sciences</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff8">
+                                <orgName type="institution" key="instit1">Li Ka Shing Knowledge Institute</orgName>
+                                <orgName type="institution" key="instit2">St. Michael&apos;s Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff12">
+                                <orgName type="department">Women&apos;s College Research Institute</orgName>
+                                <orgName type="institution">Women&apos;s College Hospital</orgName>
+                                <address>
+                                    <settlement>Toronto</settlement>
+                                    <region>Ontario</region>
+                                    <country key="CA">Canada</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Co-morbid non-communicable diseases and associated health service use in African and Caribbean immigrants with HIV</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 2</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Background We sought to characterize non-communicable disease (NCD)-related and overall</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

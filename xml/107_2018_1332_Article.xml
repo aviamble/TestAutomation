@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">COLD TACK OF UREA FORMALDEHYDE RESINS AS AN IMPORTANT FACTOR IN PLYWOOD PRODUCTION</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Elfriede</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Hogger</surname>
+                            </persName>
+                            <contact>
+                                <email>e.hogger@kplus-wood.at</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Competence Centre for Wood Composites and Wood Chemistry</orgName>
+                                <address>
+                                    <addrLine>Altenberger Straße 69</addrLine>
+                                    <postCode>4040</postCode>
+                                    <settlement>Linz</settlement>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hendrikus</forename>
+                                <forename type="middle">W.</forename>
+                                <forename type="middle">G.</forename>
+                                <surname>Herwijnen</surname>
+                                <particle>van</particle>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Competence Centre for Wood Composites and Wood Chemistry</orgName>
+                                <address>
+                                    <addrLine>Altenberger Straße 69</addrLine>
+                                    <postCode>4040</postCode>
+                                    <settlement>Linz</settlement>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Johann</forename>
+                                <surname>Moser</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Metadynea Austria GmbH</orgName>
+                                <address>
+                                    <addrLine>Hafenstraße 77</addrLine>
+                                    <postCode>3500</postCode>
+                                    <settlement>Krems</settlement>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wolfgang</forename>
+                                <surname>Kantner</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution">Metadynea Austria GmbH</orgName>
+                                <address>
+                                    <addrLine>Hafenstraße 77</addrLine>
+                                    <postCode>3500</postCode>
+                                    <settlement>Krems</settlement>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Johannes</forename>
+                                <surname>Konnerth</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="institution">University of Natural Resources and Applied Life Science</orgName>
+                                <address>
+                                    <addrLine>Gregor-Mendel-Straße 33</addrLine>
+                                    <postCode>1180</postCode>
+                                    <settlement>Wien</settlement>
+                                    <country key="AT">Austria</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">COLD TACK OF UREA FORMALDEHYDE RESINS AS AN IMPORTANT FACTOR IN PLYWOOD PRODUCTION</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The ability of Urea Formaldehyde (UF) resins to develop cold tack is needed in plywood production during pre-pressing in a cold press, to ensure that the veneers stick together, can be transported, and fit into a multi-daylight hot press. The influence of defined factors on the cold tack was analyzed by determining the tensile shear strength of uncured birch veneers bonded with UF resin, and the statistically significant impact factors were determined. The factors tested were lay-up time, resin amount, resin age, moisture content, veneer temperature and pre-press time. Moisture content and veneer temperature had the highest impact on the cold tack of UF resins. A negative impact of high moisture content on the tensile shear strength and therefore on the cold tack of UF resins was proven as well as a positive impact of a comparably high (30°C) veneer temperature. Lay-up time and pre-press time showed a minor impact on the tensile shear strength. Models were created using Design-Expert software to calculate the optimum operation conditions for cold tack.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

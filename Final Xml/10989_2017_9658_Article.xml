@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T11:41+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Cytotoxicity and Antibacterial Effect of Trp-substituted CM11 Cationic Peptide against Drug-resistant Isolates of Brucella melitensis Alone and in Combination with Recommended Antibiotics Running Title: Cytotoxicity and AntibacterialEffect of Trp-substituted CM11</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Hoda</forename>
+                                <surname>Moravej</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Molecular Biology Research Center, Systems Biology and Poisoning Institute</orgName>
+                                <orgName type="institution">Baqiyatallah University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mahdi</forename>
+                                <surname>Fasihi-Ramandi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Molecular Biology Research Center, Systems Biology and Poisoning Institute</orgName>
+                                <orgName type="institution">Baqiyatallah University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mehrdad</forename>
+                                <forename type="middle">Moosazadeh</forename>
+                                <surname>Moghaddam</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Applied Biotechnology Research Center</orgName>
+                                <orgName type="institution">Baqiyatallah University of Medical Sciences</orgName>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Reza</forename>
+                                <surname>Mirnejad</surname>
+                            </persName>
+                            <contact>
+                                <email>rmirnejad@bmsu.ac.ir</email>
+								<phone>+982182482554</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Molecular Biology Research Center, Systems Biology and Poisoning Institute</orgName>
+                                <orgName type="institution">Baqiyatallah University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Molecular Biology Research Center, Systems Biology and Poisoning Institute</orgName>
+                                <orgName type="institution">Baqiyatallah University of Medical Sciences</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Cytotoxicity and Antibacterial Effect of Trp-substituted CM11 Cationic Peptide against Drug-resistant Isolates of Brucella melitensis Alone and in Combination with Recommended Antibiotics Running Title: Cytotoxicity and AntibacterialEffect of Trp-substituted CM11</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>During the recent years, antibiotic resistance of pathogenic bacteria to conventional and common antibiotics has considered as a global concern. Therefore, researchers attend to find a new class of antimicrobial agents such as antimicrobial peptides (AMP), but some limitations are on the therapeutic use of AMPs such as cytotoxicity. To overcome these limitations various strategies have been described such as designing AMP analogues and/or combined use of them with synergistic effects. According to the many studies substitution of tryptophan as an amino acid residue with negative hydropathy index (-0.9) to the leucine residue that is an amino acid with high positive hydropathy index (3.8) can enhance bactericidal activity and reduce cytotoxicity. Based on this topic in this study, a peptide modification was done by substitution of tryptophan at position 3 (leucine amino acid) of the CM11 antimicrobial peptide to promote its antibacterial activity and decrease cytotoxicity effect on eukaryotic cells. In the following, we investigated peptide antibacterial activity alone and in combination with common antibiotics against drug-resistant isolates of Brucella melitensis. Specific antibiotics were selected considering the CLSI</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

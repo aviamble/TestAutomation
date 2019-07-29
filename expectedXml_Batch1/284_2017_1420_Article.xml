@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T06:12+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Development and optimization of a high-throughput screening assay for rapid evaluation of lipstatin production by Streptomyces strains</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Michal</forename>
+                                <surname>Híreš</surname>
+                            </persName>
+                            <contact>
+                                <email>michal.hires@stuba.sk</email>
+                                <phone>+421 2 593 255 12</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Biochemistry and Microbiology</orgName>
+                                <orgName type="institution">Slovak University of Technology</orgName>
+                                <address>
+                                    <addrLine>Radlinského 9</addrLine>
+									<postCode>81 237</postCode>
+									<settlement>Bratislava</settlement>
+                                    <country key="SK">Slovak republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nora</forename>
+                                <surname>Rapavá</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Biochemistry and Microbiology</orgName>
+                                <orgName type="institution">Slovak University of Technology</orgName>
+                                <address>
+                                    <addrLine>Radlinského 9</addrLine>
+									<postCode>81 237</postCode>
+									<settlement>Bratislava</settlement>
+                                    <country key="SK">Slovak republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Martin</forename>
+                                <surname>Šimkovic</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Biochemistry and Microbiology</orgName>
+                                <orgName type="institution">Slovak University of Technology</orgName>
+                                <address>
+                                    <addrLine>Radlinského 9</addrLine>
+									<postCode>81 237</postCode>
+									<settlement>Bratislava</settlement>
+                                    <country key="SK">Slovak republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ludovít</forename>
+                                <surname>Varecka</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Biochemistry and Microbiology</orgName>
+                                <orgName type="institution">Slovak University of Technology</orgName>
+                                <address>
+                                    <addrLine>Radlinského 9</addrLine>
+									<postCode>81 237</postCode>
+									<settlement>Bratislava</settlement>
+                                    <country key="SK">Slovak republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dušan</forename>
+                                <surname>Berkeš</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Organic Chemistry</orgName>
+                                <orgName type="institution">Slovak University of Technology</orgName>
+                                <address>
+                                    <addrLine>Radlinského 9</addrLine>
+									<postCode>81 237</postCode>
+									<settlement>Bratislava</settlement>
+                                    <country key="SK">Slovak republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Svetlana</forename>
+                                <surname>Kryštofová</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Institute of Biochemistry and Microbiology</orgName>
+                                <orgName type="institution">Slovak University of Technology</orgName>
+                                <address>
+                                    <addrLine>Radlinského 9</addrLine>
+									<postCode>81 237</postCode>
+									<settlement>Bratislava</settlement>
+                                    <country key="SK">Slovak republic</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Development and optimization of a high-throughput screening assay for rapid evaluation of lipstatin production by Streptomyces strains</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Development and optimization of a high-throughput screening assay for rapid evaluation of lipstatin production by Streptomyces strains Abstract Pancreatic lipase inhibitors, such as tetrahydrolipstatin (orlistat), are used in anti-obesity treatments. Orlistat is the only anti-obesity drug approved by the European Medicines Agency (EMA). The drug is synthesized by saturation of lipstatin, a ß-lactone compound, isolated from Streptomyces toxytricini and S. virginiae. To identify producers of novel pancreatic lipase inhibitors or microbial strains with improved lipstatin production and higher chemical purity remains still a priority. In this study, a high-throughput screening method to identify Streptomyces strains producing potent pancreatic lipase inhibitors was established. The assay was optimized and validated using S. toxytricini NRRL 15443 and its mutants. Strains grew in 24-well titer plates. Lipstatin levels were assessed directly in culture medium at the end of cultivation by monitoring lipolytic</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

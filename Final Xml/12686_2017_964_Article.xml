@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-29T10:43+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">First report of the complete mitochondrial genome and phylogenetic analysis of Fraser&apos;s Dolphin Lagenodelphis hosei (Cetacea: Delphinidae)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Kyunglee</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cetacean Research Institute (CRI)</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <postCode>44780</postCode>
+                                    <settlement>Ulsan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>							
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">JunMo</forename>
+                                <surname>Lee</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Biological Sciences</orgName>
+                                <orgName type="department" key="dep2">College of Science</orgName>
+                                <orgName type="institution">Sungkyunkwan University</orgName>
+                                <address>
+                                    <postCode>16419</postCode>
+                                    <settlement>Suwon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuna</forename>
+                                <surname>Cho</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cetacean Research Institute (CRI)</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <postCode>44780</postCode>
+                                    <settlement>Ulsan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hyun</forename>
+                                <forename type="middle">Woo</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cetacean Research Institute (CRI)</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <postCode>44780</postCode>
+                                    <settlement>Ulsan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Kyum</forename>
+                                <forename type="middle">Joon</forename>
+                                <surname>Park</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cetacean Research Institute (CRI)</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <postCode>44780</postCode>
+                                    <settlement>Ulsan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hawsun</forename>
+                                <surname>Sohn</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cetacean Research Institute (CRI)</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <postCode>44780</postCode>
+                                    <settlement>Ulsan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Young-Min</forename>
+                                <surname>Choi</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Cetacean Research Institute (CRI)</orgName>
+                                <orgName type="institution">National Institute of Fisheries Science (NIFS)</orgName>
+                                <address>
+                                    <postCode>44780</postCode>
+                                    <settlement>Ulsan</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hye</forename>
+                                <forename type="middle">Kwon</forename>
+                                <surname>Kim</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Infectious Disease Research Center</orgName>
+                                <orgName type="institution">Korea Research Institute of Bioscience and Biotechnology</orgName>
+                                <address>
+                                    <postCode>34141</postCode>
+                                    <settlement>Daejeon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Dae</forename>
+                                <forename type="middle">Gwin</forename>
+                                <surname>Jeong</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Infectious Disease Research Center</orgName>
+                                <orgName type="institution">Korea Research Institute of Bioscience and Biotechnology</orgName>
+                                <address>
+                                    <postCode>34141</postCode>
+                                    <settlement>Daejeon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Ji</forename>
+                                <forename type="middle">Hyung</forename>
+                                <surname>Kim</surname>
+                            </persName>
+							<contact>
+							<email>kzh81@kribb.re.kr</email>
+							</contact>
+                            <affiliation key="aff3">
+                                <orgName type="department">Infectious Disease Research Center</orgName>
+                                <orgName type="institution">Korea Research Institute of Bioscience and Biotechnology</orgName>
+                                <address>
+                                    <postCode>34141</postCode>
+                                    <settlement>Daejeon</settlement>
+                                    <country key="KR">Republic of Korea</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">First report of the complete mitochondrial genome and phylogenetic analysis of Fraser&apos;s Dolphin Lagenodelphis hosei (Cetacea: Delphinidae)</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 Running title: Mitochondrial genome of Lagenodelphis hosei Acknowledgements</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

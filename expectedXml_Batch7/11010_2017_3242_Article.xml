@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-28T12:40+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Title: Identification of a novel intergenic miRNA located between the human DDC and COBL genes with a potential function in cell cycle arrest</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mohammad</forename>
+                                <forename type="middle">Hossein</forename>
+                                <surname>Hobollah</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Molecular Genetics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postCode>111-14115</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Bahram</forename>
+                                <forename type="middle">M.</forename>
+                                <surname>Soltani</surname>
+                            </persName>
+                            <contact>
+                                <email>soltanib@modares.ac.ir</email>
+                                <phone>+98-21-82884703</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Molecular Genetics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postCode>111-14115</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff3">
+                                <orgName type="department">Department of Molecular Genetics, Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+								 <address>
+                                    <postCode>111-14115</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Seyed</forename>
+                                <forename type="middle">Javad</forename>
+                                <surname>Mowla</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Molecular Genetics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postCode>111-14115</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mojgan</forename>
+                                <surname>Sheikhpour</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Mycobacteriology and Pulmonary Research</orgName>
+                                <orgName type="department" key="dep2">Microbiology Research Center (MRC)</orgName>
+                                <orgName type="institution">Pasteur Institute of Iran</orgName>
+                                <address>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Maryam</forename>
+                                <surname>Kay</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Department of Molecular Genetics</orgName>
+                                <orgName type="department" key="dep2">Faculty of Biological Sciences</orgName>
+                                <orgName type="institution">Tarbiat Modares University</orgName>
+                                <address>
+                                    <postCode>111-14115</postCode>
+                                    <settlement>Tehran</settlement>
+                                    <country key="IR">Iran</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Title: Identification of a novel intergenic miRNA located between the human DDC and COBL genes with a potential function in cell cycle arrest</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>*Correspondance: Dr.</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>mirZa</term>
+                    <term>Lung cancer</term>
+                    <term>SMAD3</term>
+                    <term>IGF1R Introduction</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Frequent 7p12 locus abnormality around EGFR locus in different tumors like lung cancer candidate this region for novel regulatory elements. MiRNAs as novel regulatory elements encoded within the human genome are potentially oncomiRs or miR-suppressors. Here, we have used bioinformatics tools to search for the novel miRNAs embedded within human chromosome 7p12. A bona fide stem loop (named mirZa precursor) had the features of producing a real miRNA (named miRZa) which was detected through RT-qPCR following the overexpression of its precursor. Then, endogenous miRZa was detected in human cell lines and tissues and sequenced. Consistent to the bioinformatics prediction, RT-qPCR as well as dual luciferase assay indicated that SMAD3 and IGF1R genes were targeted by miRZa. MiRZa-3p and miRZa-5p were downregulated in lung tumor tissue samples detected by RT-qPCR, and mirZa precursor overexpression in SW480 cells resulted in increased subG1 cell population. Overall, here we introduced a novel miRNA which is capable of targeting SMAD3 and IGF1R regulatory genes and increases the cell population in SubG1 stage.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

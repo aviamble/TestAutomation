@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T10:21+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Should Clinicians Split or Lump Psychiatric Symptoms? The Structure of Psychopathology in Two Large Pediatric Clinical Samples from England and Norway</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Lorena</forename>
+                                <forename type="middle">Fernández</forename>
+                                <surname>Cruz</surname>
+                                <authordegree>PhD</authordegree>
+                                <particle>de la</particle>
+                            </persName>
+                            <contact>
+                                <email>lorena.fernandez.de.la.cruz@ki.se</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Child and Adolescent Psychiatry Research Center</orgName>
+                                <orgName type="department" key="dep2">Department of Clinical Neuroscience</orgName>
+                                <orgName type="institution">Karolinska Institutet</orgName>
+                                <address>
+                                    <settlement>Stockholm</settlement>
+                                    <country key="SE">Sweden</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="department" key="dep2">Institute of Psychiatry, Psychology &amp; Neuroscience</orgName>
+                                <orgName type="institution">King&apos;s College London</orgName>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <country key="GB">England</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Child and Adolescent Psychiatry Research Center</orgName>
+                                <orgName type="department">Department of Clinical Neuroscience</orgName>
+								<orgName type="institution">Karolinska Institutet</orgName>
+								<address>
+									<addrLine>Gävlegatan 22 (Entré B), Floor 8</addrLine>
+									<postCode>SE - 11330</postCode>
+									<settlement>Stockholm</settlement>
+									<country>Sweden</country>
+								</address>
+								
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Pablo</forename>
+                                <surname>Vidal-Ribas</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="department" key="dep2">Institute of Psychiatry, Psychology &amp; Neuroscience</orgName>
+                                <orgName type="institution">King&apos;s College London</orgName>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <country key="GB">England</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Mood Brain &amp; Development Unit, Emotion and Development Branch</orgName>
+                                <orgName type="institution">National Institute of Mental Health</orgName>
+                                <address>
+                                    <settlement>Bethesda</settlement>
+                                    <region>Md</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Nada</forename>
+                                <surname>Zahreddine</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="department" key="dep2">Institute of Psychiatry, Psychology &amp; Neuroscience</orgName>
+                                <orgName type="institution">King&apos;s College London</orgName>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <country key="GB">England</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Psychiatry</orgName>
+                                <orgName type="institution">Saint-Joseph University</orgName>
+                                <address>
+                                    <settlement>Beirut</settlement>
+                                    <country key="LB">Lebanon</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Børge</forename>
+                                <surname>Mathiassen</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Regional Centre for Child and Youth Mental Health and Child Welfare - North</orgName>
+                                <orgName type="institution">UiT The Arctic University of Norway</orgName>
+                                <address>
+                                    <settlement>Tromsø</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Per</forename>
+                                <forename type="middle">Håkan</forename>
+                                <surname>Brøndbo</surname>
+                            </persName>
+                            <affiliation key="aff5">
+                                <orgName type="department">Regional Centre for Child and Youth Mental Health and Child Welfare - North</orgName>
+                                <orgName type="institution">UiT The Arctic University of Norway</orgName>
+                                <address>
+                                    <settlement>Tromsø</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Emily</forename>
+                                <surname>Simonoff</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="department" key="dep2">Institute of Psychiatry, Psychology &amp; Neuroscience</orgName>
+                                <orgName type="institution">King&apos;s College London</orgName>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <country key="GB">England</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Robert</forename>
+                                <surname>Goodman</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Department of Child and Adolescent Psychiatry</orgName>
+                                <orgName type="department" key="dep2">Institute of Psychiatry, Psychology &amp; Neuroscience</orgName>
+                                <orgName type="institution">King&apos;s College London</orgName>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <country key="GB">England</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Argyris</forename>
+                                <surname>Stringaris</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Mood Brain &amp; Development Unit, Emotion and Development Branch</orgName>
+                                <orgName type="institution">National Institute of Mental Health</orgName>
+                                <address>
+                                    <settlement>Bethesda</settlement>
+                                    <region>Md</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                       
+                        <title level="a" type="main">Should Clinicians Split or Lump Psychiatric Symptoms? The Structure of Psychopathology in Two Large Pediatric Clinical Samples from England and Norway</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>and Pablo Vidal-Ribas are joint first authors. Running head: Structure of Psychopathology in Pediatric Clinical Samples Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>It has been suggested that the structure of psychiatric phenomena can be reduced to a few symptom dimensions. These proposals, mainly based on epidemiological samples, may not apply to clinical populations. We tested the structure of psychiatric symptoms across two pediatric clinical samples from England (N=8,434) and Norway (N=5,866). Confirmatory factor analyses of the parent-reported Strengths and Difficulties Questionnaire (SDQ) evaluated the relative fit of several models, including a first-order model, a second-order model with the widely-established broad symptom dimensions of internalizing-externalizing, and two bi-factor models capturing a general psychopathology factor. Predictive value of the SDQ</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

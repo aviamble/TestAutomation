@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T09:49+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Predictors of Return to Work 6 Months After the End of Treatment in Patients with Common Mental Disorders: A Cohort Study</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Mattias</forename>
+                                <surname>Victor</surname>
+                            </persName>
+							<contact>
+                            <email>vicm@lds.no</email>
+							<phone>+ 47 48145919</phone>
+							</contact>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Lovisenberg Hospital</orgName>
+                                <address>
+									<postBox>Postboks 4970</postBox>
+									<postCode>0440</postCode>
+                                    <settlement>Nydalen</settlement>
+									<region>Oslo</region>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">University of Oslo</orgName>
+                                <orgName type="institution" key="instit2">Institute of Clinical Medicine</orgName>
+                                <address>
+                                    <region>Oslo</region>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+                                <orgName type="institution">Lovisenberg Hospital</orgName>
+                                <address>
+									<postBox>Postboks 4970</postBox>
+									<postCode>0440</postCode>
+                                    <settlement>Nydalen</settlement>
+									<region>Oslo</region>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Bjørn</forename>
+                                <surname>Lau</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="institution">Lovisenberg Hospital</orgName>
+                                <address>
+									<postBox>Postboks 4970</postBox>
+									<postCode>0440</postCode>
+                                    <settlement>Nydalen</settlement>
+									<region>Oslo</region>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Psychology</orgName>
+                                <orgName type="institution">University of Oslo</orgName>
+                                <address>
+                                    <settlement>Oslo</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Torleif</forename>
+                                <surname>Ruud</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="institution" key="instit1">University of Oslo</orgName>
+                                <orgName type="institution" key="instit2">Institute of Clinical Medicine</orgName>
+                                <address>
+                                    <region>Oslo</region>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+							    <orgName type="department">Division Mental Health Services</orgName>
+                                <orgName type="institution">Akershus University Hospital</orgName>
+								<address>
+                                    <postCode>1478</postCode>
+                                    <settlement>Lørenskog</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Predictors of Return to Work 6 Months After the End of Treatment in Patients with Common Mental Disorders: A Cohort Study</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Acknowledgements This study was funded by Lovisenberg Hospital, Oslo, Norway. Conflict of Interest MV and BL are employees of Lovisenberg Hospital. TR declares that he has no conflict of interest. Abstract Purpose Common mental disorders (CMDs) account for a large portion of sickness absence. Even after attending return to work (RTW) interventions, many patients with a CMD remain on sick leave. To identify people at risk of long-term work disability, more needs to be known about factors that predict RTW after treatment. Methods This was a prospective cohort study that followed 106 former patients at an RTW outpatient clinic for CMDs for 6 months after the end of treatment. Changes in work participation and mental health status between the end of treatment and the 6-month follow-up were analysed. Changes in work participation were used to identify patients with successful RTW. Patient characteristics and end-of-treatment measures of mental health status, work ability, generalized self-efficacy and expectations of future work ability, and changes in clinical outcome measures during treatment were included in logistic regression analyses to identify predictors of RTW at the 6-month follow-up. Results In the final model, high occupational status and higher work ability at the end of treatment predicted successful RTW at the 6-month follow-up. Further analyses showed that if the</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

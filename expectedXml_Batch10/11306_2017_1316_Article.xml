@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-04T06:16+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">A systematic review of metabolomics biomarkers for Bisphenol A exposure</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Mu</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Computer Science and Technology</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Environment and Health</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education &amp; Ministry of Environmental Protection, and State Key Laboratory of Environmental Health(Incubation)</orgName>
+                                <orgName type="department" key="dep3">School of Public Health</orgName>
+								<orgName type="department" key="dep4">Tongji Medical College</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ouyan</forename>
+                                <surname>Rang</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">School of Public Health</orgName>
+                                <orgName type="institution">University of South China</orgName>
+                                <address>
+                                    <settlement>Hengyang</settlement>
+                                    <region>Hunan</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fang</forename>
+                                <surname>Liu</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Computer Science and Technology</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Wei</forename>
+                                <surname>Xia</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Environment and Health</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education &amp; Ministry of Environmental Protection, and State Key Laboratory of Environmental Health(Incubation)</orgName>
+                                <orgName type="department" key="dep3">School of Public Health</orgName>
+								<orgName type="department" key="dep4">Tongji Medical College</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yuanyuan</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Environment and Health</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education &amp; Ministry of Environmental Protection, and State Key Laboratory of Environmental Health(Incubation)</orgName>
+                                <orgName type="department" key="dep3">School of Public Health</orgName>
+								<orgName type="department" key="dep4">Tongji Medical College</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Yu</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">School of computer and information technology</orgName>
+                                <orgName type="institution">Xinyang Normal University</orgName>
+                                <address>
+                                    <settlement>Xinyang</settlement>
+                                    <region>Henan</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Songfeng</forename>
+                                <surname>Lu</surname>
+                            </persName>
+                            <contact>
+                                <email>lusongfeng@hust.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">School of Computer Science and Technology</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Shunqing</forename>
+                                <surname>Xu</surname>
+                            </persName>
+                            <contact>
+                                <email>xust@hust.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Key Laboratory of Environment and Health</orgName>
+                                <orgName type="department" key="dep2">Ministry of Education &amp; Ministry of Environmental Protection, and State Key Laboratory of Environmental Health(Incubation)</orgName>
+                                <orgName type="department" key="dep3">School of Public Health</orgName>
+								<orgName type="department" key="dep4">Tongji Medical College</orgName>
+                                <orgName type="institution">Huazhong University of Science and Technology</orgName>
+                                <address>
+                                    <settlement>Wuhan</settlement>
+                                    <region>Hubei</region>
+                                    <country>People&apos;s Republic of China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">A systematic review of metabolomics biomarkers for Bisphenol A exposure</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Corresponding authors:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Introduction: Bisphenol A (BPA), 2,2-bis(4-hydroxyphenyl) propane, a common industrial chemical which has the largest production</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

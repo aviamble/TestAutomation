@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:54+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Conversion of standard retrospective patient-reported outcomes to momentary versions: cognitive interviewing reveals varying degrees of momentary compatibility</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Victor</forename>
+                                <forename type="middle">Brun</forename>
+                                <surname>Boesen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Endocrinology</orgName>
+                                <orgName type="institution">Copenhagen University Hospital Rigshospitalet</orgName>
+                                <address>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Stine</forename>
+                                <forename type="middle">Birk</forename>
+                                <surname>Nissen</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Public Health</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Mogens</forename>
+                                <surname>Groenvold</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Public Health</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Palliative Medicine</orgName>
+                                <orgName type="institution">Bispebjerg Hospital</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Jakob</forename>
+                                <forename type="middle">Bue</forename>
+                                <surname>Bjorner</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Public Health</orgName>
+                                <orgName type="institution">University of Copenhagen</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Laszlo</forename>
+                                <surname>Hegedüs</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Endocrinology and Metabolism</orgName>
+                                <orgName type="institution">Odense University Hospital</orgName>
+                                <address>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Steen</forename>
+                                <forename type="middle">Joop</forename>
+                                <surname>Bonnema</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Endocrinology and Metabolism</orgName>
+                                <orgName type="institution">Odense University Hospital</orgName>
+                                <address>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Åse</forename>
+                                <forename type="middle">Krogh</forename>
+                                <surname>Rasmussen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Endocrinology</orgName>
+                                <orgName type="institution">Copenhagen University Hospital Rigshospitalet</orgName>
+                                <address>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ulla</forename>
+                                <surname>Feldt-Rasmussen</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Endocrinology</orgName>
+                                <orgName type="institution">Copenhagen University Hospital Rigshospitalet</orgName>
+                                <address>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Torquil</forename>
+                                <surname>Watt</surname>
+                                <authordegree>MD, DMSc,</authordegree>
+                            </persName>
+                            <contact>
+                                <email>Torquil.Watt@regionh.dk</email>
+                                <phone>+45 4027 4780</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Endocrinology</orgName>
+                                <orgName type="institution">Copenhagen University Hospital Rigshospitalet</orgName>
+                                <address>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Endocrinology</orgName>
+                                <orgName type="institution">Rigshospitalet</orgName>
+                                <address>
+									<addrLine>Blegdamsvej 9</addrLine>
+									<postCode>DK-2100</postCode>
+									<settlement>Copenhagen Ø</settlement>
+                                    <country key="DK">Denmark</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Conversion of standard retrospective patient-reported outcomes to momentary versions: cognitive interviewing reveals varying degrees of momentary compatibility</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Address for correspondence and reprints: Conflict of interest: The authors declare that they have no conflict of interest. Running title: &apos;Momentarization&apos; of retrospective items Acknowledgments: The authors would like to thank Bo Kehlet Watt (Kehlet IT) for designing and</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Ecological momentary assessments</term>
+                    <term>cognitive interviewing</term>
+                    <term>patient-reported outcomes</term>
+                    <term>thyroid diseases</term>
+                    <term>quality of life measurement</term>
+                </keywords>
+            </textClass>
+            <abstract/>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

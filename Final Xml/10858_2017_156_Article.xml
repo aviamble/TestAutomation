@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T06:07+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Selective labeling and unlabeling strategies in protein solid-state NMR spectroscopy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Denis</forename>
+                                <surname>Lacabanne</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Bases Moléculaires et Structurales des Systèmes Infectieux</orgName>
+                                <orgName type="institution" key="instit1">UMR 5086 CNRS</orgName>
+                                <orgName type="institution" key="instit2">Labex Ecofect</orgName>
+                                <orgName type="institution" key="instit3">Université de Lyon</orgName>
+                                <address>
+                                    <addrLine>7 passage du Vercors</addrLine>
+                                    <postCode>69367</postCode>
+                                    <settlement>Lyon</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Beat</forename>
+                                <forename type="middle">H.</forename>
+                                <surname>Meier</surname>
+                            </persName>
+							<contact>
+                            <email>beme@ethz.ch</email>
+                        </contact>
+                            <affiliation key="aff2">
+                                <orgName type="department">Physical Chemistry</orgName>
+                                <orgName type="institution">ETH Zurich</orgName>
+                                <address>
+                                    <addrLine>Vladimir-Prelog-Weg 2</addrLine>
+                                    <postCode>8093</postCode>
+                                    <settlement>Zurich</settlement>
+                                    <country key="CH">Switzerland</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Anja</forename>
+                                <surname>Böckmann</surname>
+                            </persName>
+                            <contact>
+                                <email>a.bockmann@ibcp.fr</email>
+                            </contact>
+                             <affiliation key="aff1">
+                                <orgName type="department">Bases Moléculaires et Structurales des Systèmes Infectieux</orgName>
+                                <orgName type="institution" key="instit1">UMR 5086 CNRS</orgName>
+                                <orgName type="institution" key="instit2">Labex Ecofect</orgName>
+                                <orgName type="institution" key="instit3">Université de Lyon</orgName>
+                                <address>
+                                    <addrLine>7 passage du Vercors</addrLine>
+                                    <postCode>69367</postCode>
+                                    <settlement>Lyon</settlement>
+                                    <country key="FR">France</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        
+                        <title level="a" type="main">Selective labeling and unlabeling strategies in protein solid-state NMR spectroscopy</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Selective isotope labeling is central in NMR experiments and often allows to push the limits on the systems investigated. It has the advantage to supply additional resolution by diminishing the number of signals in the spectra. This is particularly interesting when dealing with the large protein systems which are currently becoming accessible to solid-state NMR studies. Isotope labeled proteins for NMR experiments are most often expressed in E. coli systems, where bacteria are grown in minimal media supplemented with 15 NH 4 Cl and 13 C-glucose as sole source of nitrogen and carbon. For amino acids selective labeling or unlabeling, specific amino acids are supplemented in the minimal medium. The aim is that they will be incorporated in the protein by the bacteria. However, E. coli amino-acid anabolism and catabolism tend to interconnect different pathways, remnant of a subway system. These connections lead to inter conversion between amino acids, called scrambling. A thorough understanding of the involved pathways is thus important to obtain the desired labeling schemes, as not all combinations of amino acids are adapted. We present here a detailed overview of amino-acid metabolism in this context. Each amino-acid pathway is described in order to define accessible combinations for 13 C or 15 N specific labeling or unlabeling. Using as example the ABC transporter BmrA, a membrane protein of 600 residues, we demonstrate how these strategies can be applied. Indeed, even though there is no size limit in solid-state NMR, large (membrane) proteins are still a challenge due to heavy signal overlap. To initiate resonance assignment in these large systems, we describe how selectively labeled samples can be obtained with the addition of labeled or unlabeled amino acids in the medium. The reduced spectral overlap enabled us to identify typical spectral fingerprints and to initiate sequential assignment using the more sensitive 2D DARR experiments with long mixing time showing inter-residue correlations. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

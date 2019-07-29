@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-27T11:25+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main"></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Bruce</forename>
+                                <forename type="middle">A.</forename>
+                                <surname>Barron</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Division of Occupational and Environmental Medicine</orgName>
+                                <orgName type="institution">University of Rochester School of Medicine and Dentistry</orgName>
+                                <address>
+                                    <settlement>Rochester</settlement>
+                                    <region>New York</region>
+                                </address>
+                            </affiliation>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Lefaivre, C.: Traumatic Brain Injury Rehabilitation: The Lefaivre Rainbow Effect. CRC Press, Boca Raton, 2014, 330 pp, $20.06 (hardbound).</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>The morbidity and mortality associated with work-related traumatic brain injury (TBI) in the United States is substantial and trending upward. One study found that TBI accounted for 22% of all occupational injury fatalities and 46% of work-related fatal falls during the interval from 2003 to 2008 [1]. Furthermore, TBI is one of the most common disabling occupational injuries in the United States. Not surprisingly, the costs associated with acute and chronic treatment, rehabilitation, indemnity, and lost productivity are staggering due to the high incidence of work-related TBI, especially among younger workers [2]. The treatment and rehabilitation of TBI patients and their return-to-work can be challenging given the oftentimes subjective nature of the injury and contentious nature of some employers, workers compensation insurance carriers, workers compensation systems, and other stakeholders. A rational, evidence-based approach to the treatment and rehabilitation of TBI that is effective in optimizing functional outcomes and return-to-work have been elusive. As such, Traumatic Brain Injury Rehabilitation: The Lefaivre Rainbow Effect (The Lefaivre Rainbow Effect) was published with these goals in mind. The basic premise espoused by the author, an occupational therapist, is that people with TBI can relearn and return to desired activities to various degrees depending on the severity of the injury. Her basic formula for functional restoration, which is color coded, states the total sum (i.e. pre-injury function) minus loss (i.e. the diagnostic definition of the organic / neurological damage</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-11-13T11:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Application of Artificial Neural Networks and Monte Carlo Method for Predicting the Reliability of RF Phytosanitary Treatment of Wood</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Bogdan</forename>
+                                <surname>Bedelean</surname>
+                            </persName>
+                            <contact>
+                                <email>bedelean@unitbv.ro</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Department of Wood Processing and Wood Products Design</orgName>
+                                <orgName key="dep2" type="department">Faculty of Wood Engineering</orgName>
+                                <orgName type="institution">Transilvania University of Brasov</orgName>
+                                <address>
+                                    <settlement>Brasov</settlement>
+                                    <country key="RO">Romania</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Application of Artificial Neural Networks and Monte Carlo Method for Predicting the Reliability of RF Phytosanitary Treatment of Wood</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Contact information *Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>One of the biggest challenges during phytosanitary treatment of wood packaging material is to ascertain that all the boards subjected to the treatment reach the final prescribed temperature (i.e. 56°C for 30 minutes during conventional heating and 60°C for 1 minute during dielectric heating) across the wood profile including core as per ISPM 15. This study represents a first attempt to find a tool that can be used to reveal the reliability of the phytosanitary treatment that is achieved by means of dielectric heating at radio frequencies (RF). The tool proposed in this work consists of an artificial neural network (ANN) based model that is solved by means of Monte Carlo Method. The data set that was used in this work was collected from the literature. The results indicate that the developed ANN model can reasonably predict (R 2 = 0.72) the final temperature of boards during dielectric heating at radio frequencies. To predict the reliability of the RF phytosanitary treatment by means of the developed ANN model, three input variables are considered as random variables, namely, green moisture content, power density and initial temperature of wood. Once the model is solved for a large number of times and the performance function that separates the failure domain from the success domain is defined, the reliability of the phytosanitary treatment could be obtained. Since the reliability of the RF phytosanitary treatment is known at various time spans, the optimal treatment time is revealed. Introduction</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

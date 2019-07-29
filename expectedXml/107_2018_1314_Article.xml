@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-11-06T06:14+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Effect of rod-to-grain angle on capacity and stiffness of axially and laterally loaded long threaded rods in timber joints</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Martin</forename>
+                                <surname>Cepelka</surname>
+                            </persName>
+                            <contact>
+                                <email>martin.cepelka@ntnu.no</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Structural Engineering</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <addrLine>Rich. Birkelandsvei 1A</addrLine>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Kjell</forename>
+                                <forename type="middle">Arne</forename>
+                                <surname>Malo</surname>
+                            </persName>
+                            <contact>
+                                <email>kjell.malo@ntnu.no</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Structural Engineering</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <addrLine>Rich. Birkelandsvei 1A</addrLine>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="3">
+                            <persName>
+                                <forename type="first">Haris</forename>
+                                <surname>Stamatopoulos</surname>
+                            </persName>
+                            <contact>
+                                <email>haris.stamatopoulos@ntnu.no</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Structural Engineering</orgName>
+                                <orgName type="institution">Norwegian University of Science and Technology (NTNU)</orgName>
+                                <address>
+                                    <addrLine>Rich. Birkelandsvei 1A</addrLine>
+                                    <postCode>7491</postCode>
+                                    <settlement>Trondheim</settlement>
+                                    <country key="NO">Norway</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Effect of rod-to-grain angle on capacity and stiffness of axially and laterally loaded long threaded rods in timber joints</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>1 * corresponding author,</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Long threaded rods have recently been widely used as a reinforcement of glued laminated timber in perpendicular to the grain direction. The recent research has thus focused mainly on the withdrawal properties of the threaded rods in the axial direction. Utilizing their large withdrawal stiffness and strength, the threaded rods can also effectively be used as connectors in moment resisting timber joints. Yet, in joints, the threaded rods are often imposed to a non-axial loading, due to inclination of the rod axis to the grain as well as loading direction different from the rod axis. No design models are currently available for the combined axial and lateral loading of the threaded rods. In the present work, the effects of the rod-to-grain and load-to-rod angles on capacity and stiffness of the threaded rods are investigated by use of experiments and finite element models. Based on those, analytical expressions for determining stiffness and capacity of axially and laterally loaded threaded rods are proposed, intended as a basis for practical joint design. Furthermore, effect of various boundary conditions applied at the rod-ends is studied.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
+

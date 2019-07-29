@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-03-26T09:23+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Utility of a patient-reported outcome in measuring functional impairment during autologous stem cell transplant in patients with multiple myeloma</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Nina</forename>
+                                <surname>Shah</surname>
+                                <authordegree>MD</authordegree>
+                            </persName>
+                            <contact>
+                                <email>Nina.shah@ucsf.edu</email>
+								<phone>415-353-2737</phone>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department">Department of Medicine</orgName>
+                                <orgName type="institution">University of California San Francisco</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qiuling</forename>
+                                <surname>Shi</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Symptom Research</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sergio</forename>
+                                <surname>Giralt</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Department of Medicine</orgName>
+                                <orgName type="institution">Memorial Sloan-Kettering Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Loretta</forename>
+                                <surname>Williams</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Symptom Research</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Qaiser</forename>
+                                <surname>Bashir</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Stem Cell Transplantation</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Muzaffar</forename>
+                                <surname>Qazilbash</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Stem Cell Transplantation</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Richard</forename>
+                                <forename type="middle">E.</forename>
+                                <surname>Champlin</surname>
+                            </persName>
+                            <affiliation key="aff4">
+                                <orgName type="department">Department of Stem Cell Transplantation</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Charles</forename>
+                                <forename type="middle">S.</forename>
+                                <surname>Cleeland</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Symptom Research</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Xin</forename>
+                                <forename type="middle">Shelley</forename>
+                                <surname>Wang</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Department of Symptom Research</orgName>
+                                <orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff5">
+                                <orgName type="department">Department of Medicine</orgName>
+                                <orgName type="institution">University of California San Francisco</orgName>
+                                <address>
+                                    <addrLine>400 Parnasus Ave, 4th Floor</addrLine>
+                                    <postCode>94143</postCode>
+                                    <settlement>San Francisco</settlement>
+                                </address>									
+                                    <region>CA</region>
+                                    <country key="US">USA</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Utility of a patient-reported outcome in measuring functional impairment during autologous stem cell transplant in patients with multiple myeloma</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>Running head: PROs can measure functional status during Auto-HCT Corresponding Author:</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Background: We aimed to determine the utility of a patient reported outcome (PRO) as it</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

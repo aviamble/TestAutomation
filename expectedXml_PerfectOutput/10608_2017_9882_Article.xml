@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-03T12:04+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Maladaptive Self-Beliefs during Cognitive Behavioural Therapy for Social Anxiety Disorder: A Test of Temporal Precedence Maladaptive Self-Beliefs during Cognitive Behavioural Therapy for Social Anxiety Disorder: A Test of Temporal Precedence</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Bree</forename>
+                                <surname>Gregory</surname>
+                            </persName>
+                            <contact>
+                                <email>bree.gregory@mq.edu.au</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Centre for Emotional Health</orgName>
+                                <orgName type="department" key="dep2">Department of Psychology</orgName>
+                                <orgName type="institution">Macquarie University</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Quincy</forename>
+                                <forename type="middle">J.</forename>
+                                <forename type="middle">J.</forename>
+                                <surname>Wong</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Centre for Emotional Health</orgName>
+                                <orgName type="department" key="dep2">Department of Psychology</orgName>
+                                <orgName type="institution">Macquarie University</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Craig</forename>
+                                <forename type="middle">D.</forename>
+                                <surname>Marker</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department" key="dep1">Anxiety Treatment Clinic</orgName>
+                                <orgName type="department" key="dep2">Department of Psychology</orgName>
+                                <orgName type="institution">University of Miami</orgName>
+                                <address>
+                                    <addrLine>Florida</addrLine>
+                                    <country key="US">United States</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Lorna</forename>
+                                <surname>Peters</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department" key="dep1">Centre for Emotional Health</orgName>
+                                <orgName type="department" key="dep2">Department of Psychology</orgName>
+                                <orgName type="institution">Macquarie University</orgName>
+                                <address>
+                                    <settlement>Sydney</settlement>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <affiliation key="aff3">
+                                <orgName type="department">Centre for Emotional Health, Department of Psychology</orgName>
+                                <orgName type="institution">Macquarie University</orgName>
+                                <address>
+                                    <postCode>2109</postCode>
+                                    <region>NSW</region>
+                                    <country key="AU">Australia</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Maladaptive Self-Beliefs during Cognitive Behavioural Therapy for Social Anxiety Disorder: A Test of Temporal Precedence Maladaptive Self-Beliefs during Cognitive Behavioural Therapy for Social Anxiety Disorder: A Test of Temporal Precedence</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>This research was supported by a National Health and Medical Research Council Grant (NHMRC Project Grant 102411) awarded to Dr. Lorna Peters. Correspondence concerning this article should be addressed to a 12-week course of cognitive behavioural therapy (CBT) for social anxiety disorder (SAD), and whether change in self-beliefs is an indicator of later change in social anxiety symptom severity within treatment. Participants were 77 individuals with SAD who completed measures of maladaptive self-beliefs every two weeks of the treatment protocol and measures of social anxiety each week. Using a dynamic bivariate latent difference score framework, results indicated that maladaptive self-beliefs reduced during CBT for SAD, and that change in maladaptive self-beliefs was a significant predictor of later change in social anxiety symptom severity. Reductions in social anxiety was not a significant predictor of later change</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Given the putative importance of maladaptive self-beliefs in cognitive models of social anxiety, there is growing interest in the construct&apos;s influence on social anxiety reduction in treatment. The present study sought to examine whether maladaptive self-beliefs reduce over</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>

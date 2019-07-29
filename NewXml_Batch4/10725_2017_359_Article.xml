@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/grobid-home/schemas/xsd/Grobid.xsd">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application ident="GROBID" version="0.4.1" when="2018-10-23T08:52+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Proteomic analysis of positive influence of alternate wetting and moderate soil drying on the process of rice grain filling</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhong</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Genetics, Breeding and Multiple Utilization of Crops</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education</orgName>
+                                <orgName key="dep3" type="department">College of Crop Science</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Zhou</forename>
+                                <surname>Li</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Genetics, Breeding and Multiple Utilization of Crops</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education</orgName>
+                                <orgName key="dep3" type="department">College of Crop Science</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Waqas</forename>
+                                <surname>Muhammad</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Genetics, Breeding and Multiple Utilization of Crops</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education</orgName>
+                                <orgName key="dep3" type="department">College of Crop Science</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Manhong</forename>
+                                <surname>Lin</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Genetics, Breeding and Multiple Utilization of Crops</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education</orgName>
+                                <orgName key="dep3" type="department">College of Crop Science</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Saadia</forename>
+                                <surname>Azeem</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Hong</forename>
+                                <surname>Zhao</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Sheng</forename>
+                                <surname>Lin</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ting</forename>
+                                <surname>Chen</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Changxun</forename>
+                                <surname>Fang</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Puleng</forename>
+                                <surname>Letuma</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Zhixing</forename>
+                                <surname>Zhang</surname>
+                            </persName>
+                            <contact>
+                                <email>@163.com</email>
+                                <phone>Tel: +86-591- 83737535,</phone>
+                                <phone>Tel: +86-591-83737535</phone>
+                            </contact>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="2">
+                            <persName>
+                                <forename type="first">Wenxiong</forename>
+                                <surname>Lin</surname>
+                            </persName>
+                            <contact>
+                                <email>lwx@fafu.edu.cn</email>
+                            </contact>
+                            <affiliation key="aff1">
+                                <orgName key="dep1" type="department">Key Laboratory for Genetics, Breeding and Multiple Utilization of Crops</orgName>
+                                <orgName key="dep2" type="department">Ministry of Education</orgName>
+                                <orgName key="dep3" type="department">College of Crop Science</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff2">
+                                <orgName key="dep1" type="department">Fujian Provincial Key Laboratory of Agroecological Processing and Safety Monitoring</orgName>
+                                <orgName key="dep2" type="department">College of Life Sciences</orgName>
+                                <orgName type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff3">
+                                <orgName type="department">Key Laboratory of Crop Ecology and Molecular Physiology</orgName>
+                                <orgName key="instit1" type="institution">Fujian Agriculture and Forestry University</orgName>
+                                <orgName key="instit2" type="institution">Fujian Province University</orgName>
+                                <address>
+                                    <postCode>350002</postCode>
+                                    <settlement>Fuzhou</settlement>
+                                    <country key="CN">PR China</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Proteomic analysis of positive influence of alternate wetting and moderate soil drying on the process of rice grain filling</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author: Abbreviation: AWD: Alternate wetting and moderate soil drying CI: Conventional Irrigation ABA: Abscisic acid TKW: Thousand kernel weight SDS-PAGE: Sodium dodecyl sulphate-polyacrylamide gel electrophoresis 2D-PAGE: Two dimensional-polyacrylamide gel electrophoresis WSC: Water soluble carbohydrates DAF: Day after flowering NSC: Non-structural carbohydrates SSC: Soluble sugar content SC: Starch content</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>Alternative irrigation</term>
+                    <term>Stem</term>
+                    <term>Sheath</term>
+                    <term>2D-electrophoresis</term>
+                    <term>Remobilization</term>
+                    <term>Rice (Oryza sativa)</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Rice (Oryza sativa L.) is one of the most important crops in the world to feed ever increasing world population. An increase in output of rice crop per unit is imminent. Alternate wetting and moderate soil drying (AWD) irrigation technology has been recommended as a good practice method to improve grain filling of rice crop at late growing stages. Physiological, molecular and agronomic parameters were adopted to elucidate the role of rice stem and sheath under AWD treatment as compared to the conventional irrigation (CI) during the grain filling stage. AWD treatment significantly increased stem and sheath dry weight, carbohydrate reserves and their remobilization to the grain, especially inferior spikelet grains. The results showed that the transport and conversion rate of the stem and sheath photoassimilates increased by 9.87 and 8.37%, respectively. Furthermore, protein expression profiles of the stem and sheath at 10, 20 and 30 days after flowering were analyzed. We examined 220 differentially expressed proteins, and successfully identified 166 proteins, including 71 proteins in the stem and 95 proteins in the sheath involved in thirteen important functional groups. Our results suggest that the AWD treatment at the rice grain filling stage is highly conducive to trigger the mobilization of the N assimilates from leave and root to the stem and sheath, and then promotes to remobilize the reserves to the grain through coordinately expressed proteins involved in photosynthesis, systematic senescence, oxidative stress defense, signal transduction and other metabolisms. This study reveals the metabolic mechanism of the stem and sheath in response to AWD at grain filling stage, and provides theoretical evidence for better quality control and scientific improvement of rice in practice. Introduction: Rice is one of the most important crops in the world and provides food for almost 60% of the world's population (Khush 2005). Along with rapid population growth, land scarcity, shortage of water resources and other issues, an increase in output of grain crop per unit are imminent (Sakamoto 2006). Grain yield, in rice and other cereal crops, can be defined as " the product of yield sink capacity and filling efficiency " (Kato and Takeda 1996). To increase grain yield, crop breeders have enhanced the yield sink capacity (the maximum size of sink organs to be harvested)</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"/>
+</TEI>

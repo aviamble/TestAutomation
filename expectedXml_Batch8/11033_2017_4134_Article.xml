@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /opt/1.6.1.6.1.2/schemas/xsd/Grobid.xsd"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader xml:lang="en">
+        <encodingDesc>
+            <appInfo>
+                <application version="0.4.1" ident="GROBID" when="2018-04-02T07:57+0000">
+                    <ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Development of microsatellite markers using next-generation sequencing for the fish Colossoma macropomum</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="unknown">
+                    <licence/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>
+                            <persName>
+                                <forename type="first">Raquel</forename>
+                                <forename type="middle">B.</forename>
+                                <surname>Ariede</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centro de Aquicultura da Unesp</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Jaboticabal</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Milena</forename>
+                                <forename type="middle">V.</forename>
+                                <surname>Freitas</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centro de Aquicultura da Unesp</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Jaboticabal</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Milene</forename>
+                                <surname>Hata</surname>
+                            </persName>
+                             <affiliation key="aff1">
+                                <orgName type="department">Centro de Aquicultura da Unesp</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Jaboticabal</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Vito</forename>
+                                <surname>Matrochirico-Filho</surname>
+                            </persName>
+                            <affiliation key="aff1">
+                                <orgName type="department">Centro de Aquicultura da Unesp</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Jaboticabal</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Ricardo</forename>
+                                <surname>Utsunomia</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Departamento de Morfologia, IBB</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Botucatu</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fernando</forename>
+                                <forename type="middle">F.</forename>
+                                <surname>Mendonça</surname>
+                            </persName>
+                            <affiliation key="aff3">
+                                <orgName type="department">Instituto do Mar</orgName>
+                                <orgName type="institution" key="instit1">Universidade Federal de São Paulo</orgName>
+                                <orgName type="institution" key="instit2">UNIFESP</orgName>
+                                <address>
+                                    <settlement>Santos</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fausto</forename>
+                                <surname>Foresti</surname>
+                            </persName>
+                            <affiliation key="aff2">
+                                <orgName type="department">Departamento de Morfologia, IBB</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Botucatu</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author>
+                            <persName>
+                                <forename type="first">Fábio</forename>
+                                <surname>Porto-Foresti</surname>
+                            </persName>
+                             <affiliation key="aff1">
+                                <orgName type="department">Centro de Aquicultura da Unesp</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Jaboticabal</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                            <affiliation key="aff4">
+                                <orgName type="department">Departamento de Ciências Biológicas, FC</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Bauru</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <author role="corresp" sequence="1">
+                            <persName>
+                                <forename type="first">Diogo</forename>
+                                <forename type="middle">T.</forename>
+                                <surname>Hashimoto</surname>
+                            </persName>
+                            <contact>
+                                <email>diogo@caunesp.unesp.br</email>
+								<phone>+55 16 3209-7477</phone>
+                            </contact>
+                             <affiliation key="aff1">
+                                <orgName type="department">Centro de Aquicultura da Unesp</orgName>
+                                <orgName type="institution">Universidade Estadual Paulista</orgName>
+                                <address>
+                                    <settlement>Jaboticabal</settlement>
+                                    <region>SP</region>
+                                    <country key="BR">Brazil</country>
+                                </address>
+                            </affiliation>
+                        </author>
+                        <title level="a" type="main">Development of microsatellite markers using next-generation sequencing for the fish Colossoma macropomum</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note>* Corresponding author</note>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>NGS</term>
+                    <term>aquaculture</term>
+                    <term>SSR gene-associated</term>
+                    <term>tambaqui</term>
+                </keywords>
+            </textClass>
+            <abstract>
+                <p>Tambaqui (Colossoma macropomum) is a fish species from the Amazon and Orinoco Rivers, with favorable zootechnical characteristics to the cultivation system and great market acceptance in South America. However, the construction of a genetic map for the genetic improvement of this species is limited by the low number of molecular markers currently described. Thus, this study aimed to validate gene-associated and anonymous (non-genic) microsatellites obtained by Next Generation Sequencing (RNA-seq and Whole Genome Shotgun-WGS, respectively), for future construction of a genetic map and search for QTL (Quantitative trait loci) in this species. In the RNA-seq data, the observed and expected heterozygosity (H o and H e) ranged from 0.09 to 0.73, and 0.09 to 0.85, respectively. In the WGS data, H o and H e ranged from 0.33 to 0.95, and 0.28 to 0.92, respectively. In general, the evaluation of 200 markers resulted in 45 polymorphic loci, of which 14 were gene-associated (RNA-Seq) and 31 were anonymous (WGS). Moreover, some markers were related to genes of the immune system, biological regulation/control and biogenesis. This study contributes to increase the number of molecular markers available for genetic studies in C. macropomum, which will allow the development of breeding programs assisted by molecular markers. Introduction Tambaqui (Colossoma macropomum) (Curvier, 1818) is a migratory fish from the Amazon and Orinoco Rivers basins, belonging to the Characiformes order [1-2]. This species has a considerable economic importance for aquaculture, mainly due to its high nutritional value of meat, fast growth, captive fitness, resistant and suitable for captive breeding [3]. Furthermore, C. macropomum is highly used in the Midwest and Southeast regions of Brazil for crossings with other Serrasalmidae species, resulting in interspecific hybrids [4]. In Brazil, C. macropomum and its hybrids tambacu (female C. macropomum x male Piaractus mesopotamicus) and tambatinga (female C. macropomum x male Piaractus brachypomus) represent the second most produced fish in aquaculture, representing around 36% of the production (173,301 t) [5]. Moreover, tambaqui has also importance in the aquaculture from others countries in South America [6] and, therefore, it is a target species for breeding programs that will increase the production in aquaculture. Molecular tools have been used in several fish aquaculture species for loci mapping of quantitative characteristics (QTLs), which results in important tools to improve breeding programs through the implementation of marker-assisted selection (MAS). This methodology seeks to locate genomic regions related to genetic variations of economically important phenotypes, i.e., molecular markers linked to a determined characteristic of interest [7]. However, the discovery and characterization of molecular markers are the first step for the implementation of this approach. To date, there are 41 anonymous microsatellite markers described for C. macropomum [8-10], which were the first studies to contribute with genetic data in this species. However, this amount is not suitable for QTLs characterization, which makes necessary to discover new microsatellite markers in order to apply in genetic breeding programs of C. macropomum. In general, hundreds of molecular markers are necessary for QTLs detection by genetic mapping in fish species [11-12]. Historically, the traditional method for microsatellite isolation was expensive and time-consuming task, through the construction of microsatellite-enriched genome libraries, cloning and sequencing by Sanger method [13]. Currently, Next Generation Sequencing (NGS) offers significant advantages in terms of time and cost, facilitating the discovery of millions of molecular markers [14-15]. Whole Genomic Shotgun (WGS) is one of the NGS strategies used for molecular markers discovery, which consists of the random sequencing of DNA genome, a quick process to locate anonymous markers (mainly not gene-associated) which has been frequently used in fish genomes [16-17]. Moreover, several studies have been adopting the strategy of transcriptome sequencing (RNA-seq), which consists of mRNA (messenger RNA) sequencing of different tissues for the identification of gene-associated microsatellites in fish [18-21]. In this context, the main purpose of this study was the discovery</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en"></text>
+</TEI>
