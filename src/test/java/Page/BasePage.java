@@ -18,6 +18,4 @@ public abstract class  BasePage extends TestBase {
 	    }
 	
 	  public abstract void verifyPage();
-	  
-	  
 }

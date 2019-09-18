@@ -3,7 +3,6 @@ package base;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.HashMap;
-import java.util.Map;
 import java.util.concurrent.TimeUnit;
 import java.util.Date;
 import org.apache.log4j.xml.DOMConfigurator;
@@ -76,16 +75,12 @@ public void createWebDriver(String browser) throws Exception
                     ChromeOptions options = new ChromeOptions();
                     options.addArguments("chrome.switches", "--disable-extensions");
                     DesiredCapabilities capabilitiesChrome = DesiredCapabilities.chrome();
-                    //String downloadFilepath = System.getProperty("user.dir") + "\\src\\test\\resources\\Download\\NewXmlOutput"; // setting
-                    String downloadFilepath = "C:\\Users\\pso4578\\Downloads\\26March\\NewXmlOutput";
-                    // download
-                    
-            		//Map<String, Object> prefs = new HashMap<String, Object>(); 
-            	//	prefs.put("safebrowsing.enabled", "false"); options.setExperimentalOption("prefs", prefs);                                                                                              // directory
+                    String downloadFilepath = System.getProperty("user.dir") + "\\src\\test\\resources\\Download"; // setting
+                                                                                                                   // download
+                                                                                                                   // directory
                                                                                                                    // for
                                                                                                                    // chrome
                     HashMap<String, Object> chromePrefs = new HashMap<String, Object>();
-                    chromePrefs.put("safebrowsing.enabled", "false"); options.setExperimentalOption("prefs", chromePrefs); 
                     capabilitiesChrome.setPlatform(Platform.WINDOWS);
                     if (configProperties.isRemote().equalsIgnoreCase("true"))
                     {
@@ -164,22 +159,37 @@ public static String getUrl()
     switch (Application.valueOf(configProperties.getApplication()))
     {
 
-        case GLADIUS:
+        case EM:
             switch (Environment.valueOf(configProperties.getEnvironment()))
             {
-                case QA01:
+                /*case QA01:
                     url = configProperties.getQa01Url();
+                    break;*/
+                    
+              case QA02:                    
+            	  url = configProperties.getQa02Url();
+                  break;
+                    
+                   
 
-                    break;
 
                
                 default:
-                    break;
+                break;
             }
             break;
+        /*case CmsExplorer:
+        {
+        
+            url = configProperties.getQa03Url();
+            break; 	
+        
+        }*/
+            
         default:
             throw new RuntimeException("Un supported application");
     }
+    
     System.out.println("Launching the url  :" + url);
     return url;
 }

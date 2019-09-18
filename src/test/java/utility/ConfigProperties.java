@@ -11,13 +11,16 @@ import base.TestBase;
 public class ConfigProperties
 {
 
-    private final String defaultEnvironment = "QA01";
-    private final String defaultApplication = "GLADIUS";
+    //private final String defaultEnvironment = "QA02";
+    //private final String defaultApplication = "EM";
 
     public String userName;
     public String password;
     public String channel;
   
+    //private String environment = "QA02";
+    //private String application = "EM";
+    
     private String environment;
     private String application;
  
@@ -33,6 +36,12 @@ public class ConfigProperties
 
     public String qa01Url;
     
+    //private String qa02Url="http://www.editorialmanager.com/appabeta150/";
+    
+    public String qa02Url;
+    
+    public String qa03Url;
+   
     public String getTestDataDirectory()
     {
     	return testDataDirectory;
@@ -41,6 +50,16 @@ public class ConfigProperties
     public String getQa01Url()
     {
         return qa01Url;
+    }
+    
+    public String getQa02Url()
+    {
+        return qa02Url;
+    }
+    
+    public String getQa03Url()
+    {
+        return qa03Url;
     }
 
     public String getUserName()
@@ -92,7 +111,7 @@ public class ConfigProperties
     }
 
   
-
+/*
     public String getDefaultEnvironment()
     {
         return defaultEnvironment;
@@ -102,7 +121,7 @@ public class ConfigProperties
     {
         return defaultApplication;
     }
-
+*/
  
    public String getConfigPath()
     {
@@ -154,6 +173,8 @@ public class ConfigProperties
             userName = prop.getProperty("userName");
             password = prop.getProperty("password");
             qa01Url = prop.getProperty("qa01Url");
+            qa02Url=prop.getProperty("qa02Url");
+            qa03Url=prop.getProperty("qa03Url");
             testDatapath = prop.getProperty("testDatapath");
 
             System.setProperty("browser", browser);
@@ -163,6 +184,8 @@ public class ConfigProperties
             System.setProperty("userName", userName);
             System.setProperty("password", password);
             System.setProperty("qa01Url", qa01Url);
+            System.setProperty("qa02Url", qa02Url);
+            System.setProperty("qa03Url", qa03Url);
             System.setProperty("testDatapath", testDatapath);
            
         }

@@ -1,11 +1,16 @@
 package utility;
 
 
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.KeyEvent;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -18,8 +23,6 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Set;
-import java.util.Map.Entry;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -34,14 +37,17 @@ import org.custommonkey.xmlunit.DetailedDiff;
 import org.custommonkey.xmlunit.Difference;
 import org.custommonkey.xmlunit.XMLUnit;
 import org.custommonkey.xmlunit.Diff;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.RemoteWebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.w3c.dom.Document;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
-
-import com.google.common.io.Files;
 
 import base.TestBase;
 
@@ -88,21 +94,21 @@ public class Utils {
 	        }
 	   
 	    }	   
-	 
+	 	
 	
 
 	 public static void waitForElement(WebElement element,int timeout)
 	    {
 	        WebDriverWait wait = new WebDriverWait(TestBase.getDriverInstance(), timeout);
-	        wait.until(ExpectedConditions.visibilityOf(element));
+	        wait.until(ExpectedConditions.elementToBeClickable(element));
 	    }
 
 
-HashMap<String, String> fileNameAndPath= new HashMap<String,String>();
+static HashMap<String, String> fileNameAndPath= new HashMap<String,String>();
 
 public static HashMap<String,String> listFilesAndFilesSubDirectories(String directoryName){
 	
-	HashMap<String, String> fileNameAndPath= new HashMap<String,String>();
+	//HashMap<String, String> fileNameAndPath= new HashMap<String,String>();
 	
 	File directory = new File(directoryName);
     //get all the files from a directory
@@ -111,13 +117,13 @@ public static HashMap<String,String> listFilesAndFilesSubDirectories(String dire
     for (File file : fList){
         if (file.isFile()){
             fileNameAndPath.put(file.getName(),file.getAbsolutePath());
-            //System.out.println(fileNameAndPath);
+            System.out.println(fileNameAndPath);
          } else if (file.isDirectory()){
             listFilesAndFilesSubDirectories(file.getPath());
            // System.out.println(file.getPath());
         }
       }
-    return fileNameAndPath;
+     return fileNameAndPath;
 }
 
 public static void stringToDom(String xmlSource, String FileName) throws SAXException, ParserConfigurationException, IOException, TransformerException{
@@ -142,7 +148,6 @@ public static String returnOuptutXmlFileName(String xmlFileName)
 	int position;
 	
 	position=xmlFileName.indexOf("_Input");
-	//position=xmlFileName.indexOf(".pdf");
 	xmlFileName=xmlFileName.substring(0,position);
 	xmlFileReportName=xmlFileName;
 	return  xmlFileName;
@@ -163,10 +168,10 @@ SAXException, IOException{
     
     Diff xmlDiff = new Diff(source, target);
     
-    //for getting detailed differences between two Xml files
+    //for getting detailed differences between two xml files
     DetailedDiff detailXmlDiff = new DetailedDiff(xmlDiff);
     
-    differences= detailXmlDiff.getAllDifferences();
+    differences=detailXmlDiff.getAllDifferences();
 
     differences=Utils.filterDifferenceReport(differences);
     Utils.printDifferences(differences);
@@ -186,14 +191,11 @@ public static List<Difference> filterDifferenceReport (List <Difference>differen
 	    {
 	    if(!(differnceToString.contains("xsi:schemaLocation")))
 	    {
-	    if(!(differnceToString.contains("<abstract")))
-	    {
-	    if(!(differnceToString.contains("<profileDesc")))	
-	    
+	    if(!(differnceToString.contains("<abstract")))	   
 	        filterDifferences.add(difflist);
-	    } 
-	}
 	    
+	}
+	
 	}
 	}
 		return filterDifferences;
@@ -236,7 +238,7 @@ public static void printDifferences(List allDifferences) throws IOException{
 	DateFormat dateFormat = new SimpleDateFormat("yyyyMMdd_HHmmssss");
 	//System.out.println("Date");
 	//PrintWriter outputfile = new PrintWriter(new BufferedWriter(new FileWriter("C:\\AutomationFramework\\Automation_AccuracyResult_"+""+dateFormat.format(date)+".txt",true)));
-	PrintWriter outputfile = new PrintWriter(new BufferedWriter(new FileWriter("C:\\AutomationFramework\\Automation_AccuracyResult_Batch12.txt",true)));
+	PrintWriter outputfile = new PrintWriter(new BufferedWriter(new FileWriter("C:\\AutomationFramework\\Automation_AccuracyResult_Batch9.txt",true)));
 	int totalDifferences = allDifferences.size();
     System.out.println("===============================");
     outputfile.println("===============================");
@@ -263,110 +265,119 @@ public static void printDifferences(List allDifferences) throws IOException{
 	outputfile.close();
 }
 
-public static void saveLog(String ManuscriptID, String globalMsID) throws IOException{
-	
-	Date date = new Date();
-	//date.setHours(date.getHours() + 8);
-	DateFormat dateFormat = new SimpleDateFormat("yyyyMMdd_HHmmssss");
-	//System.out.println("Date");
-	//PrintWriter outputfile = new PrintWriter(new BufferedWriter(new FileWriter("C:\\AutomationFramework\\Automation_AccuracyResult_"+""+dateFormat.format(date)+".txt",true)));
-	PrintWriter outputfile = new PrintWriter(new BufferedWriter(new FileWriter("C:\\AutomationFramework\\InitiateProdcution.txt",true)));
-	//int totalDifferences = allDifferences.size();
+public static void switchToFrame(String frameName)
+{
+	TestBase.getDriverInstance().switchTo().frame(frameName);
+}
+
+public static boolean isPresent(List<WebElement> popup)
+{
+	return popup != null && popup.size() > 0;
+}
+
+
+public static void uploadFileWithRobot (String filepath) throws InterruptedException {
+    StringSelection stringSelection = new StringSelection(filepath);
+    Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
+    clipboard.setContents(stringSelection, null);
+
+    Robot robot = null;
+
+    try {
+        robot = new Robot();
+    } catch (AWTException e) {
+        e.printStackTrace();
+    }
+
+    robot.delay(250);
+
+    robot.keyPress(KeyEvent.VK_ENTER);
+    robot.keyRelease(KeyEvent.VK_ENTER);
+    robot.keyPress(KeyEvent.VK_CONTROL);
+    robot.keyPress(KeyEvent.VK_V);
+    robot.keyRelease(KeyEvent.VK_V);
+    robot.keyRelease(KeyEvent.VK_CONTROL);
+    Thread.sleep(5000);
+    robot.keyPress(KeyEvent.VK_ENTER);
+    robot.delay(50);
+    robot.keyRelease(KeyEvent.VK_ENTER);
+}
+
+public static void waitForPresenceAndClick(String xpath, WebElement element)
+{
+	WebDriverWait wait = new WebDriverWait(TestBase.getDriverInstance(), 300);
+	wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(xpath)));
+	JavascriptExecutor js = (JavascriptExecutor)TestBase.getDriverInstance();
+	js.executeScript("arguments[0].scrollIntoView(true);arguments[0].click()", element);
+}
+
+public static void logOut(WebElement logout)
+{
+	JavascriptExecutor js = (JavascriptExecutor)TestBase.getDriverInstance();
+	js.executeScript("arguments[0].scrollIntoView(true);arguments[0].click()", logout);	
+}
+
+
+public static void DropFile(File filePath, WebElement target, int offsetX, int offsetY) {
+    if(!filePath.exists())
+        throw new WebDriverException("File not found: " + filePath.toString());
+ 
+    WebDriver driver= TestBase.getDriverInstance();
     
-    outputfile.println("===============================");
-    outputfile.println(dateFormat.format(date));
-    outputfile.println(ManuscriptID +" "+ globalMsID +" " +"Initiate Production is Performed");
-    outputfile.close();
+    driver = ((RemoteWebElement)target).getWrappedDriver();
+    JavascriptExecutor jse = (JavascriptExecutor)TestBase.getDriverInstance();
+    WebDriverWait wait = new WebDriverWait(TestBase.getDriverInstance(), 30);
+
+    String JS_DROP_FILE =
+        "var target = arguments[0]," +
+        "    offsetX = arguments[1]," +
+        "    offsetY = arguments[2]," +
+        "    document = target.ownerDocument || document," +
+        "    window = document.defaultView || window;" +
+        "" +
+        "var input = document.createElement('INPUT');" +
+        "input.type = 'file';" +
+  "input.style.display = 'none';" +
+        "input.onchange = function () {" +
+        "  var rect = target.getBoundingClientRect()," +
+        "      x = rect.left + (offsetX || (rect.width >> 1))," +
+        "      y = rect.top + (offsetY || (rect.height >> 1))," +
+        "      dataTransfer = { files: this.files };" +
+        "" +
+        "  ['dragenter', 'dragover', 'drop'].forEach(function (name) {" +
+        "    var evt = document.createEvent('MouseEvent');" +
+        "    evt.initMouseEvent(name, !0, !0, window, 0, 0, 0, x, y, !1, !1, !1, !1, 0, null);" +
+        "    evt.dataTransfer = dataTransfer;" +
+        "    target.dispatchEvent(evt);" +
+        "  });" +
+        "" +
+        "  setTimeout(function () { document.body.removeChild(input); }, 25);" +
+        "};" +
+        "document.body.appendChild(input);" +
+        "return input;";
+
+    WebElement input =  (WebElement)jse.executeScript(JS_DROP_FILE, target, offsetX, offsetY);
+    input.sendKeys(filePath.getAbsoluteFile().toString());
+    wait.until(ExpectedConditions.stalenessOf(input));
 }
 
-public static void moveFileAfterProcessing(String directoryPath,String ToLocation) throws IOException
-{
-	HashMap<String,String> inputTestDataFilesInfo = new HashMap <String,String>();	
-	inputTestDataFilesInfo=listFilesAndFilesSubDirectories(directoryPath);
-	String FileName,FilePath=null;
-	Set<Entry<String, String>> inputFilesEntrySet = inputTestDataFilesInfo.entrySet();
-
-	for (Entry<String, String> FilesInfo : inputFilesEntrySet) 
-	{
-	  
-	    FileName=FilesInfo.getKey();
-	    FilePath=FilesInfo.getValue();
-	    String alreadyDonePath=ToLocation;
-	    File Source= new File(FilePath);
-	    File alreadyDone= new File(alreadyDonePath+FileName);
-	    Files.move(Source, alreadyDone);
-
-	}
-
+/*public static boolean isElementHiddenNow(String id) {
+    turnOffImplicitWaits();
+    boolean  result= false;
+    result = ExpectedConditions.invisibilityOfElementLocated(By.id(id)).apply(TestBase.getDriverInstance());
+    turnOnImplicitWaits();
+    return result;
 }
 
-public static void moveCountBasedFiles(String directoryPath,String ToLocation, int count) throws IOException
-{
-	HashMap<String,String> inputTestDataFilesInfo = new HashMap <String,String>();	
-	inputTestDataFilesInfo=listFilesAndFilesSubDirectories(directoryPath);
-	String FileName,FilePath=null;
-	Set<Entry<String, String>> inputFilesEntrySet = inputTestDataFilesInfo.entrySet();
-    int initialCount=count ;
-  
-   
-	for (Entry<String, String> FilesInfo : inputFilesEntrySet) 
-	{
-	  
-	    FileName=FilesInfo.getKey();
-	    FilePath=FilesInfo.getValue();
-	    String alreadyDonePath=ToLocation+FileName;
-	    File Source= new File(FilePath);
-	    File alreadyDone= new File(alreadyDonePath);
-	    Files.move(Source, alreadyDone);
-	    --initialCount;
-        if(initialCount==0)
-        	break;
-	}
-
+public static void turnOffImplicitWaits() {
+    TestBase.getDriverInstance().manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
 }
 
-public static void moveFileBasedOnFileName(String directoryPath,String searchDirectory, String ToLocation) throws IOException
-
-{
-	
-	
-	HashMap<String,String> inputTestDataFilesInfo = new HashMap <String,String>();	
-	inputTestDataFilesInfo=listFilesAndFilesSubDirectories(directoryPath);
-	String FileName,FilePath=null;
-	Set<Entry<String, String>> inputFilesEntrySet = inputTestDataFilesInfo.entrySet();
-
-	for (Entry<String, String> FilesInfo : inputFilesEntrySet) 
-	{
-	  
-		FileName=FilesInfo.getKey();
-	    int position;
-		String goXmlName;
-		position=FileName.indexOf(".zip");
-		//position=xmlFileName.indexOf(".pdf");
-		goXmlName=FileName.substring(0,position)+".go.xml";
-		
-		File Source= new File(searchDirectory+goXmlName);
-	    File ToLoc= new File(ToLocation+goXmlName);
-	    Files.move(Source, ToLoc);
-
-		
-		
-		
-		
-//	    FileName=FilesInfo.getKey();
-//	    FilePath=FilesInfo.getValue();
-//	    String alreadyDonePath=ToLocation+FileName;
-//	    File Source= new File(FilePath);
-//	    File alreadyDone= new File(alreadyDonePath);
-//	    Files.move(Source, alreadyDone);
-
-	}
-	
-}
+public static void turnOnImplicitWaits() {
+	TestBase.getDriverInstance().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+}*/
 
 }
-
-
 
 
 
